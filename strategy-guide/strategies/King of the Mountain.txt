@@ -1,0 +1,43 @@
+Here is the cleaned up text for the strategy guide:
+
+King of the Mountain
+
+Quest giver: Alphinaud
+Location: Garlemald (X:32, Y:16.6)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 5,184
+Previous quest: An Unforeseen Bargain
+Next quest: A Dragon's Resolve
+Patch: 6.3
+
+Main Scenario Progress: 830 / 853 (97.3%)
+Endwalker Progress: 132 / 155 (85.2%)
+
+Rewards:
+Unlocks Lapis Manalis
+
+Steps:
+1. Wait at the designated location.
+2. Speak with the spirited engineer.
+3. Enter Lapis Manalis.
+4. Speak with Y'shtola at Deepspine.
+
+Journal:
+Relief is writ plain on Alphinaud's face.
+
+With the voidsent driven off, and Zero resting, Alphinaud suggests waiting for your comrades to return from the lake.
+
+The immediate threat of voidsent is gone for now, but having fought them in such numbers, you are all but certain a voidgate is indeed somewhere on the nearby mountain. Happily, the repairs on the snowcraft are nearing completion, and it is decided that you will head back to its location in Cerulea Ingens. Alisaie is only too eager to depart, and much to her surprise, Zero offers to accompany you without the need for a bargain, seemingly having been inspired by Alisaie's earnest desire to help others. Alphinaud joins you as well, and so together you set forth, with Y'shtola and Estinien leading the way.
+
+You arrive at Cerulea Ingens to find a fully functioning snowcraft. To ensure you safely reach your destination on the mountain, the engineer offers to serve as your pilot. Thus do you climb aboard and steel yourself for what dangers may await at Lapis Manalis.
+
+※To enlist your companion NPCs for this duty, speak with them near the entrance or access Duty Support via the main menu. Use the Duty Finder if you wish to complete the instance alongside fellow players.
+
+In the depths of Lapis Manalis, you and your companions finally locate the voidgate. There you come face-to-face with the archfiend of water, Cagnazzo, and make ready for what promises to be a torrential encounter.
+
+※In the event that you leave Lapis Manalis, you may re-enter by speaking with the spirited engineer.
+
+The archfiend suffers a crushing defeat at your hands, and yet he seems strangely satisfied with the outcome. Delight is writ plain on Cagnazzo's face as he reveals what you believed to be Varshahn's sister was, in fact, only her eye. With his dying breath, Cagnazzo bids you seek out Golbez to learn what has truly become of Azdaja. He then dissipates into aether, leaving a crestfallen Varshahn holding the eye of his beloved sister.
+
+Though Golbez's ultimate aim remains unclear, knowing he likely requires immense stores of aether to see his plans through, you have cause to believe Azdaja yet lives. Even so, Y'shtola cannot help but wonder why he would choose now to finally put his plans into motion.

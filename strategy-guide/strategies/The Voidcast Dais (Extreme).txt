@@ -1,0 +1,59 @@
+Here is the cleaned up text for the strategy guide on The Voidcast Dais (Extreme) trial in Final Fantasy 14:
+
+The Voidcast Dais (Extreme) is a level 90 trial introduced in patch 6.4 with Endwalker.
+
+Guide:
+
+Assign light parties and Support / DPS pairs
+
+Terrastorm - Slow falling Meteors on 2 diagonals with an AOE that touches in the middle. Move to a safe corner.
+
+Lingering Spark - Drops a puddle on every player. Once the meteor AOE resolves, bait the cast by waiting until Lingering Spark's castbar completes, then run away. 
+
+Phases of the Blade - Golbez cleaves the room in halves. First front, then behind. 
+
+Binding Cold - Raidwide. Inflicts Frostbite for 8 seconds.
+
+Gale Sphere - line aoes from front/back, then left/right order + Arctic Assault (shadowspread from Hades) on second hit
+
+Void Meteor - Tank buster on both tanks, hits 5 times. 
+
+Azdaja's Shadow - Phase change, although this transition is much faster than in normal mode as it not voiced and does not have an unskippable cutscene.
+
+Black Fang - ultimate AoE
+
+Azdaja's Shadow
+- 3 hit tank line AoE busters + swap
+- Phases of the Blade
+- circling dragon with purple rings: donut + spread
+- circling dragon with small ring & orbs: PB AoE + stacks
+
+Double Meteor - MT flex for double ranged flares, H flex for double melee flares
+- 2 people with flares: KB to open inters
+- healer with KB: mid, baited line AoE
+- towers at intercardinals: other people (3 stack in N, 2 stack in S)
+
+Void Stardust
+- trailing AoEs (exaflares): start on E/W side and move into the first exaflare that goes off (side to corner)
+
+Enumeration (melee in, ranged at corners)
+
+Eventide Fall - light parties OR Eventide Triad - role-based cleaves
+
+Terrastorm
+- with Arctic Assault (find safe quadrant) and healer stacks (melee in, ranged corner)
+
+Lingering Spark - Puddles. Bait, then move. 
+
+Pre-Enrage - Double stack of Binding Cold Frostbite then Void Meteor (5-hit double tankbuster)
+
+Enrage - Golbez will cast Azdaja's Shadow in preperation and then slowly begin casting Black Fang. The boss must be defeated before this finishes or the party will wipe.
+
+Loot:
+- Each player will receive 2 Voidcast Archfiend Totems per kill. Collect 10 tokens to exchange for a weapon or 99 for a Lynx of Fallen Shadow Flute.
+- 25 Allagan Tomestone of Causality
+- 15 Allagan Tomestone of Comedy
+- Golbez Card (Drops at a fixed rate.)
+
+Achievements:
+- Shadow's Fall (10 points) - Defeat Golbez on the Voidcast Dais (Extreme).

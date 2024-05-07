@@ -1,0 +1,30 @@
+Wise Guides
+
+Quest giver: Urianger
+Location: Labyrinthos (X:21.1, Y:19.9)
+Quest line: Endwalker Main Scenario Quests
+Level: 88
+Experience: 501,600
+Gil: 1,074
+Previous quest: No Job Too Small
+Next quest: Agriculture Shock
+Patch: 6.0
+
+Main Scenario Progress: 785 / 853 (92%)
+Endwalker Progress: 87 / 155 (56.1%)
+
+"Try as he might, Urianger cannot free himself of the Loporrits." — In-game description
+
+Rewards:
+1 Chondrite Leg Gear Coffer (IL 545)
+
+Steps:
+1. Speak with Singingway.
+2. Head to the designated location and survey the wotsit.
+3. Survey the designated location and defeat any enemies that appear.
+4. Speak with Growingway.
+5. Speak with Urianger.
+6. Speak with Singingway.
+
+Journal:
+Try as he might, Urianger cannot free himself of the Loporrits.

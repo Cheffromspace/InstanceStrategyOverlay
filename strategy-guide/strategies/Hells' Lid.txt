@@ -1,0 +1,41 @@
+Here is the cleaned up text for the Hells' Lid dungeon guide:
+
+Hells' Lid is a level 70 dungeon introduced in patch 4.2 with Stormblood. 
+
+Objectives:
+Arrive at Demonsgate.
+Clear Demonsgate. 
+Arrive in the Furnace.
+Clear the Furnace.
+Arrive on the Polished Shell.
+Defeat Genbu.
+
+Bosses:
+
+Otake-maru
+Abilities:
+100-tonze Swing: Large point blank AoE around Otake. 
+10-tonze Slash: Large cone shaped AoE, directed away from the tank.
+Grrraaarrrgh: Otake will jump to a player (other than tank) and will follow that player. Kite him around the area because he starts drooling lava. Likewise he will drop his mace & shield. After some time he will jump to shield and mace and will, upon landing, do a short range point blank AoE.
+
+Kamaitachi 
+Abilities:
+Whipping Wittret: No castbar. Tankbuster.
+The wind begins to howl!: No castbar. Watch for the message on screen. Also, he will do a 360° just before it. The boss will do a large point blank AoE, save zone is close to him or far, far away. 
+The Patient Blade: 180 degree AoE.
+The wind shifts!: Watch for the message. Large line AoE front/behind the boss.
+Whispers in the Wind: Summons 4 Tsumuji-kaze adds. Places moving whirlwinds around the area. Places clouds around the area. The clouds explode and knockback on touch. From time to time fiery lines will appear between the whirlwinds. The boss will charge along those lines with a much larger hitbox than the lines themselves. Getting hit will do moderate damage and apply 1 stack of Vulnerability Up. At the end of this phase, a proximity AoE (Reaper's Gale) will be dropped at one edge of the area. First thing the boss will do after is The Patient Blade.
+
+Adds:
+Tsumuji-kaze: Uses Tornado. Damage is rather low. Adds seem to be melee in general.
+
+Genbu
+Abilities:
+Caduceus: No castbar. Tankbuster. Telegraphed by Genbu saying "Water to rend flesh from bone!".
+Hell of Water: Cross-like AoE, centered on Genbu. 
+Hell of Waste: Marker on player, AoE around player, drops water bomb on player. Stay away from group. Moderate damage.
+Sinister Tide: Genbu jumps in the air, upon landing greenish light. Arrows appear on the hexagonal platforms, along with a blue orb. The orb will explode and send water following the arrows. Stand on a platform that is not in the water's path. Getting hit will result in moderate damage and 1 stack of Vulnerability Up.
+Hell of Waves: Genbu becomes invincible and begins charging his Genbu's Focus meter. Destroy the Chelonian Gate around him before the meter fills completely. During this time platforms will start to glow and damage anyone standing on them, so move off of them quickly.
+Divine Cataract: Ultimate, after Genbu's Focus meter fills or Chelonian Gate is destroyed. The amount of damage done depends on how full the meter was.
+
+Loot drops from each boss and additional treasure coffers are detailed in the guide. The dungeon is associated with achievements for discovering every location within it.

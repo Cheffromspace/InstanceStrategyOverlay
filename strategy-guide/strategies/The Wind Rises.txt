@@ -1,0 +1,44 @@
+Here is the cleaned up text for the strategy guide:
+
+Zero has a word of warning before you go to face Barbariccia. 
+
+Rewards:
+- Unlocks Storm's Crown
+
+Steps:
+1. Travel to Barbariccia's domain.
+2. Confront Barbariccia in Storm's Crown. 
+3. Speak with Y'shtola.
+
+Journal:
+Zero has a word of warning before you go to face Barbariccia.
+
+Despite Barbariccia's vague promise of answers regarding Azdaja, on Zero's advice you resolve to seal the archfiend away at the earliest opportunity. With luck, her memoria will yield the knowledge you seek. The strategy thus decided, you go to mount the nisroch on your way to what promises to be a turbulent struggle with the archfiend.
+
+As you approach Barbariccia's domain, you meet with heavy resistance from her minions. While your comrades tend to them, you press on to confront the waiting archfiend. 
+
+The time has come to lay low Barbariccia, in the hopes that her memories will lead you to Varshahn's sister. But what tricks the archfiend has in store for you remain to be seen...
+
+※Storm's Crown can be accessed via the Duty Finder.
+
+Barbariccia brings her considerable might to bear against you, but you weather the storm and subdue the archfiend. Before she regains her strength, you must move quickly and see her imprisoned.
+
+Seizing her moment, Zero descends from on high to seal Barbariccia in memoria. To your disappointment, the resulting crystal does not grant you a vision, but you take heart from your victory over one of Golbez's champions. Having fulfilled her part of the bargain, Zero demands the aether she is owed...only to collapse from exhaustion before she can receive it. Eager though Varshahn is to continue your mission, he bids you suspend it in favor of tending to your ailing companion, and you begin by carrying her back to her domain.
+
+Though Zero remains unconscious, she is otherwise in no danger─save from other voidsent, perhaps. Thus do you decide to observe her as you consider your next course of action.
+
+Dialogue:
+
+Zero: A word of warning. Barbariccia spoke as if she would give us answers if we were to defeat her. But even assuming she'll talk─which I doubt─I trust I needn't tell you how foolish it is to give an archfiend a second chance. Best to seal her away at the earliest opportunity. If you wish to peer into her past, the memoria will suffice.
+
+What will you say? 
+> I can't wield the power at will.
+> I'll try, but I make no guarantees.
+
+Zero: Well then, you had better hope it favors you when the time comes.
+
+Y'shtola: Rest assured this won't be our last opportunity to learn about Azdaja. If another archfiend were to fall, Golbez would surely be compelled to respond. We need only wait for our quarry to come to us.
+
+Varshahn: Indeed. If our struggles with Scarmiglione taught us aught, 'tis that we must hold nothing back when facing an archfiend. Let us heed Zero's advice and seal her away at the earliest opportunity.
+
+Zero: If we're all in agreement, then let us be off. We travel by nisroch.

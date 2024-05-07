@@ -1,0 +1,61 @@
+Here is the cleaned up text for the "Friends for the Road" quest guide:
+
+Friends for the Road
+
+Quest giver: Estinien 
+Location: Thavnair (X:16.4, Y:32.9)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Previous quest: Bountiful Ruins
+Next quest: Alzadaal's Legacy
+Patch: 6.1
+
+Rewards
+Choose one of the following options:
+3 Giant Popoto Pancakes
+3 Baked Alien Soup  
+3 Sykon Salad
+2 Allagan Silver Piece
+
+Steps
+1. Speak with Ojika Tsunjika at the Baldesion Annex.
+2. Speak with Y'shtola.
+3. Speak with Urianger at Thaumazein.
+4. Speak with Estinien in Akyaali.
+
+Journal
+Estinien is ready to escort Mehrahd to safety.
+
+Dialogue
+Mehrahd: Estinien is... I think he is not as gruff as he makes out to be.
+
+Estinien: I shall leave you to recruit G'raha. He'll appreciate the invitation that much more, I'm sure.
+Estinien: As I recall, he was based at the annex. Someone there ought to be able to point you in the right direction. 
+Estinien: Let us be off too, Mehrahd. Do me a favor and don't stray from the path.
+
+Ojika Tsunjika: Oh, look who it is! Welcome back, [Forename]!  
+Ojika Tsunjika: What might the Students do for you?
+Ojika Tsunjika: G'raha? Yes, he's in the main hall with Mistress Krile.
+Ojika Tsunjika: They've been holed up in there for days. By all means, go and give them an excuse to take a break!
+
+G'raha Tia: Well, she wasn't hard to find, at least...
+G'raha Tia: I've visited Labyrinthos on several occasions recently, but I've not set foot in Thaumazein since the day we boarded the Ragnarok...
+
+Y'shtola: I don't see Thancred anywhere. Was he not supposed to be traveling with Urianger?
+
+G'raha Tia: Ah, the thrill of imminent adventure! I never tire of this feeling.
+
+Y'shtola: Just imagine the possibilities...
+
+Urianger: In my travels, I spied many a child wandering alone─orphans, in all likelihood. Though homes razed by beasts and blasphemies can be rebuilt, the void left by those we have lost cannot so easily be filled...
+
+Matsya: I will pray to Sanduruva for your safe return. May the wealth of Her blessings guide you to the treasure you seek...
+
+Estinien: I send you to recruit G'raha and you return with an entire survey party.  
+Estinien: I hope Matsya's boat is sturdy enough to carry us all...
+
+Y'shtola: What he means is, we are grateful for the use of one of your precious fishing vessels.
+
+Matsya: We are more than glad for the chance to provide it. I ask only that you take care to steer clear of the reefs in the shallows there.
+
+Estinien: Aye, we will keep an eye out.

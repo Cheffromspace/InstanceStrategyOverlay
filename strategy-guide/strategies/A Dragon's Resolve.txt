@@ -1,0 +1,84 @@
+Here is the cleaned up text for the "A Dragon's Resolve" quest guide:
+
+A Dragon's Resolve
+
+Quest giver: Varshahn 
+Location: Lapis Manalis
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 1,346
+Previous quest: King of the Mountain
+Next quest: Paths Barred
+Patch: 6.3
+
+Steps:
+1. Speak with Alphinaud.
+2. Search for a leakproof container. 
+3. Fill the leakproof container with ceruleum at the ceruleum spring.
+4. Deliver the ceruleum-filled tank to the designated location.
+5. Wait at the designated location.
+6. Speak with Alphinaud.
+
+Journal: 
+Varshahn stares at the floor despondently.
+
+Dialogue:
+Y'shtola: If Cagnazzo's intent was for his parting words to give us pause, then he has succeeded. To embrace death, to find satisfaction in oblivion... Perhaps it is indeed true that many voidsent yearn to return to the Lifestream.
+
+Zero: Why does he look so defeated? We are closer to finding his sister, are we not?
+
+Estinien: The eye explains how they managed to cross over, but we still don't know why they chose this time and this place for an incursion.
+
+Varshahn: Oh, Azdaja... What has become of you, that even your eye should be so spent of aether... I cannot bear the thought of her being held captive a moment longer, but how will I find her? What must I do?
+
+Estinien: Calm yourself, Vrtra. I appreciate that you are upset, but such passion clouds your judgment. You must endeavor to remain composed. When your mind is clear, we may consider how to proceed with our search.
+
+Varshahn: <sigh> You are right...
+
+Estinien: In the meantime, I will help Alphinaud and Alisaie back at the village.
+
+Y'shtola: That sounds like a fine idea. We should go as well.
+
+Alisaie: Oh, you've come too. 
+
+Estinien: Leave Vrtra be. He needs time alone with his thoughts.
+
+Y'shtola: Let us take comfort in the knowledge that the voidgate is closed, and that the people of Garlemald need fear the voidsent hordes no longer.
+
+Zero: We're to help Alphinaud and Alisaie, are we? There's little else of interest here, so I wouldn't be opposed to the diversion.
+
+Alphinaud: I don't see Vrtra with you. Is everything all right?
+
+Estinien: He needs a moment to himself. While he is indisposed, we thought we'd lend you a hand.
+
+Alisaie: I've just finished patrolling the area, so we're fine on that front. There are no signs of voidsent, and I doubt we'll see any more now that the gate has been closed. As for Alphinaud, he's set his sights on the ceruleum spring. We're hoping to take as much of the stuff as the snowcraft can bear. That much fuel would keep the people warm for a good while.
+
+Alphinaud: We've managed to procure a few suitable containers for transporting the ceruleum, and were about to return to the spring. 
+
+Estinien: If you've a mind to scrounge up more containers, I can take what you have now and get them filled.
+
+Alphinaud: Thank you, Estinien. The more we can load into the snowcraft, the better.
+
+Alisaie: Would you and Y'shtola mind helping us with our search, then? You'll need to take any suitable containers to the spring, and then back to the snowcraft once you've filled them with ceruleum.
+
+Zero: We just need to carry this liquid fire to the snowcraft? Sounds simple enough.
+
+Zero: If that one has been filled, you should hurry and take it to the snowcraft. Estinien has already seen to the rest. Go on ahead. The others asked that I remain here in the event they find more.
+
+Estinien: Good work, my friend. I expect we'll have a sizable load to deliver.
+
+Alisaie: It was good seeing you again. I hope you'll remember to call on us sooner the next time you need help.
+
+Estinien: Vrtra has quelled the tempest within his heart. He should be fine.
+
+Y'shtola: That Azdaja's eye hasn't succumbed to Darkness bespeaks her incredible resilience. So let us trust in this sign that she yet lives, and be not deterred in our efforts.
+
+Zero: I'm not your keeper, nor do I know what you expect of me. But I will keep my word.
+
+Varshahn: I must apologize for my bout of melancholy. To be so easily shaken ill becomes a great wyrm. You have remained at my side and ever offered me support and encouragement. I haven't the words to thank you.
+
+Alphinaud: I suppose this is where we part ways for now. Though we have every faith in you, we will pray for your safety all the same.
+
+Alisaie: I'm glad we had the chance to talk, Zero. Take care, and till next time!
+
+Zero: Till next time.

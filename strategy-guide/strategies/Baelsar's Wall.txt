@@ -1,0 +1,42 @@
+Here is the cleaned up version of the Baelsar's Wall dungeon guide:
+
+Baelsar's Wall is a level 60 dungeon introduced in patch 3.5 with Heavensward. 
+
+Objectives:
+- Obtain imperial identification keys
+- Clear all barricades
+- Defeat the magitek predator
+- Slay all the imperial defenders  
+- Defeat the armored weapon
+- Clear the parapet
+- Defeat the Griffin
+
+Bosses:
+
+Magitek Predator
+- Magitek Claw: Targeted attack on Tank
+- Magitek Ray: Linear high-damage attack
+- Magitek Missile: Targeted high-damage explosion on marked players
+Move away from others when marked with Magitek Missile. Prioritize killing the adds when they spawn.
+
+Armored Weapon  
+- Launcher: Group-wide AoE
+- Dynamic Sensory Jammer: Damages the player for any actions they take while the debuff is active, including movement
+- Magitek Bit: Summoned Bits around room create a checkerboard AoE before disappearing
+- Distress Beacon: Summons many low-HP adds. Tank damage is significant due to quantity of adds
+Take no actions or movement during Dynamic Sensory Jammer. Be ready with heals and AoE damage during Distress Beacon adds.
+
+The Griffin
+- Beak of the Griffin: Room-wide AoE attack
+- Flash Powder: Players should turn away from the boss; otherwise, this attack will stun the player and reduce accuracy
+- Sanguine Blade: Leaps to one side of the room and cleaves the room in front of him for high damage
+- Lionshead: Multiple swords rain down around the arena, damaging nearby players. After finishing the cast, the boss does a room-wide AoE, and the swords become targetable. Those will channel Corruption. Unkilled swords eventually explode, but these explosions can be avoided. Players should focus on the massive sword in the middle, which does a high-damage room-wide explosion if it is not destroyed.
+- Big Foot: Marks a player and pushes them back after the cast
+- Restraint Collar: Places the party's healer in restraints, preventing all action. Kill restraints to release the healer.
+- Claw of the Griffin: High-damage attack on tank
+When The Griffin casts Lionshead, kill the sword in the middle and stand in the now-vacant space. Be ready to chase boss to avoid the cleave from Sanguine Blade. Turn around during Flash Powder, and be ready to break party members out of restraints.
+
+Loot is obtained from the bosses and additional treasure coffers found throughout the dungeon. The dungeon is associated with the achievement "Mapping the Realm: Baelsar's Wall" for discovering every location within.
+
+Lore:
+Baelsar's Wall is an imposing structure dividing the Black Shroud and Gyr Abania. It was built at the orders of Gaius van Baelsar to contain lands corrupted by primal influence. The Griffin and his Masks launched an assault on the wall disguised as Grand Company soldiers, leading to a confrontation with the Scions atop the wall. There, the Griffin used the eyes of Nidhogg to summon the primal Shinryu before leaping to his death.

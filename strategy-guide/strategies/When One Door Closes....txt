@@ -1,0 +1,21 @@
+Here is the cleaned up text for the quest "When One Door Closes..." in Final Fantasy 14:
+
+Varshahn has a message from Sharlayan. 
+
+Steps:
+1. Talk to Varshahn at Meghaduta.
+2. Travel to Old Sharlayan.
+3. Speak with Ojika Tsunjika at The Baldesion Annex.
+4. Speak with Krile outside of The Studium.
+
+Journal:
+Varshahn has a message from Sharlayan.
+
+While enjoying your sojourn in Radz-at-Han, you learn from Varshahn that the Students of Baldesion have requested your presence in Sharlayan. Thus do you set forth for the Baldesion Annex, where Ojika Tsunjika awaits.
+
+You meet with Krile and G'raha Tia, who inform you that they had sent for you on Erenville's behalf. The gleaner has returned from his expedition abroad rather earlier than expected, and the change in his plans is likely related to a visitor he wishes for you to meet. While awaiting your arrival, Erenville has gone to the Studium, and you decide to seek him out there.
+
+After a brief search, you manage to find Erenville and the visitor, who introduces herself as Wuk Lamat, claimant to the throne of Tuliyollal in the far-western continent of Tural. The gregarious woman wastes no time revealing her business: she wants you to accompany her to her homeland and help her triumph in the impending ritual of succession, a contest to determine the next ruler. As it is a rather abrupt request to make of someone she has only just met, she proposes going on a hunt together, the better to get acquainted.
+
+Dialogue:
+(Relevant dialogue between the player character and various NPCs, with conditional dialogue noted)

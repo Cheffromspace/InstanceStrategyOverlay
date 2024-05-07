@@ -1,0 +1,48 @@
+Here is the cleaned up strategy guide text for The Minstrel's Ballad: Endsinger's Aria:
+
+The Minstrel's Ballad: Endsinger's Aria is a level 90 trial introduced in patch 6.1 with Endwalker. 
+
+Guide
+
+The Endsinger
+
+Setup
+
+- Assign a light party with each healer. This is useful for a mechanic which targets each healer with a stack marker. Each healer should also have a mark such as <1> or <2> overhead.
+- Assign tanks and healers to one side of the arena (either left or right) in a column and DPS to the other side of the arena also in a column, for a mechanic similar to E3S Leviathan puddle soaks. It is recommended to let melee have the 2-3 front spaces for uptime. 
+- Optional - Assign corner clock spots. One tank/healer and one DPS per corner, with the understanding that either the tank/healer or the DPS will rotate if necessary. However, this part of initial prep can be skipped since the corresponding mechanic can be done on the fly.
+
+Arena Marker Setup
+
+Place four markers on the intercardinal corners. It is very important to place these markers as close to the meteor impact points as possible, since players have a tendency to use the markers as the knockback meteor's point of origin.
+
+Place one marker in the exact center of the arena. A blue marker is recommended, since this color contrasts most strongly with the boss' hitbox. (Note that the boss' hitbox extends somewhat beyond the center of the arena towards the rear, which can be dangerous during Despair Unforgotten.)
+
+Mechanics
+
+Elegeia Unforgotten - Unavoidable moderate raidwide AoE damage, followed by two planets spawning on two opposite intercardinal points, similar to normal trial difficulty. They will impact on one of the non-spawn intercardinal points. Red planets explode in an AoE for lethal damage. Blue ringed planets inflict a knockback for 3/4th's of the arena's diameter. Simultaneously, an Endsinger head spawns in the center of the arena facing one of the intercardinal corners. This head hits the half of the arena that it faces with an AoE which inflicts Vuln Up, but is nonlethal at full health. This AoE resolves a second or two after the proximity AoE or the knockback from the planets.
+
+Grip of Despair - Each tank or healer is tethered to a DPS. Tethers appear once the cast finishes and need to be broken, otherwise they will start to deal damage and stack Vuln Ups. Incapacitated players do not tether.
+
+Katasterismoi - Eight soak towers appear in two parallel columns. Each tower which is unsoaked deals raidwide AoE damage and inflicts a Vuln Up. 
+
+Elenchos - The Endsinger hovers closer to the platform and uses one of two random attacks: a column AoE which hits the central third of the platform, or two column AoEs covering the outer thirds of the platform. The central AoE is telegraphed by an open glowing mouth. The side AoEs are telegraphed by tears running down her cheeks. Deals moderate damage and inflicts Vuln Up.
+
+Telos - Unavoidable raidwide AoE damage.
+
+Telomania - A salvo of 4 back-to-back raidwide AoE damage hits, followed by a final AoE raidwide which inflicts a light to moderate bleed. Can be single-healed through with proper mitigation and cooldown usage.
+
+Hubris - AoE tankbusters on the top two enmity players. Deals heavy damage even at maximum current ilvl.
+
+Eironeia - Two stack AoEs appear, one on each healer. Have light parties soak. Taking both hits is death.
+
+Fatalism - The Endsinger rewinds two pairs of exploding planets on opposite intercardinal corners. Both pairs will always be of the same type. The pair which rewinds faster will resolve first. To resolve this mechanic, start at the center of the arena, then move away from red planets and move towards blue ringed planets. The Endsinger head does not spawn during this mechanic.
+
+Theological Fatalism - Used only after multiple mechanics involving either the Endsinger heads or the players. The Endsinger places 1 to 3 rings on Endsinger heads or the players. Each ring "rewinds" one mechanic back (e.g., if you have three rings, you will repeat the first mechanic that was inflicted upon you). 
+
+Twinsong's Aporrhoia (a.k.a. 5head) - The Endsinger spawns five Endsinger heads, four on each intercardinal quadrant and one in the middle. The middle head uses a half-arena AoE cleave in the direction that it faces. The quadrant heads will use either donut or circle AoEs. Quadrant heads on opposite quadrants use the same attack, i.e., if a donut is on NE it will also be on SW. This means that only a single quadrant is safe at any time. The heads attack thrice, once for each cast of Aporrhoia Unforgotten. Quadrant heads will alternate between circular and donut with each salvo. The middle head rotates 90 degrees clockwise with each attack. Therefore, the safe quadrant moves clockwise as well. Theological Fatalism is cast on the heads after the mechanic resolves.
+
+Endsong's Aporrhoia (a.k.a. 6head) - Six Endsinger heads spawn in a hexagonal arrangement. The Endsinger will then cast Endsong, launching four slow-moving rings at four random heads. When the ring reaches a head, the corresponding Endsinger head emits a circular AoE which inflicts heavy damage and Vuln Up. AoE telegraphs appear 3 seconds prior to resolution but generally requires players to anticipate where the rings will go. The space behind a head not targeted by a ring is safe. This mechanic repeats twice, with rings moving from one head to another after the initial wave.
+
+Despair Unforgotten - The Endsinger attacks the entire raid with one of three random sets of mechanics:
+1. All tanks/healers get a proximity Flare marker, three DPS get a donut marker, and one

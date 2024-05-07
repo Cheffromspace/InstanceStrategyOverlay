@@ -1,0 +1,64 @@
+The Stigma Dreamscape
+
+Level: 90 (Sync: 90)
+Item Level: 540 (Sync: 600)
+Difficulty: Normal
+Party size: Light Party (4 man - 1 tank, 1 healer, 2 DPS)
+Unsyncing: Not Allowed
+Time limit: 90 minutes
+Duty Finder: Dungeons (Endwalker)
+Roulette: Level 90 Dungeons
+Tomestones: 50 Tomestones of Aphorism, 20 Tomestones of Astronomy
+Required quest: Where No Loporrit Has Gone Before
+Entrance: Ultima Thule (X:34.8, Y:28.8)
+Modes: Explorer
+Patch: 6.0
+
+For the first time since the fall of its civilization, the warmongering Stigma-4 is awake, its unbeating heart set on conquering a distant star─yours. Omicron N-7000 believes that the most effective means of deterrence is to convince its subconscious circuits of how poorly it would fare against Hydaelyn's champion, and has opened a path to allow you to implant a pseudo-memory of just such a contest. Thus does it fall to you to answer the question─of what do matrices dream?
+
+Objectives:
+- Arrive at A-4 Command: 0/1
+- Clear A-4 Command: 0/1 
+- Arrive at A-4 Conquest: 0/1
+- Clear A-4 Conquest: 0/1
+- Arrive at A-4 Headquarters: 0/1
+- Defeat Stigma-4: 0/1
+
+Bosses:
+- Proto-Omega
+- Arch-Lambda 
+- Siege Matrix: Stigma-4
+
+Note that failing any mechanics in these fights will result in the player who failed them receiving a two minute stacking Vulnerability Up debuff.
+
+Proto-Omega:
+- Side Cannons: Move to opposite side of boss to avoid cleave
+- Rear/Forward Interceptors: Boss bombards arena in indicated direction 
+- Chemical Missile: Spread out to avoid overlapping point-blank AoEs
+- Electric Slide: Stack for radial knockback, boss leaps on marked player
+- Guided Missile: Tethered missiles slowly move towards players
+- Mustard Bomb: Heavy-hitting tankbuster, mitigate damage
+
+Arch-Lambda:
+- Wheel: Tankbuster
+- Atomic Flame: Roomwide AoE
+- Auto-mobile Assault Cannon: Boss dashes 4 times, avoid being hit
+- Wave Cannon: Move behind boss to avoid frontal cleave 
+- Auto-mobile Sniper Cannon: Stand by corresponding orbs to avoid lasers
+
+Siege Matrix: Stigma-4:
+- AI Takeover: Defeat adds before Self-Destruct cast finishes
+- Proto-Rocket Punch: Find gap between rushing adds for safe spot
+- Mindhack: Face correct direction based on boss shape to avoid damage
+- Atomic Ray: Moderate damage roomwide AoE, inflicts Bleeding
+- Multi-AI Takeover: Spawns two of the three AI Takeover adds
+
+Loot:
+- Accessories (earrings, necklaces, bracelets, rings) item level 560
+- Materia IX (Savage Aim/Might, Heavens' Eye, Quickarm/tongue, Battledance, Piety)
+- Minion: Optimus Omicron
+
+4 treasure coffers located throughout the dungeon containing accessories and materia.
+
+Achievements:
+- Mapping the Realm: The Stigma Dreamscape (discover every location)

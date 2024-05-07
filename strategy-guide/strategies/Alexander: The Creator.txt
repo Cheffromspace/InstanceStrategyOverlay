@@ -1,0 +1,49 @@
+Here is the cleaned up text for the Alexander: The Creator strategy guide:
+
+General Information
+Alexander: The Creator is the third and final section of Alexander, the main 8-player raid in Heavensward. Released on September 27, 2016, The Creator requires players with item level of 230 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock
+Players must first complete all of the Alexander Quests up through A Gob in the Machine. This includes clearing all of the Alexander: Gordias and Alexander: Midas raids.
+Players can then begin the level 60 quest The Coeurl and the Colossus by talking to Mide in The Dravanian Hinterlands (x21.7,y18.8).
+To unlock each floor after the first, continue the quest line and complete the previous floor. Each floor is listed separately.
+
+Floors
+Level Requirement: Disciple of War or Magic level 60
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Alexander - The Eyes of the Creator | A9N | 230 | Faust Z, Refurbisher 0 | 20 | 90 min  
+Alexander - The Breath of the Creator | A10N | 230 | Lamebrix Strikebocks | 20 | 90 min
+Alexander - The Heart of the Creator | A11N | 230 | Cruise Chaser | 20 | 90 min
+Alexander - The Soul of the Creator | A12N | 230 | Alexander Prime | 20 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards / Exchange
+Treasure coffers that appear upon completing Alexander: The Creator will not yield gear, but instead will yield items that can be traded for gear of your choosing. 
+As of patch 3.5, weekly restrictions on rewards have been removed.
+Also note that there is no weekly restriction on entering Alexander: The Creator.
+
+Rewards:
+The Eyes of the Creator (A9): 2x Tarnished Alexandrian Lens (Head), Tarnished Alexandrian Shaft (Body), Tarnished Alexandrian Crank (Hands), Tarnished Alexandrian Spring (Legs), Tarnished Alexandrian Pedal (Feet), 2x Tarnished Alexandrian Bolt (Accessories)
+
+The Breath of the Creator (A10): Tarnished Alexandrian Lens (Head), Tarnished Alexandrian Shaft (Body), Tarnished Alexandrian Crank (Hands), Tarnished Alexandrian Spring (Legs), 2x Tarnished Alexandrian Pedal (Feet), 2x Tarnished Alexandrian Bolt (Accessories)  
+
+The Heart of the Creator (A11): Tarnished Alexandrian Lens (Head), 2x Tarnished Alexandrian Shaft (Body), Tarnished Alexandrian Crank (Hands), 2x Tarnished Alexandrian Spring (Legs), 2x Tarnished Alexandrian Bolt (Accessories)
+
+The Soul of the Creator (A12): 2x Tarnished Alexandrian Shaft (Body), Tarnished Alexandrian Crank (Hands), 2x Tarnished Alexandrian Spring (Legs), Tarnished Alexandrian Pedal (Feet), 2x Tarnished Alexandrian Bolt (Accessories), Alexander Exoplating, Alexandrian Gear
+
+Exchange:
+By speaking with Sabina in Idyllshire (X:5.7 Y:5.3), players can exchange tokens obtained from Alexander: The Creator for corresponding gear.
+
+Gear Slot | Required Token | # of Token
+Head | Tarnished Alexandrian Lens | 2
+Body | Tarnished Alexandrian Shaft | 4  
+Hands | Tarnished Alexandrian Crank | 2
+Legs | Tarnished Alexandrian Spring | 4
+Feet | Tarnished Alexandrian Pedal | 2
+Accessories | Tarnished Alexandrian Bolt | 1
+
+Lore
+Roundrox remains in dire straits, and soon the Illuminati will have all they need to rewrite history in their twisted image. As the black ink of fate is pressed to parchment, it is up to the Warrior of Light to wrestle the pen from the clutches of evil. Thus does our brave hero journey once more unto the breach, to discover what secrets lie at the heart of Alexander, and prove the would-be goblin prophet false.

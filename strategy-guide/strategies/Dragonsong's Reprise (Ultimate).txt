@@ -1,0 +1,66 @@
+Here is the cleaned up strategy guide for Dragonsong's Reprise (Ultimate):
+
+Dragonsong's Reprise (Ultimate) is a level 90 ultimate raid introduced in patch 6.11 with Endwalker. The raid is also known as DSR or DSU and is based on Main Scenario Quest dungeon and trial bosses from Heavensward.
+
+Guide
+
+Phase 1: Sers Adelphel, Grinnaux, and Charibert
+
+Strategy
+Pull both bosses into the center and keep their HP roughly equal. Mitigate Holiest of Holy and stack in Grinnaux's hitbox for Empty Dimension. Off-tank picks up Holy Shield Bash tether and turns away. Mitigate and heal through Heavensblaze.
+
+For Hyperdimensional Slash, marked players go north and spread, unmarked stack behind boss. Avoid tethering to portals. 
+
+Mitigate Holiest of Holy from Adelphel. Use knockback immunity for Faith Unmoving and avoid Adelphel's dashes and orbs. Tank with enmity moves away for Execution tankbuster.
+
+Pull bosses to center. Interrupt Holiest Hallowing. For second Faith Unmoving, break chains by role pairs moving opposite each other. Spread for Heavensflame. 
+
+Mitigate Holiest of Holy, adjust to Empty/Full Dimension. Interrupt Holiest Hallowing. Burn bosses equally before enrage.
+
+In Planar Prison, bait Brightwing in rotation away from party. Burn Charibert's HP before Pure of Heart. Heal through Haurchefant's Shockwave. Transition after one player survives Pure of Heart.
+
+Phase 2: King Thordan and His Knights Twelve 
+
+Strategy
+Pull Thordan to center. Bait and dodge Ascalon's Mercy Concealed. Main tank invulns or mitigates Ascalon's Might tankbuster.  
+
+For Strength of the Ward, avoid Spiral Thrust charge and Lightning Storm. Mitigate Heavy Impact. Stack for Dark Spineshatter Dive, adjust in/out for Gnash/Lash. Tethered players go opposite of their knight, blue marker west, rest east to avoid Spiral Pierce and resolve chains. Green marker baits dive near Charibert. Spread for Ascalon's Mercy, dodge Altar Pyre and Liquid Heaven clockwise. Mitigate Ancient Quaga.
+
+Tankswap Heavenly Heel and Ascalon's Might. For Death of the Heavens, Doomed north, non-Doomed south, spread at intercards. Dodge Twisting Dive, Lightning Storm, and Heavy Impact. Doomed players line up with Wings puddles to cleanse. Mitigate Heavensflame and avoid gazes. Destroy Meteor Circles. Mitigate Ancient Quaga.
+
+Tankswap auto-attack and Heavenly Heel/Ascalon's Might. Push Thordan to 2% before Aetheric Burst enrage. Stop attacking when Thordan falls to one knee.
+
+Phase 3: Nidhogg  
+
+Strategy
+Mitigate Final Chorus. Tank holds boss north. For Dive from Grace, "1" players go to jump locations, "2" and "3" stack for Spineshatter Dive. Dodge Lash and Gnash. "3" players adjust to soak "1" towers and bait Geirskogul. "2" players go to jump spots, "1" and "3" dodge Gnash/Lash. "2" players get towers, "3" bait Geirskogul. Pass Mortal Vow. 
+
+Dodge Drachenlance. Tanks gather tethers for Soul Tether tankbuster, mitigate heavily. Dodge Drachenlance. Beat enrage with LB if needed.
+
+Phase 4: The Eyes of Nidhogg
+
+Strategy
+Group for Soul buffs. Avoid dying. Split to eyes, tanks hold enmity. Break Hatebound chains - reds take non-lethal damage, blues avoid damage. Reds soak yellow Flare Nova orbs, pass to blues for Flare Star orbs.  
+
+For Mirage Dive, group on blue eye. Tanks take first tethers (scan opposite directions), then melee, then flex players. Finish red eye before Steep in Rage, ranged kills revived blue eye. Beat enrage.
+
+Intermission: Alternate History Vault
+
+Strategy
+Same as phase 1 Planar Prison, but tank LB3 to save Haurchefant. Keep him healed and alive through Pure of Heart. Break Spear of the Fury before Pierce kills him. 
+
+Phase 5: Dark King Thordan
+
+Strategy
+Thordan summons dragons. Dodge Ascalon's Mercy Concealed. Mitigate auto-attacks.  
+
+For Wrath of the Heavens, treat Vedrfolnir as north. Clear sides for Twisting Dive. Tethered players go opposite their knights, blue marker west, rest east for Spiral Pierce. Spread for Lightning Storm. Green marker baits dive on Charibert. Spread for Ascalon's Mercy, dodge Altar Pyre and Liquid Heaven clockwise. Stack non-Thunder for Empty Dimension. Mitigate Ancient Quaga.
+
+Tankswap Heavenly Heel into Ascalon's Might. For Death of the Heavens, Doomed north, non-Doomed south, spread at intercards. Dodge Twisting Dive, Lightning Storm, Heavy Impact. Doomed line up with Wings puddles to cleanse. Mitigate Heavensflame, avoid gazes. Destroy Meteor Circles. Mitigate Ancient Quaga. 
+
+Tankswap auto-attack and Heavenly Heel/Ascalon's Might. Push Thordan to 2% before Aetheric Burst. Stop attacking when Thordan falls to one knee.
+
+Phase 6: Nidhogg and Hraesvelgr 
+
+Strategy
+Tanks hold enmity. Tethered players move from their dragon until orange/white. Tanks watch for glowing mouths - one glow is middle conal AoE and circular tankbuster, two gl

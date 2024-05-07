@@ -1,0 +1,274 @@
+<!doctype html>
+<html>
+  <head>
+    <title>FFXIV Instance Strategy Overlay</title>
+    <script src="https://overlayplugin.github.io/OverlayPlugin/assets/shared/common.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+        padding-top: 20px;
+      }
+      #strategyContainer {
+        width: 80%;
+        max-width: 800px;
+        background-color: #1c1c1c;
+        border: 1px solid #4d4d4d;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        overflow: hidden;
+      }
+      #strategyHeader {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #333333;
+        cursor: pointer;
+      }
+      #strategyTitle {
+        font-size: 24px;
+        font-weight: bold;
+        color: #ffffff;
+      }
+      #toggleButton {
+        font-size: 16px;
+        color: #ffffff;
+        background: none;
+        border: none;
+        cursor: pointer;
+      }
+      #strategyContent {
+        padding: 20px;
+        display: none;
+      }
+      #strategyText {
+        font-size: 16px;
+        line-height: 1.6;
+        color: #ffffff;
+      }
+      .error {
+        color: #ff4d4d;
+      }
+      .boss {
+        font-weight: 900;
+        color: #00ffcc;
+      }
+      .ability {
+        font-weight: bold;
+        color: #ffcc00;
+      }
+      .mechanic {
+        font-style: italic;
+        color: #00ffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="strategyContainer">
+      <div id="strategyHeader">
+        <div id="strategyTitle">Instance Strategy Overlay</div>
+        <button id="toggleButton">▲</button>
+      </div>
+      <div id="strategyContent">
+        <div id="strategyText"></div>
+      </div>
+    </div>
+    <script>
+      // Subscribe to the 'LogLine' event
+      addOverlayListener("LogLine", (data) => {
+        const logLine = data.rawLine;
+        // Check if the log line contains 'has begun.'
+        if (logLine.includes("has begun.")) {
+          console.log("Log line:", logLine);
+          // Extract the instance name from the log line
+          const parts = logLine.split("|");
+          const instanceName = parts[4].trim().replace(" has begun.", "");
+          console.log("Instance name:", instanceName);
+
+          document.getElementById("strategyTitle").innerText = instanceName;
+          document.getElementById("strategyText").innerText =
+            "Fetching instance strategy for " + instanceName + "...";
+
+          // Send a request to the server to fetch the instance strategy
+          fetch(
+            `http://localhost:3000/api/instance-strategy?instanceName=${encodeURIComponent(instanceName)}`,
+          )
+            .then((response) => response.json())
+            .then((data) => {
+              const strategyText = data.summary;
+              const formattedText = strategyText;
+              document.getElementById("strategyText").innerHTML = formattedText;
+              document.getElementById("strategyContent").style.display =
+                "block";
+            })
+            .catch((error) => {
+              console.error("Error fetching instance strategy:", error);
+              document.getElementById("strategyText").innerText =
+                "Failed to fetch instance strategy. Please check your network connection.";
+              document.getElementById("strategyContent").style.display =
+                "block";
+            });
+        }
+      });
+      // Toggle content visibility when the header is clicked
+      document
+        .getElementById("strategyHeader")
+        .addEventListener("click", () => {
+          const content = document.getElementById("strategyContent");
+          const toggleButton = document.getElementById("toggleButton");
+          if (content.style.display === "block") {
+            content.style.display = "none";
+            toggleButton.innerText = "▼";
+          } else {
+            content.style.display = "block";
+            toggleButton.innerText = "▲";
+          }
+        });
+      // Start listening for overlay events
+      startOverlayEvents();
+    </script>
+  </body>
+</html>
+
+<!doctype html>
+<html>
+  <head>
+    <title>FFXIV Instance Strategy Overlay</title>
+    <script src="https://overlayplugin.github.io/OverlayPlugin/assets/shared/common.min.js"></script>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        min-height: 100vh;
+        padding-top: 20px;
+      }
+      #strategyContainer {
+        width: 80%;
+        max-width: 800px;
+        background-color: #1c1c1c;
+        border: 1px solid #4d4d4d;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        overflow: hidden;
+      }
+      #strategyHeader {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 20px;
+        background-color: #333333;
+        cursor: pointer;
+      }
+      #strategyTitle {
+        font-size: 24px;
+        font-weight: bold;
+        color: #ffffff;
+      }
+      #toggleButton {
+        font-size: 16px;
+        color: #ffffff;
+        background: none;
+        border: none;
+        cursor: pointer;
+      }
+      #strategyContent {
+        padding: 20px;
+        display: none;
+      }
+      #strategyText {
+        font-size: 16px;
+        line-height: 1.6;
+        color: #ffffff;
+      }
+      .error {
+        color: #ff4d4d;
+      }
+      .boss {
+        font-weight: 900;
+        color: #00ffcc;
+      }
+      .ability {
+        font-weight: bold;
+        color: #ffcc00;
+      }
+      .mechanic {
+        font-style: italic;
+        color: #00ffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="strategyContainer">
+      <div id="strategyHeader">
+        <div id="strategyTitle">Instance Strategy Overlay</div>
+        <button id="toggleButton">▲</button>
+      </div>
+      <div id="strategyContent">
+        <div id="strategyText"></div>
+      </div>
+    </div>
+    <script>
+      // Subscribe to the 'LogLine' event
+      addOverlayListener("LogLine", (data) => {
+        const logLine = data.rawLine;
+        // Check if the log line contains 'has begun.'
+        if (logLine.includes("has begun.")) {
+          console.log("Log line:", logLine);
+          // Extract the instance name from the log line
+          const parts = logLine.split("|");
+          const instanceName = parts[4].trim().replace(" has begun.", "");
+          console.log("Instance name:", instanceName);
+          document.getElementById("strategyTitle").innerText = instanceName;
+          document.getElementById("strategyText").innerText =
+            "Fetching instance strategy for " + instanceName + "...";
+
+          // Send a request to the server to fetch the instance strategy
+          fetch(
+            `http://localhost:3000/api/instance-strategy?instanceName=${encodeURIComponent(instanceName)}`,
+          )
+            .then((response) => response.json())
+            .then((data) => {
+              const strategyText = data.summary;
+              const formattedText = strategyText;
+              document.getElementById("strategyText").innerHTML = formattedText;
+              document.getElementById("strategyContent").style.display =
+                "block";
+            })
+            .catch((error) => {
+              console.error("Error fetching instance strategy:", error);
+              document.getElementById("strategyText").innerText =
+                "Failed to fetch instance strategy. Please check your network connection.";
+              document.getElementById("strategyContent").style.display =
+                "block";
+            });
+        }
+      });
+      // Toggle content visibility when the header is clicked
+      document
+        .getElementById("strategyHeader")
+        .addEventListener("click", () => {
+          const content = document.getElementById("strategyContent");
+          const toggleButton = document.getElementById("toggleButton");
+          if (content.style.display === "block") {
+            content.style.display = "none";
+            toggleButton.innerText = "▼";
+          } else {
+            content.style.display = "block";
+            toggleButton.innerText = "▲";
+          }
+        });
+      // Start listening for overlay events
+      startOverlayEvents();
+    </script>
+  </body>
+</html>

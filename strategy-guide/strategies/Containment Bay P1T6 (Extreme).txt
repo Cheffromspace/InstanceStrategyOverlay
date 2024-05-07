@@ -1,0 +1,51 @@
+Here is the cleaned up text for the Containment Bay P1T6 (Extreme) strategy guide:
+
+Important 
+
+The North American and European data centers primarily use Party Finder to challenge (Extreme) content. Using Duty Finder to match with random players is not recommended and will be more difficult than pre-forming a party. For an easy completion (that will satisfy any quest requirements) or loot farming, it is recommended that players use Party Finder and form an Unrestricted Party (i.e., with level sync disabled). Players who wish to complete this duty with level sync enabled should also form a pre-made party, which also enables the use of Minimum Item Level and Silence Echo settings for a more authentic challenge compared to a Duty Finder party.
+
+Strategy
+
+The Goddess: Sophia
+
+Please note that players can fall off the arena to their death but can be resurrected after a moderate delay. The party should assign pairs of players, each comprising one tank/healer and one DPS, for a future mechanic.
+
+Sophia utilizes the following moves and mechanics throughout a total of three phases. Bear in mind that certain abilities, if not dodged successfully, can inflict a stack of Vulnerability Up, increasing the damage an afflicted player will take for up to two minutes.
+
+Thunder II, a large conal cleave aimed in the direction that Sophia is facing. Keep in mind that this ability has no telegraph, thus players must watch out for Sophia's cast-bar and ensure they are not standing in front of her.
+
+Thunder III is a giant donut AoE emitted from Sophia with a safe spot just inside her hitbox. It can also be avoided by standing far enough away.
+
+Aero III, a large AoE centered on Sophia that deals moderate damage and inflicts a knockback, making it possible for Sophia to punt players out of the arena to a quick death.
+
+Note: These mechanics will be used throughout the encounter at various intervals.
+
+Phase 1
+
+Thunder II, the non-telegraphed frontal cleave, will be encountered first. As a result, Sophia should be picked up by the main tank and turned away from the group as soon as the fight begins.
+
+Daughter, the lower-half of Sophia, will disappear from beneath her and materialize at one of the corners of the arena. Unlike Normal mode, Daughter will cast Gnosis - a knockback in the direction it is facing. To combat this, participants should move towards Daughter and aim themselves so that they will be knocked towards the opposite corner of the arena. Poor positioning will result in victims being sent tumbling out of the arena to their doom. This knockback can be prevented with Arm's Length or Surecast.
+
+Alon Teleos will summon four blackened Sophia clones around the arena. These adds can be targeted but are invincible, so players should avoid switching targets to them. After tethering to a clone, Sophia will cast an ability against the group, such as Thunder II, Thunder III and Aero III. Bear in mind that the used ability will then be transmitted to the clone she is presently tethered to. This will persist until all four clones have been given an ability by Sophia, thus participants should keep an eye on which abilities are transferred to which clones. It is worth noting that, later in the fight, Sophia will utilize this mechanic but delay tethering to clones in order to weave in additional mechanics. In short, she can only transmit the above three abilities and only when tethered to a clone.
+
+Execute causes the clones to cast their abilities simultaneously with no telegraph. Having paid attention to the transferred abilities and the positioning of the clones, players must quickly discern which areas of the arena are safe to stand in before execute is fully cast.
+
+This mechanic has two possible main patterns:
+
+Pattern 1: Four clones spawn in the intercardinals and all face the center. Two opposite corner clones who are tethered with Thunder III will be safe.
+
+Pattern 2: The clones occupy a 3x2 grid, leaving some empty areas. The safe spot will always be a corner that does not have a clone, or behind a clone that is tethered with Thunder II.
+
+Adds Phase
+
+Sophia will begin casting Cloudy Heavens, making herself invulnerable and marking all players with Eternal Doom. This debuff can only be cleared by defeating three adds. This essentially servers as the enrage timer for this phase.
+
+If the debuff timer expires or if players are fatally injured while affected by Eternal Doom, they will not die but will will be inflicted with Zombification, attacking other party members with no control over their movement or actions.
+
+The First Demiurge is a Paladin-based add that utilizes AoE attacks and a two-directional parry, indicated by shield effects either in front and behind it or to both of its sides. Players who attack the incorrect side during the parry-mechanic will be knocked back and debuffed. If it uses Vertical Kenoma, the parry will be to its front and rear, while Horizontal Kenoma will cause the parry to be at its sides. Ideally, this add should be focused last. Eventually, this add will also cast Infusion - a fatal blow aimed at a random player that must be absorbed by the group. Additionally, it will also knockback players who are not absorbing damage by standing directly in the center of the line-based stack-marker. An alternative way of handling this is to simply sacrifice the targeted player, who will become zombified for several seconds.
+
+The Second Demiurge is a Healer-based add which will heal the other adds and also uses a gaze mechanic (Divine Spark) to confuse any players looking directly at it when it reaches 50% health. Ideally, this add should be slain first.
+
+The Third Demiurge is a Lancer-based add that will use Ring of Pain, a small point-blank AoE that drops a persistent ice puddle on the ground. Unlike Normal mode, The Third Demiruge will cast Gnostic Rant, a 270 degree in front that can be avoided by standing behind it. Ideally, the add should be moved away from the group so that it drops a puddle in a more convenient location, then pulled to a corner of the arena and faced away from the group so that Gnostic Rant can be easily avoided.
+
+Scales of Revelation will now be summoned once all three adds have been slain, activating a sequence which requires players to stand on the right edge of the arena while the scales tip it, forcing everyone to slide towards the left edge. They should then move to the left edge, as the arena will slide right again, to prevent them from

@@ -1,0 +1,161 @@
+General Information
+
+Pandæmonium: Anabaseios is the third and final section of Pandæmonium, the main 8-player raid in Endwalker. Released in patch 6.4, Anabaseios requires players with item level of 615 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder. The savage-difficulty version of the raid, Pandæmonium: Anabaseios (Savage), was released one week later.
+
+Unlock
+
+Players first must complete Chronicles of a New Era quest Truth Imperfect.
+To unlock each floor after the first, continue the quest line and complete the consecutive floor. Each floor is listed separately.
+
+Floors
+
+Level Requirement: Disciple of War or Magic level 90
+Party Size: Eight players
+
+Duty
+
+Abbreviation
+
+Min IL
+
+Boss(es)
+
+Tomestones
+
+Time Limit
+
+
+Anabaseios: The Ninth Circle
+P9N
+615
+Kokytos
+20  10 
+90 min
+
+
+Anabaseios: The Tenth Circle
+P10N
+615
+Pandæmonium
+20  10 
+90 min
+
+
+Anabaseios: The Eleventh Circle
+P11N
+615
+Themis
+20  10 
+90 min
+
+
+Anabaseios: The Twelfth Circle
+P12N
+615
+Athena
+20  10 
+90 min
+
+Rewards
+
+Treasure coffers that appear upon completing Anabaseios will not yield gear, but instead yield tokens that can be traded for gear of your choosing.
+As of patch 6.5, weekly loot restrictions have been removed.
+Also note that there is no weekly restriction on entering Anabaseios.
+
+Item Exchange
+
+The items obtained from treasure coffers can be exchanged for gear by speaking with Mylenie in Labyrinthos (X:8.3 Y:27.6) or Djole in Radz-at-Han (X:10.3 Y:9.6).
+
+Item Type
+
+Required Token / Number of Tokens
+
+Ninth Circle
+
+Tenth Circle
+
+Eleventh Circle
+
+Twelfth Circle
+
+
+Completion Reward
+
+
+  Hermetic Tomestone
+  Unsung Blade of Anabaseios x 4
+0
+0
+0
+All*
+
+
+Loot
+
+
+Head
+  Unsung Helm of Anabaseios x 2
+2
+1
+1
+0
+
+
+Body
+  Unsung Armor of Anabaseios x 4
+1
+1
+2
+2
+
+
+Hands
+  Unsung Gauntlets of Anabaseios x 2
+1
+1
+1
+1
+
+
+Legs
+  Unsung Chausses of Anabaseios x 4
+1
+1
+2
+2
+
+
+Feet
+  Unsung Greaves of Anabaseios x 2
+1
+2
+0
+1
+
+
+Accessories
+  Unsung Ring of Anabaseios x 1
+2
+2
+2
+2
+
+Completion Reward
+
+Upon completing Anabaseios: The Twelfth Circle, players will also earn an   Unsung Blade of Anabaseios. Four of these can be exchanged with Mylenie in Labyrinthos (X:8.3 Y:27.6) or Djole in Radz-at-Han (X:10.3 Y:9.6) for   Hermetic Tomestones, which can in turn be exchanged for weapons using 500  Allagan Tomestones of Comedy.
+
+Reward eligibility will be reset every Tuesday at 1:00 a.m. (PDT) / 8:00 (GMT) / 18:00 (AEST).
+
+Gear
+
+Armor: Main article: Anabaseios Armor
+Accessories: Main article: Anabaseios Accessories
+
+Lore
+
+The serene expanse of the aetherial sea is marred by the sudden appearance of Pandæmonium, which has crossed eons to threaten the source of life itself. Its walls loom unmanned, but you know well what horrors once lay beyond them, and in the silence can hear a stirring...
+
+Trivia
+
+- Anabaseios (ἀνάβασις) is Ancient Greek for "the ascent."
+- This is also the first raid tier in which all bosses have voice acting.

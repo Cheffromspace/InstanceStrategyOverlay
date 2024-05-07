@@ -1,0 +1,47 @@
+Here is the cleaned up text for the strategy guide on The Second Coil of Bahamut in Final Fantasy 14:
+
+General Information
+The Second Coil of Bahamut is the second section of The Coils of Bahamut, the level 50 8-player raids in A Realm Reborn. The Second Coil of Bahamut was released in patch 2.2, and requires players with item level of 105 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder. 
+
+Note: Because the Coils of Bahamut have a difficulty somewhere between (Extreme) and (Savage), these raids are not included in any roulette (even Mentor). As such, players queuing via Duty Finder will almost never be able to form a party.
+
+That being the case, it is recommended that newer players use the Party Finder to seek the assistance of a couple of level-capped players for a "unsync run" using the Unrestricted Party option. This will allow players to see the story at an appropriate point in their Main Scenario Quest progression. They can also easily solo the raids with a level 80+ character.
+
+Unlock
+Players must first complete all of the Bahamut Quests up through Alisaie's Pledge. This includes clearing all of the The Binding Coil of Bahamut raids.
+
+Players can then begin the level 50 quest Another Turn in the Coil by talking to Urianger (x6,y4) in The Waking Sands. 
+
+Players may proceed to any of the four floors in this raid tier after unlocking them, although the floors are intended to be done in order for story purposes. To continue the questline, complete The Second Coil of Bahamut - Turn 4 to unlock Alisaie's Resolve.
+
+Floors
+Level Requirement: Disciple of War or Magic level 50
+Party Size: Eight players
+
+Duty (Abbreviation) - Min IL - Boss(es) - Tomestones - Time Limit  
+The Second Coil of Bahamut - Turn 1 (T6) - 90 - Rafflesia - 20 - 90 min
+The Second Coil of Bahamut - Turn 2 (T7) - 95 - Melusine - 20 - 90 min  
+The Second Coil of Bahamut - Turn 3 (T8) - 100 - The Avatar - 20 - 90 min
+The Second Coil of Bahamut - Turn 4 (T9) - 105 - Nael deus Darnus - 20 - 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing areas in The Second Coil of Bahamut will yield accessories.
+
+Upon completing The Second Coil of Bahamut duties, a treasure coffer will appear containing a High Allagan Coffer. Using this item transforms it into gear corresponding to the user's current job. In addition, the coffers that appear upon completing The Second Coil of Bahamut - Turn 4 yield weapons.
+
+Item Type - Equipment Reward  
+High Allagan Weapon Coffer (IL 115) - Weapons
+High Allagan Head Gear Coffer (IL 110) - Head
+High Allagan Chest Gear Coffer (IL 110) - Body
+High Allagan Hand Gear Coffer (IL 110) - Hands
+High Allagan Leg Gear Coffer (IL 110) - Legs 
+High Allagan Foot Gear Coffer (IL 110) - Feet
+
+Weekly limits removed in Patch 2.4.
+
+Gear
+Weapons: See High Allagan Weapons
+Armor: See High Allagan Armor  
+Accessories: See High Allagan Accessories

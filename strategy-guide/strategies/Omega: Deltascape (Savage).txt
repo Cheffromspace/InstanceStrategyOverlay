@@ -1,0 +1,57 @@
+Here is the cleaned up text for the Omega: Deltascape (Savage) strategy guide:
+
+General Information
+Omega: Deltascape (Savage) is the first section of Omega (Savage), the main 8-player raid in Stormblood. Released on July 18, 2017, Deltascape (Savage) requires players with item level of 310 or higher to enter. Once unlocked, players can use Party Finder or other means of forming a full premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Stormblood). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+To access Omega: Deltascape (Savage), players must interact with the Magitek Terminal in Rhalgr's Reach (x13.5,y12.4) after completing the following quest: The Anomaly.
+
+Floors
+Level Requirement: Disciple of War or Magic level 70
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Deltascape V1.0 (Savage) | O1S | 310 | Alte Roite | 15 | 90 min  
+Deltascape V2.0 (Savage) | O2S | 315 | Catastrophe | 15 | 90 min
+Deltascape V3.0 (Savage) | O3S | 320 | Halicarnassus | 15 | 90 min
+Deltascape V4.0 (Savage) | O4S | 320 | Exdeath, Neo Exdeath | 15 | 120 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Upon completing Omega: Deltascape (Savage) duties, a treasure coffer will appear containing a Genji Coffer. Using this item transforms it into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Deltascape V4.0 (Savage) yield weapons.
+
+Item Type | Equipment Reward
+Genji Weapon Coffer (IL 345) | Weapons
+Genji Kabuto Coffer (IL 340) | Head  
+Genji Armor Coffer (IL 340) | Body
+Genji Kote Coffer (IL 340) | Hands
+Genji Tsutsu-hakama Coffer (IL 340) | Legs
+Genji Sune-ate Coffer (IL 340) | Feet
+Genji Earring Coffer (IL 340) | Earrings
+Genji Necklace Coffer (IL 340) | Necklace
+Genji Bracelet Coffer (IL 340) | Bracelets
+Genji Ring Coffer (IL 340) | Ring
+
+Item Exchange
+In addition to gear, players will receive a Deltascape Datalog from each area, which can be exchanged for gear of your choosing.
+By speaking with Gelfradus in Rhalgr's Reach (x13.7,y12.0), players can exchange Deltascape datalogs from Omega: Deltascape (Savage) for corresponding gear.
+
+Gear Slot | Required Token | # of Token
+Weapons | Deltascape Datalog v4.0 | 8
+Gladiator's Arm | Deltascape Datalog v4.0 | 5  
+Shield | Deltascape Datalog v4.0 | 3
+Head | Deltascape Datalog v2.0 | 6
+Body | Deltascape Datalog v4.0 | 8
+Hands | Deltascape Datalog v2.0 | 6
+Legs | Deltascape Datalog v3.0 | 8 
+Feet | Deltascape Datalog v2.0 | 6
+Accessories | Deltascape Datalog v1.0 | 4
+
+Weekly loot limits removed in Patch 4.18.
+
+Loot
+Deltascape V1.0 (Savage) Loot - Necklaces, Earrings, Bracelets, Rings
+Deltascape V2.0 (Savage) Loot - Hand Armor, Hands Armor, Feet Armor 
+Deltascape V3.0 (Savage) Loot - Head Armor, Hands Armor, Feet Armor, Leg Armor
+Deltascape V4.0 (Savage) Loot - Body Armor, Weapons, Shields

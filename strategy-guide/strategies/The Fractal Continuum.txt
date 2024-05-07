@@ -1,0 +1,39 @@
+Here is the cleaned up version of the strategy guide for The Fractal Continuum dungeon in Final Fantasy 14:
+
+The Fractal Continuum is a level 60 dungeon introduced in patch 3.0 with Heavensward. 
+
+Objectives:
+Clear the History Gallery
+Defeat the phantom ray
+Clear the Soldiery Gallery
+Defeat the minotaur
+Clear a route to the Security Deck
+Activate the violet control unit
+Activate the crimson control unit 
+Activate the emerald control unit
+Defeat the Curator
+
+Bosses:
+
+Phantom Ray
+- Avoid Double Sever, a double cone AoE that fans out directly in front of and behind the boss, and then repeats on either side of the boss. As the battle progresses, this ability will be accompanied by a large number of circular ground AoE. 
+- Rapid Sever is a tank buster; use cooldowns as necessary to mitigate the damage.
+
+Minotaur  
+- 11-tonze swipe is forward-facing melee cleave. This ability does not have an AoE ground indicator.
+- 111-tonze swing is 360-degree melee cleave & knockback. Deals extremely heavy damage. This ability does not have an AoE ground indicator.
+- Disorienting Groan deals mild AoE damage and knockback. The boss will then rush from player to players dealing moderate damage with each impact. Afterward, he will use 10-tonze slash, a forward-facing line AoE.  
+- 1111-tonze Swipe is a room-wide AoE. When the boss begins charging this ability, one player (usually healer or ranged) needs to click on one of the several Biomass Incubator tubes that encircle the arena. This will spawn an add, distracting the boss and interrupting his attack. The add needs to be killed immediately.
+
+The Curator
+- Clockwork Alarum adds will periodically spawn occasionally along the edge of the arena; each will occupy a single square, infusing it with a debuff that damages any player who touches it. These adds slowly walk forward, spreading the debuff to additional squares, and should be killed immediately.
+- The Curator will occasionally afflict a random player with a heavy DoT debuff called Aetherochemical Explosive. The afflicted player needs to be cleansed by the healer immediately.  
+- The Educator will light up a pattern of floor tiles. The tiles will explode after a short time, dealing heavy damage to any players who happen to be standing on them.
+- Mines will occasionally spawn on random floor tiles. Avoid/ignore these until they explode.
+- Tanks, be ready to soak heavy magic damage while gearing. This boss is best tanked in a corner, facing away from the group. Be sure to relocate in case of mines so your melee DPS don't have to dodge them, and so that you won't run into them to avoid The Educator.
+
+In summary:
+1. Kill Clockwork Alarum ASAP.  
+2. Stay off lighted squares.
+3. Avoid mines.
+4. Cleanse Aetherochemical Explosive.

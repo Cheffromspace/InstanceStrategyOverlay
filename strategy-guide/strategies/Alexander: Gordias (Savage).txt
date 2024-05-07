@@ -1,0 +1,56 @@
+Here is the cleaned up text for the Alexander: Gordias (Savage) strategy guide:
+
+General Information
+Alexander: Gordias (Savage) is the first section of Alexander (Savage), the savage mode of the 8-player raid in Heavensward. This raid tier was released on July 23, 2015. Once unlocked, players can use Party Finder or other means of forming a full premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Heavensward). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+Complete the level 60 quest A Song of Steam and Steel. Players can talk to Wandering Minstrel in Mor Dhona (x21,y8) to start the quest. Players must have first completed the quest Enigma. (Requires the completion of Gordias NM)
+
+Players can also talk to Redbrix in The Dravanian Hinterlands (x23,y26) to enter.
+
+Floors
+Level Requirement: Disciple of War or Magic level 60
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Alexander - The Fist of the Father (Savage) | A1S | 190 | Faust, Oppressor | 15 | 90 min  
+Alexander - The Cuff of the Father (Savage) | A2S | 195 | Illuminati Soldiers | 15 | 90 min
+Alexander - The Arm of the Father (Savage) | A3S | 200 | Living Liquid | 15 | 90 min
+Alexander - The Burden of the Father (Savage) | A4S | 205 | The Manipulator | 15 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing areas in Alexander: Gordias (Savage) will yield accessories. In addition, players will receive a page of the Gordian Manifesto from each area, which can be exchanged for gear of your choosing.
+
+Upon completing Alexander: Gordias (Savage) duties, a treasure coffer will appear containing a Gordian Coffer. Using this item transforms it into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Alexander - The Burden of the Father (Savage) yield weapons.
+
+Item Type | Equipment Reward  
+Weapons | Gordian Weapon Coffer (IL 210)
+Head | Gordian Head Gear Coffer (IL 210)
+Body | Gordian Chest Gear Coffer (IL 210) 
+Hands | Gordian Hand Gear Coffer (IL 210)
+Legs | Gordian Leg Gear Coffer (IL 210)
+Feet | Gordian Foot Gear Coffer (IL 210)
+
+Weekly loot limits removed in Patch 3.2.
+
+Exchange
+By speaking with Sabina in Idyllshire (X:5 Y:5), players can exchange pages of the Gordian Manifesto from Alexander: Gordias (Savage) for corresponding gear.
+
+Gear Slot | Required Token | # of Token
+Weapons | Gordian Manifesto - Page 4 | 8
+Gladiator's Arm | Gordian Manifesto - Page 4 | 5  
+Shield | Gordian Manifesto - Page 4 | 3
+Head | Gordian Manifesto - Page 3 | 6
+Body | Gordian Manifesto - Page 4 | 8
+Hands | Gordian Manifesto - Page 2 | 6
+Legs | Gordian Manifesto - Page 3 | 8 
+Feet | Gordian Manifesto - Page 2 | 6
+Accessories | Gordian Manifesto - Page 1 | 4
+
+Loot
+Sector 1 Loot - Necklaces, Earrings, Bracelets, Rings
+Sector 2 Loot - Head Armor, Hand Armor, Feet Armor  
+Sector 3 Loot - Head Armor, Hand Armor, Feet Armor, Leg Armor
+Sector 4 Loot - Body Armor, Weapons, Shields, Gobwalker Gear

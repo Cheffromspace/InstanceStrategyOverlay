@@ -1,0 +1,25 @@
+Here is the cleaned up strategy guide for The Great Gubal Library dungeon in Final Fantasy 14:
+
+The Great Gubal Library is a level 59 dungeon introduced in patch 3.0 with Heavensward. 
+
+Bosses:
+
+The Demon Tome
+- Casts an AOE down the middle of the room, then the sides. Causes a slowing effect if hit.
+- Casts Dark Blizzard III, a circle AOE targeting a random player. 
+- Periodically casts Disclosure and begins to glow. Run to the back side of the tome to avoid instant death.
+- After a while, casts Words of Winter, freezing the ground. Move carefully in the direction you want to go to slide past.
+
+Byblos
+- Periodically becomes invulnerable. Kill the adds that spawn from books to draw an orb tether. Pull the orb into Byblos to break his invulnerability. 
+- Spawns clouds of oil fumes that cause damage and knockback. Take turns moving through them carefully.
+- Uses Gale Cut, a frontal attack. Avoid by running through or to the side.
+- Uses Tail Swipe when someone is behind him. 
+- Targets a random player with Head Down, a damaging charge attack. Damage is shared between all players hit.
+
+The Everliving Bibliotaph
+- At intervals, begins casting Void Summon. Stand on the glowing platforms to cancel the summons. 1 player for 1 light, 2 for 2 lights, 3 for 3 lights. Failing spawns a voidsent add.
+- Marks players with targets. Run to the side to bait the AOE. Avoid the void spark left behind.
+- After the 2nd Void Summon, casts Deep Darkness on the outside (heavy damage and debuff) followed by Magic Burst on the inside (damage and knockback).
+
+The dungeon contains several treasure coffers with additional loot. It also has many lore entries found in books throughout detailing Garlean hierarchy, elements, Merlwyb's expeditions, and other topics.

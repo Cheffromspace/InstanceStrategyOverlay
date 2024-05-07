@@ -1,0 +1,46 @@
+Here is the cleaned up text for the Stone Vigil dungeon guide:
+
+The Stone Vigil
+
+Level: 41 (Sync: 43)  
+Difficulty: Normal
+Party size: Light Party 4 man • 1 Tank 1 Healer 2 DPS
+Unsyncing: Allowed  
+Time limit: 90 minutes
+Duty Finder: Dungeons (A Realm Reborn)
+Roulette: Leveling
+Req. quest: In Pursuit of the Past
+Entrance: Coerthas Central Highlands (X:7, Y:11)
+Modes: Duty Support, Explorer
+
+One of four watchtowers built along the Sea of Clouds by the city-state of Ishgard, the Stone Vigil was overrun and occupied by the Dravanian Horde not long after the Calamity. The following years have seen the knights of House Durendaire make several attempts at reclaiming the fortress, but to no avail. What could it be that thwarts their every effort?
+
+Objectives:
+Secure the barbican: 0/1
+Retake the right brattice: 0/1  
+Defeat Isgebind: 0/1
+
+Bosses:
+
+Chudo-Yudo
+Chudo-Yudo is the first boss. He has powerful frontal breath attacks that all non-tank players should avoid. One strategy is to have only the tank stand in front, with the rest of the party behind the dragon at all times.
+
+Koshchei  
+Koshchei is the 2nd dragon boss. This fight was updated in 6.1, modifying the arena and mechanics. Typhoon is the main mechanic, requiring players to reposition into safe zones to avoid moving tornadoes. 
+
+Isgebind
+Isgebind is the final boss. This icy dragon has powerful breath attacks and massive AoEs. Avoid the front of the dragon. Throughout the fight, glowing blue areas will appear that Isgebind will fly over, dealing damage and Frostbite to anyone caught in the area. After the third Cauterize, there will be a double Sheet of Ice AoE before Isgebind returns.
+
+Lore:
+
+Watchman Of The Holy See
+The Stone Vigil is one of four watchtowers built by Ishgard to defend against dragons. After the Calamity, it was occupied by Nidhogg's forces.
+
+Isgebind  
+An ice dragon who led the assault and was given command of the occupied Vigil.
+
+Retaking The Vigil
+The knights of House Durendaire fought to retake the Vigil, aided by the Warrior of Light, eventually liberating it.
+
+Giruveganaus
+The dragon-like creatures defending the Vigil were actually heretics transformed by dragon blood.

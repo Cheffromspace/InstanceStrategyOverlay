@@ -1,0 +1,42 @@
+Here is the cleaned up text for the "Bountiful Ruins" quest guide:
+
+Bountiful Ruins
+
+Quest giver: Tataru 
+Location: Mor Dhona (X:22.2, Y:5.4)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 1,217
+Previous quest: Newfound Adventure
+Next quest: Friends for the Road
+Patch: 6.1
+
+Walkthrough:
+For the longest conversation with professor Jalheen, choose:
+"Oh, just a friendly chat. How about a drink?" 
+"That wasn't enough?"
+"Why don't you tell me something of yourself?"
+"I am no stranger to peril."
+"Signal for water instead."
+
+Steps:
+1. Speak with Mihleel at Mehryde's Meyhane.
+2. Speak with Jalheen. 
+3. Speak with Azahma.
+4. Speak with Estinien.
+5. Speak with Matsya in Akyaali.
+
+Journal:
+Tataru has some advice to share with you.
+
+Speaking from her considerable personal experience as an information broker, Tataru cautions you that rumors do not simply fall into one's lap. Taverns and markets are the ideal places to visit first, and as such, she suggests you begin your new adventures at Mehryde's Meyhane─the finest drinking establishment in Radz–at–Han.
+
+You arrive at Mehryde's Meyhane and explain your situation to Mihleel, who directs you to one of their regulars, Professor Jalheen. The professor is apparently well known for holding forth on a variety of historical subjects─including the Bounty's undersea vault─and should gladly share this information in exchange for one of the meyhane's fine beverages. 
+
+After enthusiastically accepting your offer of a spirituous brew, Jalheen launches into the legend of Alzadaal III. It is said that this famous satrap not only forged an alliance with a dragon, but also returned from a journey to another world with fabulous riches in his possession. The most widely known and enduring tale, however, concerns Alzadaal's Legacy, a treasure vault he constructed deep beneath the waves, the entrance to which is supposedly hidden on an island in the middle of the Bounty. Jalheen indicates that more information regarding this isle and how it may be reached can be obtained from his friend, Azahma.
+
+You locate Azahma, who recounts the tale of his missing friend and the information he purchased from a merchant in the bazaar. Seeking to follow up on this lead, you head to the markets, only to witness Estinien buying a treasure map from the very peddler you were told about. Such a coincidence can only be fate─though the authenticity of the map in question is far less certain, given the elaborate performance by what was clearly the peddler's young accomplice. In any event, you tell Estinien of your interest in the undersea vault, and he invites you to join him on an expedition to recover the legendary riches of Alzadaal's Legacy.
+
+Estinien considers how best to find a ship fit for the open seas. The mention of fishermen brings Matsya to mind, and you set off to find the young Arkasodara in Akyaali. 
+
+Barely have you explained the situation before an eager Matsya promises to secure and stock a seaworthy vessel for your expedition. He leaves to make arrangements, after which Estinien takes the opportunity to confront the furtive figure who has been trailing you since you left the city: Mehrahd, the ragged waif from the bazaar. The boy apologizes for his part in the merchant's charade, and begs you to reconsider your venture. He is adamant that only death awaits you at the island you seek, and that you will surely fail to return like so many others before you. Seeking to assuage Mehrahd's fears, you agree to recruit another companion to your cause─the irrepressible G'raha Tia.

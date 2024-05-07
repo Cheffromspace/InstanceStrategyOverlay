@@ -1,0 +1,32 @@
+Here is the cleaned up text for the "Bridging the Rift" quest guide:
+
+Bridging the Rift
+
+Quest giver: Veteran Radiant 
+Location: Radz-at-Han (X:4.3, Y:9.7)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Previous quest: Sharing the Wealth
+Next quest: Restricted Reading
+Patch: 6.1
+
+Steps:
+1. Speak with Y'shtola at the High Crucible of Al-Kimiya.
+2. Speak with Y'shtola at Sharlayan's aetheryte plaza and have her accompany you. 
+3. Speak with Montichaigne while Y'shtola is accompanying you.
+4. Speak with the House Leveilleur butler while Y'shtola is accompanying you.
+5. Accompany Y'shtola to the Baldesion Annex and speak with her.
+6. Speak with Y'shtola.
+
+Journal: The veteran Radiant wishes to share his gratitude.
+
+Dialogue:
+The veteran Radiant asks you to meet Y'shtola at the High Crucible at your earliest convenience. Estinien and Varshahn decide to accompany you to hear what she has discovered about the voidgate's unique construction. 
+
+At the High Crucible, Y'shtola explains that to enter Noumenon's restricted archives, you must secure permission from the Forum. She suggests enlisting the help of Scholarch Montichaigne to broach the matter. 
+
+You visit Montichaigne in Phenomenon and explain the situation. He agrees to present the request to the Forum, but advises also gaining the support of Fourchenault Leveilleur.
+
+At the Leveilleur estate, you plead your case to Fourchenault. Y'shtola appeals to him by comparing your desire to reunite Vrtra with his sister to Fourchenault's own past efforts to protect his loved ones. He agrees to add the request to the Forum's deliberations.
+
+Returning to the Baldesion Annex, you learn the Forum has granted permission to access the restricted archives, thanks to Montichaigne and Fourchenault's advocacy. Y'shtola is excited at the prospect of the knowledge now available to aid your cause.

@@ -1,0 +1,52 @@
+Here is the cleaned up text for the Castrum Marinum (Extreme) strategy guide:
+
+Castrum Marinum (Extreme) is a level 80 trial introduced in patch 5.4 with Shadowbringers.
+
+Guide
+
+Mark V Anti-Eikon Warmachina: The Emerald Weapon
+
+Phase 1
+Your showdown with the iconic Emerald Weapon takes place within a circular arena surrounded by a fatal drop. Any player who walks or is pushed over the edge will suffer an immediate KO but can be revived after a moderate delay.
+
+Emerald Shot - causes Emerald Weapon to blast its primary target with a high damaging tank-buster.
+Optimized Ultima - unleashes unavoidable raid-wide damage.
+Aetheroplasm Production - creates blue and yellow orbs around the outer edge of the arena, all of which tether to the Emerald Weapon and will slowly move towards the arena centre. If any orbs are left for too long, they will automatically detonate for lethal damage, forcing the raid to pop orbs manually.
+-- Blue Orb - applies Magic Vulnerability to everyone caught in their blast radius.
+-- Yellow Orb - applies Physical Vulnerability to everyone caught in their blast radius.
+
+Colliding with an orb will cause it to detonate via a broad AoE explosion. The damage from manually popped orbs will need to be shared by two players simultaneously. Players will be unable to pop two orbs of the same colour due to the stacking vulnerabilities that are applied with each explosion.
+
+Emerald Beam #1 - the Emerald weapon projects two cone-shaped AoE's from its front and rear that will eventually begin to rotate in the direction shown via a marker around its hitbox. A point-blank AoE will also be dropped by the Emerald weapon just before the beams begin to rotate. Said point-blank AoE will shortly be followed by outward-traveling rings of AoE's, forcing the raid to move in a circle to avoid the rotating beams and also step between the outward traveling set of AoE's.
+
+Once Emerald Beam has concluded, the outer edge of the arena will collapse, shrinking the playing field.
+
+Magitek Magnetism #1 - creates three explosive mines within the arena that are telegraphed with large circular AoE's, indicating the radius that will be affected by their upcoming explosions. Before exploding, two of the mines will be tethered together with the magnet-mechanic, indicating that the tethered mines will eventually be pushed apart before exploding. The untethered mine will remain stationary until it has exploded.
+
+Both tanks will also acquire proximity flare markers at the same time, forcing them to position themselves away from the rest of the raid. Each tank should stand on opposite sides of the stationary mine, giving themselves ample space away from each other and the raid so that the flare explosions inflict minimal raid-wide damage. Meanwhile, all other players should identify where safe-spots will be formed by the soon-to-be pushed mines, away from the flare-marked tanks.
+
+Magitek Magnetism #2 - similar to above, except this time, four mines will be spawned instead of three. The mines will be magnet-tethered into two pairs - one pair to be pushed apart (identical plus or minus symbols), and one pair to be pulled together (opposite symbols). A single safe-spot will be formed near the pair of mines with identical symbols.
+
+Emerald Beam #2 - a new set of rotating cone AoE's and outward traveling ring AoE's, leading to another portion of the outer-arena being demolished. From here, the raid will have considerably less space to maneuver.
+
+Emerald Hands #1 - summons flying mechanical hands that will float within the arena. Players will need to react depending on what the emerald hands do next:
+-- If the emerald hands remain outside, all players should move into Emerald Weapon's hitbox to avoid an upcoming donut Aoe. 
+-- If the emerald hands are sucked into the Emerald Weapon, all players should run away to avoid an upcoming point-blank AoE.
+
+Divide Et Impera - a shareable tank-buster against Emerald Weapon's primary target, indicated by a glowing red marker. Both tanks will need to stand together to mitigate the attack. Meanwhile, the rest of the raid will need to spread out to avoid an upcoming barrage of AoE's from the emerald hands, preferably by having individual players position themselves at cardinal and inter-cardinal positions.
+
+Split - the Emerald Weapon will split in half, leaving behind its upper body, whilst the lower half disappears from the arena.
+
+Expire - projects a point-blank AoE from the centre of the arena. To avoid this, the raid should move as close to the outer edge as possible.
+
+Red Smash - creates a red pool near an outer edge of the arena that will eventually grow in size before detonating. All players should give the red pool a wide berth, as its true size will not be indicated until shortly before the explosion itself.
+
+Emerald Hands #2 - players will need to react depending on what the emerald hands do next:
+-- If the emerald hands remain outside, all players should move into Emerald Weapon's hitbox to avoid an upcoming donut Aoe.
+-- If the emerald hands are sucked into the Emerald Weapon, all players should run away to avoid an upcoming point-blank AoE.
+
+Magitek Magnetism #3 + Pulse Laser - creates four mines that will once again be magnet-tethered into two pairs - one pair to be pushed apart (identical plus or minus symbols), and one pair to be pulled together (opposite symbols). A single safe-spot will be formed near the pair of mines with identical symbols.
+
+However, two players will also be marked for Pulse Laser - causing column AoE's to be aimed in their direction before the mines explode. As a result, marked players should bait the column AoE's so that they do not cover the upcoming safe-spot generated by the soon-to-be-pushed mines. The size of the safe-spot will also be much smaller due to the arena being smaller in size.
+
+At this point, the Emerald Weapon will cycle through various mechanics before executing a hard-enrage: Full-Power Optimized Ultima. If the Emerald Weapon has not been reduced to 0% before the cast has been completed, the raid will suffer an unavoidable wipe. However, if the Emerald Weapon has been sufficiently damage

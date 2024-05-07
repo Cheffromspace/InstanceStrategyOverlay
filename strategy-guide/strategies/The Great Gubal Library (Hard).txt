@@ -1,0 +1,44 @@
+Here is the cleaned up text for the Great Gubal Library (Hard) dungeon guide:
+
+The Great Gubal Library (Hard) is a level 60 dungeon introduced in patch 3.4 with Heavensward. 
+
+Objectives:
+Arrive in the Hall of Magicks.
+Clear the Hall of Magicks. 
+Arrive in the Astrology and Astromancy Camera.
+Clear the Astrology and Astromancy Camera.
+Arrive in the Rare Tomes Room.
+Defeat Strix.
+
+Bosses:
+
+Demon of the Tome
+Best to tank it sideways so that all the AoE indicators are visible. Otherwise, the fight is mainly a positioning check. Watch out for narrow AoE markers at the edge of the arena; a large AoE attack will follow in between them.
+
+Liquid Flame  
+Bibliocide: Unavoidable party-wide AoE for moderate damage.
+Sea of Flames: Scorched earth AoE attack, much like Ifrit's.
+Slosh: A random player gets tethered to the boss; it will shortly charge at them; the player has to run far away from the boss.
+Important mechanics:
+Ferrofluid: Players get + and - marks, if your mark is the same as the boss's, run close to the boss. Otherwise, run away.  
+Seal of Night and Day: Players get sun and moon marks; run to the corresponding sun or moon sigil on the floor.
+
+Strix
+Check Out: Spawns a set of circles for resolving upcoming mechanics.  
+White circle: While standing in it, grants Levitation to resolve Quakes.
+Black circle: While standing in it, inflicts Leaden to resolve Tornados.
+Green circle: Toggles imp status. If you are not an imp, inflicts 20s of Imp and Lightning Resistance Down II; if you are, cleanses those debuffs. Imps cannot use any actions.
+On the Properties of Quakes: Raidwide. Damages anyone without Levitation, Stunning them for 3s and inflicting a 30s Vulnerability Up stack.
+On the Properties of Tornados: Hits each player with a tornado AoE. If you don't have Leaden, each tornado you're clipped by deals damage, knocks you into the air, and inflicting a 30s Vulnerability Up stack. The Leaden check snapshots when the damage happens, not when the castbar ends! Don't leave the circle too early.
+On the Properties of Imps: Toggles everyone's imp status. The imp check snapshots when the castbar ends, but there is a delay before debuffs actually get changed. You should wait until you get turned into an imp before stepping in the circle. If you instead step in right after the castbar ends, you will just get turned into an imp twice.  
+On the Properties of Thunder III: Marks everyone with a purple marker, then hits each of them with an AoE. Used after On the Properties of Imps. If you are still an imp, each AoE you're clipped by deals more damage due to the Lightning Resistance Down II, and inflicts Down for the Count for 5s and a 30s Vulnerability Up stack. If you are Sprinting, you will get knocked into the air.
+On the Properties of Darkness: Mini TB.
+On the Properties of Darkness II: Raidwide.
+
+The first Check Out spawns 4 white circles. The second Check Out spawns 2 black and 2 green circles. The boss will only use attacks that can be resolved using the currently available circles.
+
+1min 40s into the fight, the boss will go to boss north and cast Check Out again. This time, it spawns an untargetable Behemoth Ward that slowly casts Ecliptic Meteor. 2 consecutive proximity AoEs will occur, with a rock dropping on each location. Avoid being too close to the proximity AoEs, but don't run too far either, as you will need to hide behind a rock before Ecliptic Meteor goes off. Ensure a rock is between you and Behemoth (like in The Labyrinth of the Ancients), or you will take massive damage (kills squishies).
+
+With modern gear creep and decent dps (if players don't mess up the previous mechanics), you will kill the boss before or during the Ecliptic Meteor cast, meaning you can ignore it and burn the boss down.
+
+After resolving Ecliptic Meteor, the fourth Check Out spawns 1 of each circle.

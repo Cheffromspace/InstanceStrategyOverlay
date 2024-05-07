@@ -1,0 +1,70 @@
+Here is the cleaned up text for the Eden's Promise (Savage) strategy guide:
+
+General Information
+
+Eden's Promise (Savage) is the 3rd section of Eden (Savage), the main 8-player raid in Shadowbringers. Released on December 8, 2020, Eden's Promise (Savage) requires players with item level of 500 or higher to enter. Once unlocked, players can use Party Finder or other means of forming a full premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Shadowbringers). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+
+To access Eden's Promise (Savage), players must speak with Lewrey in Amh Araeng (X:26.8 Y:16.4) with a level 80 Disciple of War/Magic after completing the quest, Where I Belong.
+
+Floors
+
+Level Requirement: Disciple of War or Magic level 80
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Eden's Promise: Umbra (Savage) | E9S | 500 | Cloud of Darkness | 30 | 90 min  
+Eden's Promise: Litany (Savage) | E10S | 505 | Shadowkeeper | 30 | 90 min
+Eden's Promise: Anamorphosis (Savage) | E11S | 510 | Fatebreaker | 30 | 90 min
+Eden's Promise: Eternity (Savage) | E12S | 510 | Eden's Promise, Oracle of Darkness | 30 | 120 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Gear
+
+- Edenmorn Weapons
+- Edenmorn Armor  
+- Edenmorn Accessories
+
+Rewards
+
+Upon completing Eden's Promise (Savage) duties, treasure coffers will appear containing Edenmorn Coffers. When used, these items transform into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Eden's Promise: Eternity (Savage) yield weapons.
+
+Item Type | Equipment Reward
+Edenmorn Weapon Coffer (IL 535) | Weapons
+Edenmorn Head Gear Coffer (IL 530) | Head
+Edenmorn Chest Gear Coffer (IL 530) | Body  
+Edenmorn Hand Gear Coffer (IL 530) | Hands
+Edenmorn Leg Gear Coffer (IL 530) | Legs
+Edenmorn Foot Gear Coffer (IL 530) | Feet
+Edenmorn Earring Coffer (IL 530) | Earrings
+Edenmorn Necklace Coffer (IL 530) | Necklace
+Edenmorn Bracelet Coffer (IL 530) | Bracelets
+Edenmorn Ring Coffer (IL 530) | Ring
+
+Weekly loot limits removed in Patch 5.57.
+
+Item Exchange
+
+In addition to gear, players will receive Eden's Promise apocrypha from each duty, which can be exchanged for gear of your choosing.
+
+By speaking with Ghul Gul in Amh Araeng (X:26.6 Y:16.4) or Yhal Yal in Eulmore (X:10.0 Y:11.5), players can exchange Eden's Promise apocrypha from Eden's Promise (Savage) for corresponding gear.
+
+Coffer Type | Required Token | # of Token
+Weapons | Book of Eternity | 8  
+Gladiator's Arm | Book of Eternity | 5
+Shield | Book of Eternity | 3
+Head | Book of Litany | 6
+Body | Book of Eternity | 8
+Hands | Book of Litany | 6
+Legs | Book of Anamorphosis | 8  
+Feet | Book of Litany | 6
+Accessories | Book of Umbra | 4
+
+Loot
+
+- Eden's Promise: Umbra (Savage) Loot - Bracelet, earrings, necklace, rings
+- Eden's Promise: Litany (Savage) Loot - Boots, gloves, head  
+- Eden's Promise: Anamorphosis (Savage) Loot - Boots, gloves, legs, head
+- Eden's Promise: Eternity (Savage) Loot - Chest, weapon, mount

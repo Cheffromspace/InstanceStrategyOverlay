@@ -1,0 +1,34 @@
+Here is the cleaned up text for the quest "An Unforeseen Bargain":
+
+Quest giver: 1st Legion Soldier
+Location: Garlemald (X:31.6, Y:18.2) 
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 2,855
+Previous quest: Kindled Spirit
+Next quest: King of the Mountain
+Patch: 6.3
+
+Rewards: Choose one of the following options:
+1 Piety Materia IX
+1 Battledance Materia IX 
+1 Quickarm Materia IX
+1 Quicktongue Materia IX
+
+Steps:
+1. Speak with Alphinaud.
+2. Speak with Alisaie.
+
+Journal:
+This distressed soldier has ill tidings to share with you.
+
+A horde of voidsent has been sighted approaching from the east, prompting an immediate evacuation of the area. Alisaie asks Zero to assist in the effort, but she refuses, stating that she will not risk her life without suitable compensation. Jullus, however, succeeds in persuading Zero to help guard Tertium by reminding her of the buuz he gave her. With the memoriate keeping watch, Alphinaud believes that the encampment will be safe enough in your absence, and suggests heading outside to find your other comrades.
+
+Together with Alphinaud and Alisaie, you seek out Y'shtola and the others. Fortunately, they are quite capable of defending themselves, though it remains to be seen how Jullus and Zero are faring back at Tertium. 
+
+You later learn that, while you and the twins were occupied with rampaging voidsent, Jullus received word that a unit had gone silent while en route to Camp Broken Glass. As he prepared to set out from Tertium to investigate, Zero, much to his surprise, offered to go in his stead. She arrived in time to save a pair of soldiers from voidsent, but soon found herself overwhelmed. Thankfully, you arrived in time to save her and put the enemy to rout.
+
+With the danger passed, you enjoy a brief moment of respite while waiting for Zero to recover and Y'shtola and the others to return. In that quiet aftermath, Alisaie muses what might have compelled Zero to─despite her earlier objections─resolve to risk her life to save others...
+
+Dialogue:
+(Dialogue between the characters, with unnecessary formatting removed)

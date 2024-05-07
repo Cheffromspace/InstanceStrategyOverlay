@@ -1,0 +1,76 @@
+Here is the cleaned up text for the strategy guide on The Minstrel's Ballad: Hades's Elegy:
+
+The Minstrel's Ballad: Hades's Elegy is a level 80 trial introduced in patch 5.1 with Shadowbringers.
+
+Strategy
+
+Hades
+Your encounter with Emet-Selch (Hades) takes place within a circular arena overlooking the ruins of Amaurot. The outer railing will eventually be destroyed as the fight progresses, meaning players can fall over the edge if they stray too far.
+
+First Phase
+Ancient Double - Hades provides himself with a buff causing all of his future abilities to be cast in doubles for the rest of the encounter.
+
+Shadowspread - All participants become the target of two consecutive cone-shaped AoEs. Players should be assigned positions around the boss to avoid overlap. Side-step to avoid the follow-up attack.
+
+Bad Faith - A large purple wall is created through the centre of the arena, with spikes protruding in different directions on each half. The spikes will shoot across the platform - one half firing north while the other fires south. Position behind the side without spikes pointing your direction. Ancient Double will cause the attack to happen again inverted with no telegraph.
+
+Ravenous Assault - Hades cleaves his primary target with a vicious AoE tank-buster. It will be doubled and comes with a debuff. Tanks need to decide between one tank taking both hits with an invulnerability or organizing a tank-swap.
+
+Arcane Utterance - The arena fills with either Red Orbs or Blue Mirrors. There will always be a missing orb or mirror indicating a future safe spot.
+- Red Orbs: Orbs explode in an AoE once Hades casts Arcane Control. Stand where an orb is missing to avoid explosions. 
+- Blue Mirrors: Mirrors shoot straight-line AoEs in the direction they face once Arcane Control is cast. Stand behind the mirror opposite the empty space.
+
+Broken Faith - A random pattern of aetheric circles slowly descend into the arena. Circles detonate when touching the ground. Avoid the first few circles until they detonate, then move into a previously detonated area away from upcoming circles. Repeat until the mechanic resolves.
+
+The unused Arcane Utterance effect will take place after Broken Faith concludes. Hades will then execute another Shadow Spread, Bad Faith, Ravenous Assault before entering an enraged state with Ancient Dark IV. Sufficient damage must be dealt before the cast goes off to avoid a wipe.
+
+Pushing Hades to 10% health or lower transitions to a new phase. High overall DPS can skip various mechanics.
+
+Shade of Nabriales 
+A shade of Nabriales appears and long-casts Quake III. The shade's health must be reduced to at least 50% to survive the cast. 
+
+Pairs of Comets descend into the arena and must be soaked by at least one player each. Unsoaked comets reaching the platform will wipe the raid. Tanks should work on soaking the comets so DPS can maintain uptime on Nabriales.
+
+Four Shadow Of The Ancients tether to damage dealers. After a delay, they blast their tethered victim for high damage and a debuff. Tethered players should avoid aiming towards other raid members.
+
+Both healers get a stack-up marker via Ancient Water III, and each tank is marked by an AoE circle via Ancient Darkness. The raid should split in half so each healer has people to absorb damage. Tanks must not overlap the stacking groups with their AoE circles.
+
+Nabriales finalizes Quake III, dealing damage based on its remaining health.
+
+Shades of Igeyorhm & Lahabrea
+Shades of Igeyorhm and Lahabrea enter as tankable adds. Fire Sphere and Blizzard Sphere inflict all players with either a Fire Brand (increased fire damage) or Freezing Brand (increased ice damage). 
+
+Keep the shades apart. Players with Fire Brand should only attack Igeyorhm (ice-aspected) while those with Freezing Brand attack Lahabrea (fire-aspected). Avoid tanking a shade of the same element as your brand.
+
+Aim to kill both adds simultaneously.
+
+Four Shadow of the Ancients appear and tether to random players - two ice-based, two fire-based. They bombard the tethered victim with elemental AoE damage. Swap or intercept tethers to avoid having one of the same element as your brand. Tether holders should stand away from other players to prevent overlapping AoEs.
+
+Tanks and healers should intercept tethers opposite to their elemental brand so DPS can maintain uptime on the shades.
+
+Another Fire Sphere and Blizzard Sphere will reverse all ice and fire brands, likely requiring a tank swap.
+
+Igeyorhm and Lahabrea merge into Ascian Prime once defeated.
+
+Ascian Prime
+Universal Manipulation reduces everyone's HP to single digits. Role-based debuffs are applied while Ascian Prime long-casts Blight.
+
+Tanks and Healers get:
+- Doom - Slays the victim if not healed to full before expiration 
+- Ancient Circle - Emits a large donut AoE after a delay
+- Cursed Shriek - Causes a petrifying gaze attack when the debuff expires
+
+Damage Dealers get: 
+- Beyond Death - Removed by taking fatal damage
+- Off-Balance - Knocks players backwards when damaged
+- Forked Lightning - Detonates a large AoE at their location when the debuff expires
+
+Healers should immediately heal to remove Doom debuffs. Tanks and healers stand close to the centre at cardinal positions so Ancient Circle donuts have a safe spot in the middle.
+
+Damage dealers pair with a tank/healer behind them, back turned outward. They receive fatal damage from Ancient Circle to remove Beyond Death and get knocked back via Off-Balance. They then turn away to avoid Cursed Shriek's gaze. Damage dealers remain in position until Forked Lightning detonates.
+
+Blight blasts the raid for heavy damage and applies a 30s bleed after Universal Manipulation debuffs resolve. Healers must top everyone off and continue healing.
+
+Height Of Chaos - Tank-buster on Ascian Prime's main target.
+
+Megid

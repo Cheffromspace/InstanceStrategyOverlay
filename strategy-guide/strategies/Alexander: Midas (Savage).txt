@@ -1,0 +1,55 @@
+Here is the cleaned up text for the Alexander: Midas (Savage) strategy guide:
+
+General Information
+Alexander: Midas (Savage) is the second section of Alexander (Savage), the savage mode of the 8-player raid in Heavensward. This raid tier was released on February 23, 2016. Once unlocked, players can use Party Finder or other means of forming a full premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Heavensward). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+Complete the level 60 quest A Refrain for the Undaunted. Players can talk to Wandering Minstrel in Mor Dhona (x21,y8) to start the quest. Players must have first completed the quests A Gob in the Machine (Requires the completion of Midas NM).
+Players can also talk to Lightkix Eyesfixed in The Dravanian Hinterlands (x20,y26) to enter.
+
+Floors
+Level Requirement: Disciple of War or Magic level 60
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Alexander - The Fist of the Son (Savage) | A5S | 215 | Faust, HummelfaustRatfinx Twinkledinks | 15 | 90 min  
+Alexander - The Cuff of the Son (Savage) | A6S | 220 | Blaster, Brawler, Swindler, Vortexer | 15 | 90 min
+Alexander - The Arm of the Son (Savage) | A7S | 225 | Quickthinx Allthoughts | 15 | 90 min
+Alexander - The Burden of the Son (Savage) | A8S | 225 | Onslaughter, Blaster, Brawler, Swindler, Vortexer, Brute Justice | 15 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing areas in Alexander: The Midas (Savage) will yield accessories. In addition, players will receive a page of the Midan Manifesto from each area, which can be exchanged for gear of your choosing. 
+
+Upon completing Alexander: Midas (Savage) duties, a treasure coffer will appear containing a Midan Coffer. Using this item transforms it into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Alexander - The Burden of the Son (Savage) yield weapons.
+
+Item Type | Equipment Reward  
+Midan Weapon Coffer (IL 245) | Weapons
+Midan Head Gear Coffer (IL 240) | Head
+Midan Chest Gear Coffer (IL 240) | Body
+Midan Hand Gear Coffer (IL 240) | Hands  
+Midan Leg Gear Coffer (IL 240) | Legs
+Midan Foot Gear Coffer (IL 240) | Feet
+
+Exchange
+By speaking with Sabina in Idyllshire (X:5.8 Y:5.2), players can exchange pages of the Alexandrian Manifesto from Alexander: The Creator (Savage) for corresponding gear.
+
+Gear Slot | Required Token | # of Token
+Weapons | Midan Manifesto - Page 4 | 8
+Gladiator's Arm | Midan Manifesto - Page 4 | 5  
+Shield | Midan Manifesto - Page 4 | 3
+Head | Midan Manifesto - Page 2 | 6
+Body | Midan Manifesto - Page 4 | 8
+Hands | Midan Manifesto - Page 2 | 6
+Legs | Midan Manifesto - Page 3 | 8 
+Feet | Midan Manifesto - Page 2 | 6
+Accessories | Midan Manifesto - Page 1 | 4
+
+Weekly loot limits removed in Patch 3.4.
+
+Loot
+Sector 5 Loot - Necklaces, Earrings, Bracelets, Rings 
+Sector 6 Loot - Head Armor, Hand Armor, Feet Armor
+Sector 7 Loot - Head Armor, Hand Armor, Feet Armor, Leg Armor
+Sector 8 Loot - Body Armor, Weapons, Shields, Faustlet

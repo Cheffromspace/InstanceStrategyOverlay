@@ -1,0 +1,77 @@
+Here is the cleaned up strategy guide text for Containment Bay Z1T9 (Extreme) in Final Fantasy 14:
+
+Important 
+
+The North American and European data centers primarily use Party Finder to challenge (Extreme) content. Using Duty Finder to match with random players is not recommended and will be more difficult than pre-forming a party. For an easy completion (that will satisfy any quest requirements) or loot farming, it is recommended that players use Party Finder and form an Unrestricted Party (i.e., with level sync disabled). Players who wish to complete this duty with level sync enabled should also form a pre-made party, which also enables the use of Minimum Item Level and Silence Echo settings for a more authentic challenge compared to a Duty Finder party.
+
+Strategy
+
+The Demon: Zurvan
+
+Phase 1
+(boss does auto attack cleaves all the time. Should always be facing away from party members)
+East Platform falls + Red Circle AoE's: Bait melee fire circles together at right side of South platform and then move away.
+North Platform falls  
+West Platform falls + Red Circle AoE's: Bait again.
+
+Phase 2
+Soar (skipped at 75%): see below
+Ice pad Spawns under the boss. You can't move through the boss.
+Biting Halberd: needs to be directly behind the boss (Edit: Biting Halberd is used right after THIRD Cleave attacks. Like, Ice pad spawns -> cleave x3 -> Biting Halberd)
+Southern Cross: Stack at the butt to bait and then move out.
+Biting Halberd/Ciclicle/Tail End: Randomly selected (skipped at 59%)
+
+Phase 3 (Adds)
+ADDS:
+Execrated Will = Should be tanked by a tank. Does high damage, which will always crit, on its target and gain Damage Up buff every 10 sec.
+Execrated Thew = Small add. Should also be tanked by a tank. Nothing special.
+Execrated Wile = doesn't need to be tanked. Should face away from it when Meracydian Fear is cast.
+Execrated Wit = Doesn't need to be tanked. Should kill it before Meracydian Meteor casting is done.
+
+Will x1 (North) + Thew (North): just AoE down
+Will x2 (West) + Wile x1 (South) + Wit x1 (East): Each tank grab 1 Will at West. All DPS classes kill Wile first. Should face away from South to avoid Fear. Bring two Wills to South and AoE them down once Wit is dead.
+Will x1 (South) + Thew x3 (East) + Wit (West) + Wile (North): One tank grabs Will and the other tank grabs 3 Thews while DPS classes burn Wit. Should face away from North to avoid as well. Bring all the adds to North and AoE them down once Wit is dead.
+Zurvan's Ult
+
+Phase 4 Part 1
+Tethers appear: 2 pairs of Infinite Fire and 2 pairs of Infinite Ice come out. Tethered pair should be close enough to each other to avoid DoT damage (about 10k dmg each tick). (similar to T11 tethers)
+Wave Cannon: Randomly selects a non-MT player and does damage with Bleeding debuff. Everyone else should be away from its target, but make sure target's partner is in safe distance of tether.
+Tyrfing: Attacks Main Tank 5 times with spear and does fire damage at the end. High damage and cooldowns are needed as necessary.
+Southern Cross: Stack under the boss and move out. Make sure tethered partner is going to the same direction or it's going to kill both players. Call out where you're going to!
+Broken Seal: Spawns 4 fire meteors and 4 ice meteors. 4 players with Infinite Ice go into 4 Ice meteor circles while 4 Infinite Fire goes into 4 Fire meteor circles. (Match your color) Since players are tethered, tethered pair should always be close to each other. Call out! There are three patterns that randomly spawn.
+Biting Halberd/Ciclicle/Tail End:
+IF blue/red circles at EDGE: Ciclicle(IN)
+IF blue/red circles at CENTER: Tail End(OUT)  
+IF DIAMOND shapes x2: Biting Halberd(Butt)
+
+New tethers appear: find a new partner and hug each other.
+Wave Cannon: targets a random non-MT player. Away from its target.
+Tyrfing(hits 6 times and fire damage)
+Southern Cross
+Broken Seal
+
+Biting Halberd/Ciclicle/Tail End:
+
+Phase 4 Part 2
+Soar: see below
+The Demon's Claw: Does High damage and Stuns MT while putting Magic Vulnerability Up. OT Provokes the boss off MT. MT will also get knocked back. Make sure position yourself at the center so MT doesn't get knocked back into the fiery wall.
+Wave Cannon: targets MT and shows huge AoE box that arrows indicate into the AoE. Seems like people stack in the box to soak the damage together. However, my group just killed MT and had OT Provokeing the boss after.
+
+New tethers appear: find a new partner
+Wave Cannon: targets a random non-MT player. Away from its target.
+Tyrfing(hits 7 times and fire damage)
+Southern Cross
+Broken Seal
+
+Biting Halberd
+The Demon's Claw
+Wave Cannon
+New tethers appear
+Wave Cannon
+... Probably repeating... You wanna kill the boss now.
+Flame Halberd: Hard enrage cast
+
+Mechanics
+
+Soar
+When Boss casts Soar, he shows 3 rectangle AoE's toward the edge of the arena. After Rectangle AoE, the boss disappears and spawn 3 mirages at the edge where the three rectangle AoE were targeting at. Then, 6 red unavoidable circle AoE(size of shadowflare or a little bit bigger) spawn on 6 randomly selected players. When 

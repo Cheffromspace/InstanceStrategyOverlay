@@ -1,0 +1,17 @@
+## Void Soulcounter (Demon)
+- Appears after the destruction of each sealed barrier
+
+## Galvanth the Dominator (Soulflayer)
+- **Mind Blast**: AoE spell that will paralyze anyone caught in it. *Move out of the giant red circle* before he casts it.
+- Summons adds 3 times:
+  1. An imp that shoots fireballs
+  2. An imp, skeletons, and mitelings
+  3. Two imps, skeletons, and mitelings
+- *Prioritize killing the imps quickly* before the other adds, as they will interrupt spell casting and make Galvanth immune to damage.
+- After killing the imps in the 3rd wave, *use AoE Limit Break* on the remaining adds and possibly the boss.
+
+## Lore
+- **Revenge Of The Lambs**: Lambs of Dalamud cult occupied the crypts after the Calamity, plotting to summon a voidsent using the remains of the dead.
+- **Galvanth the Dominator**: The voidsent summoned, possessing the corpse of King Galvanth of Gelmorra. Defeated and purified to allow Galvanth to rest again.
+- **A Letter To Spell The End**: Conjurer Edda attempted to resurrect her fiancé Avere using necromancy in the Deepcroft before falling into the abyss.
+- **Avere Bravearm**: The being animated from Avere's remains by Edda's necromancy, before being stopped.
