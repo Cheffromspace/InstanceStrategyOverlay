@@ -20,7 +20,7 @@ Before running the project, ensure that you have the following installed:
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/Cheffromspace/InstanceStrategyOverlay.git
+`git clone https://github.com/Cheffromspace/InstanceStrategyOverlay.git`
 
 2. Navigate to the project directory:
    cd ffxiv-instance-strategy-overlay
