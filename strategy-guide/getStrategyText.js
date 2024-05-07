@@ -17,8 +17,7 @@ async function getStrategyText(instanceName) {
   } catch (error) {
     // If the file doesn't exist, fetch the strategy text from the web
     const encodedInstanceName = encodeURIComponent(instanceName);
-    // const url = `https://ffxiv.consolegameswiki.com/wiki/${encodedInstanceName}`;
-    const url = `https://ffxiv.gamerescape.com/wiki/${encodedInstanceName}#Dialogue`;
+    const url = `https://ffxiv.consolegameswiki.com/wiki/${encodedInstanceName}`;
     console.log("Fetching from", url);
 
     const response = await axios.get(url, {
@@ -35,8 +34,7 @@ async function getStrategyText(instanceName) {
       ? strategyElement.textContent
       : "Strategy not found";
 
-    // const strategyText = await anthropicApis.cleanScrapedText(rawStrategyText);
-    const strategyText = rawStrategyText;
+    const strategyText = await anthropicApis.cleanScrapedText(rawStrategyText);
 
     // Save the strategy text to a file
     await fs.mkdir(path.join(__dirname, "strategies"), { recursive: true });
