@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+  <head>
+    <title>FFXIV Instance Strategy Overlay</title>
+    <script src="https://overlayplugin.github.io/OverlayPlugin/assets/shared/common.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/2.3.0/purify.min.js"></script>
+    <style>
+      body {
+        background-color: rgba(28, 28, 28, 0.8);
+        color: #ffffff;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        /* overflow: hidden; */
+      }
+      #strategyContainer {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+        padding: 10px;
+        box-sizing: border-box;
+        overflow: hidden;
+        /* resize: both; */
+      }
+
+      #strategyTitle {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        color: #ffffff;
+        text-align: center;
+        /* flex-shrink: 0; */
+      }
+
+      #strategyText {
+        font-size: 14px;
+        line-height: 1.4;
+        color: #ffffff;
+        flex-grow: 1;
+        overflow-y: auto;
+        padding-right: 10px;
+      }
+
+      .error {
+        color: #ff4d4d;
+      }
+
+      .boss {
+        font-weight: 900;
+        color: #00ffcc;
+      }
+
+      .ability {
+        font-weight: bold;
+        color: #ffcc00;
+      }
+
+      .mechanic {
+        font-style: italic;
+        color: #00ffff;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="strategyContainer">
+      <div id="strategyTitle">Instance Strategy Overlay</div>
+      <div id="strategyText"></div>
+    </div>
+    <script>
+      // Sanitize user input
+      function sanitizeInput(input) {
+        return DOMPurify.sanitize(input, {
+          ALLOWED_TAGS: ["br", "span"],
+          ALLOWED_ATTR: ["class"],
+        });
+      }
+
+      function displayError(message) {
+        document.getElementById("strategyText").innerHTML =
+          `<p class="error">${message}</p>`;
+      }
+
+      // Subscribe to the 'LogLine' event
+      addOverlayListener("LogLine", (data) => {
+        const logLine = data.rawLine;
+        // Check if the log line contains 'has begun.'
+        // TODO There HAS to be a better way to do this
+        if (logLine.includes(" has begun.")) {
+          // Extract the instance name from the log line
+          const parts = logLine.split("|");
+          const instanceName = parts[4].trim().replace(" has begun.", "");
+          // Sanitize the instance name before using it
+          const sanitizedInstanceName = sanitizeInput(instanceName);
+
+          document.getElementById("strategyTitle").innerText =
+            sanitizedInstanceName;
+          document.getElementById("strategyText").innerText =
+            "Fetching instance strategy for " + sanitizedInstanceName + "...";
+
+          // Send a request to the server to fetch the instance strategy
+          fetch(
+            `https://781soye6r1.execute-api.us-east-2.amazonaws.com/instanceStrategy/?file=${encodeURIComponent(sanitizedInstanceName)}`,
+            { mode: "cors" },
+          )
+            .then((response) => response.text())
+            .then((data) => {
+              // Sanitize the fetched instance strategy before displaying it
+              const sanitizedData = sanitizeInput(data);
+
+              document.getElementById("strategyText").innerHTML = sanitizedData;
+            })
+            .catch((error) => {
+              console.error("Error fetching instance strategy:", error);
+              displayError(
+                "Failed to fetch instance strategy. Please try again later.",
+              );
+            });
+        }
+      });
+
+      // Start listening for overlay events
+      startOverlayEvents();
+    </script>
+  </body>
+</html>
