@@ -1,3 +1,5 @@
+![image](https://github.com/Cheffromspace/InstanceStrategyOverlay/assets/21370528/7b5e5129-106b-452d-813d-383dd1acba04)
+
 ## To use in ACT:
 
 1. Download the `index.html` file.
