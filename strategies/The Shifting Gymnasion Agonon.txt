@@ -1,0 +1,26 @@
+🔵 Blue: Easy monster
+🟢 Green: Slightly difficult monster
+🔴 Red: Most challenging monster
+🟣 Purple: Kalypso expels party from the dungeon (with a small chance to stay if lightning strikes)
+⭐ Silver: Summons a special creature, providing extra loot
+❗ Gold Exclamation: Shifts the arcane circles
+
+<span class="boss">Rare loot</span>:
+- Archangel wings
+- Royal lunatenderG
+- Pixie wings
+- Excite-i-mask
+- Resplendent feather
+- Exciting fiber
+- Sweet lawn ornaments
+- Cloth of happiness
+- White lace parasol
+- Exciting leather
+- Exciting neon wall light
+- Hagnos cloth
+- Malake karpasos
+- Burning horn
+- Wind-up philos
+- Wind-up aidoneus
+- Dangertek orchestrion roll
+- Athletikos cloth
