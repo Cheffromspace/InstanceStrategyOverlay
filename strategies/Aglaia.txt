@@ -3,8 +3,8 @@
 - <span class="ability">Ordeal of Thunder</span>: Unavoidable 💥 raidwide damage<br>
 - <span class="ability">Byregot's Strike</span>: <span class="mechanic">💨 Boss will jump to a random point and knockback, avoid lethal center</span><br>
 - <span class="ability">Builder's Build</span>: <span class="mechanic">Avoid 4 thin conal AoEs</span> combined with Byregot's Strike<br>
-<span class="boss">Hammer Phase></span>:<br>
-- <span "mechanic">Platforms pushed by hammers, do not stand next to hammers</span><br>
+<span class="boss">Hammer Phase</span>:<br>
+- <span class="mechanic">Platforms pushed by hammers, do not stand next to hammers</span><br>
 - <span class="ability">Levinforge</span>: <span class="mechanic">Predict movement of purple 📐 hammer AoE</span>, avoid ground falling<br>
 - <span class="ability">Byregot's Spire</span>: <span class="mechanic">Predict block knockback, stand in freshly made safe area</span><br>
 - <span class="ability">Reproduce</span>: <span class="mechanic">Stand in line with slow ➡️⬅️ AoE pattern, cross over after faster set passes</span><br>
