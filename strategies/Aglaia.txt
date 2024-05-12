@@ -1,0 +1,55 @@
+<span class="boss">Byregot</span>:<br>
+- <span class="ability">Byregot's Ward</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Ordeal of Thunder</span>: Unavoidable 💥 raidwide damage<br>
+- <span class="ability">Byregot's Strike</span>: <span class="mechanic">💨 Boss will jump to a random point and knockback, avoid lethal center</span><br>
+- <span class="ability">Builder's Build</span>: <span class="mechanic">Avoid 4 thin conal AoEs</span> combined with Byregot's Strike<br>
+<span class="boss">Hammer Phase></span>:<br>
+- <span "mechanic">Platforms pushed by hammers, do not stand next to hammers</span><br>
+- <span class="ability">Levinforge</span>: <span class="mechanic">Predict movement of purple 📐 hammer AoE</span>, avoid ground falling<br>
+- <span class="ability">Byregot's Spire</span>: <span class="mechanic">Predict block knockback, stand in freshly made safe area</span><br>
+- <span class="ability">Reproduce</span>: <span class="mechanic">Stand in line with slow ➡️⬅️ AoE pattern, cross over after faster set passes</span><br>
+<br>
+<span class="boss">Rhalgr's Emissary</span>:<br>
+- <span class="ability">Destructive Strike</span>: 🛡️ Cleave tankbuster<br>
+- <span class="ability">Bolts from the Blue</span>: Unavoidable 💥 raidwide damage<br>
+- <span class="ability">Destructive Static</span>: <span class="mechanic">Boss cleaves half the arena</span><br>
+- <span class="ability">Lightning Bolt</span>: <span class="mechanic">Avoid drawn ➡️⬅️ AoE lines, 🎯 puddles appear after</span><br>
+- <span class="ability">Boltloop</span>: <span class="mechanic">2 🎯 circle AoEs on opposite sides, then expanding donut AoE</span><br>
+<br>
+<span class="boss">Rhalgr</span>:<br>
+- <span class="ability">Lightning Reign</span>: Unavoidable 💥 raidwide damage<br>
+- <span class="ability">Advent of the Eighth</span>: <span class="mechanic">Avoid massive 📐 fist AoE on colored portal half</span><br>
+- <span class="ability">Broken World</span>: <span class="mechanic">Stand under flare comet if punching same side, else avoid flare and 🎯 circle AoEs</span><br>
+- <span class="ability">Rhalgr's Beacon</span>: <span class="mechanic">💨 Knockback to finger ground, avoid 🟪 lightning orbs</span><br>
+- <span class="ability">Bronze Work</span>: <span class="mechanic">Stand in 2nd thin 📐 AoE, move out when 1st goes off</span><br>
+- <span class="ability">Destructive Bolt</span>: 🛡️ Tankbuster on all 3 tanks<br>
+<br>
+<span class="boss">Lion & Lioness of Aglaia</span>:<br>
+- <span class="ability">Double Immolation</span>: Unavoidable 💥 raidwide damage<br>
+- <span class="ability">Slash and Burn</span>: <span class="mechanic">Lioness donut AoE, lion 🎯 circle AoE, dots show order</span><br>
+- <span class="ability">Roaring Blaze</span>: <span class="mechanic">Lions mark half arena each, dots show order</span><br>
+<br>
+<span class="boss">Azeyma</span>:<br>
+- <span class="ability">Warden's Warmth</span>: 🛡️ Three tankbusters<br>
+- <span class="ability">Warden's Prominence</span>: Unavoidable 💥 raidwide damage<br>
+- <span class="ability">Solar Wings</span>: <span class="mechanic">Wide 📐 cones to flanks, 🎯 orbs explode, predict illusion knockback trajectory</span><br>
+- <span class="ability">Solar Fans</span>: <span class="mechanic">Avoid ➡️⬅️ line AoEs from fans moving around edge</span><br>
+- <span class="ability">Radiant Finish</span>: <span class="mechanic">Move to cardinal direction without fans for massive 🎯 circle AoEs</span><br>
+- <span class="ability">Sun's Shine</span>: <span class="mechanic">Illusions blow 🔥 into opposite quadrant, find safe quadrant</span><br>
+- <span class="ability">Fleeting Spark</span>: <span class="mechanic">270° front/flank cleave, watch for tells</span><br>
+- <span class="ability">Wildfire Ward</span>: <span class="mechanic">Triangle safe zone, memorize 💨 knockback sequence</span><br>
+- <span class="ability">Sublime Sunset</span>: <span class="mechanic">Run opposite of 🔥 orb kick, avoid flare AoE</span><br>
+<br>
+<span class="boss">The Traders: Nald'thal</span>:<br>
+- <span class="ability">Golden Tenet</span>: 🤝 Stack tankbuster or invuln<br>
+- <span class="ability">Stygian Tenent</span>: 🛡️ Individual tankbusters on all tanks<br>
+- <span class="ability">Heat Above, Flames Below</span>: <span class="mechanic">🟠 circle AoE melee range, 🔵 ring AoE outside</span><br>
+- <span class="ability">Heavens' Trial</span>: <span class="mechanic">3 unavoidable 📐 conal AoEs, 🤝 stack marker</span><br>
+- <span class="ability">Far Above, Deep Below</span>: <span class="mechanic">3 🔵 chaser AoEs, 🟠 ➡️⬅️ line stack</span><br>
+- <span class="ability">Once Above, Ever Below</span>: <span class="mechanic">4 sets traveling ➡️⬅️ AoEs (2🟠 2🔵), only active color resolves</span><br>
+- <span class="ability">Hell of Fire</span>: <span class="mechanic">Thal forward lasers, Nald backward lasers, avoid half arena blast</span><br>
+- <span class="ability">Wayward Soul</span>: <span class="mechanic">Avoid 🎯 AoEs from falling balls, move in spiral</span><br>
+- <span class="ability">Fired Up</span>: <span class="mechanic">💎 mark AoE order, 🔵 dot = 🎯 AoE, 🟡 arrows = 💨 knockback, position for safe knockback chain</span><br>
+- <span class="ability">Soul's Measure</span>: <span class="mechanic">3 tethered adds (2-3 weight), 🤝 stack markers per alliance</span><br>
+- <span class="ability">Tipped Scales</span>: <span class="mechanic">Balance scale by standing on side opposite tethered add</span><br>
+- <span class="ability">Hearth Above, Flight Below</span>: <span class="mechanic">Stand in safe color (Heat/Flames), resolve ➡️⬅️ stack or chaser (Far/Deep)</span>
