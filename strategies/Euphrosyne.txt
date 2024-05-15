@@ -1,28 +1,28 @@
-<span class="boss">Nophica</span>:
-- <span class="ability">The Giving Land</span>: 🎯 Point-blank AoE (pink field) or donut AoE (green forest), <span class="mechanic">inflicts knockup and Vulnerability Up</span>
-- <span class="ability">Floral Haze</span>: 🏃 <span class="mechanic">Face direction debuff, forces movement</span>. Dodge first AoE, position for second
-- <span class="ability">Matron's Breath</span>: 🔵🟡 <span class="mechanic">Stand in matching color circle when beacon resolves</span>
-- <span class="ability">Sowing Circle</span>: 💥 <span class="mechanic">Two sets of "exaflare" AoEs, move to safe zone after first set</span>
-
-<span class="boss">Althyk and Nymeia</span>:
-- <span class="mechanic">Separate bosses, avoid tethering for Sibling Revelry buff</span>
-- <span class="ability">Spinner's Wheel</span>: 🃏 <span class="mechanic">Debuff indicated by card icon, resolve correctly or be Seduced</span>
-- <span class="ability">Mythril Greataxe</span>: 📐 Conal AoE from Althyk
-- <span class="ability">Axioma</span>: 💥 <span class="mechanic">Raidwide AoE, spawns damaging dark purple streaks</span>
-- <span class="ability">Inexorable Pull</span>: 💨 <span class="mechanic">Roomwide knockup, dodge by standing in dark purple streaks</span>
-- <span class="ability">Hydrostasis</span>: 💧 <span class="mechanic">Water puddles resolve in numbered order, aim knockbacks to next puddle</span>
-
-<span class="boss">Halone</span>:
-- <span class="ability">Tetrapagos</span>: 🎯 <span class="mechanic">Four sequential AoEs (PB, donut, left, right), dodge based on first two</span>
-- <span class="ability">Doom Spear</span>: 🤝 <span class="mechanic">Three towers, each alliance takes one</span>
-- <span class="ability">Lochos</span>: ⬅️➡️ <span class="mechanic">Two rows of spears, half-room line AoEs, one quadrant safe</span>
-- <span class="ability">Will of the Fury</span>: 🎯💨 <span class="mechanic">Cascading narrow donut AoE + proximity AoE, move to edge</span>
-- <span class="mechanic">Adds phase</span>: 🎯 <span class="mechanic">Each alliance takes a Glacial Spear, defeat middle spear to remove barriers</span>
-
-<span class="boss">Menphina</span>:
-- <span class="ability">Full Bright</span>: ⬅️➡️ <span class="mechanic">Large line AoE through middle when moon fully waxes</span>
-- <span class="ability">Midnight Frost</span>: 🌓 <span class="mechanic">Half-room cleave AoE on icy floor side</span>
-- <span class="ability">Love's Light / Full Bright</span>: 🌓 <span class="mechanic">Four moons, half-filled resolve first</span>
-- <span class="mechanic">Adds phase</span>: 🎯 <span class="mechanic">Defeat Ceremonial Pillars, dodge Ice Sprite AoEs</span>
-- <span class="ability">Playful Orbit / Midnight Frost</span>: 🌓🌗 <span class="mechanic">Boss unmounts, both use half-room cleaves</span>
-- <span class="ability">Winter Solstice</span>: 🧊 <span class="mechanic">Thin Ice debuff, slide to dodge mechanics</span>
+<span class="boss">Nophica</span>:<br>
+- <span class="ability">The Giving Land</span>: 🎯 Point-blank AoE (pink field) or donut AoE (green forest), <span class="mechanic">inflicts knockup and Vulnerability Up</span><br>
+- <span class="ability">Floral Haze</span>: 🏃 <span class="mechanic">Face direction debuff, forces movement</span>. Dodge first AoE, position for second<br>
+- <span class="ability">Matron's Breath</span>: 🔵🟡 <span class="mechanic">Stand in matching color circle when beacon resolves</span><br>
+- <span class="ability">Sowing Circle</span>: 💥 <span class="mechanic">Two sets of "exaflare" AoEs, move to safe zone after first set</span><br>
+<br>
+<span class="boss">Althyk and Nymeia</span>:<br>
+- <span class="mechanic">Separate bosses, avoid tethering for Sibling Revelry buff</span><br>
+- <span class="ability">Spinner's Wheel</span>: 🃏 <span class="mechanic">Debuff indicated by card icon, resolve correctly or be Seduced</span><br>
+- <span class="ability">Mythril Greataxe</span>: 📐 Conal AoE from Althyk<br>
+- <span class="ability">Axioma</span>: 💥 <span class="mechanic">Raidwide AoE, spawns damaging dark purple streaks</span><br>
+- <span class="ability">Inexorable Pull</span>: 💨 <span class="mechanic">Roomwide knockup, dodge by standing in dark purple streaks</span><br>
+- <span class="ability">Hydrostasis</span>: 💧 <span class="mechanic">Water puddles resolve in numbered order, aim knockbacks to next puddle</span><br>
+<br>
+<span class="boss">Halone</span>:<br>
+- <span class="ability">Tetrapagos</span>: 🎯 <span class="mechanic">Four sequential AoEs (PB, donut, left, right), dodge based on first two</span><br>
+- <span class="ability">Doom Spear</span>: 🤝 <span class="mechanic">Three towers, each alliance takes one</span><br>
+- <span class="ability">Lochos</span>: ⬅️➡️ <span class="mechanic">Two rows of spears, half-room line AoEs, one quadrant safe</span><br>
+- <span class="ability">Will of the Fury</span>: 🎯💨 <span class="mechanic">Cascading narrow donut AoE + proximity AoE, move to edge</span><br>
+- <span class="mechanic">Adds phase</span>: 🎯 <span class="mechanic">Each alliance takes a Glacial Spear, defeat middle spear to remove barriers</span><br>
+<br>
+<span class="boss">Menphina</span>:<br>
+- <span class="ability">Full Bright</span>: ⬅️➡️ <span class="mechanic">Large line AoE through middle when moon fully waxes</span><br>
+- <span class="ability">Midnight Frost</span>: 🌓 <span class="mechanic">Half-room cleave AoE on icy floor side</span><br>
+- <span class="ability">Love's Light / Full Bright</span>: 🌓 <span class="mechanic">Four moons, half-filled resolve first</span><br>
+- <span class="mechanic">Adds phase</span>: 🎯 <span class="mechanic">Defeat Ceremonial Pillars, dodge Ice Sprite AoEs</span><br>
+- <span class="ability">Playful Orbit / Midnight Frost</span>: 🌓🌗 <span class="mechanic">Boss unmounts, both use half-room cleaves</span><br>
+- <span class="ability">Winter Solstice</span>: 🧊 <span class="mechanic">Thin Ice debuff, slide to dodge mechanics</span><br>
