@@ -1,0 +1,30 @@
+<span class="boss">Cetus</span>:
+- <span class="ability">Electric Swipe</span>: 📐 Rear cone AoE, inflicts <span class="mechanic">Electrocution DoT 🤢</span>
+- <span class="ability">Body Slam</span>: 🎯 Circular AoE on random player
+- <span class="ability">Immersion</span>: 💥 Party-wide damage, <span class="mechanic">water orbs drop puddles that inflict Dropsy 🤢</span>
+- <span class="ability">Symbiosis</span>: <span class="mechanic">Cetus becomes untargetable, summons Hybodus adds 🎯</span>
+- <span class="ability">Electric Whorl</span>: 🎯 Ring AoE, only Cetus's hitbox is safe, inflicts <span class="mechanic">Electrocution 🤢</span>
+- <span class="ability">Hydrocore</span>: <span class="mechanic">Cetus becomes untargetable, separates parties, spawns Hydrocore and Hydrosphere adds 🎯</span>
+
+<span class="boss">Forward Port Ventilator</span>:
+- <span class="mechanic">Each group takes a button, prioritize Pagan's Knots adds 🎯</span>
+- <span class="mechanic">Stand on buttons to clear poison, avoid when there is static ⚡</span>
+
+<span class="boss">Irminsul and Sawtooth</span>:
+- <span class="mechanic">Bosses have Life Tether 🔗, equalizing HP when difference is too large</span>
+- <span class="mechanic">Each boss gains either Ranged or Magic Resistance 🛡️</span>
+- <span class="ability">Mucus Bomb</span> and <span class="ability">Mucus Spray</span>: <span class="mechanic">Tethers and Seizes affected players, break tethers to dispel 🔗</span>
+- <span class="ability">Shockwave Stomp</span>: <span class="mechanic">Hide behind Invincible Irminsul to avoid massive damage 🛡️</span>
+- <span class="ability">Sawtooth Feeds</span>: <span class="mechanic">Sawtooth Devours players, regurgitates them with Parasite debuff 🤢</span>
+
+<span class="boss">Cuchulainn</span>:
+- <span class="mechanic">Players receive stacking Bleeding debuff that can't be removed 🤢</span>
+- <span class="ability">Idol of Impurity</span>: <span class="mechanic">Destroy Gyrtower adds to prevent extra Bleeding stacks 🎯</span>
+- <span class="ability">Void Pact</span>: <span class="mechanic">Portals spawn Foobar adds, Cuchulainn gains Stoneskin 🛡️</span>
+- <span class="ability">Bile Below</span>: <span class="mechanic">Stand on raised platforms to avoid instant-kill attack ☠️</span>
+- <span class="ability">Black Lung</span>: <span class="mechanic">Touch Black Phlegm orbs to defuse them, or suffer Bind and Vulnerability Up 🤢</span>
+
+<span class="boss">Echidna</span>:
+- <span class="ability">Petrifaction</span>: <span class="mechanic">Gaze attack inflicts Petrification and Vulnerability Up 🤢</span>
+- <span class="mechanic">Add Phase: Tanks grab Echidna, Sinister, and Dexter, keep them apart to reduce Vulnerability Down 🛡️</span>
+- <span class="ability">Gehenna</span>: 💥 Alliance-wide damage when adds are defeated
