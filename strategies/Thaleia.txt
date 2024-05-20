@@ -1,52 +1,23 @@
-<span class="boss">Thaliak</span>:
-<ul>
-<li><span class="ability">Rheognosis</span>: <span class="mechanic">🏃 Move towards clone to avoid 💨 knockback off arena</span></li>
-<li><span class="ability">Left Bank / Right Bank</span>: <span class="mechanic">🏃 Avoid half-room cleave based on attack name or glowing orb side</span></li> 
-<li><span class="ability">Hydroptosis</span>: 🏃<>🏃 <span class="mechanic">Spread to avoid overlap, inflicts 🤢 Water Resistance Down</span></li>
-<li><span class="ability">Rhyton</span>: <span class="mechanic">⚔️ Line AoE tankbusters on all tanks</span></li>
-<li><span class="ability">Tetraktys</span>: <span class="mechanic">🔵 Avoid expanding blue triangles, 🟢 green triangles cover 4 panels</span></li>
-<li><span class="ability">Tetraktuos Kosmos</span>: <span class="mechanic">🏃 Dodge 📐 falling tower walls, ⏳ repeats with 2 towers</span></li>
-<li><span class="ability">Hieroglyphika</span>: <span class="mechanic">💠 Stand on safe tile after 90° rotation, then dodge half-room cleave</span></li>
-</ul>
+<span class="boss">The Twelve: Eulogia</span>:<br>
 
-<span class="boss">Llymlaen</span>:
-<ul>
-<li><span class="ability">Wind Rose</span>: <span class="mechanic">💥 Brief point-blank AoE</span></li>
-<li><span class="ability">Navigator's Trident</span>: <span class="mechanic">🏃 Dodge left/right cleaves, then 📏 line AoE + 💨 knockbacks</span></li>
-<li><span class="ability">Surging Wave</span>: <span class="mechanic">💠 Position in narrow green indicator for 💨 knockback, 🏃💨 run back avoiding 👾 spheres</span></li>
-<li><span class="ability">Left Strait / Right Strait</span>: <span class="mechanic">🏃 Avoid half-room cleave based on attack name</span></li>
-<li><span class="ability">Torrential Tridents</span>: <span class="mechanic">🏃 Move from last to first trident to dodge 💥 AoEs in order</span></li>
-<li><span class="note">Adds (Perykos and Thalaos) use ➡️⬅️ line AoEs with boss mechanics</span></li>
-</ul>
+<span class="mechanic">🚫 Falling off arena causes death</span><br>
+<span class="ability">First Form</span> / <span class="ability">Second Form</span> / <span class="ability">Third Form</span>: <span class="mechanic">🏃 Follow boss arrows</span>, dodge 📐 left/right cleaves and 🍩 donut AoE<br>
+<span class="ability">Sunbeam</span>: <span class="mechanic">🛡️ 3x tank busters</span><br>
+<span class="ability">The Whorl</span>: <span class="mechanic">💥 Raidwide, arena transition, 🚫 edge instakill</span><br>
 
-<span class="boss">Oschon</span>:
-<ul>
-<li><span class="ability">Trek Shot</span>: <span class="mechanic">🏃 Move to wall with arrow to dodge 📐 frontal cone</span></li>
-<li><span class="ability">Reproduce</span>: <span class="mechanic">🏃 Dodge 📐 conal AoEs from boss and clones</span></li>
-<li><span class="ability">Flinted Foehn</span>: <span class="mechanic">🤝 Multi-hit stack</span></li>
-<li><span class="ability">Soaring Minuet</span>: <span class="mechanic">🏃 Avoid 270° frontal cleave</span></li>
-<li><span class="ability">The Arrow</span>: 🛡️ <span class="mechanic">Tankbusters on all tanks</span></li>
-<li><span class="ability">Downhill + Climbing Shot</span>: <span class="mechanic">💠 Position for 💨 knockback to safe area</span></li>
-<li><span class="ability">Piton Pull</span>: <span class="mechanic">🏃 Move to corner without hook to avoid 💥 AoEs</span></li>
-<li><span class="ability">Wandering Shot</span>: <span class="mechanic">🏃 Avoid converging arrows and 💥 circular AoE</span></li>
-<li><span class="ability">Arrow Trail</span>: <span class="mechanic">🏃 Move to safe area after arrows pass, dodge 🎯 AoEs</span></li>
-</ul>
+<span class="boss">Mythic Mechanics Phase</span>:<br>
 
-<span class="boss">The Twelve: Eulogia</span>:
-<ul>
-<li><span class="ability">First/Second/Third Form + Quintessence</span>: <span class="mechanic">🏃 Follow boss arrows, remember left/right cleaves, dodge inside for 🍩 AoE</span></li>
-<li><span class="ability">Sunbeam</span>: 🛡️ <span class="mechanic">Tankbusters on all tanks</span></li>
-<li><span class="note">Uses mechanics from all previous Myths of the Realm bosses:</span></li>
-<li><span class="ability">Love's Light (Menphina)</span>: <span class="mechanic">🏃 Rotate CW/CCW to dodge 📏 line AoEs from waxing moons</span></li>
-<li><span class="ability">Solar Fans (Azeyma)</span>: <span class="mechanic">🏃 Avoid trailing line AoEs, move to cardinals without fans for Radiant Finish</span></li>
-<li><span class="ability">Hydrostasis + Time and Tide (Nymeia/Althyk)</span>: <span class="mechanic">💨 Aim knockbacks to next resolving puddle</span></li>
-<li><span class="ability">Hieroglyphika + Hand of the Destroyer (Thaliak/Rhalgr)</span>: <span class="mechanic">💠 Stand on safe tile after rotation, avoid 💥 fist AoE on matching portal half</span></li>
-<li><span class="ability">Matron's Breath (Nophica)</span>: <span class="mechanic">🌟 Match beacon color when it resolves to avoid damage</span></li>
-<li><span class="ability">Torrential Tridents (Llymlaen)</span>: <span class="mechanic">🏃 Dodge point-blank AoEs in reverse order</span></li>
-<li><span class="ability">Byregot's Strike (Byregot)</span>: <span class="mechanic">💨 Knockback + ⚡ lightning AoEs translated to center</span></li>
-<li><span class="ability">Thousandfold Thrust (Halone)</span>: <span class="mechanic">🏃 Avoid converging circles into 180° cleave</span></li>
-<li><span class="ability">As Above, So Below + Climbing Shot (Nald'thal/Oschon)</span>: <span class="mechanic">🏃 Position for knockback to safe AoE color</span></li>
-<li><span class="ability">Eudaimon Eorzea</span>: <span class="mechanic">💥 Heal and mitigate through 12 raidwides</span></li>
-</ul>
+<span class="ability">Love's Light (Menphina)</span>: <span class="mechanic">Dodge 4x ➡️⬅️ line AoEs by rotating around arena</span><br>
+<span class="ability">Solar Fans (Azeyma)</span>: <span class="mechanic">🏃 To cardinals without fans to avoid 💥 AoEs</span><br>
+<span class="ability">Hydrostasis (Nymeia)</span> + <span class="ability">Time and Tide (Althyk)</span>: <span class="mechanic">3 puddles knock back in tether order, 💨 resist or aim to next</span><br>
+<span class="ability">Destructive Bolt</span>: <span class="mechanic">🤝 Stack</span><br>
+<span class="ability">Hieroglyphika (Thaliak)</span> + <span class="ability">Hand of the Destroyer (Rhalgr)</span>: <span class="mechanic">Stand on safe tile after 90° rotation, avoid 👊 half-arena AoE</span><br>
+<span class="ability">Matron's Breath (Nophica)</span>: <span class="mechanic">Match beacon color when they resolve</span><br>
+<span class="ability">Torrential Tridents (Llymlaen)</span>: <span class="mechanic">Move from last to first trident 💥 AoEs</span><br>
+<span class="ability">Byregot's Strike (Byregot)</span>: <span class="mechanic">💨 Knockback + 4x thin 📐 lightning AoEs</span><br>
+<span class="ability">Thousandfold Thrust (Halone)</span>: <span class="mechanic">Avoid boss 180° cleave</span><br>
+<span class="ability">As Above, So Below (Nald'thal)</span> + <span class="ability">Climbing Shot (Oschon)</span>: <span class="mechanic">💨 Knockback into safe color AoEs</span><br>
+<span class="ability">Soaring Minuet (Oschon)</span>: <span class="mechanic">Avoid 270° frontal cleave</span><br>
+<span class="ability">Eudaimon Eorzea</span>: <span class="mechanic">12x 💥 raidwides, 🩹 heal through</span><br>
 
-<span class="note">Fight loops back to original arena until boss is defeated.</span>
+<span class="note">Fight loops back to original arena until boss dies.</span>
