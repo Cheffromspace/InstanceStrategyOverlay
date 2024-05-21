@@ -1,1 +1,21 @@
-<span class="boss">Knight in Black: Golbez</span><br>- <span class="ability">Terrastorm</span>: 🎯 Move away from telegraphed circular AoE in corner<br>- <span class="ability">Crescent Blade</span>: 📐 Move behind boss to avoid frontal cleave<br>- <span class="ability">Arctic Assault</span>: 💠 Stand behind "arrows" to avoid AoE<br>- <span class="ability">Void Meteor</span>: 🛡️ Tankbuster targeting both tanks<br>- <span class="ability">Lingering Spark</span>: 🎯 Move away from baited circle AoEs<br>- <span class="ability">Binding Cold</span>: 💥 Raid-wide damage + 🤢 Frostbite DoT<br><br><span class="boss">Azdaja's Shadow</span><br>- <span class="ability">Black Fang</span>: 💥 Raid-wide damage<br>- <span class="ability">Shadow Crescent</span>: 📐 Frontal cleave followed by 🎯 point-blank AoE<br>- <span class="ability">Burning Shade</span>: 🌐 Spread markers on all players<br>- <span class="mechanic">Meteor Phase</span>: 🤝 Soak towers in East and West, 🔗 healer tethered to dragon, ➡️⬅️ line attack in tether direction<br>- <span class="ability">Double Meteor</span>: 💠 Move to opposite side of 🎯 proximity damage in corners<br>- <span class="ability">Gale Sphere</span>: 🏃 Find safe lanes between ➡️⬅️ line AoEs from clones<br>- <span class="ability">Void Stardust</span>: 🏃 Move along platform edges, return through center<br>- <span class="ability">Eventide Fall</span>: 💠 Split into light parties to share ➡️⬅️ line attack damage<br>- <span class="ability">Immolating Shade</span>: 🤝 Stack up to share damage on marked player
+<span class="boss">Golbez</span>:<br>
+<span class="note">🚫 Falling off edge = death (can be rezzed)</span><br>
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Terrastorm</span>: 🔴 Avoid corner AoE<br>
+- <span class="ability">Crescent Blade</span>: 🏃 Behind boss to avoid 📐 cleave<br>
+- <span class="ability">Arctic Assault</span>: 🏃 Stand in safe quadrants<br>
+- <span class="ability">Void Meteor</span>: 🛡️ Tankbuster on both tanks<br>
+- <span class="ability">Lingering Spark</span>: 🎯 Baited AoEs, 🏃 move away<br>
+- <span class="ability">Binding Cold</span>: 💥 Raid-wide + 🤢 DoT<br>
+<span class="boss">Phase 2</span>:<br>
+- <span class="ability">Azdaja's Shadow</span>: 💥 Raid-wide, powers up next <span class="ability">Crescent Blade</span><br>
+- <span class="ability">Shadow Crescent</span>: 📐 Cleave + point-blank 🔴 AoE<br>
+- <span class="ability">Burning Shade</span>: 🏃<>🏃 Spread markers<br>
+- <span class="mechanic">Meteor Phase</span>: Soak towers E/W, 1 healer gets 💨 marker<br>
+&nbsp;&nbsp;- Healer stays near center, others 💨 into towers or use 💨 immunity<br>
+&nbsp;&nbsp;- Healer tethered to boss, 🏃 away to avoid ➡️⬅️ attack<br>
+- <span class="ability">Double Meteor</span>: 🏃 Opposite side to minimize 💥 damage<br>
+- <span class="ability">Gale Sphere</span>: 👾 Clones attack in spawn order, find safe ➡️⬅️ lanes<br>
+- <span class="ability">Void Stardust</span>: 🏃 Down edges, return through center<br>
+- <span class="ability">Eventide Fall</span>: ➡️⬅️ Attacks on healers, split into light parties<br>
+- <span class="ability">Immolating Shade</span>: 🤝 Stack marker on 1 player<br>
