@@ -1,1 +1,24 @@
-<span class="boss">The Leightonward</span>:<br>- <span class="ability">Wild Horn</span>: 🛡️ Mini tankbuster<br>- <span class="ability">Inflamable Fumes</span>: 💥 Raidwide damage<br>- <span class="ability">Spore Sac</span>: <span class="mechanic">🎯 Avoid AoEs from exploding spore sacs</span><br>- <span class="ability">Excretion</span>: 🤢 Inflicts 30s Heavy debuff<br><br><span class="boss">Gowrow</span>:<br>- <span class="ability">Volcanic Howl</span>: 💥 Raidwide damage, boss gains 🌟 Damage Up<br>- <span class="ability">Ripper Claw</span>: ➡️⬅️ Dodgeable cleave, 🌪️ spawns tornado when buffed<br>- <span class="ability">Tail Smash/Swing</span>: ➡️⬅️ Dodgeable backwards cleave with 💨 knockback, becomes 🎯 circular cleave when buffed<br>- <span class="ability">Fireball/Lava Flow</span>: 📐 Cone AoE on target<br>- <span class="ability">Wild/Hot Charge</span>: ➡️⬅️ Line AoE charge with 💨 knockback<br>- <span class="mechanic">Most attacks inflict 🤢 Infirmity debuff</span><br><br><span class="boss">Lava Scorpion</span>:<br>- <span class="ability">Molten Silk</span>: 270° 📐 cleave, <span class="mechanic">safe zone directly behind boss</span><br>- <span class="ability">Deadly Thrust</span>: 🛡️ High damage attack on main target<br>- <span class="ability">Hiss</span>: <span class="mechanic">🎯 Kill 2-4 Scorpion adds</span><br>- <span class="ability">Realm Shaker</span>: 🎯 Close range circular AoE<br>- <span class="ability">Flying Press</span>: 🎯 Marks player for moderate damage with splash, <span class="mechanic">creates 🔥 lava puddles</span><br>- <span class="mechanic">Avoid 🔥 lava puddles, kill adds before Borehole cast</span>
+<span class="boss">The Leightonward</span>:
+- <span class="ability">Wild Horn</span>: 🛡️ Mini tankbuster
+- <span class="ability">Inflamable Fumes</span>: 💥 Raidwide damage
+- <span class="ability">Spore Sac</span>: <span class="mechanic">Spawns untargetable 🔴 AoE spore sacs</span>, additional 💥 proximity AoE sacs each cast
+- <span class="ability">Excretion</span>: 🎯 Targeted damage, inflicts 30s 🤢 Heavy
+
+<span class="boss">Gowrow</span>:
+- <span class="ability">Volcanic Howl</span>: 💥 Raidwide, boss gains 🌟 Damage Up
+- <span class="ability">Ripper Claw</span>: <span class="mechanic">📐 Dodgeable cleave</span>, spawns 💨 tornado when buffed
+- <span class="ability">Tail Smash/Swing</span>: <span class="mechanic">📐 Dodgeable rear cleave/circular 💨 knockback</span>
+- <span class="ability">Fireball/Lava Flow</span>: <span class="mechanic">🎯 Targeted 🔴 AoE / 📐 cone AoE when buffed</span>
+- <span class="ability">Wild/Hot Charge</span>: <span class="mechanic">➡️ Line AoE charge with 💨 knockback</span>
+- <span class="note">All attacks except Volcanic Howl inflict 8s 🤢 Infirmity if damage taken</span>
+
+<span class="boss">Lava Scorpion</span>:
+- <span class="ability">Molten Silk</span>: <span class="mechanic">270° 📐 cleave, safe zone behind</span>
+- <span class="ability">Deadly Thrust</span>: 🛡️ High damage tankbuster
+- <span class="ability">Hiss</span>: <span class="mechanic">Summons 2-4 👾 Scorpion adds, kill quickly</span>
+- <span class="ability">Realm Shaker</span>: 🔴 Short-range circular AoE
+- <span class="ability">Flying Press</span>: 🎯 Targeted moderate damage with splash, creates 🔥 lava puddles
+- <span class="mechanic">Move toward boss to avoid 🔥 lava puddles</span>
+- <span class="mechanic">👾 Scorpion's Claw adds create 🔥 lava puddles, 🚫 interrupt Borehole cast</span>
+- <span class="mechanic">👾 Scorpion's Tail adds use weaker 🛡️ Deadly Thrust</span>
+- <span class="note">Prepare for 🛡️ Deadly Thrust + 👾 add damage, use 🌟 tank cooldowns and 🩹 heals</span>

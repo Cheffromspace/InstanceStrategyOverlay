@@ -1,1 +1,24 @@
-<span class="boss">Magitek Predator</span><br>- <span class="ability">Magitek Claw</span>: 🛡️ Tankbuster<br>- <span class="ability">Magitek Ray</span>: ➡️⬅️ Linear AoE, <span class="mechanic">avoid standing in front</span><br>- <span class="ability">Magitek Missile</span>: 🎯 Marked players explode, <span class="mechanic">spread out</span><br>- <span class="mechanic">🎯 Kill adds quickly</span><br><br><span class="boss">Armored Weapon</span><br>- <span class="ability">Launcher</span>: 💥 Party-wide AoE damage<br>- <span class="ability">Dynamic Sensory Jammer</span>: 🤢 Debuff, <span class="mechanic">stop all actions and movement</span><br>- <span class="ability">Magitek Bit</span>: 🎯 Checkerboard AoE from adds, <span class="mechanic">position safely</span><br>- <span class="ability">Distress Beacon</span>: 🎯 Many adds spawn, <span class="mechanic">AoE them down</span><br><br><span class="boss">The Griffin</span><br>- <span class="ability">Beak of the Griffin</span>: 💥 Party-wide AoE<br>- <span class="ability">Flash Powder</span>: 🚫 Look away or be stunned<br>- <span class="ability">Sanguine Blade</span>: 📐 Cleave, <span class="mechanic">avoid standing in front</span><br>- <span class="ability">Lionshead</span>: 🎯 Swords rain down, <span class="mechanic">kill center sword, stand in safe spot</span><br>- <span class="ability">Big Foot</span>: 💨 Marked player knocked back <br>- <span class="ability">Restraint Collar</span>: 🤢 Healer bound, <span class="mechanic">free them quickly</span><br>- <span class="ability">Claw of the Griffin</span>: 🛡️ Tankbuster
+<span class="boss">Magitek Predator</span>:
+- <span class="ability">Magitek Claw</span>: 🛡️ Tankbuster
+- <span class="ability">Magitek Ray</span>: ➡️⬅️ Linear AoE
+- <span class="ability">Magitek Missile</span>: 🎯 Marked players, 💥 move away
+- 👾 Prioritize killing adds
+
+<span class="boss">Armored Weapon</span>:
+- <span class="ability">Launcher</span>: 💥 Group-wide AoE
+- <span class="ability">Dynamic Sensory Jammer</span>: 🚫 Take no actions or movement
+- <span class="ability">Magitek Bit</span>: 🔴 Checkerboard AoE
+- <span class="ability">Distress Beacon</span>: 👾 Many low-HP adds, 🛡️ high tank damage
+- 🩹 Heals and 💥 AoE damage during adds
+
+<span class="boss">The Griffin</span>:
+- <span class="ability">Beak of the Griffin</span>: 💥 Room-wide AoE
+- <span class="ability">Flash Powder</span>: 🚫 Look away or 🤢 stun + accuracy down
+- <span class="ability">Sanguine Blade</span>: 🏃 Avoid 📐 room cleave
+- <span class="ability">Lionshead</span>: 🔴 Swords rain down, 💥 kill middle sword, 🏃 stand in vacant space
+- <span class="ability">Big Foot</span>: 🎯 Marked player, 💨 knockback
+- <span class="ability">Restraint Collar</span>: 🚫 Healer restrained, 👾 kill restraints
+- <span class="ability">Claw of the Griffin</span>: 🛡️ Tankbuster
+- 🏃 Chase boss during <span class="ability">Sanguine Blade</span>
+- 🚫 Look away during <span class="ability">Flash Powder</span>
+- 👾 Break party members out of <span class="ability">Restraint Collar</span>
