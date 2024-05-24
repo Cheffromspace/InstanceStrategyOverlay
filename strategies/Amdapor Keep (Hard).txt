@@ -1,1 +1,18 @@
-<span class="boss">Anchag</span>:<br>- 🎯 Red marker: <span class="mechanic">🏃 Run behind a statue</span> to avoid damage and debuff<br>- Tank Anchag away from statues<br>- Avoid rush attack near statues<br><br><span class="boss">Boogyman</span>:<br>- Kill Luminescence orb for Irradiance buff to <span class="mechanic">reveal invisible Boogyman</span><br>- Kill Bloodmoon Sacrifice adds<br>- When low HP, Boogyman <span class="mechanic">splits into two invisible forms</span> revealed separately<br><br><span class="boss">Ferdiad</span>:<br>- Tank at edge<br>- Kill adds, prioritize <span class="ability">Wicked Jester</span> 🔗 tethered to Ferdiad<br>- Free players <span class="mechanic">trapped in slime adds</span><br>- Avoid blue spinning scythes and crisscrossing AoEs<br>- Final phase: Slime traps + tethered add, <span class="mechanic">prioritize killing tethered add</span> unless DPS are trapped
+<span class="boss">Anchag</span>:<br>
+- 🎯 <span class="mechanic">Hide behind statue when targeted with red marker</span> to avoid tether + 🤢 DoT debuff<br>
+- <span class="mechanic">Tank boss away from statues</span>, DPS/healers stand between statues<br>
+- 🏃 <span class="mechanic">Move close to boss for rush attack</span> (rectangular telegraph) to reduce damage<br>
+
+<span class="boss">Boogyman</span>:<br>
+- <span class="mechanic">Kill Luminescence orb</span> to get Irradiance buff<br>
+- <span class="mechanic">Use buff to reveal invisible Boogyman</span>, knocking him back<br>
+- 👾 <span class="mechanic">Kill Bloodmoon Sacrifice adds at 55% and 30%</span><br>
+- <span class="mechanic">Split up to reveal both Boogyman forms</span> when he splits at low HP<br>
+
+<span class="boss">Ferdiad</span>:<br>
+- <span class="mechanic">Tank at edge</span>, boss moves to center for circular AoE<br>
+- 👾 <span class="mechanic">Kill tethered Wicked Jester adds ASAP</span> to stop growing AoE<br>
+- 🎯 <span class="mechanic">Free players trapped in Suppuration slime adds</span>, avoid cleave<br>
+- 🏃 <span class="mechanic">Avoid blue spinning scythes and criss-cross AoEs</span><br>
+- <span class="note">Prioritize killing tethered add or freeing trapped players</span> based on situation<br>
+- <span class="note">Use DPS LB if needed to kill tethered add before AoE covers arena</span>

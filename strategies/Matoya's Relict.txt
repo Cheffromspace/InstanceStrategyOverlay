@@ -1,1 +1,21 @@
-Here is the concise summary for Matoya's Relict:<br><br><span class="boss">Mudman</span><br>- <span class="ability">Hard Rock</span>: 🛡️ Tankbuster, use cooldowns<br>- <span class="ability">Petrified Peat</span>: 🎯 Targeted AOE, <span class="mechanic">🌐 split up to avoid overlap</span>. Leaves mud balls.<br>- <span class="ability">Peat Pelt</span>: 🔗 Tethers you to mud balls. <span class="mechanic">Aim balls into corner holes</span>.<br>- <span class="ability">Battle Breccia</span>: <span class="mechanic">Stand in front of boss or far away</span> to avoid 📐 cone attack<br>- <span class="ability">Falling Rock</span>: 🤝 Stack to share damage<br><br><span class="boss">Nixie</span><br>- <span class="ability">Smash-Crash</span>: Creates moving tethers, <span class="mechanic">avoid wind attacks</span>. Target takes damage.<br>- <span class="ability">Shower Power</span>: <span class="mechanic">Stand in line with non-glowing pipe</span> to avoid water<br>- <span class="ability">Singing in the Rain</span>: <span class="mechanic">Jump in water spout to reach boss on cloud</span>. Failing kills with water nova.<br>- Unnamed AOE: Basic 💥 group AOE, 🌐 spread out<br>- Unnamed Water Spouts: <span class="mechanic">Avoid getting stuck and hit</span><br><br><span class="boss">Porcine Porcelain: Mother Porxie</span><br>- <span class="ability">Tender Loin</span>: Moderate 💥 room-wide damage<br>- <span class="ability">Huff and Puff</span>: Devastating 💥 room AOE. <span class="mechanic">Stand near boss to get blown to safe spot</span>.<br>- <span class="ability">Meat Mallet</span>: <span class="mechanic">🏃 Run away from targeted impact zone</span> or get sucked and killed<br>- <span class="ability">Hidden Huff and Puff</span>: Like normal but no ground indicators. <span class="mechanic">Locate boss position based on wind current</span> when killing the wind sprite.<br>- <span class="ability">Open Flame</span>: 🎯 Targeted group AOE, <span class="mechanic">don't overlap</span><br>- <span class="ability">Minced Meat</span>: 🛡️ Single target tankbuster
+<span class="boss">Mudman</span>:<br>
+- <span class="ability">Hard Rock</span>: 🛡️ <span class="mechanic">Tankbuster, use cooldowns</span><br>
+- <span class="ability">Petrified Peat</span>: 🎯 <span class="mechanic">Targeted AoE, 🏃<>🏃 spread</span><br>
+- <span class="ability">Peat Pelt</span>: <span class="mechanic">Tethered to 🟤 mud balls, aim into corner holes</span> (avoid holes with 👾 adds)<br>
+- <span class="ability">Battle Breccia</span>: <span class="mechanic">Stand directly in front or far away to avoid 📐 cone</span><br>
+- <span class="ability">Falling Rock</span>: 🤝 <span class="mechanic">Stack to share damage</span><br>
+
+<span class="boss">Nixie</span>:<br>
+- <span class="ability">Smash-Crash</span>: <span class="mechanic">🎯 Targeted player, avoid moving 🔗 tethers</span><br>
+- <span class="ability">Shower Power</span>: <span class="mechanic">Stand in line with non-glowing pipe to avoid 💦 water blast</span><br>
+- <span class="ability">Singing in the Rain</span>: <span class="mechanic">Jump into 💦 water spout near ☁️ cloud platform</span><br>
+- <span class="mechanic">Unnamed AoE Target</span>: 🎯 Targeted group AoE, 🏃<>🏃 spread<br>
+- <span class="mechanic">Unnamed Water Spouts</span>: Avoid to prevent immobilization<br>
+
+<span class="boss">Mother Porxie</span>:<br>
+- <span class="ability">Tender Loin</span>: 💥 <span class="mechanic">Room-wide AoE, 🩹 healers be ready</span><br>
+- <span class="ability">Huff and Puff</span>: <span class="mechanic">Stand close to boss, get blown into safe zone, avoid 💥 room-wide AoE</span><br>
+- <span class="ability">Meat Mallet</span>: 🎯 <span class="mechanic">Targeted impact zone, 🏃 run away and keep running</span><br>
+- <span class="ability">Hidden Huff and Puff</span>: <span class="mechanic">Kill 👾 wind sprite, watch wind current at apex to locate boss</span><br>
+- <span class="ability">Open Flame</span>: 🎯 Targeted AoE, 🏃<>🏃 spread<br>
+- <span class="ability">Minced Meat</span>: 🛡️ <span class="mechanic">Tankbuster, use cooldowns</span>

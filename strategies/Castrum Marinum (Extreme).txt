@@ -1,1 +1,28 @@
-<span class="boss">Mark V Anti-Eikon Warmachina: The Emerald Weapon</span><br><br><span class="boss">Phase 1</span><br>- <span class="ability">Emerald Shot</span>: 🛡️ Tankbuster on primary target<br>- <span class="ability">Optimized Ultima</span>: Unavoidable 💥 raid-wide damage<br>- <span class="ability">Aetheroplasm Production</span>: <span class="mechanic">Pop 🔵 blue and 🟡 yellow orbs in pairs</span> to avoid lethal damage<br>- <span class="ability">Emerald Beam #1</span>: <span class="mechanic">Avoid rotating cone AoEs and outward-traveling ring AoEs</span><br>- <span class="ability">Magitek Magnetism #1</span>: <span class="mechanic">Tanks 💠 position away from raid and each other</span>, raid identifies safe spots from pushed mines<br>- <span class="ability">Magitek Magnetism #2</span>: <span class="mechanic">Identify safe spot near mines with identical +/- symbols</span><br>- <span class="ability">Emerald Beam #2</span>: Avoid rotating cone AoEs and outward-traveling ring AoEs, arena shrinks<br>- <span class="ability">Emerald Hands #1</span>: <span class="mechanic">React to hand positions</span>, in for donut AoE, out for point-blank AoE<br>- <span class="ability">Divide Et Impera</span>: 🛡️ Tanks share tankbuster, raid 🌐 spreads to avoid AoEs<br>- <span class="ability">Split</span>: Emerald Weapon splits in half<br>- <span class="ability">Expire</span>: <span class="mechanic">Move to outer edge</span> to avoid point-blank AoE<br>- <span class="ability">Red Smash</span>: Avoid growing red pool near arena edge<br>- <span class="ability">Emerald Hands #2</span>: <span class="mechanic">React to hand positions</span>, in for donut AoE, out for point-blank AoE<br>- <span class="ability">Magitek Magnetism #3 + Pulse Laser</span>: <span class="mechanic">Identify safe spot, marked players bait column AoEs away</span><br>- <span class="mechanic">⏳ Enrage</span>: <span class="ability">Full-Power Optimized Ultima</span>, beat DPS check to avoid wipe
+<span class="boss">Emerald Weapon</span> (Phase 1):<br>
+- <span class="ability">Emerald Shot</span>: 🛡️ Tankbuster on MT<br>
+- <span class="ability">Optimized Ultima</span>: 💥 Unavoidable raid-wide damage<br>
+- <span class="ability">Aetheroplasm Production</span>: Pop 🔵 and 🟡 orbs in pairs to avoid lethal damage, <span class="mechanic">orbs apply 🤢 Magic or Physical Vuln Up</span><br> 
+- <span class="ability">Emerald Beam</span>: <span class="mechanic">🏃 Avoid rotating 📐 cones and expanding 🔴 AoEs</span>, outer arena collapses<br>
+- <span class="ability">Magitek Magnetism</span>: <span class="mechanic">Identify safe spots created by magnet-tethered mines</span>, tanks handle 🎯 flare markers<br>
+- <span class="ability">Emerald Hands</span>: <span class="mechanic">React to hand positions</span>, in for 🍩 donut AoE, out for 💥 point-blank AoE<br>
+- <span class="ability">Divide Et Impera</span>: 🛡️ Shared tankbuster, <span class="mechanic">raid 🏃<>🏃 spreads to avoid 🔴 AoEs</span><br>
+- <span class="ability">Split</span>: Boss splits, <span class="mechanic">handle mechanics from either half</span><br>
+- <span class="ability">Pulse Laser</span> + <span class="ability">Magitek Magnetism</span>: <span class="mechanic">Marked players bait ➡️⬅️ column AoEs away from mine safe spot</span><br>
+- Enrage: <span class="ability">Full-Power Optimized Ultima</span>, ⏳ DPS check<br>
+
+<span class="boss">Emerald Weapon</span> (Phase 2):<br>
+- <span class="ability">Divide Et Impera</span>: 🛡️ Shared tankbuster, <span class="mechanic">raid at intercardinals to avoid 📐 cones</span><br>
+- <span class="ability">Primus Terminus Est</span>: <span class="mechanic">Marked players to corners based on knockback direction</span>, avoid ➡️⬅️ column AoEs<br>
+- <span class="ability">Tertius Terminus Est</span>: <span class="mechanic">Memorize sword drop order</span>, avoid + or x patterns<br>
+- <span class="ability">Legio Phantasmatis</span>: Tank picks up "Black Wolf" add<br>
+- <span class="ability">Mechanized Maneuver</span>: <span class="mechanic">Identify first airship lane</span>, move behind 💣 explosions, prepare for 💨 knockback<br>
+- <span class="ability">Split</span>: Handle <span class="ability">Expire</span> (💥 point-blank AoE), <span class="ability">Red Smash</span> (growing 🔴 AoE), or <span class="ability">Sidescathe</span> (uneven arena split) mechanics<br>
+- <span class="ability">Secundus Terminus Est</span>: <span class="mechanic">Spread markers to corners (+) and cardinals (x)</span>, collapse to safe spot<br>
+- Enrage: <span class="ability">Full-Power Optimized Ultima</span>, ⏳ DPS check
+
+<span class="note">Unrestricted Party Notes</span>:<br>
+- <span class="ability">Aetheroplasm Production</span>: Form 4 teams of 2, each handling 1 🔵 and 1 🟡 orb<br>
+- <span class="ability">Magitek Magnetism</span>: Stack behind close mines, tanks handle flares<br>
+- <span class="ability">Primus Terminus Est</span>: Marked players to corners, arrows in, avoid column AoE overlap<br>
+- <span class="ability">Tertius Terminus Est</span>: Stack on last swords for + pattern, largest triangle for // pattern<br>
+- <span class="ability">Mechanized Maneuver</span>: Dodge numbered airship columns, stack center for knockback

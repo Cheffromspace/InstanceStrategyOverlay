@@ -1,1 +1,15 @@
-<span class="boss">Teratotaur</span>:<br>- <span class="ability">Dung Wespe adds</span>: 🎯 Kill quickly to avoid <span class="ability">Final Sting</span> (90% max HP damage)<br>- <span class="ability">Mortal Ray</span>: 🏃 Dodge by standing on glowing tile<br><br><span class="boss">Temple Guardian</span>:<br>- <span class="ability">Golem Soulstone</span>: 🎯 Destroy the soulstone on its chest to <span class="mechanic">stun the boss</span><br>- 🌟 Use Limit Break when boss is vulnerable<br><br><span class="boss">Adjudicator</span>:<br>- <span class="ability">Mythril Verges</span>: 🎯 Destroy to remove laser beams<br>- <span class="ability">Sun Jurors</span>: 🎯 Kill on platforms or they will <span class="mechanic">revive the boss</span><br>- <span class="ability">Darkness</span>: 📐 Avoid cone AoE<br>- <span class="ability">Paralyze</span>: 🤢 Debuff, avoid getting hit<br><br><span class="mechanic">Scales of Judgment</span>:<br>- Left pan: <span class="mechanic">Flame of Magic</span><br>- Right pan: <span class="mechanic">Fruit of Knowledge</span>
+<span class="boss">Teratotaur</span>:<br>
+- Kill 👾 Dung Wespes quickly to avoid <span class="mechanic">Final Sting (90% HP damage)</span><br>
+- At &lt;50% HP, dodge 💥 <span class="ability">Mortal Ray</span> by standing on 🟧 glowing plate to remove 🤢 Doom debuff<br>
+- Avoid 🔴 <span class="ability">Frightful Roar</span> (💥 + 🤢 Vuln Up) and 📐 <span class="ability">Mow</span> (🤢 Poison)<br>
+
+<span class="boss">Temple Guardian</span>:<br>
+- Focus DPS on 👾 <span class="mechanic">Golem Soulstone</span> on boss's chest to make boss vulnerable<br>
+- Avoid ➡️ <span class="ability">Rockslide</span>, 📐 <span class="ability">True Grit</span>, and 🔴 <span class="ability">Boulder Clap</span><br>
+- <span class="note">Use melee LB when boss is stunned for extra damage</span><br>
+
+<span class="boss">Adjudicator</span>:<br>
+- Destroy 👾 <span class="mechanic">Mythril Verges</span> ASAP to avoid 🔴 laser beams<br>
+- Enter ⬛ box when it appears and kill Verge before <span class="ability">Verge Pulse</span> (💥 party damage)<br>
+- Avoid 📐 <span class="ability">Darkness</span> (Blind) and 🤢 <span class="ability">Paralyze</span> (🚫 Interrupt or 🩹 Esuna)<br>
+- Kill 👾 <span class="mechanic">Sun Jurors</span> on 🟥 square platforms to prevent revival<br>

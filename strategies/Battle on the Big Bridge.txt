@@ -1,21 +1,21 @@
 <span class="boss">Gilgamesh</span>:<br>
-<span class="note">3 phases, uses abilities from previous phases in later ones</span><br>
-
+<span class="note">3 phases, uses same abilities in P1 and P3 except Grovel and Bomb</span><br>
+<br>
 <span class="boss">Phase 1</span>:<br>
 - <span class="ability">Bitter End</span>: 🏃 Avoid 📐 frontal cone AoE<br>
 - <span class="ability">Pradamante[1]</span>: 💥 Unmarked AoE on random player<br>
 - <span class="ability">Toad</span>: 🎯 Targeted player transformed, kite 👾 Enkidu<br>
-- <span class="ability">Minimum</span>: 🎯 Targeted player mini'd with Heavy, kite boss<br>
-- <span class="ability">Rocket Punch</span>: Moderate damage + 🤢 Confusion, 🩹 heal to full<br>
-- <span class="ability">Grovel</span>: Small AoE on boss at ~50%<br>
-- <span class="ability">Bomb</span>: Small AoE on boss at ~40%, signals <span class="mechanic">Phase 2 start</span><br>
-
+- <span class="ability">Minimum</span>: 🎯 Targeted player mini'd + Heavy, 🏃 kite boss<br>
+- <span class="ability">Rocket Punch</span>: 🤢 Confusion debuff, 🩹 heal to full<br>
+- <span class="ability">Grovel</span>: Small 🔴 AoE at ~50%<br>
+- <span class="ability">Bomb</span>: Small 🔴 AoE at ~40%, signals P2<br>
+<br>
 <span class="boss">Phase 2</span>:<br>
-- <span class="mechanic">Waves of 👾 adds between boss rooms, AoE down</span><br>
-
+- 👾 Waves of adds, pull and nuke down<br>
+<br>
 <span class="boss">Phase 3</span>:<br>
-- <span class="mechanic">Phase 1 abilities return, targeting multiple players</span><br>
 - <span class="ability">Whirlwind Slash</span>: 💥 AoE centered on boss<br>
-- <span class="ability">Giga Jump</span>: 🎯 Marks player, leaps after ~6s, 💥 AoE damage<br>
-- <span class="ability">Whirlwinds</span>: 🔴 Spawns on ground, explode on touch<br>
-- <span class="note">Keep regens up, avoid Whirlwinds especially while Toaded</span><br>
+- <span class="ability">Giga Jump</span>: 🎯 Marks random player, 💥 leaps after 6s<br>
+- <span class="ability">Whirlwinds</span>: 🔴 Exploding AoEs, 🏃 avoid<br>
+- <span class="note">Status effects now hit multiple players (2-8)</span><br>
+- <span class="note">🩹 Keep regens up, 🏃 avoid Whirlwinds while Toaded</span><br>

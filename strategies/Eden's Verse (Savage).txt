@@ -1,1 +1,10 @@
-<span class="boss">General</span>:<br>- 8-player raid in Shadowbringers, requires item level 470+ to enter<br>- Unlocked by completing the quest "Life Finds a Way" and speaking with Lewrey in Amh Araeng (X:26.8 Y:16.4)<br><br><span class="boss">Floors</span>:<br>- <span class="ability">Eden's Verse: Fulmination (Savage)</span> (E5S) - Boss: Ramuh, IL: 470<br>- <span class="ability">Eden's Verse: Furor (Savage)</span> (E6S) - Bosses: Garuda, Ifrit, Raktapaksa, IL: 475<br>- <span class="ability">Eden's Verse: Iconoclasm (Savage)</span> (E7S) - Boss: The Idol of Darkness, IL: 480<br>- <span class="ability">Eden's Verse: Refulgence (Savage)</span> (E8S) - Boss: Shiva, IL: 480<br><br><span class="boss">Rewards</span>:<br>- <span class="mechanic">Edenchoir Coffers</span>: Contain job-specific gear (IL 500-505)<br>- <span class="mechanic">Eden's Verse Apocrypha</span>: Tokens exchanged for specific gear pieces<br>- Mount from Eden's Verse: Refulgence (Savage)<br><br><span class="boss">Loot Distribution</span>:<br>- Fulmination: Accessories<br>- Furor: Boots, gloves, head<br>- Iconoclasm: Boots, gloves, legs, head<br>- Refulgence: Chest, weapon, mount
+<span class="boss">Ramuh</span>:<br>
+- <span class="ability">Stratospear Summons</span>: <span class="mechanic">👾 Kill adds quickly to avoid 💥 raid damage</span><br>
+- <span class="ability">Tribunal Summons</span>: <span class="mechanic">🎯 Tanks grab tethered orbs</span>, DPS burn down adds<br>
+- <span class="ability">Fury's Bolt</span>: <span class="mechanic">🛡️ Tankbuster</span>, ⚔ tank swap after<br>
+- <span class="ability">Fury's Fourteen</span>: <span class="mechanic">💥 Unavoidable raid damage</span>, 🩹 healers top up<br>
+- <span class="ability">Judgment Volts</span>: <span class="mechanic">🔴 Puddles drop under players</span>, 🏃 move out<br>
+- <span class="ability">Stepped Leader</span>: <span class="mechanic">➡️⬅️ Line AoEs across arena</span>, 🏃 dodge<br>
+- <span class="ability">Gallop</span>: <span class="mechanic">🔗 Tethers between players</span>, 🏃<>🏃 spread out<br>
+- <span class="ability">Crippling Blow</span>: <span class="mechanic">🤢 Debuff on random player</span>, 🩹 extra heals<br>
+- <span class="mechanic">⏳ Enrage at 10:00</span>, burn boss before then

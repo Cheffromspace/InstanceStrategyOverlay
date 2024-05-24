@@ -1,1 +1,59 @@
-<span class="boss">Autarch of Flame: Rubicante</span><br><br><span class="boss">Phase 1</span><br>- <span class="ability">Inferno</span>: Moderate 💥 raidwide damage<br>- <span class="ability">Ordeal of Purgation</span>: <span class="mechanic">Identify safe areas based on fireball paths and rotating circles</span>. 🏃 Preposition before 🤢 Penitent's Shackles immobilizes<br>- <span class="ability">Arch Inferno</span>: <span class="mechanic">Split into light parties</span>, handle 🤝 stack markers, 🌐 spreads, and 📐 Radial Flagration while 🏃 rotating to avoid persistent AoEs<br><br><span class="boss">Adds Phase</span><br>- <span class="mechanic">Kill 🎯 Greater Flamesent first</span> to stop 💥 Ghastly Torch<br>- Tanks 🛡️ pick up 🔗 tethered Flamesent for tankbusters<br>- Non-tanks with 🔗 tethers 🏃 position conal AoEs away from party<br>- <span class="ability">Blazing Rapture</span>: Unavoidable 💥 raidwide AoE, 🩹 heal through and mitigate<br><br><span class="boss">Phase 2</span><br>- <span class="ability">Flamespire Brand</span>: <br>  - 4 players get 🤢 Blooming, 🏃 spread to intercardinals<br>  - 4 players get 🤢 Entangling, 🏃 stack in center<br>  - Tanks 🛡️ get 🤢 Burning, swap after 🎯 Flare Breath tankbuster<br>- <span class="ability">Ordeal of Purgation</span>: Same as phase 1, handle fireball paths and rotating circles<br>- <span class="ability">Flamespire Exaltation</span>: 🏃 Rotate to avoid persistent AoEs while handling 🤝 stacks, 🌐 spreads, and 🔗 tethers<br>- <span class="ability">Flamespire Exaltation (Enrage)</span>: Lethal 💥 raidwide damage, <span class="mechanic">🩹 shield and heal to survive</span>
+<span class="boss">Rubicante (Extreme)</span>
+
+<span class="note">Players can fall off arena edges 💀, but can be resurrected</span>
+
+Assign spread positions:
+- Tanks/healers on cardinals, DPS on intercardinals
+- Form 2 light parties: 1 tank, 1 healer, 1 melee DPS, 1 ranged DPS
+- Assign 4 adjacent arena slices, each with 1 melee/tank + 1 ranged/healer
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Inferno</span>: Moderate 💥 raidwide damage
+- <span class="ability">Ordeal of Purgation</span>: Boss summons 3 concentric circles (red, purple, red) with blue fuse segments
+  - 1-2 fireballs travel along fuses, hitting 🔺 (blue) or 🟧 (orange) panels
+  - 🔺 = large conal AoE, 🟧 = half-room AoE on closest side
+  - Red circle fuses always straight, purple can be straight or bent
+  - Circles may ↪️ rotate 1/8th, changing fuse and panel positions
+  - Find safe area before 🤢 Penance debuff expires and 🔗 immobilizes
+- <span class="ability">Arch Inferno</span>: Persistent AoE in middle + 2 rotating outer AoEs
+  - Split into light parties N/S, rotate to dodge AoEs
+  - Handle mechanics: healer stack, role stack (tank/melee, healer/ranged), or 🎯 spread
+  - 🏃<>🏃 Spread for <span class="ability">Radial Flagration</span> conal AoEs at end
+
+<span class="boss">Adds Phase</span>:
+- Defeat 5 Flamesent + 1 Greater Flamesent before Rubicante's Power reaches 100
+- Greater Flamesent: Kill first to stop 💥 raidwides + 🤢 Burns DoT
+- N Flamesent: Avoid AoE telegraphs
+- NW/NE Flamesent: Tanks grab 🔗 tethers (tankbusters)
+- SW/SE Flamesent: Non-tanks grab 🔗 tethers, face away to avoid cleaving
+- <span class="ability">Blazing Rapture</span>: Unavoidable 💥 raidwide + 🤢 Burns DoT after adds
+
+<span class="boss">Phase 2</span> (Winged Form):
+- <span class="ability">Flamespire Brand</span>:
+  - 4 players (all DPS or tanks/healers) get 💥 flare debuff
+  - 1 other role player gets 🤝 stack debuff
+  - All get 🎯 spread debuff
+  - Resolve flare/stack → spread
+- <span class="ability">Flamerake</span>: Cross AoE (cardinals or intercardinals) cascades outward 2x
+  - Move to dodge AoEs while resolving <span class="ability">Flamespire Brand</span> debuffs
+- <span class="ability">Scalding Signal</span> / <span class="ability">Scalding Ring</span>: Dodge point-blank or donut AoE + line AoEs at clock spots
+- <span class="ability">Sweeping Immolation</span>: Dodge half-room cleave + 🏃<>🏃 spread (multi flowers) or 🤝 stack (1 flower)
+  - Position to avoid follow-up line AoEs from prior mechanic
+- <span class="ability">Dualfire</span>: 🛡️ Massive tankbuster cleaves
+- <span class="ability">Inferno</span>: 🎯 Untelegraphed AoEs + 🤢 Bleed & Magic Vuln Up
+
+<span class="boss">Cloaked Form</span>:
+- Handle more <span class="ability">Ordeal of Purgation</span> mechanics
+- <span class="ability">Inferno</span>: Normal 💥 raidwide (no spread)
+
+<span class="boss">Final Winged Form</span>:
+- <span class="ability">Flamespire Claw</span>: Boss cleaves players 1-8, tethers 7 & 8
+  - Tethered players explode at 5 stacks 💀
+  - After cleave, grab tether to reset stacks
+  - Odd numbers NW, even NE, party + tethers SW/SE
+- <span class="ability">Inferno</span>: 🎯 Spread
+- <span class="ability">Scalding Signal</span>/<span class="ability">Ring</span>, <span class="ability">Scalding Fleet</span>, <span class="ability">Sweeping Immolation</span> again
+
+<span class="boss">Final Cloaked Form</span>:
+- Handle final <span class="ability">Ordeal of Purgation</span> mechanics
+- <span class="ability">Inferno</span> (enrage): Defeat boss before cast ends ⏳

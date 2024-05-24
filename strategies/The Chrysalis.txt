@@ -1,1 +1,27 @@
-<span class="boss">Ascian: Nabriales</span><br><br><span class="boss">Phase 1: 100% - 80%</span><br>- 🌐 Spread out and absorb orbs at 80%, alternate big and small to minimize damage<br>- Nabriales gains a stack per orb hit, 🎯 kill small adds (low HP, cone AoE)<br>- 🤝 Stack for heals/Sacred Soil at 3+ stacks, 7 stacks = instant death for non-tanks<br><br><span class="boss">Phase 2: 79% - 40%</span><br>- <span class="ability">Double</span> then <span class="ability">Spark</span> twice, tanks swap with Provoke/Shirk<br>- Orb phase repeats at 40% (see Phase 1)<br><br><span class="boss">Phase 3: 39% - 20%</span><br>- <span class="ability">Triple</span> then <span class="ability">Spark</span> thrice, tanks swap to manage<br>- After second orb phase, Nabriales teleports casting <span class="ability">End of Days</span> (dodgeable ➡️⬅️) and <span class="ability">Quake 3</span> (💥 party-wide)<br><br><span class="mechanic">At 20%, Nabriales casts Meteor</span><br>- 🏃 to edge until Bleed hits 0, then get sucked in<br>- Buffs/debuffs duration x10, DPS use damage buffs, tanks use defensive buffs + Sprint before entering<br>- 🛡️ One tank per meteor to prevent party damage, non-tanks likely die if hit<br>- Focus DPS on tear at first meteor location, destroy before large center meteor lands<br>- Use Limit Break on tear if available, tanks intercept meteors until tear destroyed<br><br><span class="boss">Phase 4: 19% - 0%</span><br>- Tank and spank, Nabriales uses Phase 2 mechanics
+<span class="boss">Unnamed Boss</span>:<br>
+<span class="note">Save LB3 for Melee DPS in P3</span><br>
+
+<span class="boss">P1 (100-80%)</span>:<br>
+- 🏃<>🏃 <span class="mechanic">Spread for orbs</span>, alternate big/small to avoid 🤢<br>
+- 👾 <span class="mechanic">Kill small adds</span>, 📐 cone AoE<br>
+- 🤝 <span class="mechanic">Stack for heals/mitigation at 3+ orb stacks</span>, 7 = death<br>
+
+<span class="boss">P2 (79-40%)</span>:<br>
+- <span class="ability">Double Spark</span>: ⚔️ <span class="mechanic">Tank swap</span> (Provoke/Shirk)<br>
+- <span class="mechanic">Orbs at 40%</span>, same as P1<br>
+
+<span class="boss">P3 (39-20%)</span>:<br>
+- <span class="ability">Triple Spark</span>: ⚔️ <span class="mechanic">Tank swap</span><br>
+- <span class="ability">End of Days</span>: 🏃 <span class="mechanic">Dodge line AoE</span> during teleports<br>
+- <span class="ability">Quake 3</span>: 💥 <span class="mechanic">Party-wide AoE damage</span><br>
+- <span class="ability">Meteor (20%)</span>: 🏃 <span class="mechanic">Run to edge</span>, 🤢 Bleed, get sucked in<br>
+
+<span class="boss">Meteor Phase</span>:<br>
+- 🌟🛡️ <span class="mechanic">Tanks/DPS use buffs before entering</span><br>
+- 🛡️ <span class="mechanic">Tanks intercept meteors</span>, 1 tank per meteor<br>
+- 🩹 <span class="mechanic">Healer near center</span> to DPS tear and heal tanks<br>
+- 🎯 <span class="mechanic">DPS focus tear</span>, use LB3<br>
+- ⏳ <span class="mechanic">Destroy tear before enrage meteor lands</span><br>
+
+<span class="boss">P4 (19-0%)</span>:<br>
+- <span class="mechanic">Same mechanics as P2</span>, tank and spank<br>

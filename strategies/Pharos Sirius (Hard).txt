@@ -1,1 +1,15 @@
-<span class="boss">Ghrah Luminary</span>:<br>- <span class="ability">Corruptions</span>: 🔗 Tether to players with <span class="mechanic">Prey debuff</span><br>- <span class="ability">Aetheric Mimicry</span>: <span class="mechanic">Run Prey to a passive mob</span> to pass debuff before cast finishes<br>- Transformed mobs have low HP, kill quickly<br>- Spider mobs leave behind 🤢 poison pools on death, pull aside<br><br><span class="boss">8th Order Patriarch Be Gu</span>:<br>- Room-wide 💥 AoE opens floor fissures<br>- <span class="mechanic">Kill Corrupted Gel adds on fissures</span> to plug them<br>- Destroy purple 🎯 Alchemy Engines tethered to boss immediately<br><br><span class="boss">Progenitrix and Progenitor</span>:<br>- <span class="ability">Grey Bombs</span>: Spawn around arena, <span class="mechanic">kill immediately</span><br>- <span class="ability">Lava Bombs</span> (Progenitrix only): Spawn with Grey Bombs<br>- <span class="ability">Remedy Bombs</span> (Progenitor only): 🔗 Tether to Grey Bombs, <span class="mechanic">hit to push away</span> while killing Grey Bombs
+<span class="boss">Ghrah Luminary</span>:
+- Summons <span class="mechanic">Corruptions that tether and mark players with 🎯 Prey</span>
+- Marked players must <span class="mechanic">run to a passive mob to pass the debuff</span> before <span class="ability">Aetheric Mimicry</span> cast finishes
+- Transformed mobs have low HP, <span class="mechanic">pull aside before killing to avoid 🤢 poison pools</span>
+
+<span class="boss">8th Order Patriarch Be Gu</span>:
+- Uses room-wide 💥 AoE that <span class="mechanic">opens fissures in the floor</span>
+- <span class="mechanic">Pull Corrupted Gel adds and kill on top of fissures to plug them</span>
+- Destroys <span class="mechanic">purple Alchemy Engines immediately when summoned</span>
+
+<span class="boss">Progenitrix and Progenitor</span>:
+- <span class="boss">Progenitrix</span> summons a mix of <span class="mechanic">Grey bombs (kill immediately) and Lava bombs</span>
+- After Progenitrix dies, <span class="boss">Progenitor</span> spawns and summons:
+  - <span class="mechanic">Grey bombs (kill immediately)</span>
+  - <span class="mechanic">Blue Remedy bombs (hit to push away from Grey bombs)</span>

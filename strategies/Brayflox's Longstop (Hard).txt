@@ -1,1 +1,22 @@
-<span class="boss">Illuminati Commander</span>:<br>- 🎯 Kill sniper adds that fixate on players<br>- Avoid vertical and horizontal AoEs covering the arena<br>- <span class="ability">Bomb Toss</span>: Circular AoEs<br><br><span class="boss">Magitek Vangob G-III</span>:  <br>- Avoid expanding blue ceruleum pools<br>- 🎯 Kill two Illuminati adds quickly<br>- <span class="ability">Drill Cannons</span>: Boss attack<br><br><span class="boss">Gobmachine G-VI</span>:<br>- Avoid <span class="ability">Flame Thrower</span> and <span class="ability">Bombardment</span> circle AoEs<br>- At 75/50/25%:<br>  - Boss becomes untargetable and circles the room<br>  - <span class="mechanic">Party gather in the center</span> to avoid the tank<br>- 🎯 Illuminati adds spawn, one 🔗 tethered to a player<br>- <span class="mechanic">Knock bombs away</span> from the center<br>- At 25%: 🎯 Kill Big Bomb add quickly<br><br><span class="mechanic">Use Comfort emote to dispel Misery debuff</span>
+<span class="boss">Illuminati Commander</span>:
+- <span class="ability">Sniper Add</span>: 🎯 Fixates on a player, deals moderate damage
+- <span class="mechanic">Avoid vertical and horizontal AoEs</span> throughout the arena
+- <span class="ability">Bomb Toss</span>: 🔴 Circular AoEs
+
+<span class="boss">Magitek Vangob G-III</span>:
+- <span class="mechanic">Avoid 🔵 ceruleum spills</span>, tank kites the boss
+- Boss will detonate ceruleum, <span class="mechanic">🏃 move out of 🔵 zones before explosion</span>
+- <span class="ability">Illuminati Adds</span>: 👾 Spawn periodically, <span class="mechanic">kill quickly to reduce aerial attack damage</span>
+- <span class="ability">Drill Cannons</span>: 📐 Cone AoE attack
+
+<span class="boss">Gobmachine G-VI</span>:
+- <span class="ability">Flame Thrower</span>: Straight line attack, no AoE indicator
+- <span class="ability">Bombardment</span>: 🔴 Circular AoE on random player
+- At 75%, 50%, and 25% HP:
+  - Boss circles the room, <span class="mechanic">🤝 stack in the center</span>
+  - 👾 Illuminati adds spawn, one tethered to a player
+  - <span class="mechanic">Use AoEs to knock away 💣 bombs before they explode</span>
+- At 25%: <span class="ability">Big Bomb</span> spawns, <span class="mechanic">kill quickly</span>
+- <span class="mechanic">Avoid boss ramming attacks</span>
+
+<span class="note">💡 Use /comfort emote to dispel Gremlin's Misery debuff</span>

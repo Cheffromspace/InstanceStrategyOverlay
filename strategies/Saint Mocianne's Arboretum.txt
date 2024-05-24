@@ -1,1 +1,15 @@
-<span class="boss">Rose Garden</span>:<br>- <span class="ability">Spinning Breath</span>: <span class="mechanic">Avoid breath attacks</span> from boss and adds. Boss will spin 🔄 clockwise or counterclockwise.<br>- <span class="ability">Rose Hips</span>: 🎯 Prioritize killing adds before they 💥 explode.<br><br><span class="boss">Queen Hawk</span>:  <br>- <span class="mechanic">Do not stand in front of 🐝 bees</span>, they use column ➡️ AoEs.<br>- <span class="ability">Ally</span>: Bees gather and launch double column AoE with no marker. <span class="mechanic">🏃 Move out of the way.</span><br>- <span class="ability">Knight Hawk</span>: 🎯 Kill tethered adds quickly in this DPS check.<br><br><span class="boss">Belladonna</span>:<br>- <span class="ability">Big AoE</span>: <span class="mechanic">Stand next to boss to avoid damage.</span><br>- <span class="ability">Bulbs</span>: <span class="mechanic">Don't stand in 🎯 yellow circles</span>, they apply magic vulnerability ⬆️ debuff.<br>- <span class="ability">Frond Fatale</span>: <span class="mechanic">👀 Look away from boss</span> or be charmed to run into Bulb AoEs.<br>- <span class="mechanic">Kill targetable adds.</span><br>- Unavoidable room-wide 💥 AoE, <span class="mechanic">🩹 heal through it.</span>
+<span class="boss">Rose Garden</span>:<br>
+- <span class="ability">Spinning Breath</span>: <span class="mechanic">🏃 Avoid breath based on boss rotation direction</span><br>
+- <span class="ability">Rose Hips</span>: <span class="mechanic">👾 Kill adds quickly before they 💥 explode</span><br>
+
+<span class="boss">Queen Hawk</span>:<br>
+- <span class="mechanic">🎯 Dodge column AoEs from 🐝 bees</span><br>
+- <span class="ability">Ally</span>: <span class="mechanic">🏃 Avoid double column AoE from gathered bees</span><br>
+- <span class="ability">Knight Hawk</span>: <span class="mechanic">👾 Kill tethered adds to stop 💥 raid-wide damage</span><br>
+<span class="note">- Uses Blue Magespell Avail</span><br>
+
+<span class="boss">Belladonna</span>:<br>
+- <span class="mechanic">🤝 Stack near boss to avoid initial 💥 AoE</span><br>
+- <span class="ability">Bulbs</span>: <span class="mechanic">🚫 Don't stand in 🔴 circles (🤢 Magic Vuln Up)</span><br>
+- <span class="ability">Frond Fatale</span>: <span class="mechanic">👀 Look away to avoid charm</span><br>
+- <span class="mechanic">👾 Kill targetable adds</span>

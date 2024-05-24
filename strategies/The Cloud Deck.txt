@@ -1,1 +1,23 @@
-<span class="boss">Mark I Anti-Eikon Warmachina: The Diamond Weapon</span><br><br><span class="boss">Phase 1</span><br>- <span class="ability">Diamond Rain</span>: Unavoidable 💥 raid-wide damage<br>- <span class="ability">Adamant Purge</span>: 🚫 Instant KO if hit, <span class="mechanic">use teleporters to avoid damage</span><br>- <span class="ability">Photon Burst</span>: 🎯 Proximity-based tank damage, <span class="mechanic">separate to avoid spreading damage</span><br>- <span class="ability">Diamond Flash</span>: ➡️ Linear attack targeting random player, <span class="mechanic">line up to share damage</span><br><br><span class="boss">Phase 2</span><br>- <span class="ability">Auri Cyclone</span>: 🎯 Circle AoE on ship, causes 💨 knockback, <span class="mechanic">position close to edge or use knockback immunity</span><br>- <span class="ability">Airship's Bane</span>: 🚫 Destroys targeted ship, <span class="mechanic">evacuate to avoid instant KO</span><br>- <span class="ability">Auri Doomstead</span>: 🛡️ Tankbuster<br>- <span class="ability">Auri Arts 1</span>: ➡️⬅️ Linear attack from side of ship, adds 🤢 Vulnerability Up, <span class="mechanic">move to safe zone</span><br>- <span class="ability">Auri Arts 2</span>: ➡️⬅️ Linear attack followed by 🎯 circular AoE, <span class="mechanic">dodge linear attack then avoid circle</span><br>- <span class="ability">Vertical Cleave</span>: ➡️⬅️ Linear attack from ship's side, causes 💨 knockback, <span class="mechanic">line up with ship's corner</span><br><br><span class="boss">Phase 3</span><br>- <span class="ability">Diamond Shrapnel</span>: 🎯 Targets two players with 5 rapid blasts, <span class="mechanic">teleport away from others after large AoE appears</span> <br>- <span class="ability">Articulated Bits</span>: ➡️⬅️ 10 hands spawn, firing linear attacks, <span class="mechanic">move to other side of ship to avoid</span><br>- <span class="ability">Adamant Sphere</span>: 4 meteor circles appear, <span class="mechanic">one player must soak each</span><br>- <span class="ability">Homing Lasers</span>: 🎯 AoE circles on all players, <span class="mechanic">spread out to avoid overlap</span>
+<span class="boss">Mark I Anti-Eikon Warmachina: The Diamond Weapon</span>
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Diamond Rain</span>: 💥 Unavoidable raid-wide damage
+- <span class="ability">Adamant Purge</span>: <span class="mechanic">🏃 Teleport to opposite side of glowing hand to avoid KO</span>
+- <span class="ability">Attack</span>: <span class="mechanic">⚔️ Tanks avoid overlapping line attacks</span>
+- <span class="ability">Photon Burst</span>: <span class="mechanic">🎯 Tanks separate to avoid spreading proximity damage</span>
+- <span class="ability">Diamond Flash</span>: <span class="mechanic">🤝 Stack to share damage from linear attack targeting random player</span>
+
+<span class="boss">Phase 2</span>:
+- <span class="ability">Auri Cyclone</span>: <span class="mechanic">💨 Avoid knockback from blue circle AoE on ship</span>
+- <span class="ability">Airship's Bane</span>: <span class="mechanic">🏃 Evacuate targeted ship to avoid KO</span>
+- <span class="ability">Outrage</span>: 💥 High raid-wide damage
+- <span class="ability">Auri Doomstead</span>: 🛡️ Tankbuster
+- <span class="ability">Auri Arts 1</span>: <span class="mechanic">🏃 Move to safe zone to avoid knockback and 🤢 Vuln Up from zig-zag line attack</span>
+- <span class="ability">Auri Arts 2</span>: <span class="mechanic">🏃 Dodge linear attack, then avoid circular AoE</span>
+- <span class="ability">Vertical Cleave</span>: <span class="mechanic">💨 Line up with ship's corner to avoid knockback</span>
+
+<span class="boss">Phase 3</span>:
+- <span class="ability">Diamond Shrapnel</span>: <span class="mechanic">🎯 Targeted players teleport away to minimize damage from 5 rapid blasts</span>
+- <span class="ability">Articulated Bits</span>: <span class="mechanic">🏃 Move to other side of ship to avoid linear attacks from hands</span>
+- <span class="ability">Adamant Sphere</span>: <span class="mechanic">🤝 One player soaks each of the 4 meteor circles</span>
+- <span class="ability">Homing Lasers</span>: 🏃<>🏃 <span class="mechanic">Spread to avoid overlapping AoE circles</span>

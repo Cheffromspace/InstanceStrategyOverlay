@@ -1,1 +1,25 @@
-<span class="boss">Rathalos</span><br>- Fight resets after 3 player deaths (KOs)<br>- Rathalos uses arena-wide 💥 roar for moderate damage at regular intervals<br>- Rathalos has higher damage output and may target the same player multiple times<br>- Rathalos has no auto-attacks and cannot be tanked<br>- Players must avoid attacks by watching Rathalos' wind-up animations and direction<br>- Melee should watch for counterclockwise 360° tail-swipe and short-range bite/swipe<br>- Ranged should maintain distance<br>- Non-tanks should stay above 40% HP due to unavoidable roar damage<br><br><span class="boss">Phase 1: Grounded</span><br>- <span class="ability">Whipping Bite</span>: Rathalos snaps at players in front and swipes tail behind. <span class="mechanic">Move to flanks or back away</span><br>- <span class="ability">Tail Swipe</span>: Two-part 180° counterclockwise tail swipe. <span class="mechanic">Move to left flank or out of range</span><br>- <span class="ability">Charging Bite</span>: Rathalos lunges at targeted player. <span class="mechanic">Side-step out of path</span><br>- <span class="ability">Fireball</span>: 🎯 Marked player gets unavoidable fireball, moderate splash damage and 🤢 burns debuff. <span class="mechanic">Marked player should move away from party</span><br>- <span class="ability">Evasive Breath</span>: Rathalos blasts fire in front during backward leap. <span class="mechanic">Avoid standing directly in front due to short telegraph</span><br><br><span class="boss">Phase 2: Adds</span><br>- 🎯 Adds enter arena and initially attack Rathalos<br>- Adds are affected by enmity and can be gathered by tanks<br>- Rathalos' attacks also damage adds<br>- <span class="mechanic">Tank adds close to Rathalos so they damage each other</span><br>- Coeurl add has large conal AoE that covers much of the arena
+<span class="boss">Rathalos</span>:<br>
+- <span class="mechanic">⚠️ 3 player deaths = Mission Failed</span><br>
+- <span class="ability">Roar</span>: 💥 Unavoidable party-wide damage, ~1 min cooldown<br>
+- <span class="mechanic">🎯 Targets same player multiple times, 🏃 move if targeted</span><br>
+- <span class="ability">Whipping Bite</span>: 🏃 Avoid short-range front/rear attack<br>
+- <span class="ability">Tail Swipe</span>: 🏃 Move to left flank or out of range, 💨 knockback<br>
+- <span class="ability">Charging Bite</span>: 🎯 Targets player, 🏃 sidestep charge path<br>
+- <span class="ability">Fireball</span>: 🎯 Marked player move away, 💥 splash damage, 🤢 burns<br>
+- <span class="ability">Evasive Breath</span>: 🏃 Avoid short-telegraph frontal blast<br>
+
+<span class="boss">Phase 2 (80% HP)</span>:<br>
+- <span class="mechanic">👾 Adds appear, grab aggro</span><br>
+- Focus Coeurl add first, 📐 frontal AoE<br>
+- <span class="mechanic">🐂 Garula charges Rathalos at 70% HP</span><br>
+- <span class="mechanic">🏇 Mount Rathalos</span>, 🩹 heal mounted player<br>
+- <span class="mechanic">💀 Defeat Garula before mount fails</span> or wipe to King of the Skies<br>
+
+<span class="boss">Phase 3</span>:<br>
+- <span class="mechanic">🤢 Scalebound debuff: healing reduced to 0</span>, use 🧪 Mega Potions<br>
+- <span class="mechanic">🎚️ Fill Down Counter gauge to knock Rathalos down</span><br>
+- 🎯 Focus damage while Rathalos is downed<br>
+- <span class="ability">Claw Swipe</span>: 🏃 Sidestep charge, 🤢 poison, 💨 knockback<br>
+- <span class="ability">Mangle/Sweeping Flames</span>: 🏃 Avoid frontal cones<br>
+- <span class="ability">Fireball</span>: 🤝 Stack to share damage (3 times), 🧪 use Mega Potions<br>
+- <span class="note">⏳ Enrage: King of the Skies wipe</span>, defeat before then

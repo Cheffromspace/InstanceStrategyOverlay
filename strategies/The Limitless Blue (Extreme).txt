@@ -1,1 +1,32 @@
-<span class="boss">Lord of the Mists: Bismarck</span><br>- Assign 2 players (usually healers) to cannons, 1 player (usually ranged) to shield<br>- Stacking debuff while on Bismarck, <span class="mechanic">don't exceed 3 stacks</span><br>- <span class="mechanic">🏃 Leave Bismarck when he shudders</span> or be thrown off<br><br><span class="boss">Phase 1</span><br>- 🎯 Kill melee and ranged adds before boarding Bismarck<br>- Use Dragonkillers when ready and board Bismarck<br>- <span class="mechanic">Focus damage on Carapace</span> to meet DPS check<br><br><span class="boss">Phase 2</span><br>- 🎯 Tank <span class="ability">So'Suwa</span> and <span class="ability">Ul'Sanuwa</span> separately<br>- Avoid tornadoes and AoE<br>- <span class="ability">Dead Wind</span> and <span class="ability">Dead Water</span>: 💥 Raid-wide AoE, applies debuffs<br>- <span class="mechanic">Attack enemy with opposite color debuff</span> (Blue = attack green, Green = attack blue)<br>- 🛡️ Tanks swap if debuff changes<br>- Use 🌟 LB1 when available<br>- Repeat until Bismarck's Ultimate<br><br><span class="boss">Phase 3</span><br>- 🎯 Kill adds in order: ranged > melee > <span class="ability">Nai'maii Vendu</span> OR <span class="ability">Nai'maii Vendu</span> > ranged > melee<br>- Tank and healer stay on island to finish adds while others damage Bismarck<br>- <span class="mechanic">Kill <span class="ability">Nai'maii Vendu</span> quickly</span> to prevent island damage<br><br><span class="mechanic">Weather Mechanics</span><br>- <span class="ability">Wind</span>: 🏃 Run to center for knockback, then avoid center AoE<br>- <span class="ability">Water</span>: Avoid center splash damage, 🎯 kill Vapor Bubbles<br>- <span class="ability">Thunder</span>: 3 random players targeted for thunder attacks
+<span class="boss">Bismarck</span>:<br>
+- Assign 2 players for cannons, 1 for shield (P1 only)<br>
+- 🤢 Stacking debuff on Bismarck, 🏃 leave when he shudders<br>
+
+<span class="boss">Phase 1</span>:<br>
+- Same as Hard, kill melee and ranged adds<br>
+- Use Dragonkillers when ready, board Bismarck<br>
+- Focus DPS on carapace with cooldowns<br>
+
+<span class="boss">Phase 2</span>:<br>
+- Major DPS check, tank dragons So'Suwa and Ul'Sanuwa apart<br>
+- 🏃 Avoid tornadoes and AoEs<br>
+- <span class="ability">Dead Wind/Water</span>: Raid-wide 💥 AoE, applies debuffs<br>
+  - 🔵 Will of the Water: Attack 🟢 enemy<br>
+  - 🟢 Will of the Wind: Attack 🔵 enemy<br>
+- ⚔️ Tanks swap if debuff changes<br>
+- Use LB1 when available<br>
+
+<span class="boss">Phase 3</span> (repeats until Bismarck dies or island destroyed):<br>
+- 3 adds spawn: 2 small (melee & ranged), 1 big (Nai'maii Vendu)<br>
+- Tactic 1: Kill ranged → melee → damage Nai<br>
+- Tactic 2: Kill Nai → ranged → damage melee<br>
+- Tank & healer stay on island to finish add<br>
+- Kill Nai before he destroys island with AoEs<br>
+
+<span class="mechanic">Weather Mechanic</span>:<br>
+- 💨 Wind: 🏃 Center for knockback, then avoid center AoE<br>
+- 💧 Water: Avoid center splash 🤢, kill Vapor Bubbles<br>
+- ⚡ Thunder: 3 players get 2 attacks, Vapor Bubbles absorb 2nd hit<br>
+
+<span class="note">Wait for debuff to expire before re-boarding Bismarck</span><br>
+Use LB3 when available to defeat Bismarck

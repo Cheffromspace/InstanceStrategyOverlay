@@ -1,1 +1,28 @@
-<span class="boss">First Phase (100%-80%)</span><br>- <span class="ability">Reprimand</span>: 💥 Raid-wide AoE, medium damage<br>- <span class="ability">Nightfall</span>: <span class="mechanic">Lead of the Underworld (🤝 stack) or Steel of the Underworld (🌐 separate into role groups)</span><br>- <span class="ability">Nightbloom</span>: 💥 Raid-wide AoE at 80%, stuns and heavy damage<br><br><span class="boss">Adds Phase</span><br>- <span class="mechanic">3 sets of adds, 🎯 focus tethered adds first</span><br>- <span class="mechanic">Damage to Yotsuyu fills Suffering gauge, 100 = wipe</span><br>- 💥 Heavy raid-wide AoE after third set<br><br><span class="boss">Second Phase (80%-35%)</span><br>- <span class="ability">Supreme Selenomancy</span>: <span class="mechanic">Moonlit/Moonshadowed debuff, manage by 💠 standing on opposite arena color</span><br>- <span class="ability">Meteor</span>: <span class="mechanic">3 players targeted, 🎯 drop apart, 💠 stand in safe spot then matching puddle</span><br>- <span class="ability">Midnight Rain</span>: <span class="mechanic">Changes arena color, grants Full Moon or New Moon</span><br>- <span class="ability">Zashiki-asobi</span>: <span class="mechanic">Exploding fan AoEs, 🏃 avoid and move between sets</span><br>- <span class="ability">Torment Unto Death</span>: 🛡️ Tankbuster cleave, forces tank swap<br><br><span class="boss">Third Phase (35%-0%)</span><br>- <span class="ability">Full/New Moon</span>: <span class="mechanic">Waxing/Waning Grudge AoE, 💠 position to avoid</span><br>- <span class="ability">Bright/Dark Blade</span>: <span class="mechanic">Large side/rear AoEs, 🏃 dodge while avoiding Full/New Moon</span><br>- <span class="ability">Lunacy</span>: 🤝 Stack and soak damage on one player<br>- <span class="ability">Hagetsu</span>: 🌐 Spread markers on tank, healer, DPS<br>- <span class="ability">Tsuki-no-Kakera</span>: <span class="mechanic">Circular fan AoEs, 🏃 move to safe spots</span><br>- <span class="ability">Lunacy</span>: ⏳ Enrage, stacks until wipe
+<span class="boss">Tsukuyomi</span>:
+
+Phase 1 (100%-80%):
+- <span class="ability">Reprimand</span>: 💥 Raid-wide AoE
+- <span class="ability">Nightfall</span>: 🎯 Gun (stack) or 🎯 Spear (spread by role)
+- <span class="ability">Nightbloom</span>: 💥 Raid-wide AoE at 80%, transitions to adds
+
+Adds Phase:
+- Tank picks up non-tethered adds
+- DPS focus tethered adds
+- Dodge 📐 <span class="ability">Concentrativity</span> and 💥 <span class="ability">Dispersivity</span> from Specter of Zenos
+
+Phase 2 (80%-35%):
+- <span class="ability">Supreme Selenomancy</span>: <span class="mechanic">Manage Moonlit/Moonshadowed debuffs</span>, avoid 🔴 <span class="ability">Lunar Halo</span>
+- <span class="ability">Meteor</span>: 🎯 Spread meteors, leave safe spot, soak puddles
+- <span class="ability">Midnight Rain</span> + <span class="ability">Antitwilight</span>/<span class="ability">Perilune</span>: Stand in correct puddle
+- <span class="ability">Zashiki-asobi</span>: <span class="mechanic">Dodge 2 sets of 🔴 Dancing Fan AoEs</span>
+- <span class="ability">Torment Unto Death</span>: 🛡️ Tank swap
+
+Phase 3 (35%-0%):
+- <span class="ability">Full Moon</span>: 🏃 Avoid boss 🔴 <span class="ability">Waxing Grudge</span>
+- <span class="ability">New Moon</span>: 🤝 Stack on boss, avoid 🔴 <span class="ability">Waning Grudge</span>
+- <span class="ability">Bright Blade</span>/<span class="ability">Dark Blade</span>: 🏃 Dodge left/right cleaves + 🌙 mechanic
+- <span class="ability">Lunacy</span>: 🤝 Stack to soak damage
+- <span class="ability">Hagetsu</span>: 🎯 Spread markers
+- <span class="ability">Tsuki-no-Kakera</span>: <span class="mechanic">Dodge 🔴 Dancing Fan AoEs</span>
+
+<span class="note">⏳ Enrage: Repeated <span class="ability">Lunacy</span> until wipe</span>

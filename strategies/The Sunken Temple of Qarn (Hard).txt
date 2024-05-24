@@ -1,1 +1,16 @@
-<span class="boss">Damaged Adjudicator</span><br>- 🎯 Attack the body part with the <span class="mechanic">glowing red core</span><br>- 🏃 Move out of <span class="ability">sand whirlpools</span> on the ground<br>- 🎯 If targeted by <span class="ability">sand sphere</span>, move to edge of battlefield<br><br><span class="boss">Sabotender Emperatriz</span><br>- 🎯 Kill adds throughout the fight<br>- 🚫 Interrupt <span class="ability">100,000 Needles</span> cast by dealing enough damage<br>- 🎯 Kill <span class="ability">Sabotender Guardia</span> add that casts <span class="ability">Cactguard</span> on boss<br><br><span class="boss">Vicegerent to the Warden</span><br>- 🏃 Avoid getting hit by mummies to prevent <span class="mechanic">Curse of the Mummy</span> stacks<br>- 4 stacks of <span class="ability">Curse of the Mummy</span> leads to 🤢 <span class="mechanic">Mummification</span><br>- 🏃 Run behind boss to avoid <span class="ability">sword strike</span> on non-tank party member<br>- 🛡️ Tanks use cooldowns if healer gets mummified<br>- 🚫 Stun boss when it 🔗 tethers a player to stop <span class="ability">Curse of the Mummy</span> stacks
+<span class="boss">Damaged Adjudicator</span>:<br>
+- 🎯 <span class="mechanic">Attack body part with red core</span>, not boss itself<br>
+- 🔴 <span class="mechanic">Move out of sand whirlpools</span> to avoid being pulled under<br>
+- 🎯 If targeted by sand sphere, <span class="mechanic">move to edge of battlefield</span> to avoid AoE<br>
+
+<span class="boss">Sabotender Emperatriz</span>:<br>
+- 👾 <span class="mechanic">Kill adds throughout fight</span><br>
+- <span class="ability">100,000 Needles</span>: <span class="mechanic">Interrupt by dealing enough damage</span> or wipe<br>
+- On 3rd cast, <span class="mechanic">kill Sabotender Guardia first</span> to stop <span class="ability">Cactguar</span><br>
+
+<span class="boss">Vicegerent to the Warden</span>:<br>
+- 🚫 <span class="mechanic">Avoid mummies</span> to prevent <span class="ability">Curse of the Mummy</span> stacks<br>
+- At 4 stacks, player is 🤢 <span class="mechanic">Mummified</span> and loses control<br>
+- 🏃 <span class="mechanic">Run behind boss</span> to avoid targeted sword strike<br>
+- 🛡️ Tanks: <span class="mechanic">Use cooldowns if healer is Mummified</span><br>
+- 🔗 When boss tethers player, <span class="mechanic">Stun boss</span> to stop 🤢 <span class="ability">Curse of the Mummy</span> stacks

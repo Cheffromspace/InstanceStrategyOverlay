@@ -1,1 +1,24 @@
-<span class="boss">All-seeing Eye</span>:<br>- 🌟 <span class="mechanic">Stand near glowing crystals for Crystal Veil buff</span> to reduce damage by 90%<br>- <span class="ability">Dread Gaze</span>: Frontal cone AoE that inflicts 🤢 Paralysis debuff<br>- <span class="ability">Cursed Gaze</span>: Frontal cone AoE that inflicts 🤢 Amnesia debuff<br>- <span class="ability">Eyes on Me</span>: Heavy damage to all players, 🌟 Crystal Veil grants immunity<br><br><span class="boss">Taulurd</span>:<br>- 🎯 <span class="mechanic">Kill Deepvoid Slave adds</span> on elevated platform<br>- 🌐 <span class="mechanic">Spread out to avoid Firewater AoE attacks</span><br>- <span class="ability">Double Smash</span>: Frontal cone AoE, high damage<br>- <span class="ability">Elbow Drop</span>: Stronger frontal cone AoE when boss <50% HP<br><br><span class="boss">Batraal</span>:<br>- 🛡️ <span class="mechanic">Tank keeps boss faced away</span> from party<br>- <span class="ability">Desolation</span>: ➡️⬅️ Column AoE instant kill, 🎯 targets marked player<br>- 🔗 <span class="mechanic">Destroy tethered crystal to make boss vulnerable</span><br>- 🏃 <span class="mechanic">Targeted player avoid aiming Desolation at party</span><br>- <30% HP: ⏳ <span class="mechanic">Enrage, uses Desolation frequently</span><br>- 🎯 <span class="mechanic">Move out of spawning black puddles</span> to avoid damage<br><br>General:<br>- 💠 <span class="mechanic">Stand in blue Magitek circles to open doors</span><br>- 🌐 <span class="mechanic">Avoid pulsing AoEs from orange corrupted crystals</span>
+<span class="boss">Trash Mobs</span>:
+- <span class="mechanic">Stand on purple ground near glowing crystals for 🌟 Crystal Veil buff</span> (-90% damage taken)
+- Pull all mobs to room before first boss
+- Avoid 🔴 AoEs from corrupted crystals in later sections
+- Stand in blue Magitek circles to open doors (more people = faster, up to 4)
+
+<span class="boss">All-seeing Eye</span>:
+- <span class="ability">Eyes on Me</span>: Unavoidable 💥 AoE, negated by 🌟 Crystal Veil buff
+- <span class="mechanic">Fight near crystal clusters</span>, move when "The power of the crystal begins to dim" appears
+- Boss invulnerable when not near crystals
+- Kill adds quickly, avoid their AoEs
+
+<span class="boss">Taulurd</span>:
+- Avoid 📐 frontal cone AoEs
+- Kill Deepvoid Slave adds on elevated platform
+- 🏃<>🏃 Spread to avoid Firewater attacks from adds
+
+<span class="boss">Batraal</span>:
+- Avoid 📐 frontal cone AoE and ➡️ <span class="ability">Desolation</span> column AoE (instant kill)
+- Destroy crystals connected to boss via purple beam to make boss vulnerable
+- Targeted player: <span class="mechanic">Avoid aiming 🎯 Desolation at party</span>
+- At 30% HP: <span class="ability">Hellssend</span> (enrage), boss uses <span class="ability">Desolation</span> at will
+- Move out of black 🔴 pools (DoT + explosion)
+- <span class="note">Crystal activation pattern: counter-clockwise every 25% HP</span>

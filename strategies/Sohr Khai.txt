@@ -1,1 +1,19 @@
-<span class="boss">Chieftain Moglin</span>:<br>- 🎯 Kill adds, knock them out of circles to prevent resurrection<br>- 💥 <span class="ability">Holy</span>: AoE heal through damage<br><br><span class="boss">Poqhiraj</span>:<br>- <span class="mechanic">Stand in center</span> unless targeted, to avoid <span class="ability">Quasar</span> hitting walls<br>- Place <span class="ability">Cloud Calls</span> 🎯 away from party, near a wall<br>- <span class="mechanic">Stand by a wall</span> during <span class="ability">Charge</span>, or center if no walls left<br><br><span class="boss">Hraesvelgr</span>:<br>- <span class="ability">Wyrmclaw</span>: 🛡️ Tankbuster<br>- <span class="ability">Hallowed Wings</span>: 🏃 Move to opposite side of glowing wing<br>- <span class="ability">Holy Storm</span>: 💥 Unavoidable party damage<br>- <span class="ability">Hallowed Dive</span>: 🏃 Move to middle after dive to avoid moving 🎯 AoEs on edges<br>- <span class="ability">Akh Morn</span>: 🤝 Multi-hit stack marker<br>- <span class="ability">Diamond Storm</span>: ❄️ Freezes floor, causing sliding movement<br>- <span class="ability">Frigid Dive</span>: ➡️⬅️ Line AoE across middle while frozen, 🏃 slide only if on red 🎯 AoE<br>- <span class="ability">Holy Breath</span>: 🌐 Spread out purple AoE circles
+<span class="boss">Chieftain Moglin</span>:
+- Kill 👾 adds, 🏃 knock corpses out of 🔴 revive circles
+- 💥 <span class="ability">Holy</span>: Unavoidable party damage, 🩹 heal through
+- <span class="mechanic">Kill <span class="ability">Captain Mogsun</span> ASAP to remove 🔗 tether</span>
+
+<span class="boss">Poqhiraj</span>:
+- <span class="ability">Jump</span> + <span class="ability">Charge</span>: 🏃 Away from landing indicator, then 🤝 center or 🏃 near wall
+- <span class="ability">Quasar</span>: Stack behind boss to avoid hitting walls
+- <span class="ability">Cloud Call</span>: 🎯 Targeted player places ⚡ cloud near destroyed wall, away from party
+- <span class="mechanic">Avoid electrified pools from destroyed walls</span>
+
+<span class="boss">Hraesvelgr</span>:
+- <span class="ability">Wyrmclaw</span>: 🛡️ Tankbuster
+- <span class="ability">Hallowed Wings</span>: 🏃 Avoid glowing wing cleave
+- <span class="ability">Holy Storm</span>: 💥 Unavoidable party damage
+- <span class="ability">Hallowed Dive</span>: 🏃 Avoid line AoE, then 🔴 circles on edges
+- <span class="ability">Akh Morn</span>: 🤝 Stack marker
+- <span class="ability">Diamond Storm</span>: ❄️ Sliding mechanic, 🏃 only to avoid 🔴 AoEs
+- <span class="ability">Holy Breath</span>: 🏃<>🏃 Spread 🎯 player markers

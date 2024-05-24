@@ -1,1 +1,25 @@
-<span class="boss">Phase 1</span><br>- <span class="ability">Fifth Element</span>: Unavoidable 💥 party-wide damage<br>- <span class="ability">Serpent Descending</span>: 🎯 AoE markers on 4 players, <span class="mechanic">avoid others</span><br>- <span class="ability">Kuji-Kiri</span>: ➡️⬅️ Criss-cross AoEs, <span class="mechanic">stand in unmarked squares</span><br>- <span class="ability">Onmyo Circle (Yin & Yang)</span>: 🎯 Seiryu teleports to random player, <span class="mechanic">run out of melee range</span>. Later version has 🎯 donut AoE, <span class="mechanic">run close</span><br>- <span class="ability">Cursekeeper</span>: 🤢 Debuff on tank, <span class="mechanic">off-tank provoke</span>. Debuffed tank 🏃 away before it explodes<br>- <span class="ability">Infirm Soul</span>: 🛡️ Tank buster, <span class="mechanic">mitigate and avoid hitting Cursekeeper tank</span><br>- <span class="ability">Summon Shiki</span>: 🎯 Adds. Red tethers DPS (🏃 away), Blue tethers healer + stack marker (group 🤝 in center). Then ➡️⬅️ line AoEs + 2 Large Shiki (tanks 🔗 tether apart). <span class="mechanic">Kill adds before Seiryu's 💥 wipe mechanic</span><br><br><span class="boss">Phase 2</span><br>- White Water: Cones in outer arena, <span class="mechanic">avoid or get knocked up + 🤢 debuff</span><br>- <span class="ability">Orochi</span>: Wall of 🐍 snakes, <span class="mechanic">stand close to get knocked back to center</span><br>- Big Shiki: 🖐️ Hand slams + knockback. <span class="mechanic">Stand in telegraph, get knocked towards Orochi</span><br>- <span class="ability">Forbidden Arts</span>: Stack markers on healers, <span class="mechanic">group 🤝 soak</span><br>- <span class="ability">Blazing Aramitama</span>: Seiryu buffs, <span class="mechanic">attacks are now double-cast with variations</span><br>- <span class="ability">(Double) Onmyo Circle</span>: 🎯 Double Yin & Yang or donut AoEs, <span class="mechanic">watch order and react accordingly</span>
+<span class="boss">Seiryu</span>:
+<span class="boss">Phase 1</span>:
+- <span class="ability">Fifth Element</span>: 💥 Unavoidable raid-wide AoE
+- <span class="ability">Serpent Descending</span>: <span class="mechanic">4 players marked with 🎯 AoEs, spread out</span>
+- <span class="ability">Kuji-Kiri</span>: <span class="mechanic">Stand in unmarked squares to avoid criss-cross AoEs</span>
+- <span class="ability">Onmyo Circle</span>: <span class="mechanic">Seiryu teleports to random player, 🏃 run out for 🔴 AoE (Yin & Yang) or 🏃 run in for donut AoE (Dragon)</span>
+- <span class="ability">Cursekeeper</span>: <span class="mechanic">Debuff on MT, stores damage taken, explodes as AoE when it fades</span>
+- <span class="ability">Infirm Soul</span>: 🛡️ <span class="mechanic">Tank buster, OT provokes to avoid hitting Cursekeeper tank</span>
+- <span class="ability">Summon Shiki</span>: <span class="mechanic">Red tethers DPS (aim away), Blue tethers healer (stand behind group), group stacks for Blue's stack-line AoE</span>
+- <span class="mechanic">Adds spawn, tanks grab tethers from Large Shiki, aim away, pick up small adds</span>
+- <span class="note">Silence Large Shiki's Stoneskin cast (DPS check)</span>
+
+<span class="boss">Phase 2</span>:
+- <span class="mechanic">Avoid White Water cones (knockup + debuff)</span>
+- <span class="ability">Orochi</span>: <span class="mechanic">Stand close to snake wall, get knocked back to center</span>
+- <span class="ability">Big Shiki</span>: <span class="mechanic">Avoid hand-slams, stand close to 3rd slam knockback, aim towards Orochi</span>
+- <span class="ability">Forbidden Arts</span>: <span class="mechanic">Healers marked with stack-line AoEs, group soaks</span>
+- <span class="ability">Blazing Aramitama</span>: <span class="mechanic">Seiryu buffs, attacks are now double-cast</span>
+- <span class="ability">(Double) Onmyo Circle</span>: <span class="mechanic">Watch symbol order, 🏃 in & out or out & in</span>
+- <span class="ability">(Double) Kuji-Kiri</span>: <span class="mechanic">Move diagonally after 1st AoE to avoid 2nd</span>
+- <span class="ability">Serpent Ascending</span>: <span class="mechanic">AoEs under all players, 4 marked with 🎯 AoEs, 4 dark circles spawn - unmarked stand in dark circles, marked between/center</span>
+- <span class="ability">Forbidden Arts</span>: <span class="mechanic">Group splits to sides, Seiryu blasts each side once (no double-soak due to 🤢 Vuln Up)</span>
+- <span class="ability">(Double) Cursekeeper</span>: <span class="mechanic">Tanks provoke twice to avoid Infirm Soul on Cursekeeper tank</span>
+- <span class="ability">Summon Shiki</span>: <span class="mechanic">Large Shiki tethers (tanks grab), Red & Blue Shiki (same as P1), then all players get AoEs + 4 marked 🎯 AoEs (spread)</span>
+- <span class="note">Mechanics loop until boss dies or enrage (long Fifth Element cast)</span>

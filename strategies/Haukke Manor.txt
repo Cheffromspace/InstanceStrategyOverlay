@@ -1,1 +1,17 @@
-<span class="boss">Manor Claviger</span>:<br>- Untelegraphed melee cleave attack, <span class="mechanic">tank should face boss away from party</span><br>- Drops <span class="ability">Green Key</span> when defeated, <span class="mechanic">needed to progress</span><br><br><span class="boss">Manor Jester and Manor Steward</span>:<br>- <span class="mechanic">🎯 Kill Jester first</span>, then focus Steward<br>- Steward drops <span class="ability">Bloody Parchment</span> when defeated, <span class="mechanic">needed to progress</span><br><br><span class="boss">Lady Amandine</span>:<br>- <span class="ability">Void Fire</span>: Casts circle AoEs, <span class="mechanic">🏃 avoid standing in them</span><br>- <span class="ability">Void Thunder</span>: Casts line AoEs, <span class="mechanic">➡️⬅️ avoid standing in them</span>  <br>- Can summon <span class="mechanic">🎯 Manor Sentry adds</span>, kill them quickly<br>- Can summon <span class="mechanic">🎯 Handmaiden adds</span> that cast AoE, avoid and kill<br><br><span class="mechanic">Collect Tiny Keys 🗝️ throughout the dungeon to unlock doors and progress</span><br><br><span class="mechanic">Many side rooms with extra loot coffers 💰 can be skipped to save time</span>
+<span class="boss">Manor Claviger</span>:
+- <span class="ability">Sweet Steel</span>: 📐 <span class="mechanic">Untelegraphed cone AoE, face boss away from party</span>
+- <span class="ability">Void Fire II</span>: <span class="mechanic">🚫 Interruptible AoE spell, typically targets ranged players</span>
+- <span class="ability">Dark Mist</span>: <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+
+<span class="boss">Manor Jester and Manor Steward</span>:
+- <span class="mechanic">Focus Jester first, less HP and more damage</span>
+- <span class="ability">Ice Spikes</span> (Jester): <span class="mechanic">🚫 Interruptible spell</span>
+- <span class="ability">Soul Drain</span> (Steward): <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+
+<span class="boss">Lady Amandine</span>:
+- <span class="ability">Void Fire III</span> and <span class="ability">Void Thunder III</span>: <span class="mechanic">🚫 Interruptible spells</span>
+- <span class="ability">Dark Mist</span>: <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+- <span class="ability">Seduced debuff</span>: <span class="mechanic">🏃 Slowly walk towards boss, turn around quickly to avoid AoE</span>
+- <span class="note">Can summon Manor Sentry and Lady's Handmaidens</span>
+
+<span class="note">Collect keys to progress: 🟩 Green Key, 🟨 Yellow Key, 📜 Bloody Parchment</span>

@@ -1,1 +1,32 @@
-<span class="boss">Garula</span>:<br>- <span class="ability">Heave</span>: Frontal cone AoE, 🛡️ tank dodge<br>- <span class="ability">Crumbling Crust</span>: 4 telegraphed AoEs around boss, 🏃 dodge as needed<br>- <span class="ability">Rush</span>: 🔗 Tethered charge at off-aggro target, marked player 🏃 distance to reduce damage<br>- <span class="ability">War Cry</span>: 💥 Party-wide damage, followed by <span class="ability">Earthquake</span> 💥 and stun, animals in pen charge AoEs (Ram ➡️⬅️, Coeurl 📐, Kukurul 🎯)<br><br><span class="boss">Bardam</span> (non-combat):<br>- <span class="mechanic">Fail twice in any phase = 🤢 debuff</span> until phase end, at least one player must survive<br>- <span class="ability">Magnetism</span>: Pulls players to center<br>- <span class="ability">Travail (shockwave)</span>: 🎯 Inner AoE then outer AoE, 🏃 dodge by standing just outside inner AoE then moving back<br>- <span class="ability">Spear Charge</span>: Chessboard of safe zones<br>- <span class="ability">Empty Gaze</span>: 👀 Look away<br>- <span class="ability">Travail (lightning)</span>: 🌩️ Party-wide, stand on prism towers to dodge<br>- <span class="ability">Travail (firestorm)</span>: 🔥 Rings drop on players, 🌐 spread and 🏃 clockwise<br>- <span class="ability">Heavy Strike</span>: 270° frontal cone, safe spot behind boss<br>- <span class="ability">Star Fall</span>: 4 large 🎯 AoEs leaving Star Shards, safe spots center and outer edge<br>- <span class="ability">Looming Shadow</span>: 🌠 Meteor, hide behind Star Shard<br>- <span class="ability">Travail (summon warriors)</span>: Breaks East/West Star Shards<br>- <span class="ability">Magnetism</span> + <span class="ability">Spear Charge</span> + <span class="ability">Heavy Strike</span> + <span class="ability">Shockwave</span> combo: Floor is lava, find safe spot, destroys a Star Shard, hide behind last one for meteor<br><br><span class="boss">Yol</span>:<br>- <span class="ability">Feathercut</span>: 🛡️ Frontal cleave tankbuster<br>- <span class="ability">Wind Unbound</span>: 💥 Group AoE, spawns orbs firing ➡️⬅️ line AoEs<br>- <span class="ability">Flutterfall</span>: 🎯 Marks all players, 🌐 spread to avoid overlap<br>- <span class="ability">Eye of the Fierce</span>: 👀 Gaze attack causing Confusion, look away<br>- Adds Phase: Yol retreats, spawning Corpsecleaner Eagles, dodge Yol's ➡️⬅️ line AoEs from arena edge<br>- <span class="ability">Wingbeat</span>: 🎯 Marks player, knocks to outer edge, 🏃 back to center to avoid outer AoEs<br>- Wing Phase: Target Yol's wings, dodge 3 rotating 🎯 AoEs, repeat mechanics after wings break
+<span class="boss">Garula</span>:
+- <span class="ability">Heave</span>: 📐 <span class="mechanic">Frontal cone AoE, tank dodge</span>
+- <span class="ability">Crumbling Crust</span>: <span class="mechanic">4 telegraphed AoEs, 🏃 dodge</span>
+- <span class="ability">Rush</span>: <span class="mechanic">🔗 Tether charge, marked player 🏃 distance, others avoid path</span>
+- <span class="ability">War Cry</span> + <span class="ability">Earthquake</span>: 💥 <span class="mechanic">Partywide damage + stun, animals charge AoEs (Ram ➡️⬅️, Coeurl 📐, Kukurul 🔴)</span>
+
+<span class="boss">Bardam</span> (non-combat):
+- Phase 1:
+  - <span class="ability">Magnetism</span> + <span class="ability">Travail (shockwave)</span>: <span class="mechanic">Pull to center, 🏃 dodge inner then outer AoE</span>
+  - <span class="ability">Spear Charge</span>: <span class="mechanic">🏃 Chessboard AoEs, find safe spot</span>
+  - <span class="ability">Empty Gaze</span>: 🚫 <span class="mechanic">Look away</span>
+- Phase 2:
+  - <span class="ability">Travail (lightning)</span>: <span class="mechanic">Stand on 💠 prism towers</span>
+  - <span class="ability">Travail (firestorm)</span>: <span class="mechanic">🎯 Marked players 🏃<>🏃 spread, run clockwise</span>
+  - <span class="ability">Heavy Strike</span>: <span class="mechanic">📐 270° frontal cone, 🏃 behind boss</span>
+  - <span class="ability">Star Fall</span>: <span class="mechanic">4 🔴 AoEs, 🏃 center or edge, leaves Star Shards</span>
+- Phase 3:
+  - <span class="ability">Looming Shadow</span>: <span class="mechanic">🏃 Hide behind Star Shard</span>
+  - <span class="ability">Travail (summon warriors)</span>: <span class="mechanic">Breaks E/W Star Shards</span>
+  - <span class="mechanic">Magnetism + Spear Charge + Heavy Strike + Shockwave</span>: 🏃 <span class="mechanic">Find safe spot, hides behind last Star Shard</span>
+
+<span class="boss">Yol</span>:
+- Phase 1:
+  - <span class="ability">Feathercut</span>: 🛡️ <span class="mechanic">Frontal cleave tankbuster</span>
+  - <span class="ability">Wind Unbound</span>: 💥 <span class="mechanic">Partywide AoE, spawns orbs with ➡️⬅️ line AoEs</span>
+  - <span class="ability">Flutterfall</span>: 🎯 <span class="mechanic">Marked players 🏃<>🏃 spread</span>
+  - <span class="ability">Eye of the Fierce</span>: 🚫 <span class="mechanic">Gaze attack, look away to avoid 🤢 Confusion</span>
+  - <span class="mechanic">Yol retreats, spawns adds (Corpsecleaner Eagles), avoid unmarked ➡️⬅️ line AoEs</span>
+- Phase 2:
+  - <span class="ability">Wingbeat</span>: 🎯 <span class="mechanic">Marked player knocked to edge, 🏃 back to center</span>
+  - <span class="mechanic">Target Yol's wings, 🏃 avoid rotating 🔴 AoEs</span>
+  - <span class="note">Phase can be skipped with well-timed LB before retreat (after Eye of the Fierce → Flutterfall → Wind Unbound)</span>

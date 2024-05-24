@@ -1,1 +1,56 @@
-<span class="boss">Phase 1: Omega</span><br>- <span class="ability">Program Loop</span>: <span class="mechanic">Soak towers in order of Looper / In Line debuffs</span><br>- <span class="ability">Blaster</span>: <span class="mechanic">Dodge tethers in 3-4-1-2 order based on In Line debuffs</span><br>- <span class="ability">Pantokrator</span>: <span class="mechanic">Split into two groups to dodge 📐 Flamethrower and 🎯 Ballistic Missile AoEs while 🤝 stacking for 💥 Condensed Wave Cannon Kyrios</span><br>- <span class="ability">Diffuse Wave Cannon Kyrios</span>: 🛡️ Tanks invuln the tankbusters<br><br><span class="boss">Phase 2: Omega-M and Omega-F</span><br>- <span class="ability">Firewall</span>: <span class="mechanic">Packet Filter debuffs allow only half the party to damage each boss</span><br>- <span class="ability">Clone AoEs</span>: <span class="mechanic">Dodge based on their stances</span><br>- <span class="ability">Optical Laser</span>: <span class="mechanic">Split into two groups while 🌐 spreading for 💥 Optimized Fire III</span><br>- <span class="ability">Spotlight</span>: <span class="mechanic">🤝 Stack for knockback into safe spots based on Mid/Remote Glitch</span><br>- <span class="ability">Optimized Bladedance</span>: 🛡️ Tanks grab 🔗 tethers for tankbusters<br>- <span class="mechanic">Defeat Omega-M then Omega-F before ⏳ Laser Shower enrage</span><br><br><span class="boss">Intermission: Reconfiguration</span><br>- <span class="mechanic">🌐 Spread purple debuffs, 🤝 stack white debuffs</span><br>- <span class="mechanic">Dodge Wave Repeater AoEs and Colossal Blow from Arms</span><br><br><span class="boss">Phase 3: Reconfigured Omega</span><br>- <span class="ability">Hello World</span>: <span class="mechanic">Break Local and Remote Regression 🔗 tethers in sequence</span><br>- <span class="ability">Critical Overflow/Synchronization Bug</span>: <span class="mechanic">Bait defamation and 🤝 stack</span><br>- <span class="ability">Critical Underflow/Performance Bugs</span>: <span class="mechanic">Soak red/blue puddles</span><br>- <span class="ability">Diffuse Wave Cannon Kyrios</span>: 🛡️ Tanks grab 🔗 tethers<br><br><span class="boss">Phase 4: Damaged Omega</span><br>- <span class="ability">Solar Ray</span>: 🛡️ Tanks invuln tankbusters<br>- <span class="ability">Wave Cannon</span>: <span class="mechanic">Dodge ➡️⬅️ line AoEs and 🤝 stack for follow-up lines</span><br>- <span class="mechanic">Meet DPS check for Blue Screen</span><br><br><span class="boss">Phase 5: Dynamis Omega-M and Omega-F</span><br>- <span class="mechanic">Obtain Quickening Dynamis stacks from Hello Near/Distant World debuffs</span><br>- <span class="mechanic">Handle trio mechanics from Beetle, Omega-M, Omega-F, Reconfigured Omega</span><br>- <span class="mechanic">Meet DPS check for Blind Faith</span><br><br><span class="boss">Phase 6: Alpha Omega</span><br>- <span class="mechanic">Use Brilliant Dynamis for 10 total LB3s - tanks, healers, ranged DPS for mechanics, melee DPS for damage</span><br>- <span class="ability">Cosmo Arrow</span>: <span class="mechanic">Dodge cascading ➡️⬅️ line AoEs</span><br>- <span class="ability">Cosmo Dive</span>: 🛡️ Tanks invuln tankbusters, 🤝 stack for shared tankbuster<br>- <span class="ability">Unlimited Wave Cannon</span>: <span class="mechanic">🤝 Stack then 🌐 spread</span><br>- <span class="ability">Wave Cannon</span>: <span class="mechanic">🌐 Spread then 🤝 stack</span><br>- <span class="ability">Cosmo Meteor/Comet</span>: <span class="mechanic">Destroy 🎯 adds with caster and physical ranged LB3</span><br>- <span class="ability">Magic Number</span>: <span class="mechanic">Survive with tank LB3 and healer LB3</span><br>- <span class="mechanic">Defeat before ⏳ Run: ****mi* enrage</span>
+<span class="boss">Omega</span>:
+- <span class="ability">Program Loop</span>: 
+  - 🎯 Looper debuffs on all players (16/25/34/43s timers)
+  - 🏃 Soak yellow towers in debuff order to cleanse
+  - 💥 Towers deal damage + 🤢 Twice-come Ruin
+  - 🔗 Tethers on 2 players, pass to 3-4-1-2 debuff order
+  - 🎯 Tethered players hit with 🔴 Blaster (HP down, 🤢 Twice-come Ruin)
+- <span class="ability">Pantokrator</span>: 
+  - 🎯 Guided Missile + Wave Cannon debuffs (12/18/24/30s)
+  - 🏃<>🏃 Groups of 4, rotate to dodge 🔴 missiles + 📐 Wave Cannon
+  - 🤝 Stack for Wave Cannon (heavy damage)
+  - 🛡️ Tanks: stack for 5-hit tankbuster cleaves
+  - 🎯 Non-tanks: bait line AoEs in two sets of 3
+
+<span class="boss">Omega-M and Omega-F</span>:
+- <span class="ability">Firewall</span>: Bosses debuff closest 4 players, preventing damage to other boss
+- <span class="ability">Solar Ray</span>: 🛡️ Tankbuster on highest enmity target
+- <span class="ability">Party Synergy</span>: 
+  - 🔗 Players tethered in pairs (Mid or Remote Glitch debuff)
+  - 🏃 Dodge clone AoEs based on stance
+  - 💠 Split into two groups for Optical Laser
+  - 🏃<>🏃 Spread for Optimized Fire III circles
+    - Mid Glitch: tether perpendicular to laser
+    - Remote Glitch: tether through center or stretched out
+  - 🎯 Stack marker on 2 players
+  - 💨 Knockback from center, 3 safe spots 90° apart
+    - Mid Glitch: adjacent safe spots
+    - Remote Glitch: opposite safe spots
+- <span class="ability">Limitless Synergy</span>: 
+  - 🏃 Stack to bait Optimized Sagittarius Arrow
+  - 🛡️ Tanks: grab tethers for Optimized Bladedance tankbuster
+  - 🎯 Flare markers on 3 players for Optimized Meteor (spread)
+  - 🛡️ Tanks: closest/2nd closest hit by Beyond Defense (spread)
+  - 🤝 Party: stack for Pile Pitch (except Beyond Defense tank)
+  - 💥 Cosmo Memory raidwide AoE
+  - ⏳ Defeat Omega-M then Omega-F before Laser Shower enrage
+
+<span class="boss">Reconfiguration (Intermission)</span>:
+- 🎯 4 players get Sniper Cannon Fodder (purple spread AoE) 
+- 🎯 2 players get High-powered Sniper Cannon Fodder (white stack AoE)
+- 🤝 Each non-debuff player stacks with a white debuff player
+- 🔴 Avoid puddle in middle (lethal bleed) 
+- 🏃 Dodge expanding Wave Repeater AoEs
+- 👾 Dodge Colossal Blow AoEs from adds in spawn order
+
+<span class="boss">Reconfigured Omega</span>:
+- <span class="ability">Hello, World</span>: 
+  - 💥 Mitigate high raidwide damage
+  - 🔗 Local Code Smell tethers (red/green): move together to break
+  - 🔗 Remote Code Smell tethers (blue): move apart to break
+    - Breaking tethers causes 💥 raidwide + 🤢 Magic Vuln Up/Thrice-come Ruin
+  - 🤢 Latent Synchronization Bug: cleanse with Critical Synchronization Bug stack
+  - 🎯 Overflow Code Smell on 2 players > Critical Overflow Bug (huge AoE) 
+  - 🤝 Synchronization Code Smell on 2 players > Critical Synchronization Bug (stack)
+  - 🎯 Underflow Code Smell on Overflow/Sync players > Critical Underflow Bug (soak red)
+  - 🎯 Performance Code Smell on other Overflow/Sync players > Critical Performance Bug (soak blue)

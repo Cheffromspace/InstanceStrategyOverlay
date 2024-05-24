@@ -1,29 +1,18 @@
-<span class="boss">Trash Mobs</span>:<br>
-- <span class="mechanic">Hug left wall to avoid patrols</span><br>
-- <span class="ability">Sticky Tongue</span>: Nether Nixes yank first person they see, <span class="mechanic">aggroing nearby mobs 👾</span><br>
+<span class="boss">Locksmith</span>:
+- <span class="ability">Gold Rush</span>: 🤢 <span class="mechanic">Stacking debuff, remove by clicking Morbol Fruit</span>
+- <span class="ability">Gold Dust</span>: 🔴 <span class="mechanic">Circular AoE under random player</span>
+- <span class="note">Tanks may need to stun boss to click fruit</span>
 
-<span class="boss">Locksmith</span>:<br>
-- Use <span class="mechanic">Morbol Fruit 🍎 to remove 🤢 Gold Lung debuff</span> (avoid >2 stacks)<br>
-- <span class="ability">Hundred Lashings</span>: Moderate to high damage melee attack<br>
-- <span class="ability">Gold Rush</span>: 🤢 Gold Lung DoT on all players, <span class="mechanic">stacks</span><br>
-- <span class="ability">Gold Dust</span>: 🔴 AoE under random player, moderate damage<br>
-- <span class="note">Tanks may need to stun boss to click fruit without interruption</span><br>
+<span class="boss">Coincounter</span>:
+- <span class="ability">100-Tonze Swipe (1 Hand)</span>: <span class="mechanic">📐 Frontal cone AoE</span>
+- <span class="ability">100-Tonze Swing (2 Hand)</span>: <span class="mechanic">💥 Circular AoE around boss</span>
+- <span class="ability">Glower</span>: 🎯 <span class="mechanic">Laser on random player, inflicts Paralysis</span>
+- <span class="ability">Eye of the Beholder</span>: <span class="mechanic">➡️⬅️ Partial donut AoE, safe spots behind boss and close in</span>
+- <span class="note">Stun 100-Tonze Swipe, 100-Tonze Swing, and Eye of the Beholder</span>
 
-<span class="boss">Coincounter</span>:<br>
-- <span class="mechanic">Non-tanks avoid front at all times</span><br>
-- <span class="ability">100-Tonze Swipe (1 Hand)</span>: 📐 Frontal cone AoE, high damage<br>
-- <span class="ability">100-Tonze Swing (2 Hand)</span>: 🔴 Circular AoE, massive damage<br>
-- <span class="mechanic">Stun or interrupt 100-Tonze Swipe/Swing</span><br>
-- <span class="ability">Glower</span>: 🎯 Laser on random player, moderate damage + 🤢 Paralysis<br>
-- <span class="ability">Eye of the Beholder</span>: C-shaped AoE, moderate damage + 🤢 Electrocution DoT<br>
-- <span class="mechanic">Spread and avoid Glower/Eye of the Beholder</span><br>
-
-<span class="boss">Miser's Mistress</span>:<br>
-- <span class="mechanic">Face boss away from non-tanks</span><br>
-- Use <span class="mechanic">Morbol Fruit 🍎 to remove 🤢 Burrs debuff</span> at 2-3 stacks<br>
-- <span class="ability">Bad Breath</span>: 📐 Frontal cone AoE, inflicts multiple 🤢 debuffs<br>
-- <span class="mechanic">Healers/ranged stay far from boss to avoid Bad Breath</span><br>
-- <span class="ability">Vine Probe</span>: Frontal column AoE, moderate damage<br>
-- <span class="ability">Hooked Burrs</span>: Adds 🤢 Burrs stack to random player<br>
-- <span class="ability">Burr Burrow</span>: Damage based on 🤢 Burrs stacks<br>
-- At 50% HP, <span class="mechanic">destroy 5 Morbol Fruits ASAP</span> (use LB if needed) to prevent 👾 Morbol Seedlings from hatching<br>
+<span class="boss">Miser's Mistress</span>:
+- <span class="ability">Bad Breath</span>: <span class="mechanic">📐 Frontal cone AoE, inflicts multiple 🤢 debuffs</span>
+- <span class="ability">Hooked Burrs</span>: <span class="mechanic">Stacking 🤢 Burrs debuff, remove by clicking Morbol Fruit</span>
+- <span class="ability">Burr Burrow</span>: <span class="mechanic">Damage based on Burrs stacks</span>
+- <span class="mechanic">At 50% HP, spawns 5 Morbol Fruits that must be destroyed quickly</span>
+- <span class="note">Use Morbol Fruit to remove Bad Breath debuffs and Burrs stacks</span>

@@ -1,1 +1,16 @@
-<span class="boss">Zuro Roggo</span>:<br>- 🎯 Kill adds (Choirtoad) quickly, especially if 🤢 Toad debuff on healer<br>- Avoid 🎯 bubbles that cause damage and 🤢 Damage Down debuff<br>- <span class="ability">Toy Hammer</span>: 🛡️ Tankbuster with 🤢 DOT (Concussion), can be dispelled<br>- <span class="ability">Water Bomb</span>: Circular 🎯 AoE, moderate damage<br><br><span class="boss">Ziggy</span>:<br>- 🎯 Kill expanding 🎯 Stardust stones before platform is covered<br>- 🔗 Tether to player, avoid by 💠 hiding behind stone<br>- 🎯 Kill Spriggan Gemcutter adds<br>- <span class="ability">Jittering Glare</span>: Frontal 📐 cone AoE<br>- <span class="ability">Gyrating Glare</span>: 💥 Platform-wide AoE, high damage, 💠 dodge behind stones<br><br><span class="boss">Calcabrina</span>:<br>- Starts as 6 small dolls (Calca and Brina), 🎯 kill quickly<br>- 👀 Look away if red eye above player head<br>- <span class="ability">Dollhouse</span>: Transforms players into dolls with 🤢 DOT, 🎯 kill dolls to free players<br>- <span class="ability">Slapstick</span>: Channeled 🎯 AoE during Dollhouse phase<br>- <span class="ability">Knockout</span>: 🛡️ Massive tankbuster (or targets others if tank dead)<br>- <span class="ability">Brace</span>: 🛡️ Parry attacks from certain direction<br>- <span class="ability">Terrifying Glance</span>: Frontal 📐 cone on player with red eye, causes 🤢 confusion, 👀 look away to avoid
+<span class="boss">Zuro Roggo</span>:<br>
+- Kill 👾 Choirtoad adds quickly to remove 🤢 Toad debuff<br>
+- Avoid 🔴 Water Bomb AoEs<br>
+- 🩹 Dispel 🤢 Concussion DoT from <span class="ability">Toy Hammer</span><br>
+
+<span class="boss">Ziggy</span>:<br>
+- Kill 👾 Spriggan Gemcutter adds<br>
+- Destroy 👾 Stardust stones before platform is covered<br>
+- 🏃 Hide behind stones to avoid tether after "Ziggy takes careful aim"<br>
+- 🏃 Hide behind stones to avoid 💥 <span class="ability">Gyrating Glare</span> AoE<br>
+
+<span class="boss">Calcabrina</span>:<br>
+- Kill 👾 Calca and 👾 Brina dolls quickly during <span class="ability">Dollhouse</span><br>
+- 🛡️ Tank swap for <span class="ability">Knockout</span> tankbuster<br>
+- 🏃 Look away from boss if targeted with 🎯 red eye (<span class="ability">Terrifying Glance</span>)<br>
+- <span class="note">Boss merges into Calcabrina after dolls are defeated</span>

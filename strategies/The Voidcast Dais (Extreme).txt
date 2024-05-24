@@ -1,1 +1,22 @@
-<span class="boss">Golbez</span>:<br>- <span class="ability">Terrastorm</span>: 🏃 Move to a safe corner to avoid slow falling meteors on diagonals with overlapping AOE in the middle<br>- <span class="ability">Lingering Spark</span>: 🎯 Drops puddle on every player, <span class="mechanic">bait the cast then run away</span><br>- <span class="ability">Phases of the Blade</span>: Cleaves room in halves, <span class="mechanic">first front then back</span><br>- <span class="ability">Binding Cold</span>: 💥 Raidwide damage, inflicts 🤢 Frostbite debuff for 8s<br>- <span class="ability">Gale Sphere</span>: ➡️⬅️ Line AOEs front/back then left/right, with 🌐 shadowspread on second hit<br>- <span class="ability">Void Meteor</span>: 🛡️ 5-hit tankbuster on both tanks<br><br><span class="boss">Azdaja's Shadow</span>:<br>- 🛡️ 3-hit line AOE tankbusters + tank swap<br>- <span class="mechanic">Circling dragon with purple rings</span>: 🍩 Donut AOE + 🌐 spread<br>- <span class="mechanic">Circling dragon with small ring & orbs</span>: 📐 Cone AOE + 🤝 stacks<br>- <span class="ability">Double Meteor</span>: MT flex for ranged flares, H flex for melee flares. 2 with flares 💨 knockback to intercardinals, healer in mid baits ➡️⬅️ line AOE, others in towers (3 in N, 2 in S)<br>- <span class="ability">Void Stardust</span>: 🏃 Trailing AOEs (exaflares), start on E/W and move into first exaflare (side to corner)<br>- <span class="ability">Enumeration</span>: Melee in, ranged at corners<br>- <span class="ability">Eventide Fall</span> or <span class="ability">Eventide Triad</span>: Light party or role-based cleaves<br><br><span class="mechanic">Enrage</span>: ⏳ Defeat boss before Azdaja's Shadow into Black Fang finishes casting or wipe
+<span class="boss">Golbez</span>:<br>
+- <span class="ability">Terrastorm</span>: <span class="mechanic">🏃 Move to safe corner</span> to avoid 💥 AoE from falling meteors<br>
+- <span class="ability">Lingering Spark</span>: <span class="mechanic">🎯 Bait puddle</span>, then 🏃 move away after castbar finishes<br>
+- <span class="ability">Phases of the Blade</span>: <span class="mechanic">🏃 Avoid ➡️⬅️ room cleaves</span>, first front then back<br>
+- <span class="ability">Binding Cold</span>: 💥 Raidwide, inflicts 🤢 Frostbite debuff for 8s<br>
+- <span class="ability">Gale Sphere</span>: <span class="mechanic">🏃 Dodge ➡️⬅️ line AoEs</span> (front/back then left/right) + 🏃<>🏃 spread for <span class="ability">Arctic Assault</span><br>
+- <span class="ability">Void Meteor</span>: 🛡️ Double tankbuster, hits 5 times<br>
+
+<span class="boss">Azdaja's Shadow</span>:<br>  
+- 🛡️ 3-hit tank cleave + ⚔️ swap<br>
+- <span class="mechanic">Purple rings</span>: 🍩 Donut AoE + 🏃<>🏃 spread<br>
+- <span class="mechanic">Small ring & orbs</span>: <span class="ability">Phases of the Blade</span> AoE + 🤝 stack<br>
+- <span class="ability">Double Meteor</span>: <span class="mechanic">💠 Flex positions</span> for double flares (MT for ranged, H for melee)<br>
+- <span class="mechanic">Flare tethers</span>: 💨 Knockback to open, 🩹 intersect healer in mid, bait ➡️⬅️ line AoE<br>
+- <span class="mechanic">Towers</span>: 3 stack N, 2 stack S at intercardinals<br>
+
+<span class="note">Rest executes much later:</span><br>
+- <span class="ability">Void Stardust</span>: <span class="mechanic">🏃 Move from side to corner</span> into first exaflare<br>
+- <span class="ability">Enumeration</span>: 💠 Melee in, ranged at corners<br>
+- <span class="ability">Eventide Fall/Triad</span>: 👥 Light party or 🎭 role-based cleaves<br>
+- <span class="mechanic">Pre-enrage</span>: Double 🤢 Frostbite + 🛡️ <span class="ability">Void Meteor</span> tankbuster<br>
+- ⏳ <span class="mechanic">Enrage</span>: Defeat boss before <span class="ability">Black Fang</span> finishes casting

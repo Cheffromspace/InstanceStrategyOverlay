@@ -1,1 +1,25 @@
-<span class="boss">Titania EX</span>:<br>- <span class="ability">Bright Sabbath</span>: Unavoidable 💥 party-wide damage, <span class="mechanic">🩹 heal through it</span><br>- <span class="ability">Phantom Rune</span>: <span class="mechanic">🎯 Circular AoE (run out) or 🍩 Donut AoE (run in), watch cast animation</span><br>- <span class="ability">Divination Rune</span>: 🛡️ Conal tank-buster, <span class="mechanic">face away from group</span><br>- <span class="ability">Chain of Brambles</span>: 🔗 Tethers tanks/healers to DPS, <span class="mechanic">stretch to break</span><br>- <span class="ability">Mist Rune</span>: <span class="mechanic">🏃 Move to assigned puddle, or adds spawn</span><br>- <span class="ability">Flame Rune</span>: 🎯 Stack markers on healers, <span class="mechanic">split damage</span><br>- <span class="ability">Thunder Rune</span>: 🔗 Tether causing 💥 AoE blasts, <span class="mechanic">pass tether or use invuln</span><br>- <span class="ability">Fae Light</span>: 🛡️ Triple conal tank-buster, <span class="mechanic">swap tanks or use invuln</span><br>- <span class="ability">Growth Rune</span>: <span class="mechanic">🌿 Stand in safe triangles to avoid bramble bind</span><br>- <span class="ability">Frost Rune</span>: <span class="mechanic">⚪ Circles explode in spawn order, move to late spawns</span><br>- <span class="ability">Uplift</span>: 💥 Circular AoEs on all players, <span class="mechanic">🌐 spread out</span><br><br><span class="boss">Mini-Boss Phase</span>:<br>- <span class="mechanic">Tanks grab Puck and Peaseblossom, kill Mustardseed first</span><br>- <span class="mechanic">Kill re-summoned bosses in same order</span><br>- <span class="ability">Puck's Rebuke</span>: 💨 Knockback from center, <span class="mechanic">avoid knock into 🌿 vine AoEs or off arena</span><br><br><span class="boss">Final Phase</span>:<br>- <span class="mechanic">Kill before enrage ⏳ or wipe to Bright Sabbath</span><br>- <span class="mechanic">Handle previous mechanics in combos</span>
+<span class="boss">Titania</span>:<br>
+- <span class="ability">Bright Sabbath</span>: 💥 Unavoidable AoE, group-wide healing required<br>
+- <span class="ability">Phantom Rune</span>: <span class="mechanic">🏃 Run out for circle AoE, 🤝 stack in for donut AoE</span><br>
+- <span class="ability">Divination Rune</span>: 🛡️ Tank buster, 📐 avoid front cone<br>
+- <span class="ability">Chain of Brambles</span>: <span class="mechanic">🔗 Tethers, stretch to break</span> (tanks/healers 🏃 N, DPS 🏃 S)<br>
+
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Mist Rune</span>: <span class="mechanic">🏃 Assign puddles</span>, stand in until complete<br>
+- <span class="ability">Flame Rune</span>: <span class="mechanic">🎯 Stack markers on healers</span>, split evenly, 🤢 Fire Res Down II<br>
+
+<span class="boss">Phase 2</span>:<br>
+- <span class="ability">Thunder Rune</span>: <span class="mechanic">🔗 Tether to non-tank</span>, 💥 AoE blasts, 🤢 Lightning Res Down II, pass or invuln<br>
+- <span class="ability">Fae Light</span>: 🛡️ Triple tank buster<br>
+- <span class="ability">Growth Rune</span>: <span class="mechanic">🏃 Stand in safe spots</span>, avoid 🌿 brambles<br>
+- <span class="ability">Frost Rune</span>: <span class="mechanic">⚪ Circles explode in spawn order</span>, 🏃 stand in late spawns, then center<br>
+- <span class="ability">Uplift</span>: 🎯 Spread markers, 🏃<>🏃 avoid overlap<br>
+
+<span class="boss">Phase 3 (Adds)</span>:<br>
+- <span class="mechanic">⚔️ Tanks grab Puck and Peaseblossom</span>, 🎯 focus Mustardseed<br>
+- <span class="ability">Puck's Rebuke</span>: <span class="mechanic">💨 Knockback</span>, 🏃 position to break tethers, avoid 📏 vine AoEs<br>
+
+<span class="boss">Phase 4</span>:<br>
+- <span class="mechanic">Combo mechanics</span>, 🎯 burn before ⏳ enrage<br>
+
+<span class="note">Unsynced: 🎯 Push to 20-25% in P1, 🛑 hold DPS, 🏃 move quickly in P2, 🛡️ tank takes 🔗 tether, 💀 burn after "This should tingle a bit"</span>

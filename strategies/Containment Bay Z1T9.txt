@@ -1,1 +1,25 @@
-<span class="boss">The Demon: Zurvan</span><br><span class="boss">Phase 1</span><br>- <span class="mechanic">Platform falls counterclockwise</span>, starting from the east. 🏃 Avoid falling segments<br>- <span class="ability">Metal Cutter</span>: Frontal cleave on main tank 🛡️<br>- <span class="ability">Flare Star</span>: Circular AoEs on random players 🎯<br><br><span class="boss">Phase 2</span><br>- <span class="ability">Soar</span>: Zurvan jumps away, casts 2 line-AoEs ➡️⬅️. Avoid clones' line-AoEs<br>- <span class="ability">Flaming Halberd</span>: Circular AoEs follow 2 players 🎯. Move away from group<br>- <span class="ability">Demonic Dive</span>: Stack on targeted healer to share damage 🤝<br>- <span class="ability">Wave Cannon</span>: Unmarked line-AoE, side-step to avoid ➡️⬅️<br>- <span class="ability">Ice Puddle</span>: Persistent AoE puddle on boss 🎯, causes damage and slow<br>- <span class="ability">Biting Halberd</span>: Massive conal AoE 📐, move behind Zurvan<br>- <span class="ability">Southern Cross</span> + <span class="ability">Ciclicle</span>: Stack for AoEs 🤝, then stay close to avoid donut AoE 🎯<br>- <span class="ability">Tail End</span>: Huge AoE on Zurvan 🎯, move to arena edges<br><br><span class="boss">Phase 3</span><br>- <span class="mechanic">Waves of adds</span>: Tanks pick up Execrated Threw 🛡️ and Execrated Will 🛡️. DPS focus Execrated Wit 🎯<br><br><span class="boss">Phase 4</span><br>- Similar to Phase 2 with additional mechanics:<br>- <span class="ability">Broken Seal</span>: Assigns <span class="ability">Infinite Fire</span> and <span class="ability">Infinite Ice</span> to players<br>- <span class="mechanic">Fire & Ice Meteors</span>: Stand in matching meteor (red 🔥 or white ❄️) to soak damage<br>- <span class="ability">Tyrfing</span>: Multi-strike tankbuster 🛡️, increases in attacks each use
+<span class="boss">The Demon: Zurvan</span>
+
+<span class="boss">Phase 1</span>:
+- <span class="mechanic">Platform falls counterclockwise, starting from east</span>
+- <span class="ability">Metal Cutter</span>: ⚔️ <span class="mechanic">Tank cleave, face boss away</span>
+- <span class="ability">Flare Star</span>: 🔴 <span class="mechanic">Avoid circular AoEs on random players</span>
+
+<span class="boss">Phase 2</span>:
+- <span class="ability">Soar</span>: <span class="mechanic">Zurvan jumps away, avoid 2 line AoEs from boss and clones</span>
+- <span class="ability">Flaming Halberd</span>: 🎯 <span class="mechanic">Targeted players move away, leaves flaming puddle</span>
+- <span class="ability">Demonic Dive</span>: 🤝 <span class="mechanic">Stack on targeted healer</span>
+- <span class="ability">Wave Cannon</span>: <span class="mechanic">Unmarked line AoE, sidestep to avoid</span>
+- <span class="ability">Ice Puddle</span>: 💨 <span class="mechanic">Slowing AoE around boss</span>
+- <span class="ability">Biting Halberd</span>: 📐 <span class="mechanic">Massive cone AoE, move behind boss</span>
+- <span class="ability">Southern Cross</span> + <span class="ability">Ciclicle</span>: 🤝 <span class="mechanic">Stack for AoEs, then stay close for donut AoE</span>
+- <span class="ability">Tail End</span>: 🏃 <span class="mechanic">Move to arena edges</span>
+
+<span class="boss">Phase 3</span>:
+- <span class="mechanic">Adds spawn in waves, tanks pick up and DPS focus</span>
+
+<span class="boss">Phase 4</span>:
+- <span class="ability">Broken Seal</span>: 
+  - <span class="ability">Infinite Fire/Ice</span>: <span class="mechanic">Stand in 🔴 red (Fire) or ⚪ white (Ice) meteors</span>
+  - <span class="note">Unsoaked or wrong meteor = party 🤢 Vuln Up</span>
+- <span class="ability">Tyrfing</span>: 🛡️ <span class="mechanic">Multi-hit tankbuster, increases by 1 hit each use</span>

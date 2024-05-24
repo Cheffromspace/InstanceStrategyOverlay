@@ -1,1 +1,14 @@
-<span class="boss">General Information</span><br>- 8-player raid in Endwalker, released on January 4, 2022<br>- Requires item level 570+ to enter<br>- Located in Duty Finder → Raids → Savage Raids (Endwalker)<br><br><span class="boss">Unlock</span><br>- Speak with Nemjiji in Labyrinthos (X:8.4 Y:27.4) <br>- Must be level 90 Disciple of War/Magic<br>- Complete quest "Who Wards the Warders?"<br><br><span class="boss">Floors</span><br>- <span class="ability">Asphodelos: The First Circle (Savage)</span> (P1S) - IL 570, Boss: Erichthonios<br>- <span class="ability">Asphodelos: The Second Circle (Savage)</span> (P2S) - IL 575, Boss: Hippokampos<br>- <span class="ability">Asphodelos: The Third Circle (Savage)</span> (P3S) - IL 580, Boss: Phoinix<br>- <span class="ability">Asphodelos: The Fourth Circle (Savage)</span> (P4S) - IL 580, Bosses: Hesperos (Phase 1 & 2)<br><br><span class="boss">Rewards</span><br>- <span class="mechanic">Asphodelos Coffers</span>: Contain job-specific gear (IL 600-605)<br>- <span class="mechanic">Asphodelos Mythos</span>: Tokens exchanged for gear (Mylenie in Labyrinthos or Djole in Radz-at-Han)<br><br><span class="boss">Loot per Floor</span><br>- <span class="ability">P1S</span>: Accessories<br>- <span class="ability">P2S</span>: Boots, gloves, head, tomestone accessory/weapon tokens<br>- <span class="ability">P3S</span>: Boots, legs, head, tomestone weapon/armor augmentation items<br>- <span class="ability">P4S</span>: Chest, weapon, mount
+<span class="boss">Erichthonios</span>:<br>
+- <span class="ability">Gaoler's Flail</span>: 🛡️ <span class="mechanic">Tankbuster</span>, ⚔ swap after<br>
+- <span class="ability">Warder's Wrath</span>: 💥 <span class="mechanic">Raidwide damage</span><br>
+- <span class="ability">Intemperance</span>: 🔴 <span class="mechanic">Avoid AoE circles</span><br> 
+- <span class="ability">Intemperate Torment</span>: 🎯 <span class="mechanic">Stack on marked player</span><br>
+- <span class="ability">Aetherflail</span>: ➡️⬅️ <span class="mechanic">Avoid line AoEs from tethered players</span><br>
+- <span class="ability">Shackles of Time</span>: 🤝 <span class="mechanic">Stack with shackled player to break chains</span><br>
+- <span class="ability">Warder's Wrath</span>: 💥 <span class="mechanic">Raidwide damage</span> + 👾 <span class="mechanic">Adds spawn</span>, kill quickly<br>
+- <span class="ability">Aetherial Shackles</span>: 🔗 <span class="mechanic">Tethered players run to opposite sides</span><br>
+- <span class="ability">Gaoler's Flail</span>: 🛡️ <span class="mechanic">Tankbuster</span><br>
+- <span class="ability">Aetherchain</span>: 💠 <span class="mechanic">Position to avoid chain cleaves</span><br>
+- <span class="ability">Shining Cells</span>: 🔴 <span class="mechanic">Spread to avoid splash damage</span><br>
+- <span class="ability">Warder's Wrath</span>: 💥 <span class="mechanic">Raidwide damage</span><br>
+- <span class="mechanic">Enrage at 10:00</span> ⏳

@@ -1,1 +1,28 @@
-<span class="boss">General Information</span><br>- Level 60 savage 8-player raid released in Patch 3.2<br>- 🔓 Unlock by completing quest "A Refrain for the Undaunted" from Wandering Minstrel in Mor Dhona (x21,y8)<br><br><span class="boss">Floors</span><br>- <span class="ability">Alexander - The Fist of the Son (Savage)</span> (A5S): ⚔️ IL 215, Bosses: Faust, HummelfaustRatfinx Twinkledinks<br>- <span class="ability">Alexander - The Cuff of the Son (Savage)</span> (A6S): ⚔️ IL 220, Bosses: Blaster, Brawler, Swindler, Vortexer<br>- <span class="ability">Alexander - The Arm of the Son (Savage)</span> (A7S): ⚔️ IL 225, Boss: Quickthinx Allthoughts<br>- <span class="ability">Alexander - The Burden of the Son (Savage)</span> (A8S): ⚔️ IL 225, Bosses: Onslaughter, Blaster, Brawler, Swindler, Vortexer, Brute Justice<br><br><span class="boss">Rewards</span><br>- 💰 Treasure coffers with accessories for each floor<br>- 📜 Midan Manifesto pages to exchange for 240 gear<br>- 🗳️ Midan Gear Coffers that transform into 240 gear for your job<br>- 🗡️ Midan Weapon Coffers from A8S<br><br><span class="boss">Loot Exchange</span><br>- Speak with Sabina in Idyllshire (X:5.8 Y:5.2) to exchange Midan Manifesto pages:<br>- Weapons: 8 Page 4<br>- Armor: 6-8 Page 2, 3 or 4 depending on slot<br>- Accessories: 4 Page 1<br>- ⏰ Weekly loot limits removed in Patch 3.4
+<span class="boss">Faust</span>:
+- <span class="ability">Sturm Doll</span>: 👾 Adds, <span class="mechanic">kill quickly to avoid enrage</span>
+- <span class="ability">Pressure Increase</span>: 💥 <span class="mechanic">Party-wide damage, heal through</span>
+
+<span class="boss">Hummelfaust</span>:
+- <span class="ability">Panzer Vor</span>: 🛡️ <span class="mechanic">Tankbuster, use cooldowns</span>
+- <span class="ability">Ballistic Missile</span>: 🎯 <span class="mechanic">Targeted AoE, move away from others</span>
+- <span class="ability">Kaltstrahl</span>: ➡️⬅️ <span class="mechanic">Line AoE, dodge to sides</span>
+
+<span class="boss">Blaster, Brawler, Swindler, Vortexer</span>:
+- <span class="ability">Double Rocket Punch</span>: 🛡️ <span class="mechanic">Shared tankbuster, use cooldowns and shields</span>
+- <span class="ability">Enumeration</span>: 🔢 <span class="mechanic">Stand on correct number tile to avoid damage</span>
+- <span class="ability">Height</span>: 🏃 <span class="mechanic">Move to edge of arena to avoid knockback</span>
+- <span class="ability">Mirage</span>: 👥 <span class="mechanic">Kill clone adds quickly</span>
+
+<span class="boss">Quickthinx Allthoughts</span>:
+- <span class="ability">Digititis</span>: 🤝 <span class="mechanic">Stack to share damage</span>
+- <span class="ability">Apocalyptic Ray</span>: 🏃<>🏃 <span class="mechanic">Spread to avoid splash damage</span>
+- <span class="ability">Prey</span>: 🎯 <span class="mechanic">Marked player kites puddles away from group</span>
+- <span class="ability">Chakrams</span>: 💠 <span class="mechanic">Position to avoid spinning chakrams</span>
+
+<span class="boss">Onslaughter, Blaster, Brawler, Swindler, Vortexer, Brute Justice</span>:
+- <span class="ability">Mega Beam</span>: 📐 <span class="mechanic">Avoid wide front cone AoE</span>
+- <span class="ability">Enumeration</span>: 🔢 <span class="mechanic">Stand on correct number tile to avoid damage</span>
+- <span class="ability">Gavel</span>: 🛡️ <span class="mechanic">Tankbuster, swap after cast</span>
+- <span class="ability">Long Needle</span>: 🎯 <span class="mechanic">Targeted player moves away, group stacks</span>
+- <span class="ability">Super Jump</span>: 💠 <span class="mechanic">Move to safe spot between jump indicators</span>
+- <span class="note">Burn boss before enrage at 12 minutes</span> ⏳

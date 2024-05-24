@@ -1,1 +1,26 @@
-<span class="boss">General Information</span><br>- First 8-player raid in Heavensward, released July 7, 2015<br>- Requires item level 170+ to enter<br>- Unlocked via level 60 quest "Disarmed" from Slowfix in Idyllshire (x7,y6)<br>- 4 floors, each listed separately in Duty Finder<br><br><span class="boss">Floors</span><br>- <span class="ability">Alexander - The Fist of the Father (A1N)</span>: Bosses are Faust and Oppressor<br>- <span class="ability">Alexander - The Cuff of the Father (A2N)</span>: Boss is Illuminati Soldiers  <br>- <span class="ability">Alexander - The Arm of the Father (A3N)</span>: Boss is Living Liquid<br>- <span class="ability">Alexander - The Burden of the Father (A4N)</span>: Boss is The Manipulator<br>- All floors have a 90 minute time limit<br><br><span class="boss">Rewards</span><br>- Treasure coffers yield tokens to trade for gear, no weekly restrictions as of patch 3.1<br>- Tokens: Tarnished Gordian Lens (Head), Shaft (Body), Crank (Hands), Spring (Legs), Pedal (Feet), Bolt (Accessories)<br>- Additional rewards: Precision Gordian Bolt (A1), Lens (A2), Spring (A3), Shaft (A4), Gobwalker Shielding (A4), Gordian Gear (A4)<br>- Exchange tokens for Prototype Gordian gear with Sabina in Idyllshire (X:5 Y:5)
+<span class="boss">Faust Oppressor</span>:<br>
+- <span class="ability">Hydrothermal Missile</span>: 🎯 <span class="mechanic">Targets random player, 🔴 AoE on impact</span><br>
+- <span class="ability">Pressure Increase</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Distress Beacon</span>: <span class="mechanic">👾 Summons adds, focus down quickly</span><br>
+- <span class="ability">Discoid</span>: 🛡️ <span class="mechanic">Tankbuster, mitigate and heal</span><br>
+
+<span class="boss">Illuminati Soldiers</span>:<br>
+- <span class="mechanic">Kill Gordian Hardhelm first</span>, then Gordian Sniper > Hardmind > Jagd Doll<br>
+- <span class="ability">Jagd Doll's Rapid Sever</span>: 🛡️ <span class="mechanic">Tankbuster, swap after 2-3 stacks</span><br>
+- <span class="ability">Gordian Sniper's Ballistic Missile</span>: 🎯 <span class="mechanic">Targets random player, 🔴 AoE</span><br>
+- <span class="ability">Gordian Hardmind's Embolus</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+
+<span class="boss">Living Liquid</span>:<br>
+- <span class="ability">Fluid Swing</span>: 🛡️ <span class="mechanic">Tankbuster, swap after debuff</span><br>
+- <span class="ability">Cascade</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Fluid Strike</span>: ➡️⬅️ <span class="mechanic">Line AoE, dodge sideways</span><br>
+- <span class="ability">Splash</span>: 🔴 <span class="mechanic">Puddle AoEs, avoid</span><br>
+- <span class="ability">Wash Away</span>: 💨 <span class="mechanic">Knockback, face away from center</span><br>
+
+<span class="boss">The Manipulator</span>:<br>
+- <span class="ability">Discoid</span>: 🛡️ <span class="mechanic">Tankbuster, mitigate and heal</span><br>
+- <span class="ability">Jagd Doll's Rapid Sever</span>: 🛡️ <span class="mechanic">Tankbuster, swap after 2-3 stacks</span><br>
+- <span class="ability">Seed of the Sky</span>: 🤝 <span class="mechanic">Stack to share damage</span><br>
+- <span class="ability">Carnage</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Judgment Nisi</span>: 🔗 <span class="mechanic">Tethered players must separate</span><br>
+- <span class="mechanic">Kill adds ASAP</span>, <span class="note">prioritize Alarum</span><br>

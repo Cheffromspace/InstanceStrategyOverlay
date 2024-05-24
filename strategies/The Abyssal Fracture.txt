@@ -1,1 +1,25 @@
-<span class="boss">Zeromus Phase 1</span>:<br>- <span class="ability">Abyssal Nox</span>: 🩹 Heal to full to remove 💀 Doom debuff, dodge 🎯 circular AoEs<br>- <span class="ability">Sable Thread</span>: 🤝 Multi-hit line stack AoE, closest players take more damage<br>- <span class="ability">Visceral Whirl</span>: <span class="mechanic">Dodge into triangular safe spots</span> between 📐 conal AoEs<br>- <span class="ability">Dark Matter</span>: 🛡️ Multi-hit tankbuster<br>- <span class="ability">Flare</span>: 🤝 Stack in tower, avoid 🔥 line AoEs from fireball<br>- <span class="ability">Nox</span>: 🏃 Bait chasing AoEs away from party<br>- <span class="ability">Void Bio</span>: <span class="mechanic">Dodge through gaps</span> in 🟢 poison orbs moving across arena<br>- <span class="ability">Big Bang</span>: 💥 Raidwide damage, debuffs: 🤢 DoT, 🚫 stop moving/attacking, 🌐 spread, 🤝 stack, ⬇️ HP down<br>- <span class="ability">Meteor Impact</span>: <span class="mechanic">Stretch 🔗 tethers</span> without overlapping<br>- <span class="ability">Black Hole</span>: Avoid expanding 🌑 AoE, go behind rotating ➡️⬅️ line AoE<br>- <span class="ability">Void Meteor</span>: Avoid 🎯 proximity AoEs, 🔗 tethers, and 💥 cracked meteors<br>- <span class="ability">Big Crunch</span>: 💥 Raidwide damage, 🤢 DoT debuff<br><br><span class="boss">Zeromus Phase 2</span>:<br>- <span class="ability">Rend the Rift</span>: 💥 Raidwide damage, avoid 🎯 AoEs and 📐 line AoEs<br>- <span class="ability">Nostalgia</span>: 🩹 Heal and mitigate 4-hit 🛡️ physical and 3-hit 🪄 magical raidwides<br>- <span class="ability">Flow of the Abyss</span>: Avoid wide ➡️⬅️ line AoE tethered to background<br>- <span class="ability">Akh Rhai</span>: 🏃 Drop persistent 🎯 AoEs away from party<br>- <span class="ability">Chasmic Nails</span>: <span class="mechanic">Dodge into resolved AoEs</span> to avoid 5 sequential 📐 conal AoEs
+<span class="boss">Zeromus</span>:<br>
+<span class="note">Players can fall off arena and die, but can be resurrected</span><br>
+<br>
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Abyssal Nox</span>: <span class="mechanic">Reduces HP to 1, inflicts 10s 🤢 Doom (heal to full to remove), dodge 🔴 AoEs</span><br>
+- <span class="ability">Sable Thread</span>: 🤝 <span class="mechanic">Stack (6 hits, closest take more damage)</span><br>
+- <span class="ability">Visceral Whirl</span>: <span class="mechanic">⚔️ Perpendicular line AoEs, stand in triangular safe spots</span><br>
+- <span class="ability">Dark Matter</span>: 🛡️ <span class="mechanic">Multi-hit tankbuster</span><br>
+- <span class="ability">Flare</span>: <span class="mechanic">🤝 Stack in tower, dodge 📏 line AoEs from fireball</span><br>
+- <span class="ability">Nox</span>: <span class="mechanic">2 players get 🎯 chasing AoEs (3 hits), bait away</span><br>
+- <span class="ability">Void Bio</span>: <span class="mechanic">Dodge moving 🤢 poison orbs, stand in triangular safe spots</span><br>
+- <span class="ability">Big Bang</span>: 💥 <span class="mechanic">Raidwide damage, debuffs (🤢 DoT, 🚫 stop moving, 🏃<>🏃 spread, 🤝 stack, ⬇️ HP down), dodge AoEs</span><br>
+- <span class="ability">Meteor Impact</span>: <span class="mechanic">Stretch 🔗 tether (not too short), avoid overlapping, 🤢 Blunt Res Down</span><br>
+- <span class="ability">Black Hole</span>: <span class="mechanic">Avoid expanding 🔴 AoE and rotating ➡️⬅️ line AoE (instant death)</span><br>
+- <span class="ability">Void Meteor</span>: <span class="mechanic">4 proximity AoEs drop cracked meteors</span><br>
+- <span class="ability">Meteor Impact</span>: <span class="mechanic">Same as before, avoid overlapping 🔴 meteors (explode if hit)</span><br>
+- <span class="ability">Big Crunch</span>: 💥 <span class="mechanic">Raidwide damage, transitions arena, 🤢 DoT debuff</span><br>
+<br>
+<span class="boss">Phase 2 (at 25%)</span>:<br>
+- <span class="ability">Rend the Rift</span>: 💥 <span class="mechanic">Raidwide damage, transitions arena and music</span><br>
+- <span class="mechanic">Dodge 🔴 AoEs and 📐 tri-directional line AoEs</span><br>
+- <span class="ability">Nostalgia</span>: 💥 <span class="mechanic">4 physical raidwides, 2 magical raidwides, 1 big magical raidwide (heal and mitigate)</span><br> 
+- <span class="ability">Flow of the Abyss</span>: <span class="mechanic">Wide ➡️⬅️ line AoE (tethered to crack in background)</span><br>
+- <span class="ability">Akh Rhai</span>: <span class="mechanic">Each player drops persistent 🔴 AoE (avoid)</span><br>
+- <span class="ability">Chasmic Nails</span>: <span class="mechanic">Dodge 5 sequential 📐 conal AoEs (into previous AoEs), 🤢 Flesh Wound debuff (Esuna)</span><br>

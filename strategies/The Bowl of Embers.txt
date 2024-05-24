@@ -1,1 +1,18 @@
-<span class="boss">Lord of the Inferno: Ifrit</span><br>- Face boss away from party to avoid cleaving fire breath<br>- <span class="ability">Eruption</span>: Targeted radial 🎯 AoE, <span class="mechanic">🏃 move to avoid</span><br>- <span class="ability">Infernal Nail</span>: DPS check, <span class="mechanic">🎯 kill immediately</span> or face party wipe from <span class="ability">Hellfire</span><br>- <span class="ability">Hellfire</span>: Unavoidable 💥 party-wide damage if nail killed, wipe if not<br>- <span class="mechanic">Eruption ring AoEs</span> appear around perimeter or center in final phase, <span class="mechanic">🏃 avoid both</span>
+<span class="boss">Lord of the Inferno: Ifrit</span>
+
+100% - 76% HP:
+- <span class="mechanic">Tank and spank</span>, face boss away from party
+- <span class="ability">Cleaving fire breath</span>: 🛡️ <span class="mechanic">Tank faces away</span>
+
+75% - 51% HP:
+- <span class="ability">Eruption</span>: 🎯 <span class="mechanic">Targeted radial AoE, 🏃 move to avoid</span>
+
+50% - 26% HP:
+- <span class="mechanic">👾 Infernal Nail spawns, DPS check</span>
+- <span class="ability">Hellfire</span>: <span class="mechanic">Wipe if nail not killed, 💥 moderate damage if killed</span>
+
+25% - 0% HP:
+- <span class="ability">Eruption</span> creates <span class="mechanic">non-targeted 🔴 AoE rings</span>:
+  - Around arena perimeter
+  - In arena center
+  - <span class="note">Both rings can appear consecutively</span>

@@ -1,1 +1,22 @@
-<span class="boss">The Fiend: Sephirot</span><br><br><span class="boss">Phase 1: 100% - 65%</span><br>- <span class="ability">Tifferet</span>: 💥 Party-wide damage, <span class="mechanic">🩹 heal through it</span><br>- <span class="ability">Ein Sof</span>: <span class="mechanic">🏃 Move to half of arena with no green circles</span><br>- <span class="ability">Fiendish Rage</span>: 🎯 Marked healer and DPS, <span class="mechanic">off-tank between groups to avoid debuff</span><br>- <span class="ability">Chesed</span>: 🛡️ Tankbuster, <span class="mechanic">tank re-centers boss and faces away</span><br>- <span class="ability">Ain</span>: <span class="mechanic">Party stands between boss and Ein Sof circle</span><br>- <span class="ability">Ratzon</span>: <span class="mechanic">🌐 Spread out behind boss</span>, place 🎯 purple circle behind boss or at arena edge<br><br><span class="boss">Phase 2: Adds</span><br>- <span class="ability">Cochma</span>: 🎯 Large add, <span class="mechanic">main tank grabs and receives 🩹 heals</span><br>- <span class="ability">Binah</span>: 🎯 Smaller adds, <span class="mechanic">off-tank grabs</span><br><br><span class="boss">Phase 3</span><br>- <span class="ability">Yesod</span>: <span class="mechanic">🏃 Move away from 🎯 circle AoEs under party members</span><br>- <span class="ability">Force Field</span>: <span class="mechanic">Green debuff = magic resistance, orange debuff = physical resistance</span><br>- <span class="ability">Spirit/Life Force</span>: <span class="mechanic">Stand in 🟢 green or 🟠 orange sphere matching debuff color</span><br>- <span class="ability">Fiendish Wail</span>: <span class="mechanic">🟠 Orange debuffs in towers (1 each side), tanks take towers when no debuffs</span><br>- <span class="ability">Da'at</span>: <span class="mechanic">🟠 Orange debuffs move away, 🟢 green debuffs grab tethers</span>. No debuffs = 🛡️ tankbuster + 💥 AoE damage<br>- <span class="ability">Earth Shaker</span>: 🎯 Marked healer and DPS, <span class="mechanic">proximity AoE</span>
+<span class="boss">Sephirot</span>:<br>
+<span class="boss">Phase 1 (100% - 65%)</span>:<br>
+- <span class="ability">Tifferet</span>: 💥 Party-wide damage, heal through<br>
+- <span class="ability">Ein Sof</span>: 🔴 Avoid green circles, 🏃 move to safe half<br>
+- <span class="ability">Fiendish Rage</span>: 🎯 Healer + DPS marked, 🤝 group split, 🛡️ tank between<br>
+- <span class="ability">Chesed</span>: 🛡️ Tankbuster, 📐 followed by frontal cleave<br>
+- <span class="ability">Ain</span>: 🔴 Ein Sof (1 circle), boss cleaves towards it<br>
+- <span class="ability">Ratzon</span>: 🎯 Purple + green circles, 🏃<>🏃 spread behind boss<br>
+<span class="boss">Phase 2 (Adds)</span>:<br>
+- <span class="ability">Cochma</span>: 👾 Large add, 🛡️ tank grab, 💥 Genesis on death<br>
+- <span class="ability">Binah</span>: 👾 Small adds, 🛡️ off-tank grab, 💥 Genesis on death<br>
+<span class="boss">Phase 3</span>:<br>
+- <span class="ability">Yesod</span>: 🔴 Move from flashing ground AoE<br>
+- <span class="ability">Force Field</span>: 🌟 Green (magic resist) / 🌟 Orange (physical resist) debuffs<br>
+- <span class="ability">Spirit/Life Force</span>: 🏃 Stand in matching debuff color<br>
+- <span class="ability">Fiendish Wail</span>: 🔗 Orange debuffs in towers (1 each side)<br>
+- <span class="ability">Da'at</span>: 🔴 Ein Sof circles, 🔗 green debuffs grab tethers / 💥 Heavy AoE + 🛡️ tankbuster<br>
+- <span class="ability">Earth Shaker</span>: 🎯 Healer + DPS marked, 🏃 spread left/right<br>
+- <span class="ability">Pillar of Mercy</span>: 🤝 Stack in blue circle, 💨 knockback, 🔴 avoid Ein Sof<br>
+- <span class="ability">Malkuth</span>: 💨 Strong knockback, 🤝 group near boss<br>
+- <span class="ability">Pillar of Severity</span>: 👾 Adds spawn, 🛡️ tanks grab Binah, 🎯 burn Storm of Words, 🤝 stack on remains<br>
+<span class="note">⏳ Enrage: Unavoidable Pillar of Severity</span>

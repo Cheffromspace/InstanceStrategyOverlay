@@ -1,1 +1,25 @@
-<span class="boss">Symond the Unsinkable</span><br>- <span class="ability">Corrupting Crystal</span>: Debuff that explodes at 3 stacks, <span class="mechanic">🌐 spread out to avoid splash damage</span><br>- <span class="ability">Column Attack</span>: Avoid the long, narrow AoE<br>- <span class="ability">Large Circles</span>: <span class="mechanic">🏃 Move to one side of the room</span>, creates persistent 🎯 pools that add debuff stacks<br>- <span class="mechanic">🎯 Kill hounds quickly</span> to limit debuff stacks<br>- <span class="mechanic">Use 🎯 melee LB or 🎯 caster LB at 15% HP</span> to finish the fight<br><br><span class="boss">Zu</span><br>- <span class="ability">Eggs</span>: Plain eggs spawn minor AoE adds, spotted eggs spawn tethered adds<br>- <span class="mechanic">Only kill 1 glowing egg</span> when "The egg is threatening to hatch" (prioritize spotted eggs)<br>- <span class="ability">Flying Frenzy</span>: Bodyslam that can one-shot a player if <span class="mechanic">multiple eggs are killed</span><br>- <span class="mechanic">🎯 Kill adds when Zu flies into the air</span>, avoid 🎯 ground AoEs and <span class="ability">Sonic Boom</span><br><br><span class="boss">Tyrant</span><br>- <span class="mechanic">🎯 AoE adds with the boss</span> or burn boss directly<br>- <span class="ability">Bombination</span>: Move out of circular AoE under the boss<br><br><span class="boss">Siren</span><br>- <span class="ability">Siren Song</span>: Debuff on random players, <span class="mechanic">🩹 heal to full within 12s</span> to prevent charm<br>- <span class="ability">Bleed</span>: Debuff on the tank, <span class="mechanic">remove with Esuna</span><br>- <span class="mechanic">💠 Kite Zombie Storm Sergeants</span> while DPS kill them<br>- <span class="mechanic">🤝 Stack on Siren in the center</span> or <span class="mechanic">🌐 spread if she's on the edge</span> to avoid AoE debuffs<br>- <span class="mechanic">🚫 Interrupt <span class="ability">Lunatic Voice</span></span> to prevent AoE healing debuff
+<span class="boss">Symond the Unsinkable</span>:
+- <span class="mechanic">Spread out</span> to avoid <span class="ability">Corrupting Crystal</span> 💥 explosion at 3 stacks
+- Avoid narrow column attack and kill 👾 hounds quickly
+- Move to one side when large 🔴 circles appear, leaving persistent 🤢 debuff pools
+- At 3 stacks, 🏃 run away from everyone (can enter debuff pools)
+- Use LB around 15% HP to finish boss or kill adds
+
+<span class="boss">Zu</span>:
+- Tank: Face boss away from group
+- Healer: Prepare for heavy 💥 AoE healing
+- Kill glowing 🥚 egg (priority: spotted) when "The egg is threatening to hatch"
+- <span class="note">Don't kill multiple eggs or boss will use <span class="ability">Flying Frenzy</span> 🎯 bodyslam</span>
+- Kill 👾 adds when boss flies into air, avoid 🔴 ground AoEs and <span class="ability">Sonic Boom</span>
+
+<span class="boss">Tyrant</span>:
+- Tank: Face boss away, pick up 👾 Sailor adds
+- Move out of 🔴 circular AoE during <span class="ability">Bombination</span>
+- Burn boss or AoE adds with boss
+
+<span class="boss">Siren</span>:
+- Tank: Center boss, pick up 👾 Zombie Storm Privates, kite Sergeants
+- Healer: Heal 🤢 <span class="ability">Siren Song</span> targets to full within 12s and remove 🤢 Bleed on tank
+- Kill 👾 Zombie Storm Sergeants (stun if reaching target)
+- When Siren vanishes: 🤝 stack if center, 🏃 spread if edge to avoid 🎯 charge
+- 🚫 Interrupt <span class="ability">Lunatic Voice</span> to prevent 🤢 AoE healing debuff

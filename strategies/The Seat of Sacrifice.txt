@@ -1,1 +1,40 @@
-<span class="boss">Warrior of Light: Elidibus</span><br>- Limit Break used on boss triggers <span class="ability">Hallowed Ground</span> (8s invuln), wait to use LB<br><br><span class="boss">Phase 1</span><br>- <span class="ability">Terror Unleashed</span>: Party HP to 1, inflicts True Walking Dead debuff (heal to full to remove) 🤢<br>- <span class="ability">Solemn Confiteor</span>: 4 circle AoEs on random players 🎯<br>- <span class="ability">Coruscant Saber</span>: Ring AoE (center safe) or circle AoE on boss 📐🎯<br>- <span class="ability">Absolute Fire III</span>: "Pause" marker, minor damage + Pyretic debuff 🤢<br>- <span class="ability">Absolute Blizzard III</span>: "Play" marker, minor damage + Deep Freeze if not moving 🤢🏃<br>- <span class="ability">Imbued Coruscant</span>: Coruscant Saber + untelegraphed Absolute Blizzard/Fire III<br>- <span class="ability">Sword of Light</span>: Darkened room, triangle AoE (stand outside) ⚠️<br>- <span class="ability">Summon Wyrm</span>: Shadowy Bahamut, half-arena Dive Bomb 🎯<br>- <span class="ability">The Bitter End</span>: 🛡️ Tankbuster<br>- <span class="ability">Elddragon Dive</span>: 💥 Party-wide damage<br>- <span class="ability">Ascendance</span>: Light damage, traps party in Fetters<br>- <span class="ability">Absolute Teleport</span>: Teleports party to Aetherial Rift<br><br><span class="boss">Intermission</span><br>- Active Time Maneuver: Click button for 15s to keep Will of Defiance &gt;0 (wipe if fail)<br>- <span class="ability">Ultimate Crossover</span>: Boss uses Level 4 LB, <span class="mechanic">use Level 3 Tank LB to survive</span> 🛡️<br><br><span class="boss">Phase 2</span> (Boss health resets)<br>- <span class="ability">Specter of Light</span>: Untargetable adds<br>- Spectral White/Black Mage <span class="ability">Twincast</span>: 4 meteor circles, need 2 players each to soak 🤝<br>- Spectral Dark Knight <span class="ability">Brimstone Earth</span>: 2 expanding circles in corners 🎯<br>- Spectral Bard <span class="ability">Deluge of Death</span>: Proximity AoE on random player<br>- <span class="ability">Summon Wyrm</span> + <span class="ability">Absolute Holy</span> (stack) during Bard cast<br>- Spectral Ninja <span class="ability">Suiton: San</span>: Tidal wave knockback 💨<br>- Spectral Ninja <span class="ability">Katon: San</span>: Stack marker during tidal wave 🤝<br>- Spectral Summoner <span class="ability">Flare Breath</span>: 4 tethered Egi Demi-Bahamuts, avoid wide cones 🔗📐<br>- Spectral Warrior <span class="ability">Perfect Decimation</span>: 2 sets of 4 cones (remember 1st set) 📐<br>- <span class="ability">To the Limit</span>: Gives boss LB charges<br>- <span class="ability">Radiant Braver</span> (LB1): Cones on 3 marked players ➡️<br>- <span class="ability">Radiant Desperado</span> (LB2): Line stack markers on healers (Phys Vuln Up) 🤝🤢<br>- <span class="ability">Radiant Meteor</span> (LB3): 4 large circles on random players 🎯<br>- <span class="ability">Sword of Light</span>: Now 2 swords ⚠️⚠️
+<span class="boss">Warrior of Light: Elidibus</span>
+<span class="note">🚫 Don't use Limit Break while boss is casting, or he will use Hallowed Ground to become invulnerable for 8s</span>
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Terror Unleashed</span>: <span class="mechanic">Reduces party HP to 1, inflicts True Walking Dead 🤢 (heal to full to remove)</span>
+- <span class="ability">Solemn Confiteor</span>: 🔴 4 circle AoEs under random players
+- <span class="ability">Coruscant Saber</span>: <span class="mechanic">Ring AoE (only center safe) if boss has rings around sword, else 🔴 circle AoE centered on boss</span>
+- <span class="ability">Absolute Fire III</span>: "Pause" marker, deals damage + 🤢 Pyretic for 3s
+- <span class="ability">Absolute Blizzard III</span>: "Play" marker, deals damage + 🤢 Deep Freeze if not moving
+- <span class="ability">Imbued Absolute Blizzard/Fire III</span>: Imbues next attack with untelegraphed version of spell
+- <span class="ability">Imbued Coruscant</span>: <span class="mechanic">Coruscant Saber + Absolute Blizzard III or Absolute Fire III simultaneously</span>
+- <span class="ability">Sword of Light</span>: <span class="mechanic">🏃 Avoid triangle AoE on floor</span>
+- <span class="ability">Summon Wyrm</span>: 👾 Shadowy Bahamut attacks half of arena with Dive Bomb
+- <span class="ability">The Bitter End</span>: 🛡️ Tankbuster
+- <span class="ability">Elddragon Dive</span>: 💥 High party-wide damage
+- <span class="ability">Ascendance</span>: Light damage, traps party in Fetters
+- <span class="ability">Absolute Teleport</span>: Teleports party to Aetherial Rift
+
+<span class="boss">Intermission</span>:
+- <span class="mechanic">Active Time Maneuver: Mash buttons for 15s to keep Will meter above 0 to escape Fetters (wipe if any fail)</span>
+- Familiar Ascian appears, returns party to arena with 3 LB bars
+- <span class="ability">Ultimate Crossover</span>: Boss uses Level 4 LB
+- <span class="mechanic">Use Level 3 Tank LB when prompted to survive (checkpoint if hit boss and ≥1 survives)</span>
+
+<span class="boss">Phase 2</span>:
+- <span class="ability">Specter of Light</span>: Boss summons untargetable adds for attacks
+- <span class="mechanic">Spectral WHM/BLM Twincast: 2 players soak each of 4 meteor circles (or 💥 + 🤢 Vuln Up)</span>
+- <span class="mechanic">Spectral DRK Brimstone Earth: 🏃 Avoid 2 expanding 🔴 AoEs in opposite corners</span>
+- <span class="ability">Spectral BRD Deluge of Death</span>: 🎯 Targeted player proximity AoE
+- <span class="ability">Summon Wyrm</span> during DRK ability, then <span class="ability">Absolute Holy</span> during BRD
+- <span class="ability">Absolute Holy</span>: 🤝 Stack marker on random player
+- <span class="mechanic">Spectral NIN Suiton: San: 🏃 Avoid tidal wave pushing from arena edge</span>
+- <span class="ability">Katon: San</span>: 🤝 Stack marker on random player during tidal wave
+- <span class="mechanic">Spectral SMN: 4 tethered Egi Demi-Bahamuts 📐 cone attack in tether direction after Flare Breath</span>
+- <span class="mechanic">Spectral WAR Perfect Decimation: Avoid first set of 4 📐 cones from center covering arena</span>
+- <span class="ability">To the Limit</span>: Gives boss LB charges
+- <span class="ability">Radiant Braver</span> (LB1): 📐 Cone attacks on 3 marked players
+- <span class="ability">Radiant Desperado</span> (LB2): Healer line stack markers (one after the other), inflicts 🤢 Physical Vuln Up
+- <span class="ability">Radiant Meteor</span> (LB3): 4 large 🔴 AoEs on random players
+- <span class="ability">Sword of Light</span>: Now summons 2 swords with same effect

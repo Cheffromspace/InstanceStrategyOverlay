@@ -1,1 +1,17 @@
-<span class="boss">Frumious Koheel Ja</span>:<br>- <span class="ability">Fire Angon</span>: 🎯 Kill burning spears ASAP to avoid 🤢 stacking debuff on party<br><br><span class="boss">Slithy Zolool Ja</span>:<br>- <span class="ability">Totems</span>: Claim totems for buffs, ignore debuffs. Effects: 🌟 Attack Up, 🤢 Toad/Cleanse, 🔥 Fire Resist Down, 🤢 Heavy<br>- <span class="ability">Hex</span>: Random target turned into 🐸 toad for 12s<br>- <span class="ability">Fire</span>: 💥 Party-wide damage, increased by 🔥 Fire Resist Down totem<br><br><span class="boss">Manxome Molaa Ja Ja</span>:<br>- <span class="mechanic">Positioning</span>: Stay close to boss to avoid 📐 cone AoE, move away for <span class="ability">Rotting Gas</span><br>- <span class="ability">Rotting Lung</span>: Affected player stays away from party, 🎯 AoEs around them<br>- <span class="ability">Banners</span>: 🏃 Pull boss away from 🌟 damage/armor buff banners<br>- <span class="ability">Debuffs</span>: 🤢 Reduced healing, <span class="ability">Soul Douse</span>: 💀 Doom on random targets (🩹 heal to full to remove)<br>- <span class="ability">Sacred Idol</span>: 🎯 Kill tethered add ASAP
+<span class="boss">Frumious Koheel Ja</span>:
+- <span class="ability">Fire Angon</span>: <span class="mechanic">Kill 🎯 spears ASAP to avoid 🤢 stacking debuff</span>
+
+<span class="boss">Slithy Zolool Ja</span>:
+- <span class="mechanic">Claim totems for buffs, avoid debuffs</span>
+- <span class="ability">Hex</span>: Random 🎯 turned into 🐸 toad for 12s
+- <span class="ability">Fire</span>: 💥 Party-wide damage, increased by totems
+- <span class="mechanic">Totem colors</span>: 🟪 Attack Up (DPS), 🟥 Toad/Cleanse, 🟦 Fire Resist Down, 🟩 Heavy
+- <span class="note">Identify totem effects early, manage 🤢 fire debuff stacks</span>
+
+<span class="boss">Manxome Molaa Ja Ja</span>:
+- <span class="mechanic">Stay close to boss</span> to avoid huge 📐 cone AoE
+- <span class="ability">Rotting Gas</span>: 🏃 Move away, afflicted player 💨 AoEs party
+- <span class="mechanic">Kite boss away from 🚩 banners</span> that buff damage and armor
+- Avoid boss standing in 🟪 Sacred Standard circle
+- <span class="ability">Healing debuff</span> and <span class="ability">Soul Douse</span> (🤢 Doom, heal to full to remove)
+- Kill tethered <span class="mechanic">Sacred Idol 👾 add ASAP</span>

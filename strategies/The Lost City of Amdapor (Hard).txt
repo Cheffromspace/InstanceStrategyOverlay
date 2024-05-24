@@ -1,1 +1,22 @@
-<span class="boss">Achamoth</span>:<br>- <span class="ability">Psycho Squamae</span>: 📐 Conal AoE aimed at random player<br>- <span class="ability">Neura Squamae</span>: <span class="mechanic">Spawns player ghosts, look away to avoid 📐 conal AoEs</span><br>- <span class="ability">Toxic Squamae</span>: 🔗 Tether to toxic cloud, <span class="mechanic">🏃 kite it until it dissipates</span><br><br><span class="boss">Winged Lion</span>:<br>- <span class="ability">Ancient Aero/Stone</span>: 🎯 Circular AoEs that leave growing orbs, <span class="mechanic">step in to detonate early</span><br>- <span class="ability">Ancient Holy</span>: <span class="mechanic">🎯 Kill Arcane Sphere add ASAP</span><br>- <span class="ability">Ancient Libra</span>: 💥 Arena-wide AoE, applies Wind or Earth Resistance Down<br><br><span class="boss">Kuribu</span>:<br>- <span class="mechanic">Has 2 stacks of Seed of Life, reviving upon death</span><br>- <span class="ability">Glory</span>: 📐 Frontal cone AoE on tank<br>- <span class="ability">Cure IV</span>: <span class="mechanic">Light circle removes spikes, dark circle is proximity AoE</span><br>- <span class="ability">Regen</span>: <span class="mechanic">Normal = buff on boss (move her), Reverse = 🎯 Bleeding ground AoE (avoid)</span><br>- <span class="ability">Cure III</span>: <span class="mechanic">🎯 Marks two players with AoEs, spread out</span><br>- <span class="ability">Decoy</span>: <span class="mechanic">🎯 Kill adds (debuff players or heal boss)</span><br>- <span class="ability">Reverse</span>: <span class="mechanic">Switches effects of abilities</span>
+<span class="boss">Achamoth</span>:<br>
+- <span class="ability">Psycho Squamae</span>: 🎯 <span class="mechanic">Avoid 📐 frontal cone AoE</span><br>
+- <span class="ability">Neura Squamae</span>: <span class="mechanic">👻 Ghosts spawn at player positions, 🏃 avoid center AoEs</span><br>
+- <span class="ability">Toxic Squamae</span>: 🎯 <span class="mechanic">Tethered player kites 🌫️ toxic cloud until it dissipates</span><br>
+- <span class="ability">Enthrallment</span>: <span class="mechanic">👻 Ghosts cast 📐 frontal cone AoE based on player facing</span><br>
+
+<span class="boss">Winged Lion</span>:<br>
+- <span class="ability">Ancient Aero</span>: <span class="mechanic">💨 Pop wind orb early to minimize damage, 🎯 assign to player with 🌎 Earth Resistance Down II</span><br>
+- <span class="ability">Ancient Stone</span>: <span class="mechanic">🪨 Pop stone orb early, 🎯 assign to 2 players with 💨 Wind Resistance Down II</span><br>
+- <span class="ability">Ancient Holy</span>: <span class="mechanic">💠 Kill Arcane Sphere ASAP, 👾 ignore adds until Sphere is gone</span><br>
+- <span class="ability">Ancient Libra</span>: 💥 <span class="mechanic">Arena-wide AoE, applies 💨 Wind or 🌎 Earth Resistance Down II</span><br>
+
+<span class="boss">Kuribu</span>:<br>
+- <span class="mechanic">⏳ Phases change based on Seed of Life stacks, altering abilities</span><br>
+- <span class="ability">Glory</span>: 🛡️ <span class="mechanic">Tank faces 📐 frontal cone away from party</span><br>
+- <span class="ability">Cure IV</span> (light): <span class="mechanic">🤝 Stack in circle to reduce boss healing</span><br>
+- <span class="ability">Cure IV</span> (dark): 💥 <span class="mechanic">Avoid proximity AoE, stay at arena edges</span><br>
+- <span class="ability">Regen</span> (normal): <span class="mechanic">🏃 Move boss out of AoE to reduce healing</span><br>
+- <span class="ability">Regen</span> (reverse): 🔴 <span class="mechanic">Avoid persistent ground AoE causing 🤢 Bleeding</span><br>
+- <span class="ability">Cure III</span>: 🎯 <span class="mechanic">Marked players 🏃<>🏃 spread to reduce damage</span><br>
+- <span class="ability">Decoy</span>: <span class="mechanic">👾 Prioritize adds: Low Putto (reverse) or High Putto (normal)</span><br>
+- <span class="ability">Reverse</span>: <span class="mechanic">🔄 Switches Cure IV and Regen effects</span>

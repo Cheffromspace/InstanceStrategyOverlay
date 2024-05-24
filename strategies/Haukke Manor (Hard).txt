@@ -1,1 +1,17 @@
-<span class="boss">Manor Jester</span>:<br>- <span class="ability">Void Blizzard</span>: 💥 Party-wide damage and 🤢 Slow debuff, <span class="mechanic">🩹 remove with Esuna</span><br>- <span class="mechanic">🎯 Kill adds and avoid ❄️ ice AoEs</span><br><br><span class="boss">Ash</span>:<br>- <span class="mechanic">Avoid 📐 cleaves and ➡️⬅️ glowing blue spirit cutters</span><br>- <span class="ability">Abyssal Transfixion</span>: Applies 🤢 Paralysis, <span class="mechanic">🩹 remove quickly</span><br>- <span class="mechanic">🎯 Kill add ASAP when spawned</span><br><br><span class="boss">Halicarnassus</span>:<br>- <span class="mechanic">Avoid 🎯 Void Fire III and Dark Mist AoEs</span><br>- <span class="mechanic">DPS race 🎯 adds before boss absorbs them</span>:<br>  - <span class="ability">Manor Sentry</span>: Grants boss 🚫 stun/silence immunity<br>  - <span class="ability">Manor Handmaidens</span>: Bring one to 0% HP, grants boss 🌟 Determination buff if absorbed<br>  - <span class="ability">Lady Amandine</span>: Use 💥 DPS LB, keep ~35% HP until add is low<br>- <span class="ability">Blood Rain</span>: Unavoidable 💥 damage, scales with add's HP<br>- At 15% HP, <span class="ability">Beguiling Mist</span>: 🤢 Charms players, avoid 🎯 Void Fire IV<br>- <span class="mechanic">💠 Drag boss to center after last add dies</span>
+<span class="boss">Manor Jester</span>:<br>
+- <span class="ability">Void Blizzard</span>: 💥 AoE damage + 🤢 Slow debuff, 🩹 Esuna to remove<br>
+- 👾 Adds: Kill quickly to avoid empowering boss<br>
+- 🔴 Avoid ice patches spawned by boss<br>
+- 🎯 Avoid cleave attacks, don't stand in front of boss<br>
+- 🏃 Move to avoid glowing blue spirit cutters and swirling swords<br>
+- <span class="ability">Abyssal Transfixion</span>: 🤢 Paralysis debuff on player, 🩹 remove ASAP<br>
+
+<span class="boss">Halicarnassus</span>:<br>
+- 💥 <span class="ability">Void Fire III</span> and <span class="ability">Dark Mist</span> AoEs, avoid<br>
+- 👾 Adds: DPS race, bring one to 0% HP before boss absorbs<br>
+- <span class="mechanic">Boss gains immunity and 🌟 Determination buff when absorbing add</span><br>
+- 💥 <span class="ability">Blood Rain</span>: Unavoidable, damage based on absorbed add's HP<br>
+- 👾 <span class="boss">Lady Amandine</span> spawns at 50%, 🌟 DPS Limit Break recommended<br>
+- <span class="note">Overgearing may cause instant absorption, keep boss at 35% until add is depleted</span><br>
+- <span class="ability">Beguiling Mist</span> at 15%: 🤝 Stacks party and charms, 🎯 <span class="ability">Void Fire IV</span> on one player<br>
+- ⏳ Enrage: Boss absorbs random player after 3 <span class="ability">Beguiling Mists</span>, wipe<br>

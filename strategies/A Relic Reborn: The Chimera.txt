@@ -1,1 +1,17 @@
-<span class="boss">Dhorme Chimera</span><br>- <span class="ability">Lion's Breath</span>: Frontal cone attack, small damage<br>- <span class="ability">Dragon's Breath</span>: Frontal cone AoE, moderate damage, inflicts <span class="mechanic">Paralysis 🤢</span><br>- <span class="ability">Ram's Breath</span>: Frontal cone AoE, moderate damage, inflicts <span class="mechanic">Heavy 🤢</span><br>- <span class="ability">Scorpion's Sting</span>: Rear cone AoE, moderate damage, inflicts <span class="mechanic">Poison 🤢</span><br>- <span class="ability">The Dragon's Voice</span>: Massive AoE, heavy damage, inflicts <span class="mechanic">Paralysis 🤢 outside melee range</span><br>- <span class="ability">The Ram's Voice</span>: Large circular AoE near boss, heavy damage, inflicts <span class="mechanic">Frostbite 🤢</span><br>- <span class="ability">Cacophony</span>: Summons 🎯 electrical orb that explodes on a random player, heavy damage and <span class="mechanic">Paralysis 🤢 to nearby targets</span><br>- <span class="ability">Ram's Keeper</span>: Circular AoE ice attack under random player, heavy damage, inflicts <span class="mechanic">Frostbite 🤢 and Heavy 🤢</span>, leaves icy patch<br>- <span class="ability">Gelid Charge</span>: Increases frost attack damage, makes Ram's Breath instant<br>- <span class="ability">Static Charge</span>: Increases thunder attack damage, makes Dragon's Breath instant<br>- <span class="mechanic">Pull boss to outdoor area for more space 💠</span><br>- <span class="mechanic">Melee avoid Dragon's Breath, Ram's Breath, and Scorpion's Sting 🏃</span><br>- <span class="mechanic">Ranged and healers spread out 🌐</span><br>- <span class="mechanic">Move away from Cacophony target ➡️</span><br>- <span class="mechanic">Esuna debuffs 🩹</span><br>- <span class="mechanic">Melee move out for Ram's Voice, move in for Dragon's Voice 💠</span><br>- <span class="mechanic">Avoid Ram's Keeper ground AoE 🎯</span>
+<span class="boss">Dhorme Chimera</span>:<br>
+- <span class="ability">Lion's Breath</span>: Small 📐 frontal cone<br>
+- <span class="ability">Dragon's Breath</span>: 📐 Frontal cone, moderate damage + 🤢 Paralysis<br>
+- <span class="ability">Ram's Breath</span>: 📐 Frontal cone, moderate damage + 🤢 Heavy<br>
+- <span class="ability">Scorpion's Sting</span>: 📐 Rear cone, moderate damage + 🤢 Poison DoT<br>
+- <span class="ability">The Dragon's Voice</span>: 💥 Massive AoE outside melee range, heavy damage + 🤢 Paralysis<br>
+- <span class="ability">The Ram's Voice</span>: 🔴 Large circular AoE near boss, heavy damage + 🤢 Frostbite<br>
+- <span class="ability">Cacophony</span>: 👾 Orb targets random player, 💥 explodes on them for heavy AoE damage + 🤢 Paralysis<br>
+- <span class="ability">Ram's Keeper</span>: 🔴 Circular AoE under random player, heavy damage + 🤢 Frostbite & Heavy, leaves ice patch<br>
+- <span class="ability">Gelid Charge</span>: 🌟 Buffs frost attacks, makes Ram's Breath instant<br>
+- <span class="ability">Static Charge</span>: 🌟 Buffs thunder attacks, makes Dragon's Breath instant<br>
+<span class="mechanic">Pull boss outside cave for more space</span><br>
+<span class="mechanic">Melee avoid 📐 breath attacks and 🏃 out for The Ram's Voice</span><br>
+<span class="mechanic">Ranged 🏃<>🏃 spread, 🏃 in for The Dragon's Voice</span><br>
+<span class="mechanic">🏃 Away from Cacophony target</span><br>
+<span class="mechanic">🏃 Out of Ram's Keeper AoE ASAP</span><br>
+<span class="note">Esuna is critical for clearing debuffs!</span>

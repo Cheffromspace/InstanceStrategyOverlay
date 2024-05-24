@@ -1,1 +1,36 @@
-<span class="boss">The Demon: Zurvan</span><br><span class="boss">Phase 1</span><br>- Boss auto-attack cleaves, always face away from party<br>- <span class="mechanic">East Platform falls + Red Circle AoEs</span>: 🎯 Bait melee fire circles together at right side of South platform, then move away<br>- <span class="mechanic">North Platform falls</span><br>- <span class="mechanic">West Platform falls + Red Circle AoEs</span>: 🎯 Bait again<br><br><span class="boss">Phase 2</span><br>- <span class="ability">Soar</span> (skipped at 75%): See below<br>- <span class="mechanic">Ice pad spawns under boss</span>, can't move through boss<br>- <span class="ability">Biting Halberd</span>: Position directly behind boss after 3rd cleave attack<br>- <span class="ability">Southern Cross</span>: 🤝 Stack at boss's rear to bait, then move out<br>- <span class="ability">Biting Halberd/Ciclicle/Tail End</span>: Randomly selected (skipped at 59%)<br><br><span class="boss">Phase 3 (Adds)</span><br>- <span class="ability">Execrated Will</span>: 🛡️ Tanked by tank, high damage on target, gains Damage Up every 10s<br>- <span class="ability">Execrated Thew</span>: 🛡️ Small add, tanked by tank<br>- <span class="ability">Execrated Wile</span>: Doesn't need tanking, face away during Meracydian Fear cast<br>- <span class="ability">Execrated Wit</span>: Doesn't need tanking, kill before Meracydian Meteor finishes casting<br>- <span class="mechanic">Add Spawn Patterns</span>: AoE down adds in specific locations based on spawn pattern<br>- <span class="ability">Zurvan's Ult</span><br><br><span class="boss">Phase 4 Part 1</span><br>- <span class="mechanic">Tethers appear</span>: 2 pairs Infinite Fire, 2 pairs Infinite Ice, 🔗 tethered pairs stay close to avoid DoT damage<br>- <span class="ability">Wave Cannon</span>: Targets random non-MT player, party stays away from target<br>- <span class="ability">Tyrfing</span>: 🛡️ 5 hits on MT + fire damage, use cooldowns<br>- <span class="ability">Southern Cross</span>: 🤝 Stack under boss then move out, tethered pairs go same direction<br>- <span class="ability">Broken Seal</span>: 4 fire + 4 ice meteors, tethered players go to matching color meteor<br>- <span class="ability">Biting Halberd/Ciclicle/Tail End</span>: Mechanics based on circle/diamond shape positions<br><br><span class="boss">Phase 4 Part 2</span><br>- <span class="ability">Soar</span>: See below<br>- <span class="ability">The Demon's Claw</span>: High damage + Stun on MT, 🛡️ OT provokes, MT knocked back<br>- <span class="ability">Wave Cannon</span>: Targets MT, 🤝 party stacks in AoE box to soak damage<br>- <span class="mechanic">Tether + Mechanic Repeat</span>: Find new partner, repeat Wave Cannon, Tyrfing, Southern Cross, Broken Seal<br>- <span class="ability">Biting Halberd</span><br>- <span class="ability">The Demon's Claw</span><br>- <span class="ability">Wave Cannon</span><br>- <span class="mechanic">Enrage</span>: ⏳ Flame Halberd hard enrage cast<br><br><span class="mechanic">Soar Mechanic</span><br>- Boss casts Soar, shows 3 rectangle AoEs toward arena edge<br>- Boss disappears, 3 mirages spawn at rectangle AoE locations<br>- 6 unavoidable red circle AoEs target random players
+<span class="boss">Nidhogg</span>:
+
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Auto-attacks</span>: 🚫 <span class="mechanic">Boss should always face away from party</span><br>
+- <span class="ability">Platform Falls + 🔴 AoEs</span>: <span class="mechanic">Bait circles together, then 🏃 move away</span><br>
+
+<span class="boss">Phase 2</span>:<br> 
+- <span class="ability">Ice Pad</span>: Spawns under boss, 🚫 can't move through<br>
+- <span class="ability">Biting Halberd</span>: <span class="mechanic">Position directly behind boss after 3rd cleave</span><br>
+- <span class="ability">Southern Cross</span>: 🤝 <span class="mechanic">Stack at rear to bait, then 🏃 move out</span><br>
+
+<span class="boss">Phase 3 (Adds)</span>:<br>
+- <span class="ability">Execrated Will</span>: 🛡️ <span class="mechanic">Tanked by tank, gains 🌟 Damage Up every 10s</span><br>
+- <span class="ability">Execrated Thew</span>: 🛡️ <span class="mechanic">Small add, tanked by tank</span><br>
+- <span class="ability">Execrated Wile</span>: 🚫 <span class="mechanic">Not tanked, face away during Meracydian Fear cast</span><br>
+- <span class="ability">Execrated Wit</span>: 🚫 <span class="mechanic">Not tanked, kill before Meracydian Meteor finishes</span><br>
+
+<span class="boss">Phase 4 Part 1</span>:<br>
+- <span class="ability">Tethers</span>: <span class="mechanic">2 pairs each of 🔥 Infinite Fire & ❄️ Infinite Ice, stay close to partner</span><br>
+- <span class="ability">Wave Cannon</span>: 🎯 <span class="mechanic">Targets random non-MT player, 🏃 stay away from target</span><br>
+- <span class="ability">Tyrfing</span>: 🛡️ <span class="mechanic">5 hits on MT + 🔥 damage, use cooldowns</span><br>
+- <span class="ability">Southern Cross</span>: 🤝 <span class="mechanic">Stack under boss then 🏃 move with tether partner</span><br> 
+- <span class="ability">Broken Seal</span>: <span class="mechanic">4 🔥 & 4 ❄️ meteors, match tether to meteor color</span><br>
+- <span class="mechanic">Biting Halberd/Ciclicle/Tail End based on arena markers</span><br>
+
+<span class="boss">Phase 4 Part 2</span>:<br>
+- <span class="ability">The Demon's Claw</span>: 🛡️ <span class="mechanic">High damage + Stun on MT, OT provoke. Position to avoid knockback</span><br>
+- <span class="ability">Wave Cannon</span>: 🎯 <span class="mechanic">Targets MT, 🤝 stack in AoE box to share damage or use tank swap</span><br>
+- <span class="mechanic">Repeat tethers, Wave Cannon, Tyrfing, Southern Cross, Broken Seal</span><br>
+- <span class="ability">Flame Halberd</span>: ⏳ <span class="mechanic">Hard enrage, burn boss before cast</span><br>
+
+<span class="note">Position tips:</span><br>
+- <span class="ability">Southern Cross</span>: MT 🏃 right, party 🏃 left. Tethered to MT, go right<br>
+- <span class="ability">Wave Cannon</span>: Assign flanks for target & party<br>
+- <span class="ability">Broken Seal</span>: 1 🔥 & 1 ❄️ per flank, avoid other same-color pair<br>
+- <span class="ability">Soar</span>: Tanks N/S, DPS E/W, Healers with any. Go to safe spots based on Mirage pattern. Alternatively, use Tank LB before or Healer LB3 after, max 2 AoEs

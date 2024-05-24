@@ -1,30 +1,46 @@
-<span class="boss">Cetus</span>:
-- <span class="ability">Electric Swipe</span>: 📐 Rear cone AoE, inflicts <span class="mechanic">Electrocution DoT 🤢</span>
-- <span class="ability">Body Slam</span>: 🎯 Circular AoE on random player
-- <span class="ability">Immersion</span>: 💥 Party-wide damage, <span class="mechanic">water orbs drop puddles that inflict Dropsy 🤢</span>
-- <span class="ability">Symbiosis</span>: <span class="mechanic">Cetus becomes untargetable, summons Hybodus adds 🎯</span>
-- <span class="ability">Electric Whorl</span>: 🎯 Ring AoE, only Cetus's hitbox is safe, inflicts <span class="mechanic">Electrocution 🤢</span>
-- <span class="ability">Hydrocore</span>: <span class="mechanic">Cetus becomes untargetable, separates parties, spawns Hydrocore and Hydrosphere adds 🎯</span>
+<span class="boss">Cetus</span>:<br>
+- <span class="ability">Electric Swipe</span>: 📐 Avoid rear cone, inflicts 🤢 Electrocution DoT<br>
+- <span class="ability">Body Slam</span>: 🔴 Avoid targeted AoE<br>
+- <span class="ability">Immersion</span>: 💥 Unavoidable damage, 🏃 avoid 🔴 water puddles (inflict Dropsy)<br>
+- <span class="ability">Symbiosis</span>: Kill 👾 Hybodus adds, then Cetus becomes targetable<br>
+- <span class="ability">Hydrobomb</span>: 🎯 Marked player kites Cetus, 🏃 avoid 🔴 AoEs (💨 knockback)<br>
+- <span class="ability">Electric Whorl</span>: ➡️⬅️ Stay in Cetus's hitbox, inflicts 🤢 Electrocution<br>
+- <span class="ability">Expulsion</span>: 🔴 Avoid centered AoE (💨 knockback, inflicts Windburn)<br>
+- <span class="ability">Hydrocore</span>: Kill 👾 Hydrocore (inside barrier) and 👾 Hydrospheres (outside)<br>
 
-<span class="boss">Forward Port Ventilator</span>:
-- <span class="mechanic">Each group takes a button, prioritize Pagan's Knots adds 🎯</span>
-- <span class="mechanic">Stand on buttons to clear poison, avoid when there is static ⚡</span>
+<span class="boss">Forward Port Ventilator</span>:<br>
+- Each group takes a button, kill 👾 adds (prioritize Pagan's Knots)<br>
+- 🏃 Stand on buttons to clear poison, 🚫 avoid when static is present<br>
 
-<span class="boss">Irminsul and Sawtooth</span>:
-- <span class="mechanic">Bosses have Life Tether 🔗, equalizing HP when difference is too large</span>
-- <span class="mechanic">Each boss gains either Ranged or Magic Resistance 🛡️</span>
-- <span class="ability">Mucus Bomb</span> and <span class="ability">Mucus Spray</span>: <span class="mechanic">Tethers and Seizes affected players, break tethers to dispel 🔗</span>
-- <span class="ability">Shockwave Stomp</span>: <span class="mechanic">Hide behind Invincible Irminsul to avoid massive damage 🛡️</span>
-- <span class="ability">Sawtooth Feeds</span>: <span class="mechanic">Sawtooth Devours players, regurgitates them with Parasite debuff 🤢</span>
+<span class="boss">Irminsul and Sawtooth</span>:<br>
+- <span class="mechanic">🔗 Life Tether</span>: HP difference equalizes between bosses<br>
+- <span class="mechanic">Resistances</span>: Each boss gains either Ranged or Magic Resistance<br>
+- <span class="ability">White Breath</span>: 📐 Avoid wide front cone<br>
+- <span class="ability">Mucus Bomb</span>: 🔴 Avoid marked AoEs, 🔗 break tethers to remove Seized debuff<br>
+- <span class="ability">Mucus Spray</span>: Untelegraphed ➡️⬅️ ring attack, same effects as Mucus Bomb<br>
+- <span class="ability">Shockwave Stomp</span>: 🛡️ Hide behind 🚫 invincible Irminsul<br>
+- <span class="ability">Sawtooth Feeds</span>: Kill 👾 Ark Ked adds, 🏃 avoid 🔴 rumbling dirt AoEs<br>
+- <span class="ability">Pulse of the Void</span>: 🔴 Avoid centered AoE (inflicts 🤢 Poison)<br>
 
-<span class="boss">Cuchulainn</span>:
-- <span class="mechanic">Players receive stacking Bleeding debuff that can't be removed 🤢</span>
-- <span class="ability">Idol of Impurity</span>: <span class="mechanic">Destroy Gyrtower adds to prevent extra Bleeding stacks 🎯</span>
-- <span class="ability">Void Pact</span>: <span class="mechanic">Portals spawn Foobar adds, Cuchulainn gains Stoneskin 🛡️</span>
-- <span class="ability">Bile Below</span>: <span class="mechanic">Stand on raised platforms to avoid instant-kill attack ☠️</span>
-- <span class="ability">Black Lung</span>: <span class="mechanic">Touch Black Phlegm orbs to defuse them, or suffer Bind and Vulnerability Up 🤢</span>
+<span class="boss">Cuchulainn</span>:<br>
+- <span class="mechanic">Bleeding debuff</span>: Indefinite, 1 stack at start<br>
+- <span class="ability">Corrosive Bile</span>: 📐 Avoid lingering front cone (inflicts 🤢 Poison)<br>
+- <span class="ability">Flailing Tentacles</span>: ➡️⬅️ Avoid diagonal line attacks (inflicts 🤢 Concussion)<br>
+- <span class="ability">Idol of Impurity</span>: Destroy 👾 Gyrtower adds (inflict Bleeding stacks)<br>
+- <span class="ability">Void Pact</span>: 👾 Foobar adds spawn from portals, grant boss Stoneskin<br>
+- <span class="ability">Beckon</span>: 📐 Cone attack pulls targets in front of boss<br>
+- <span class="ability">Devour</span>: Boss eats 👾 Foobar, boosting next attack<br>
+- <span class="ability">Bile Below</span>: 🏃 Stand on raised platforms to avoid instant-kill<br>
+- <span class="ability">Pestilence</span>: 💥 Arena-wide damage, reduced on platforms (lethal if Foobar eaten)<br>
+- <span class="ability">Black Lung</span>: Gain Bleeding stack, touch Black Phlegm orbs to defuse (or 💥 explode)<br>
 
-<span class="boss">Echidna</span>:
-- <span class="ability">Petrifaction</span>: <span class="mechanic">Gaze attack inflicts Petrification and Vulnerability Up 🤢</span>
-- <span class="mechanic">Add Phase: Tanks grab Echidna, Sinister, and Dexter, keep them apart to reduce Vulnerability Down 🛡️</span>
-- <span class="ability">Gehenna</span>: 💥 Alliance-wide damage when adds are defeated
+<span class="boss">Echidna</span>:<br>
+- <span class="ability">Sickle Strike</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Sickle Slash</span>: ➡️⬅️ Avoid rectangular side AoEs, stay in center<br>
+- <span class="ability">Demonic Descent</span>: 🤝 Stack marker or 🏃 avoid 🔴 random AoEs<br>
+- <span class="ability">Nemesis Burst</span> and <span class="ability">Abyssal Reaper</span>: 🔴 Circular cleave with 💨 knockback (Abyssal Reaper inflicts 🌟 Vuln Up)<br>
+- <span class="ability">Petrifaction</span>: 🚫 Gaze attack (inflicts Petrification and 🌟 Vuln Up)<br>
+- <span class="mechanic">Add Phase</span>: Tanks separate Echidna, Sinister, and Dexter (tethered, gain 🌟 Vuln Down when close)<br>
+- <span class="ability">Serpentine Strike</span> (Dexter/Sinister): 🔴 Small AoE (inflicts 🌟 Magic Vuln Up)<br>
+- <span class="ability">Gehenna</span>: 💥 Moderate alliance-wide damage after adds die<br>
+- <span class="ability">Bloodguards</span>: 👾 Minion adds<br>

@@ -1,1 +1,38 @@
-<span class="boss">Shinryu</span>:<br>- <span class="mechanic">Corrupted Aether Gauge</span>: Fills over time, triggering an ultimate at 100. Raid wipes if full when <span class="ability">The Worm's Heart</span> is active<br>- <span class="ability">The Worm's Heart</span>: 🎯 Destroy to deal major damage and prevent raid wipe<br>- Platform tiles: Can only withstand 2 attacks before breaking. Raid wipes if center tile is destroyed<br><br><span class="boss">Phase 1</span>: <br>- Destroy <span class="ability">The Worm's Heart</span> ASAP<br>- <span class="ability">Earthen Fury</span> (Ultimate): Unavoidable 💥 damage, destroys E/W tiles and damages others<br>- <span class="ability">Burning Chains</span>: 🔗 Tethers players, break by 🏃 stretching apart to avoid 🤢 debuffs  <br>- <span class="ability">Tidal Wave</span> (Ultimate): Creates 💨 knockback whirlpool, stand close to avoid being punted<br>- Water Puddles: Standing in grants 🔥 resistance but ⚡ vulnerability <br>- <span class="ability">Summon Icicle</span>: Avoid 3 icicles dashing across platform<br>- <span class="ability">Tail Slam</span>: Marked healer drops 🎯, slams 2 tiles. Attack tail on undamaged tile for damage<br>- <span class="ability">Levinbolt</span> / <span class="ability">Hypernova</span>: ⚡ Avoid puddles / 🔥 Stack in puddle <br>- Destroy regenerated <span class="ability">The Worm's Heart</span> before Corrupted Aether fills<br>- <span class="ability">Ice Storm</span>: Unavoidable 💥 damage <br>- <span class="ability">Central Slam</span>: Avoid attack on center tile<br>- <span class="ability">Akh Morn</span>: 🛡️ Tanks share or immunity <br>- <span class="ability">Akh Rhal</span>: Avoid 🎯 AoE on random DPS<br>- <span class="ability">Hellfire</span> (Ultimate): 🔥 Use puddle for resistance <br>- <span class="ability">Judgement Bolt</span> (Ultimate): ⚡ Avoid puddles and icicles, dispel paralysis
+<span class="boss">Shinryu</span>:<br>
+- Destroy <span class="mechanic">The Worm's Heart</span> before Corrupted Aether Gauge fills to avoid wipe<br>
+- Watch for <span class="mechanic">platform damage</span>, tiles break after 2 hits<br>
+- Tanks receive constant auto-attacks, healers be ready<br>
+
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Earthen Fury (Ultimate)</span>: 💥 Unavoidable damage, destroys E/W tiles, damages others<br>
+- <span class="ability">Burning Chains</span>: 🔗 Tethers players by role, 🏃<>🏃 stretch to break<br>
+- <span class="ability">Tidal Wave (Ultimate)</span>: 🌊 Whirlpool knockback, stand close to avoid fall<br>
+- <span class="mechanic">Water Puddles</span>: 🌟 Fire Resistance Up, 🤢 Lightning Vulnerability Up<br>
+- <span class="ability">Summon Icicle</span>: ➡️⬅️ Avoid dashing icicles<br>
+- <span class="ability">Tail Slam</span>: 🎯 Marked healer, bait to damage tail if possible<br>
+- <span class="ability">Levinbolt</span> / <span class="ability">Hypernova</span>: 💥 Lightning AoE / 🤝 Fire stack in puddle<br>
+- <span class="ability">Ice Storm</span>: 💥 Unavoidable damage<br>
+- <span class="ability">Central Slam</span>: 🏃 Avoid hit on central tile<br>
+- <span class="ability">Akh Morn</span>: 🛡️ Tank swap or immunity<br>
+- <span class="ability">Akh Rhal</span>: 🎯 Marked DPS, 🏃 move away<br>
+- <span class="ability">Hellfire (Ultimate)</span> / <span class="ability">Judgement Bolt (Ultimate)</span>: 🤝 Stack in puddle / 🏃 avoid puddles and icicles<br>
+- <span class="ability">Earth Breath</span>: 🎯 Marked healer & DPS, 🏃 move away<br>
+- <span class="ability">Diamond Dust (Ultimate)</span>: 💨 Ice floor, 🔗 healers chained, slide to break<br>
+- <span class="ability">Reiryu (Adds)</span>: 🩹 Heal to full, 🎯 tank slam on undamaged tile<br>
+- <span class="ability">Aerial Blast (Ultimate)</span>: 💨 Tornado knockbacks, watch positioning<br>
+- <span class="ability">Divebomb</span>: 🏃 Move to avoid Shinryu's path<br>
+
+<span class="boss">Transition</span>:<br>
+- <span class="mechanic">Active Time Maneuver</span>: Free yourself or die<br>
+
+<span class="boss">Phase 2</span>:<br>
+- <span class="ability">Touchdown</span>: 💨 Proximity knockback, 🏃 move north<br>
+- <span class="mechanic">Adds</span>: 👾 Defeat before Corrupted Aether fills, 🚫 interrupt Death Sentence<br>
+- <span class="ability">Protostar</span>: 💥 Massive raid damage if adds defeated in time<br>
+- <span class="ability">Tail Spit</span>: 💨 Knockback to diagonal corner, 🏃 cross tail, avoid lasers<br>
+- <span class="mechanic">Doom Puddle</span>: ⏳ 10s doom if standing inside<br>
+- <span class="ability">Tera Slash</span>: 🛡️ Tank swap, 🤢 Physical Vuln Up<br>
+- <span class="ability">Atomic Ray</span>: 🤝 Split into pairs to share, 🤢 Magic Vuln Up<br>
+- <span class="ability">Icestorm</span> + <span class="ability">Levinbolt</span> / <span class="ability">Hypernova</span>: 🏃 Bait & dodge lightning / 🤝 Freeze & stack for fire<br>
+- <span class="ability">Benighting Breath</span> / <span class="ability">Wyrmwall</span>: 🏃 Avoid frontal cone / 🏃 Stand in hitbox, watch doom timer<br>
+- <span class="mechanic">Enrage at 22%</span>: Use launch markers to jump onto Shinryu<br>

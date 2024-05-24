@@ -1,9 +1,9 @@
 <span class="boss">Scarmiglione</span>:<br>
-- <span class="ability">Cursed Gaze</span>: 🤢 Look away to avoid Gaze debuff<br>
-- <span class="ability">Blight</span>: 💥 Party-wide damage, healers be ready<br>
-- <span class="ability">Creeping Decay</span>: 🎯 Avoid circular AoEs<br>
-- <span class="ability">Blighted Harvest</span>: ➡️⬅️ Dodge line AoEs<br>
-- <span class="ability">Vile Wave</span>: 📐 Avoid front cone AoE<br>
-- <span class="ability">Cursed Claw</span>: 🛡️ Tankbuster, mitigate and heal<br>
-- <span class="mechanic">Summons Adds at 70% and 40%</span> 🎯 Kill quickly<br>
-- <span class="mechanic">Enrage at 10%</span> ⏳ Burn boss before timer expires<br>
+- <span class="mechanic">Adds constantly spawn and regenerate</span>, focus them down quickly<br>
+- Scarmiglione <span class="mechanic">hastens add regeneration</span>, increasing difficulty over time<br>
+- <span class="mechanic">Regroup and stand together</span> 🤝 to deal with overwhelming numbers<br>
+- <span class="ability">Zero's aid</span>: <span class="mechanic">Crucial for victory</span>, turns adds into 💎 crystals<br>
+- Protect and <span class="mechanic">help Zero when targeted</span> by Scarmiglione<br>
+- <span class="mechanic">Burn Scarmiglione down</span> ⚔️ when he becomes vulnerable<br>
+- <span class="ability">Final phase</span>: <span class="mechanic">Stack together</span> 🤝 and <span class="mechanic">stop his powerful magick</span> 🚫<br>
+<span class="note">Note: Fight requires coordination with Zero and quick add management to succeed</span>

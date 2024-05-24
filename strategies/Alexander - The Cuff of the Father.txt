@@ -1,1 +1,10 @@
-- <span class="mechanic">Skip the second pack of enemies</span> by running past them and jumping down the chute on the left<br>- Fight consists of <span class="mechanic">waves of enemies</span>. Players can choose to mount a <span class="ability">blue Magitek armor</span> to deal damage, debuff enemies, and drag bombs<br>- <span class="ability">Bombs</span> have a <span class="mechanic">wide explosion radius 💥 and stack a fire damage debuff</span>. Move them to the opposite corner to prevent raid damage<br>- Recommended kill order:<br>  1. <span class="boss">Red Magitek Suits of Armor</span> and <span class="boss">Boomtype Magitek Gobwalker</span> (priority due to raid debuffs)<br>  2. <span class="boss">Jagd Dolls</span> (can cause high damage)<br>  3. <span class="boss">Gordian Hardhelms</span> and <span class="boss">Gordian Hardminds</span> (higher health)<br>  4. <span class="boss">Gordian Soldiers</span> and <span class="boss">Gordian Snipers</span> (reduce enemies attacking tank)<br>  5. <span class="boss">Magitek Gobwidow G-IX</span> (tank separately due to AOE, avoid grouping)
+<span class="boss">Trash Waves</span>:<br>
+- <span class="note">Skip 2nd trash pack, jump down chute on left</span><br>
+- <span class="mechanic">1-2 players can mount blue Magitek armor</span> to deal damage, debuff enemies, and 🏃 drag bombs<br>
+- 💣 <span class="ability">Bombs</span>: Wide explosion radius, 🤢 fire damage debuff, <span class="mechanic">drag to opposite corner</span><br>
+<span class="note">Recommended kill order:</span><br>
+1. 🎯 <span class="mechanic">Red Magitek Suits, Boomtype Magitek Gobwalker</span> (debuffs)<br>
+2. 🎯 <span class="mechanic">Tall Robot Knights, Jagd Dolls</span> (high damage)<br>
+3. 🎯 <span class="mechanic">Big Goblins, Gordian Hardhelms/minds</span> (more HP)<br>
+4. 🎯 <span class="mechanic">Little Goblins, Gordian Soldiers/Snipers</span> (reduce numbers)<br>
+5. 🎯 <span class="mechanic">Gigantic Robot Machines, Magitek Gobwidow G-IX</span> (💥 AoE, tank separately if solo)<br>

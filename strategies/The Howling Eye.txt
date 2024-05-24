@@ -1,1 +1,18 @@
-<span class="boss">Phase 1</span><br>- 🛡️ Tank Garuda away from stone pillars<br>- <span class="ability">Friction</span>: Ranged AoE on random player, <span class="mechanic">spread out</span> to minimize damage and protect pillars<br>- <span class="ability">Slipstream</span>: Frontal column AoE, <span class="mechanic">dodge despite no indicator</span><br>- <span class="ability">Mistral Song</span>: Garuda vanishes, <span class="mechanic">hide behind pillars</span> to avoid lethal damage<br>- 🎯 <span class="ability">Razor Plumes</span> spawn, use AoE to kill adds quickly<br>- <span class="ability">Aerial Blast</span>: Used at 50% HP, 🛡️ tanks can use Limit Break to mitigate damage<br><br><span class="boss">Phase 2</span><br>- <span class="ability">Eye of the Storm</span>: <span class="mechanic">Stay in safe center</span>, avoid damaging vortex edges<br>- <span class="ability">Mistral Shriek</span>: Used after Garuda teleports, <span class="mechanic">🏃 run away</span> to avoid high AoE damage<br>- <span class="ability">Mistral Song</span>: Garuda reappears in center, <span class="mechanic">get behind her</span> to avoid damage<br>- 🎯 More <span class="ability">Razor Plumes</span> spawn at 25% HP targeting random players, kill quickly
+<span class="boss">Garuda</span>:<br>
+<span class="mechanic">Phase 1:</span><br>
+- 🏃 <span class="mechanic">Avoid damaging stone pillars</span> with <span class="ability">Friction</span> and <span class="ability">Wicked Wheel</span><br>
+- <span class="ability">Mistral Song</span>: 🏃 <span class="mechanic">Hide behind pillars</span> to avoid 💀<br>
+- 👾 <span class="mechanic">Kill Razor Plume adds ASAP</span> to protect pillars<br>
+- <span class="ability">Aerial Blast</span>: 💥 <span class="mechanic">Damage based on pillar health</span>, tanks can 🛡️ LB<br>
+
+<span class="mechanic">Phase 2:</span><br>
+- <span class="ability">Eye of the Storm</span>: 🏃 <span class="mechanic">Stay in the center</span> to avoid 💀<br>
+- <span class="ability">Mistral Shriek</span>: 🏃 <span class="mechanic">Move away from Garuda</span> to avoid 💥<br>
+- <span class="ability">Mistral Song</span>: 🏃 <span class="mechanic">Get behind Garuda</span> to avoid 💀<br>
+- 👾 <span class="mechanic">Kill Razor Plume adds</span> targeting random players<br>
+
+<span class="note">Throughout the fight:</span><br>
+- ➡️ <span class="ability">Downburst</span>: Frontal cleave<br>
+- 🎯 <span class="ability">Friction</span>: Damages target and nearby players<br>
+- 💥 <span class="ability">Wicked Wheel</span>: AoE damage around Garuda<br>
+- ➡️ <span class="ability">Slipstream</span>: Frontal column, 💨 Stun

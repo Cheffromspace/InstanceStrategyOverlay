@@ -1,1 +1,23 @@
-<span class="boss">Demon of the Tome</span>:<br>- Tank boss sideways to see all AoE indicators<br>- Watch for narrow AoE markers at arena edges, followed by large AoE in between<br><br><span class="boss">Liquid Flame</span>:  <br>- <span class="ability">Bibliocide</span>: Unavoidable 💥 party-wide damage<br>- <span class="ability">Sea of Flames</span>: Scorched earth 🎯 AoE attack<br>- <span class="ability">Slosh</span>: 🔗 Tethered player must 🏃 run far from boss<br>- <span class="mechanic">Ferrofluid</span>: Match your +/- mark to boss's mark by 🏃 close or far<br>- <span class="mechanic">Seal of Night and Day</span>: 🏃 Run to matching sun ☀️ or moon 🌙 sigil <br><br><span class="boss">Strix</span>:<br>- <span class="ability">Check Out</span>: Spawns circles for upcoming mechanics<br>  - White: Grants Levitation to avoid 🛡️ <span class="ability">On the Properties of Quakes</span>  <br>  - Black: Inflicts Leaden to avoid 💨 <span class="ability">On the Properties of Tornados</span><br>  - Green: Toggles 🤢 imp status<br>- <span class="ability">On the Properties of Imps</span>: Toggles imp status, wait to step in green until transformed<br>- <span class="ability">On the Properties of Thunder III</span>: 💥 AoEs, more damage if still an imp<br>- <span class="ability">On the Properties of Darkness</span>: 🛡️ Mini tankbuster <br>- <span class="ability">On the Properties of Darkness II</span>: 💥 Party-wide damage<br>- <span class="mechanic">Ecliptic Meteor</span>: Avoid 🎯 proximity AoEs, hide behind 💠 dropped rocks
+<span class="boss">Demon of the Tome</span>:<br>
+- Tank boss sideways to see all AoE indicators<br>
+- Watch for narrow AoEs at arena edge, followed by large AoE in between<br>
+
+<span class="boss">Liquid Flame</span>:<br>
+- <span class="ability">Bibliocide</span>: 💥 Unavoidable party-wide AoE<br>
+- <span class="ability">Sea of Flames</span>: 🔥 Scorched earth AoE (like Ifrit)<br>
+- <span class="ability">Slosh</span>: 🎯 Tethered player must 🏃 run far from boss<br>
+- <span class="mechanic">Ferrofluid</span>: Match your +/- mark to boss or 🏃 run away<br>
+- <span class="mechanic">Seal of Night and Day</span>: 🏃 Run to matching ☀️/🌙 sigil on floor<br>
+
+<span class="boss">Strix</span>:<br>
+- <span class="ability">Check Out</span>: Spawns circles for mechanics<br>
+  - ⚪ White: Grants 🌟 Levitation to avoid 💥 <span class="ability">Quakes</span><br>
+  - ⚫ Black: Inflicts 🌟 Leaden to avoid 💨 <span class="ability">Tornados</span><br>
+  - 🟢 Green: Toggles 👾 Imp status (can't act)<br>
+- <span class="ability">On the Properties of Imps</span>: 👾 Turns everyone into imps<br>
+  - 🏃 Step in 🟢 circle after imp transformation<br>
+- <span class="ability">On the Properties of Thunder III</span>: 🎯 Marked AoEs<br>
+  - 👾 Imps take extra damage and debuffs<br>
+- <span class="ability">On the Properties of Darkness</span>: 🛡️ Mini-tankbuster<br>
+- <span class="ability">On the Properties of Darkness II</span>: 💥 Raidwide AoE<br>
+- <span class="mechanic">Ecliptic Meteor</span>: Avoid 💥 proximity AoEs, hide behind 🪨 rocks<br>

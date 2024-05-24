@@ -1,1 +1,66 @@
-<span class="boss">Thordan</span>:<br>- 🛡️ <span class="ability">Heavenly Heel</span> tankbuster, followed by <span class="ability">Ascalon's Might</span> frontal cleave<br>- <span class="ability">Dragon's Gaze</span>: <span class="mechanic">Turn away</span> to avoid Hysteria debuff<br>- <span class="ability">Lightning Storm</span>: <span class="mechanic">Spread</span>, then 🤝 stack behind Thordan for <span class="ability">Dragon's Rage</span><br><br><span class="boss">Phase 2</span>:<br>- <span class="mechanic">Break Holy Chains</span>, then <span class="mechanic">stand in towers</span> to avoid Heavensflames 🎯<br>- <span class="boss">Ser Zephirin</span> <span class="mechanic">DPS check</span> with <span class="ability">Sacred Cross</span><br>- Avoid <span class="ability">Spiral Thrust</span> ➡️⬅️ by <span class="mechanic">standing on leaf decal stems</span><br><br><span class="boss">Phase 3</span>: <span class="boss">Ser Adelphel</span> & <span class="boss">Ser Janlenoux</span><br>- <span class="ability">Divine Right</span>: One gets Sword Oath, other Shield Oath. <span class="mechanic">Tank separately.</span><br>- 🎯 Focus Sword Oath. 🛡️ Use cooldowns for <span class="ability">Holy Bladedance</span>.<br>- <span class="ability">Skyward Leap</span> on 3 DPS (N->S->N), <span class="mechanic">avoid splash damage</span><br><br><span class="boss">Phase 4</span>:<br>- 🤝 Stack center, then 🌐 spread for <span class="ability">Dimensional Collapse</span><br>- Handle 🔗 tethers + 🎯 <span class="ability">Hiemal Storm</span> marks<br>- After <span class="ability">Spiral Pierce</span>, 🤝 stack center for knockback 💨<br>- 🩹 Remove Frostbite debuff<br>- Destroy 8 <span class="ability">Comet Circles</span>, avoid <span class="ability">Holy Meteor</span> 🎯 overlap<br>- Avoid <span class="ability">Heavy Impact</span> 🎯 rings<br>- 🛡️ Shield <span class="ability">Ultimate End</span> (damage increases per dead player)<br><br><span class="boss">Phase 5</span>: <span class="ability">Spear of Fury</span><br>- Position Thordan North (MT@11 o'clock, party@1 o'clock)<br>- Avoid 👀 <span class="ability">Dragon's Gaze</span><br>- Marked healer at edge, OT between them and Zephirin, DPS between OT+healer<br>- 🛡️💪 Mitigate <span class="ability">Spear of Fury</span> on marked healer<br><br><span class="boss">Phase 6+</span>:<br>- Move Thordan to new Dragon Eye 👀 location<br>- Stand in --|  towers to avoid <span class="ability">Heavy Impact</span> 🎯<br>- Handle <span class="ability">Lightning Storm</span> 🌐, <span class="ability">Skyward Leap</span> 🎯, <span class="ability">Spiral Thrust</span> ➡️⬅️<br>- Break <span class="ability">Holy Chains</span>, dodge <span class="ability">Ascalon's Mercy</span>, place <span class="ability">Hiemal Storm</span> 🎯<br>- 🩹 Heal through <span class="ability">Ancient Quagga</span> raidwides<br>- Burn Thordan before ⏳ <span class="ability">Ancient Quagga</span> enrage
+<span class="boss">King Thordan</span>:
+- <span class="ability">Ascalon's Might</span>: 🛡️ Tank faces boss away, 📐 frontal cleave
+- <span class="ability">Dragon's Gaze</span>: <span class="mechanic">🚫 Don't face boss or 👁️ Dragon's Eye</span>
+- <span class="ability">Lightning Storm</span>: 🏃<>🏃 Spread
+- <span class="ability">Dragon's Rage</span>: <span class="mechanic">🤝 Stack behind boss</span>
+- <span class="ability">Heavenly Heel</span>: 🛡️ Tankbuster, swap after <span class="ability">Ascalon's Might</span>
+
+<span class="boss">Phase 2a: Conviction Towers</span>:
+- 🤝 Stack mid, then 🏃<>🏃 spread to positions
+- <span class="mechanic">1 player per tower</span>, avoid 💥 Heavensflames
+
+<span class="boss">Phase 2b: Sacred Cross + Spiral Thrust</span>:
+- Burn <span class="boss">Ser Zephirin</span> to 50% before <span class="ability">Sacred Cross</span>
+- <span class="mechanic">Stand between 🌀 spiral decals</span> to avoid <span class="ability">Spiral Thrust</span>
+
+<span class="boss">Phase 3: Two Knights</span>:
+- Separate ⚔️ Sword Oath and 🛡️ Shield Oath knights
+- 🎯 Skyward Leap: Marked players 🏃 N/S/N
+- <span class="ability">Holy Bladedance</span>: 🛡️ Tankbusters, ⚔️ knight hits harder
+- <span class="ability">Holiest of Holy</span>: 💥 Party-wide AoE
+
+<span class="boss">Phase 4a: Dimensional Collapse + Spiral Pierce + Hiemal Storm</span>:
+- 🤝 Stack mid, then 🏃<>🏃 spread to positions
+- 3 players 🔗 tethered to knights, 5 marked with 🌀 Hiemal Storm
+- 🤝 Stack for knockback, avoid 🌀 frost circles
+
+<span class="boss">Phase 4b: Meteors + Heavy Impact</span>:
+- 🩹 Esuna 🤢 Frostbite debuffs
+- Destroy 8/9 comets, avoid 🎯 Holy Meteor splash damage
+- Dodge <span class="ability">Heavy Impact</span> 📐 cone AoEs
+
+<span class="boss">Phase 4c: Ultimate End</span>:
+- 🛡️ Mitigate <span class="ability">The Light of Ascalon</span> raid damage
+- 🩹 Shield before <span class="ability">Ultimate End</span>, damage based on deaths
+
+<span class="boss">Phase 5: Spear of Fury</span>:
+- 🛡️ Tank boss N, party at 1 o'clock
+- Avoid 👁️ Dragon's Gaze from boss and eye
+- 🎯 Marked healer moves out for <span class="ability">Holy Shield Bash</span>
+- OT and DPS 🤝 stack to block <span class="ability">Spear of Fury</span>
+- 🩹 Heal 🤢 Infirmary debuff and raid damage
+
+<span class="boss">Phase 6: Conviction Towers + Dragon's Gaze + Heavy Impact</span>:
+- 🛡️ Move boss to new 👁️ Dragon's Eye location
+- 2 knights spawn in line (--), towers perpendicular (|)
+- <span class="mechanic">Stand in outer half of towers</span>, avoid 👁️ gaze
+- 🏃<>🏃 Spread for <span class="ability">Dimensional Collapse</span>
+- 🤝 Stack mid for <span class="ability">Faith Unmoving</span> knockback
+
+<span class="boss">Phase 7: Lightning Storm + Skyward Leap + Spiral Thrust + Dragon's Rage</span>:
+- 🏃<>🏃 Spread for <span class="ability">Lightning Storm</span>
+- 🎯 Marked player opposite party for <span class="ability">Skyward Leap</span>
+- 🔗 Tethered player avoids party and 🌀 Spiral Thrust
+- 🛡️ Tank boss away from party for <span class="ability">Dragon's Rage</span>
+
+<span class="boss">Phase 8: Holy Chains + Dragon's Gaze + Ascalon's Fury + Hiemal Storm + Heavensflame</span>:
+- 🤝 Stack behind boss, then 🏃<>🏃 spread to break chains
+- Avoid 👁️ gaze, 📐 Ascalon's Fury, place 🌀 Hiemal Storm
+- 🩹 Heal for <span class="ability">Ancient Quagga</span> + <span class="ability">Heavenly Heel</span> combo
+
+<span class="boss">Phase 9: Sacred Cross + Dragon's Gaze</span>:
+- 🩹 Heal through knight raid damage
+- 🚫 Burn <span class="boss">Ser Zephirin</span> before <span class="ability">Sacred Cross</span> (LB3 if needed)
+- Avoid 👁️ gaze, survive <span class="ability">Ancient Quagga</span> enrage
+
+<span class="note">Position assignments, tank swaps, and cooldown usage are key to success!</span>

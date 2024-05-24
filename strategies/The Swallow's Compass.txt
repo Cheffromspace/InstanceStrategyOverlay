@@ -1,1 +1,23 @@
-<span class="boss">Otengu</span>:<br>- <span class="ability">Clout of the Tengu</span>: Large AOE centered around boss<br>- <span class="ability">Yama-kagura</span>: ➡️⬅️ Line AOE on non-tank<br>- <span class="ability">Wile of the Tengu</span>: <span class="mechanic">👀 Look away</span> to avoid Hysteria debuff<br>- <span class="ability">Tengu Ember</span>: Avoid moving 🔥 flames<br>- <span class="ability">Might of the Tengu</span>: 🛡️ Tankbuster<br><br><span class="boss">Daidarabotchi</span>:<br>- <span class="ability">Gathering aetherial energy</span>: <span class="mechanic">Stand on opposite side from slam</span> to avoid damage and debuff<br>- <span class="ability">The Land take You, Claim You!</span>: 🎯 AOE follows marked player<br>- <span class="ability">Swallow You, Consume You!</span>: Avoid persistent growing AOE in center<br>- <span class="ability">Mountain Falls</span>: Dodge 🔵 AOEs around players<br><br><span class="boss">Qitian Dasheng</span>:<br>- <span class="ability">The Short End</span>: 🛡️ Tankbuster<br>- <span class="ability">Both Ends</span>: Normal weapon raised = <span class="mechanic">avoid boss AOE</span>. Enlarged weapon lowered = <span class="mechanic">stay near boss</span><br>- <span class="ability">Mount Huaguo</span>: Unavoidable 💥 party-wide damage<br>- <span class="ability">Monkey Magicks</span>: <span class="mechanic">🎯 Kill adds before meter fills</span><br>- <span class="ability">Second Heaven</span>: Ultimate based on Monkey Magicks meter<br>- <span class="ability">Splitting Hairs</span>: <span class="mechanic">Kill both Shadow adds quickly</span> to avoid respawns
+<span class="boss">Otengu</span>:
+- <span class="ability">Clout of the Tengu</span>: 💥 Large AoE around boss
+- <span class="ability">Yama-kagura</span>: ➡️⬅️ Line AoE at non-tank player
+- <span class="ability">Wile of the Tengu</span>: 👀 Look away or get 🤢 Hysteria debuff
+- <span class="ability">Tengu Ember</span>: 🔥 Dodge moving flames, 💥 explode later
+- <span class="ability">Might of the Tengu</span>: 🛡️ Tankbuster
+
+<span class="boss">Daidarabotchi</span>:
+- <span class="mechanic">Gathering aetherial energy...</span>: 🏃 Avoid arm slam or 💥 + 🤢 Vuln Up
+- <span class="ability">The Land take You, Claim You!</span>: 🎯 Marked player AoE
+- <span class="ability">Swallow You, Consume You!</span>: 🌊 Growing lake AoE in center
+- <span class="ability">Mountain Falls</span>: 🔵 Puddle AoE on player
+
+<span class="boss">Qitian Dasheng</span>:
+- <span class="ability">The Short End</span>: 🛡️ Tankbuster
+- <span class="ability">Both Ends (normal)</span>: 🏃 Away from boss AoE or 💨 + 🤢 Vuln Up 
+- <span class="ability">Both Ends (enlarged)</span>: 🤝 Stack on boss to avoid 💨 + 🤢
+- <span class="ability">Mount Huaguo</span>: 💥 Party-wide AoE
+- <span class="ability">Monkey Magicks</span>: 👾 Kill adds before meter fills
+- <span class="ability">Second Heaven</span>: ⚡ Ultimate, damage based on 👾 progress
+- <span class="ability">Splitting Hairs</span>: 👥 Kill both Shadow of the Sage simultaneously
+
+<span class="note">👾 Servant of the Sage use frequent AoEs during Monkey Magicks.</span>

@@ -1,1 +1,30 @@
-<span class="boss">Mark III Anti-Eikon Warmachina: The Ruby Weapon</span><br><br><span class="boss">(Phase 1) Ruby Weapon's Abilities</span><br>- <span class="ability">Optimized Ultima</span>: Unavoidable 💥 raid-wide damage<br>- <span class="ability">Magitek Bits</span>: 🎯 Avoid straight-line AoEs from adds<br>- <span class="ability">Flexiclaw</span>: Indicates the start of a mini-phase<br>- <span class="ability">Helioclaw</span>: <span class="mechanic">🏃 Move to safe spots</span> between 🎯 AoE circles and fan pattern, while 🎯 baiting Magitek Bits<br>- <span class="ability">Stamp</span>: 🛡️ Tankbuster with Blunt Vulnerability debuff, <span class="mechanic">tanks swap after each</span><br>- <span class="ability">Ravensclaw</span>: <span class="mechanic">🏃 Stand at edge of boss hitbox on a long crack</span> to avoid 🎯 AoEs<br>- <span class="ability">Liquefaction</span>: <span class="mechanic">🏃 Stand on cracks</span> to avoid being pulled into the ground<br>- <span class="ability">Undermine</span>: <span class="mechanic">🏃 Move away from cracks</span> to avoid explosions<br>- <span class="ability">Ruby Sphere</span>: <span class="mechanic">💠 Assign positions to drop mines</span> along cracks (Liquefaction) or between cracks (Undermine), 🚫 avoid colliding with mines<br>- <span class="ability">Ruby Ray</span>: <span class="mechanic">🏃 Move behind boss</span> to avoid massive straight-line AoE
+<span class="boss">Ruby Weapon</span>:<br>
+- <span class="ability">Optimized Ultima</span>: 💥 Unavoidable raid-wide damage<br>
+- <span class="ability">Magitek Bits</span>: 👾 Adds shooting 🎯 line AoEs at random players<br>
+- <span class="ability">Flexiclaw</span>: Indicates mini-phase, watch for <span class="ability">Helioclaw</span> or <span class="ability">Ravensclaw</span><br>
+- <span class="ability">Helioclaw</span>: <span class="mechanic">🏃 Avoid 🔴 AoEs and fan pattern, bait 👾 bits</span><br>
+- <span class="ability">Stamp</span>: 🛡️ Tank swap after 🤢 Blunt Vulnerability debuff<br>
+- <span class="ability">Ravensclaw</span>: <span class="mechanic">🏃 to safe spots based on crack length</span><br>
+- <span class="ability">Liquefaction</span> or <span class="ability">Undermine</span>: <span class="mechanic">🏃 to cracks or between them</span>, drop <span class="ability">Ruby Sphere</span> 💣 mines safely<br>
+- <span class="ability">Ruby Ray</span>: <span class="mechanic">🏃 Behind boss to avoid 📏 line AoE</span><br>
+- <span class="ability">Ravensflight</span>: <span class="mechanic">🏃 Avoid dashes, move to safe side based on claw/quicksand</span><br>
+- <span class="ability">Ruby Dynamics</span>: <span class="mechanic">🏃 Inside hitbox, split for</span> <span class="ability">Homing Lasers</span> 🤝<br>
+- <span class="ability">Cut & Run</span>: <span class="mechanic">🏃<>🏃 Spread in two groups to avoid 🎯 AoEs and swipes</span><br>
+- <span class="ability">Magitek Charge</span>: <span class="mechanic">🏃 Into hitbox to avoid proximity AoEs</span><br>
+- ⏳ Enrage after second <span class="ability">Ravensflight</span><br>
+
+<span class="boss">Nael Deus Darnus</span>:<br>
+- 🚫 Outer edge of arena is instant death<br>
+- <span class="ability">Meteor Project</span>: ⏳ Background timer, Dalamud 💥 at climax<br>
+- <span class="ability">Negative Personae</span>: 👾 Adds, 🔗 separate to make vulnerable<br>
+- 🌟 Rage (orange) or Grief (blue) debuff, 👾 only take damage from opposite color<br>
+- <span class="ability">Meteor Stream</span>: 🎯 Marked players 🏃<>🏃 spread out<br>
+- <span class="ability">Greater Memory</span>: 👾 Adds gain 🌟 Damage Up<br>
+- <span class="ability">Iron Chariot</span> / <span class="ability">Lunar Dynamo</span>: 🔴 Point-blank or donut AoE from adds<br>
+- <span class="ability">Negative Effect</span>: 🔗 Tethered heads, 🏃 lure to 👾 adds to remove 🌟 Damage Up<br>
+- <span class="ability">Raven's Claw</span>: 🛡️ 5-hit tankbuster on both tanks<br>
+- <span class="ability">Change of Heart</span>: 🌟 Debuff colors swap, ⚔️ tank swap<br>
+- <span class="ability">Negative Aura</span>: 👀 Look away from gaze attack<br>
+- <span class="ability">Meteor Mine</span>: Players drop 💣 proximity AoEs in 1-8 order<br>
+- <span class="ability">Magitek Meteor</span>: 🏃 Hide behind 💣 Meteor Mine to survive<br>
+- <span class="ability">Screech</span>: 💨 Knockback, aim to land behind 8th 💣 Meteor Mine<br>

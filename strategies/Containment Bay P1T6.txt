@@ -1,1 +1,22 @@
-<span class="boss">Phase 1</span><br>- <span class="ability">Thunder II</span>: Conal AoE, <span class="mechanic">avoid by moving to the side 📐</span><br>- <span class="ability">Thunder III</span>: Donut AoE, <span class="mechanic">stand inside boss hitbox or at max range 🎯</span><br>- <span class="ability">Aero II</span>: Centered AoE + knockback, <span class="mechanic">avoid edges due to collapsing rails 💨</span><br>- <span class="ability">Light Dew</span> (Daughter): Line AoE across platform, <span class="mechanic">move to the side ➡️⬅️</span><br>- <span class="ability">Sophia Rush</span>: Line AoE across platform, <span class="mechanic">move to the side ➡️⬅️</span><br>- Proximity Markers: <span class="mechanic">Move away from AoE circles 🏃</span><br><br><span class="boss">Phase 2</span><br>- <span class="ability">Cloudy Heavens</span>: Boss becomes invulnerable, <span class="mechanic">defeat adds to remove Eternal Doom debuff 🎯</span><br>- <span class="ability">First Demiurge</span> (Paladin): Directional parry, <span class="mechanic">attack from correct side to avoid knockback 💨</span><br>- <span class="ability">Second Demiurge</span> (Healer): Heals other adds + gaze attack, <span class="mechanic">kill first and avoid eye contact 👀</span><br>- <span class="ability">Third Demiurge</span> (Lancer): Drops persistent ice puddle, <span class="mechanic">position at the side of the arena 💠</span><br><br><span class="boss">Phase 3</span><br>- Arena edges collapse, <span class="mechanic">avoid falling off (can be rezzed) 🏃</span><br>- <span class="ability">Quasar</span>: Tethered meteors (orange=1, blue=3), <span class="mechanic">calculate weight and move to lighter side before tilt 🔗🧮</span><br>- Ice Puddle from Third Demiurge: <span class="mechanic">avoid sliding through it during Quasar tilt 💠</span><br>- <span class="ability">Sin & Punishment</span>: Paired AoE rings (white/blue), <span class="mechanic">stack with opposite color to avoid damage/debuffs 🤝</span><br>- <span class="ability">Second Demiurge</span> at 15%: Healer add, <span class="mechanic">kill quickly or have off-tank move it away 🎯</span><br><br><span class="boss">Loot</span><br>- 15 Allagan Tomestone of Poetics<br>- Sophia Card (fixed drop rate)
+<span class="boss">Sophia</span>:<br>
+<span class="ability">Thunder II</span>: 📐 Avoid front cone AoE<br>
+<span class="ability">Thunder III</span>: 💥 Donut AoE, safe spot near boss or max range<br>
+<span class="ability">Aero II</span>: 💥 AoE + 💨 knockback, avoid edges<br>
+<span class="ability">Daughter</span>: 🏃 Dodge ➡️⬅️ line AoE from arena edges<br>
+<span class="ability">Sophia Rush</span>: 🏃 Dodge ➡️⬅️ line AoE from boss<br>
+<span class="mechanic">Proximity Markers</span>: 🏃<>🏃 Spread<br>
+<br>
+<span class="boss">Phase 2</span>:<br>
+<span class="ability">Cloudy Heavens</span>: 🤢 Eternal Doom debuff, kill adds to remove<br>
+<span class="mechanic">First Demiurge</span> 🛡️: Avoid AoEs, attack correct side during parry<br>
+<span class="mechanic">Second Demiurge</span> 🩹: Kill first, avoid 👀 gaze attack<br>
+<span class="mechanic">Third Demiurge</span> 👾: Position ice puddle at arena edge<br>
+<br>
+<span class="boss">Phase 3</span>:<br>
+<span class="note">Arena edges now open, watch positioning</span><br>
+<span class="ability">Quasar</span>: Calculate meteor ⚖️ weights, move to lighter side<br>
+- 🟠 Orange = 1, 🔵 Blue = 3<br>
+- Always move opposite blue meteor<br>
+<span class="ability">Sin & Punishment</span>: 🤝 Stack with partner of opposite color<br>
+<span class="note">At 15%, another Second Demiurge spawns</span><br>
+- Decide to kill add or focus boss based on DPS

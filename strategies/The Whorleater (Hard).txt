@@ -1,1 +1,22 @@
-<span class="boss">Lord of the Whorl: Leviathan</span><br><br><span class="boss">Phase 1</span><br>- Watch for 💦 water spume to indicate where <span class="boss">Leviathan</span> will appear<br>- <span class="ability">Body Slam</span>: Boss 🛡️ slams down, <span class="mechanic">stunning and sliding players</span>. Avoid being underneath<br><br><span class="boss">Phase 2</span><br>- <span class="boss">Leviathan's Head</span> and <span class="boss">Tail</span> are separate targets. <span class="mechanic">Casters 🎯 head, ranged 🎯 tail, melee 🎯 either</span><br>- <span class="ability">Dread Tide</span>: 🛡️ Tankbuster on main target<br>- <span class="ability">Aqua Breath</span>: Boss casts 🎯 point-blank AoE<br>- <span class="ability">Water Spout</span>: 🎯 Targets random players<br>- <span class="ability">Tidal Roar</span>: Unavoidable 💥 party-wide damage<br>- <span class="mechanic">Kill 🎯 Wavespine Sahagin adds</span> to avoid 🤢 Dropsy debuff<br>- <span class="mechanic">Kill 🎯 Gyre Spume adds</span> to prevent Elemental Converter drain<br>- Watch for boss 🏊 diving to change sides, <span class="mechanic">🏃 move to opposite end</span><br>- <span class="ability">Grand Fall</span>: Boss leaps, 🤢 Heavy debuff, <span class="mechanic">run to Elemental Converter</span><br>- <span class="ability">Spinning Dive</span>: Boss 💨 knocks back players, <span class="mechanic">activate Elemental Converter</span><br><br><span class="boss">Phase 3</span><br>- Continues like Phase 2 with <span class="ability">Grand Fall</span> and side changes<br>- <span class="mechanic">Kill 🎯 Wavetooth Sahagin adds</span> casting 🤢 Hysteria debuff
+<span class="boss">Leviathan</span>:<br>
+<span class="mechanic">Phase 1</span>:<br>
+- 🎯 Boss targets tank, attack until 90% or phase change<br>
+- 🌊 Watch for water spout, indicates boss's next location<br>
+- <span class="ability">Body Slam</span>: Boss slams deck, 💥 party-wide stun and knockback<br>
+
+<span class="mechanic">Phase 2</span>:<br> 
+- 🎯 Target head (casters) or tail (physical), HP linked<br>
+- <span class="ability">Dread Tide</span>: 🛡️ Tankbuster on main threat<br>
+- <span class="ability">Aqua Breath</span>: Boss casts 💥 point-blank AoE<br>
+- <span class="ability">Water Spout</span>: 🎯 Targets random players<br>
+- <span class="ability">Tidal Roar</span>: 💥 Unavoidable party-wide damage<br>
+- 👾 Prioritize killing adds: Wavespine Sahagins (Hydroshot 🔴 AoE 🤢 Dropsy debuff) and Gyre Spumes (drain Elemental Converter)<br>
+- 🌊 Move to opposite end of ship when boss dives<br>
+- <span class="ability">Grand Fall</span> (60%): 🎯 Marks player, 🔴 AoE drops 🤢 Heavy debuff<br>
+- <span class="ability">Spinning Dive</span>: Boss jumps ship, 💥 heavy damage and knockback<br>
+- 🏃 Run to Elemental Converter to prevent wipe from <span class="ability">Tidal Wave</span><br>
+
+<span class="mechanic">Phase 3</span>:<br>
+- Mechanics from Phase 2 continue<br>
+- 👾 New add: Wavetooth Sahagins - kill quickly to avoid 🔴 <span class="ability">Dreadstorm</span> (🤢 Hysteria debuff)<br>
+- 🌊 Boss moves randomly, watch water spouts<br>

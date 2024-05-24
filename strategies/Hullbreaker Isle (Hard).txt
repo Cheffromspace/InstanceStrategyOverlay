@@ -1,1 +1,20 @@
-<span class="boss">Battle Coeurl, Sanguine Sirens Gunner, Sanguine Sirens Lodeswoman, Sanguine Sirens Targirl</span>:<br>- 🏃 Dodge line and circle AOEs<br>- 🎯 Kill tethered coeurl quickly to remove 🤢 healing debuff on healer<br><br><span class="boss">Ymir</span>:<br>- <span class="ability">Lightning Tether</span>: 🏃 Move away to break tether<br>- <span class="ability">Slime Spots</span>: Causes <span class="mechanic">fettered status</span>, but provides immunity to targeted lightning<br>- <span class="ability">Targeted Lightning</span>: 🎯 Move into slime when marked with red flag to avoid damage<br>- <span class="ability">Freezing</span>: ❄️ Place ice circles close together to create safe spot from exploding ice blocks<br><br><span class="boss">Grand Storm Marshal Slafyrsyn and Mistbeard</span>:<br>- 🛡️ Tank boss away from party, dodge AOEs, 🩹 heal through arena-wide damage<br>- <span class="ability">Chests</span>: 🤢 Poison removed by <span class="mechanic">finding potion in spawned chests</span><br>- <span class="ability">Target Marker</span>: 🎯 Marked player gets Heavy debuff, <span class="mechanic">remove quickly to dodge high-damage AOE</span><br>- <span class="ability">Firesand Kegs</span>: 💥 Dodge targeted kegs before they explode, <span class="mechanic">knock kegs to arena edge</span>
+<span class="boss">Battle Coeurl, Sanguine Sirens Gunner, Lodeswoman, Targirl</span>:<br>
+- 🏃 Dodge 📐 line and 🔴 circle AoEs<br>
+- 🔗 <span class="mechanic">Coeurl tethered to healer</span>, 🩹 healing down debuff, kill quickly<br>
+
+<span class="boss">Ymir</span>:<br>
+- ⚡ <span class="mechanic">Lightning tether</span>: 🏃 move away to break<br>
+- 🟢 <span class="mechanic">Slime spots</span>: cause fettered status, 🛡️ protects from targeted lightning<br>
+- 🎯 <span class="mechanic">Targeted lightning</span>: 🏃 move into slime to become fettered and immune<br>
+- ❄️ <span class="mechanic">Freezing</span>: marked with ice flag and 🔴 circle, place close together without overlapping<br>
+
+<span class="boss">Grand Storm Marshal Slafyrsyn and Mistbeard</span>:<br>
+<span class="ability">First Form</span>:<br>
+- ⚔ Tank away from party<br>
+- 🏃 Dodge AoEs<br>
+- 🩹 Heal through arena-wide damage<br>
+
+<span class="ability">Second Form</span>:<br>
+- 🧰 <span class="mechanic">Chests</span>: 🤢 party poisoned, find potion in chests to remove<br>
+- 🎯 <span class="mechanic">Target marker</span>: marked player gets Heavy debuff, remove quickly to dodge boss AoE<br>
+- 🔥 <span class="mechanic">Fires and Kegs</span>: boss targets kegs, 💥 explode after a time, 🏃 dodge targeted keg or 👊 knock to arena edge<br>

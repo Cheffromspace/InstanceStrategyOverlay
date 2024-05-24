@@ -1,1 +1,24 @@
-<span class="boss">Barnabas</span>:<br>- <span class="ability">Ground and Pound</span>: Delayed line AoE targeting random player, move out of the way<br>- <span class="ability">Dynamic Pound</span>: Line AoE with <span class="mechanic">Polarity mechanic</span>, 🏃 move based on your polarity to avoid knockback<br>- <span class="ability">Shocking Force</span>: 🤝 Stack marker on random player, stack to mitigate damage<br>- <span class="ability">Dynamic Scrapline</span>: <span class="mechanic">Polarity tethers</span> between boss and players, 🏃 position based on polarity<br>- <span class="ability">Thundercall</span>: 🎯 Stand between lightning orbs in safe spots<br><br><span class="boss">Lugae</span>:<br>- <span class="ability">Thermal Suppression</span>: Unavoidable 💥 party-wide damage, mitigate and 🩹 heal<br>- <span class="ability">Magitek Missile</span>: 🎯 AoEs on two random players, move out of the way<br>- <span class="ability">Magitek Ray</span>: ➡️⬅️ Line AoE towards random player, avoid it<br>- <span class="ability">Magitek Chakram</span>: Step on 💜 Purple Plate for <span class="mechanic">Minimum debuff</span> to avoid Chakrams<br>- <span class="ability">Downpour</span>: Step on 💚 Green Plate for <span class="mechanic">Toad debuff</span> to remove 🤢 Breathless stacks<br>- <span class="ability">Magitek Explosion</span>: Determine safe zone to avoid untelegraphed ➕ cross-line AoEs from bombs<br><br><span class="boss">Anima</span>:<br>- <span class="ability">Lunar Nail</span> + <span class="ability">Phantom Pain</span>: 🏃 Move to safe quadrants without tethers on all sides<br>- <span class="ability">Mega Graviton</span>: Unavoidable 💥 party-wide damage, summons Mega-Gravitons<br>- <span class="ability">Pater Patriae</span>: ➡️⬅️ Line AoE down center of room<br>- <span class="ability">Aetherial Pull</span>: 🔗 Tethered players run to opposite side, <span class="mechanic">prevent pull-in with Arm's Length or Surecast</span><br>- <span class="ability">Boundless Pain</span>: 🏃 Run to corners to escape expanding AoE in center<br>- <span class="ability">Imperatum</span>: Defeat lower half before ⏳ Chaos gauge fills to avoid wipe<br>- <span class="ability">Obliviating Claw</span>: Determine first set of claws, stand in gap between them, repeat for second set<br>- <span class="ability">Erupting Pain</span>: Place 🎯 following AoEs on east/west edges, 🏃 run to opposite side
+<span class="boss">Barnabas</span>:<br>
+- <span class="ability">Ground and Pound</span>: 🎯 Avoid delayed line AoE<br>
+- <span class="ability">Dynamic Pound</span>: <span class="mechanic">Match 🔗 tether polarity to AoE polarity</span> (same = 💨 knockback, opposite = pull)<br>
+- <span class="ability">Shocking Force</span>: 🤝 Stack to share damage<br>
+- <span class="ability">Dynamic Scrapline</span>: <span class="mechanic">Match boss 🔗 tether polarity</span> (same = 💨 knockback, opposite = pull)<br>
+- <span class="ability">Thundercall</span>: 🏃 Stand between lightning orbs, avoid boss AoE<br>
+
+<span class="boss">Lugae</span>:<br>
+- <span class="ability">Thermal Suppression</span>: 💥 Unavoidable AoE, mitigate and heal<br>
+- <span class="ability">Magitek Missile</span>: 🎯 Avoid targeted AoEs<br>
+- <span class="ability">Magitek Ray</span>: 🏃 Avoid line AoE<br>
+- <span class="ability">Magitek Chakram</span>: <span class="mechanic">Step on Purple Plate for 🌟 Minimum buff</span> to avoid Chakrams<br>
+- <span class="ability">Downpour</span>: <span class="mechanic">Step on Green Plate for 🐸 Toad buff</span> to remove 🤢 Breathless stacks<br>
+- <span class="ability">Magitek Explosion</span>: 🏃 Determine safe zone between untelegraphed cross-line AoEs<br>
+
+<span class="boss">Anima</span>:<br>
+- <span class="ability">Lunar Nail</span> + <span class="ability">Phantom Pain</span>: 🏃 Move to safe quadrants without 🔗 tethers on all sides<br>
+- <span class="ability">Mega Graviton</span>: 💥 Unavoidable AoE, summons Mega-Gravitons<br>
+- <span class="ability">Pater Patriae</span>: ➡️⬅️ Avoid line AoE down center<br>
+- <span class="ability">Aetherial Pull</span>: <span class="mechanic">Run to opposite side of 🔗 tethered Mega-Graviton</span>, avoid pull-in with Arm's Length or Surecast<br>
+- <span class="ability">Boundless Pain</span>: 🏃 Run to corners to escape expanding AoE<br>
+- <span class="ability">Imperatum</span>: <span class="mechanic">Defeat lower Anima before ⏳ Chaos gauge fills</span> to avoid wipe<br>
+- <span class="ability">Obliviating Claw</span>: 🏃 Stand in gaps between moving claw AoEs<br>
+- <span class="ability">Erupting Pain</span>: 🎯 Place follow AoEs on E/W edges, run to opposite side<br>

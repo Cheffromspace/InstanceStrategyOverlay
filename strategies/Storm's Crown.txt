@@ -1,1 +1,26 @@
-<span class="boss">Empress of the Winds: Barbariccia</span><br>- <span class="ability">Void Aero IV</span>: Unavoidable 💥 party-wide damage<br>- <span class="ability">Savage Barbery</span>: Boss swings sword in 🎯 line or 🍩 donut AoE, then throws it to indicated spot<br>- <span class="ability">Hair Raid</span>: Boss tethers to sword, leaps to it with wide 📐 cone AoE, <span class="mechanic">safe zone behind her</span><br>- <span class="ability">Void Aero III</span>: 🛡️ Split tank buster, high damage small AoE<br>- <span class="ability">Teasing Tangles</span>: 4 large AoEs spawn, hair tethers players inside, <span class="mechanic">slowing movement</span><br>- <span class="ability">Secret Breeze</span>: Boss fires 2 sets of overlapping 📐 cone AoEs, <span class="mechanic">stand between 1st set, then move</span><br>- <span class="ability">Hair Spray</span>: 🎯 Markers on tank, healer, 2 DPS for AoEs<br>- <span class="ability">Deadly Twist</span>: 🤝 Stack marker on random player<br>- <span class="ability">Void Aero</span>: Wide AoE where each player was standing<br>- <span class="ability">Curling Iron</span>: Boss 💨 knocks back and stuns all players<br><br><span class="boss">Phase 2 (Below 70%)</span><br>- <span class="ability">Catabasis</span>: Boss leaps into air, transforms, crashes into arena for high damage<br>- <span class="ability">Blow Away</span>: Boss clones fire in straight lines, then 🎯 several random large AoEs<br>- <span class="ability">Brutal Rush</span>: Clones charge across arena twice, medium damage<br>- <span class="ability">Boulder</span>: Wide AoE marker on player, drops and resolves for high damage<br>- <span class="ability">Boulder Break</span>: 🛡️ High damage tank buster in large AoE on both tanks<br>- <span class="ability">Knuckle Drum</span>: Boss strikes ground repeatedly, increasing damage each hit<br>- <span class="ability">Bold Boulder</span>: Boss throws massive boulder at tank for high damage, rubble 💥 rains on party<br>- <span class="ability">Trample</span>: 🤝 Stack marker on player, boss jumps on them for medium damage<br>- <span class="ability">Tornado Chain</span>: Large AoE on ground, then 🍩 donut AoE on edge, detonate in sequence<br>- <span class="ability">Tousle</span>: Slow AoEs from arena center, knocks players into air on hit<br>- <span class="ability">Touchdown</span>: Large 💨 knockback marker, boss leaps to it, <span class="mechanic">move from room border while Tangled</span><br>- <span class="ability">Impact</span>: Boss 💨 knocks back from center, light damage<br>- <span class="ability">Dry Blows</span>: 💥 Party-wide damage, then several random 🎯 high damage AoEs
+<span class="boss">Barbariccia</span>:<br>
+Phase 1:<br>
+- <span class="ability">Void Aero IV</span>: 💥 Unavoidable roomwide AoE<br>
+- <span class="ability">Savage Barbery</span>: 🏃 Avoid line or donut AoE based on red blade pattern, boss throws sword<br>
+- <span class="ability">Hair Raid</span>: Boss tethers to sword, 🏃 move behind sword to avoid 📐 wide cone AoE<br>
+- <span class="ability">Void Aero III</span>: 🛡️ Split tank buster, high damage small AoE, tanks use mitigation<br>
+- <span class="ability">Teasing Tangles</span>: 4 large AoEs spawn, hair tethers pull players in, inflicting 🤢 Tangled debuff (slowed movement)<br>
+- <span class="ability">Secret Breeze</span>: 2 sets of 📐 conal AoEs, stand between 1st set, move to 1st set's location for 2nd<br>
+- <span class="ability">Deadly Twist</span>: 🤝 Stack marker on random player<br>
+- <span class="ability">Hair Spray</span>: 🎯 AoE markers on tank, healer, 2 DPS<br>
+- Repeat until boss <70% HP<br>
+- <span class="ability">Curling Iron</span>: 💨 Knockback and stun<br>
+
+Phase 2:<br>
+- <span class="ability">Catabasis</span>: High damage, 🩹 healers be ready<br>
+- Boss fires line AoEs + 🔴 AoE with curved lines, 🏃 stand in safe zones<br>
+- 👾 Clones charge across arena twice, 🏃 move to safe zones between charges<br>
+- <span class="ability">Deadly Twist</span> + <span class="ability">Boulder</span>: 🤝 Stack, then 🏃 avoid large rock AoE<br>
+- <span class="ability">Boulder Break</span>: 🛡️ High damage tank buster, tanks separate and mitigate<br>
+- <span class="ability">Knuckle Drum</span>: Repeated ground strikes, increasing damage<br>
+- <span class="ability">Bold Boulder</span>: 🎯 Tank targeted, high damage + party-wide rubble<br>
+- <span class="ability">Tousle</span>: Slow 🔴 AoEs from center, knock players up if hit<br>
+- <span class="ability">Tornado Chain</span>: Large 🔴 AoE + outer donut AoE, 🏃 stand outside then move in<br>
+- <span class="ability">Blow Away</span>: 👾 Clones charge + random 🔴 AoEs<br>
+- <span class="ability">Teasing Tangles</span> + <span class="ability">Touchdown</span>: Tethered to AoEs, 🏃 avoid knockback into arena edge<br>
+- Repeat until boss defeated<br>

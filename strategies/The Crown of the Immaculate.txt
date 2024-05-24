@@ -1,1 +1,28 @@
-<span class="boss">Lightwarden: Innocence</span><br><br><span class="boss">Phase 1</span><br>- <span class="ability">Realmrazer</span>: 💥 Moderate party-wide damage<br>- <span class="ability">Heavenly Host</span>: <span class="mechanic">🎯 Summons adds</span>, kill Forgiven Venery and Forgiven Shames<br>- <span class="ability">Sinsphere</span>: <span class="mechanic">4 meteor AoEs, each needs a player to soak damage</span><br>- <span class="ability">Enthrall</span>: Gaze attack, <span class="mechanic">inflicts Confusion</span><br>- <span class="ability">Exalted Wing/Plumes</span>: 💥 Moderate party-wide damage, transitions to Phase 2<br><br><span class="boss">Phase 2</span><br>- <span class="ability">Righteous Bolt</span>: 🛡️ Tankbuster<br>- <span class="ability">Winged Reprobation</span>: <span class="mechanic">➡️⬅️ Avoid symmetrical Line AoEs from swords</span><br>- <span class="ability">Rightful Reprobation</span>: <span class="mechanic">➡️⬅️ Avoid 8 Line AoEs from swords, then dodge returning swords</span><br>- <span class="ability">Soul and Body</span>: <span class="mechanic">Rotating S-shaped AoE, move to stay ahead or in safe zones</span><br>- <span class="ability">Flaming Sword</span>: <span class="mechanic">🎯 Kill tethered Forgiven Shames before Guilty Verdict cast</span><br>- <span class="ability">God Ray</span>: <span class="mechanic">📐 Avoid 3 successive Cone AoEs (melee, mid-range, long range)</span><br>- <span class="ability">Light Pillar</span>: <span class="mechanic">🤝 Line-up Stack on random player</span><br>- <span class="ability">Beatific Vision</span>: <span class="mechanic">💨 Proximity-based Line AoE charge, avoid being close</span>
+<span class="boss">Innocence</span>:
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Realmrazer</span>: 💥 Moderate party-wide damage
+- <span class="ability">Heavenly Host</span>: 👾 Summons 1 Forgiven Venery + 4 Forgiven Shame adds
+- <span class="ability">Scold's Bridle</span> (Forgiven Shame): 💥 Moderate party-wide damage
+- <span class="ability">Holy Sword</span> (Forgiven Venery): 🛡️ Weak tankbuster
+- <span class="ability">Day Break</span>: 🔴 Ground AoEs under each DPS
+- <span class="ability">Sinsphere</span>: <span class="mechanic">4 players must soak 4 meteor AoEs</span> or party-wide damage
+- <span class="ability">Enthrall</span>: 🎯 Gaze attack, inflicts 🤢 Confusion
+- <span class="ability">Guiding Light</span>: 🌟 Buffs adds' damage after 2nd <span class="ability">Heavenly Host</span>
+- <span class="ability">Exalted Wing</span>: 💥 Moderate party-wide damage every few seconds
+- <span class="ability">Exalted Plumes</span>: 💥 Moderate party-wide damage + 🤢 Down for the Count debuff
+
+<span class="boss">Phase 2</span>:
+- <span class="note">Innocence fully healed, attacks hit harder</span>
+- <span class="ability">Righteous Bolt</span>: 🛡️ Tankbuster
+- <span class="ability">Winged Reprobation</span>: ➡️⬅️ Avoid 3 sets of 3 Line AoEs from swords
+- <span class="ability">Rightful Reprobation</span>: <span class="mechanic">Avoid 8 ➡️⬅️ Line AoEs from center, then dodge returning swords</span>, 🤢 Physical Vuln Up if hit
+- <span class="ability">Soul and Body</span>: 🏃 Move to stay ahead of rotating S-shaped AoE or stand in safe zones
+- <span class="ability">Shadowreaver</span>: 💥 High party-wide damage
+- <span class="ability">Flaming Sword</span>: <span class="mechanic">Innocence untargetable, kill adds before Immaculate Authority meter fills</span>
+- <span class="ability">Holy Sword</span> (Forgiven Venery): <span class="mechanic">Kill tethered Forgiven Shame before cast</span> or 💥 party damage + 🤢 Slashing Resistance Down stacks
+- <span class="ability">Manacle</span> (Forgiven Shame): 🔴 Ground AoEs
+- <span class="note">Heavily mitigate or use Tank LB3 for <span class="ability">Flaming Sword</span> at 2+ 🤢 Slashing Resistance Down stacks</span>
+- <span class="ability">God Ray</span>: <span class="mechanic">Avoid 3 sets of 📐 Cone AoEs (melee, mid, long range)</span>
+- <span class="ability">Light Pillar</span>: 🤝 Stack on targeted player
+- <span class="ability">Beatific Vision</span>: <span class="mechanic">Avoid proximity-based ➡️⬅️ Line AoE charge from edge to edge</span>

@@ -1,21 +1,23 @@
 <span class="boss">Golbez</span>:<br>
-<span class="note">🚫 Falling off edge = death (can be rezzed)</span><br>
+<span class="note">🚫 Players can fall off the edge to their death</span><br>
+<br>
 <span class="boss">Phase 1</span>:<br>
-- <span class="ability">Terrastorm</span>: 🔴 Avoid corner AoE<br>
-- <span class="ability">Crescent Blade</span>: 🏃 Behind boss to avoid 📐 cleave<br>
-- <span class="ability">Arctic Assault</span>: 🏃 Stand in safe quadrants<br>
-- <span class="ability">Void Meteor</span>: 🛡️ Tankbuster on both tanks<br>
-- <span class="ability">Lingering Spark</span>: 🎯 Baited AoEs, 🏃 move away<br>
-- <span class="ability">Binding Cold</span>: 💥 Raid-wide + 🤢 DoT<br>
-<span class="boss">Phase 2</span>:<br>
-- <span class="ability">Azdaja's Shadow</span>: 💥 Raid-wide, powers up next <span class="ability">Crescent Blade</span><br>
-- <span class="ability">Shadow Crescent</span>: 📐 Cleave + point-blank 🔴 AoE<br>
-- <span class="ability">Burning Shade</span>: 🏃<>🏃 Spread markers<br>
-- <span class="mechanic">Meteor Phase</span>: Soak towers E/W, 1 healer gets 💨 marker<br>
-&nbsp;&nbsp;- Healer stays near center, others 💨 into towers or use 💨 immunity<br>
-&nbsp;&nbsp;- Healer tethered to boss, 🏃 away to avoid ➡️⬅️ attack<br>
-- <span class="ability">Double Meteor</span>: 🏃 Opposite side to minimize 💥 damage<br>
-- <span class="ability">Gale Sphere</span>: 👾 Clones attack in spawn order, find safe ➡️⬅️ lanes<br>
-- <span class="ability">Void Stardust</span>: 🏃 Down edges, return through center<br>
-- <span class="ability">Eventide Fall</span>: ➡️⬅️ Attacks on healers, split into light parties<br>
-- <span class="ability">Immolating Shade</span>: 🤝 Stack marker on 1 player<br>
+- <span class="ability">Terrastorm</span>: 🔴 <span class="mechanic">Avoid AoE from exploding rock</span><br>
+- <span class="ability">Crescent Blade</span>: <span class="mechanic">🏃 Move behind boss to avoid 📐 frontal cleave</span><br>
+- <span class="ability">Arctic Assault</span>: <span class="mechanic">🏃 Stand in safe quadrants behind "arrows"</span><br>
+- <span class="ability">Void Meteor</span>: 🛡️ <span class="mechanic">Tankbuster on both tanks</span><br>
+- <span class="ability">Lingering Spark</span>: <span class="mechanic">🎯 Baited AoEs under players, 🏃 move away</span><br>
+- <span class="ability">Binding Cold</span>: 💥 Raid-wide damage + 🤢 Frostbite DoT<br>
+<br>
+<span class="boss">Phase 2</span>:<br> 
+- <span class="ability">Azdaja's Shadow</span>: <span class="mechanic">Powers up next Crescent Blade</span><br>
+- <span class="ability">Shadow Crescent</span>: 📐 Frontal cleave + 🔴 point-blank AoE<br>
+- <span class="ability">Burning Shade</span>: 🏃<>🏃 <span class="mechanic">Spread to avoid overlap</span><br>
+- <span class="mechanic">Meteor Phase</span>: <span class="mechanic">Soak towers E/W, 1 healer gets 💨 knockback</span><br>
+&nbsp;&nbsp;- Healer 🏃 near center, others soak or use 💨 immunity<br>
+&nbsp;&nbsp;- 🔗 Tether on healer, ➡️⬅️ line AoE<br>
+- <span class="ability">Double Meteor</span>: <span class="mechanic">🏃 Opposite side from 🔴 AoEs to minimize damage</span><br>
+- <span class="ability">Gale Sphere</span>: <span class="mechanic">Find safe lanes between ➡️⬅️ line AoEs from clones</span><br>
+- <span class="ability">Void Stardust</span>: <span class="mechanic">🏃 Down edges, return through center to avoid 🔴 AoEs</span><br>
+- <span class="ability">Eventide Fall</span>: ➡️⬅️ <span class="mechanic">Line attacks on healers, split to share damage</span><br>
+- <span class="ability">Immolating Shade</span>: 🤝 <span class="mechanic">Stack to share damage on marked player</span>

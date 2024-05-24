@@ -1,1 +1,34 @@
-<span class="boss">Phase 1: Thordan</span><br>- 🛡️ <span class="ability">Ascalon's Might</span>: Frontal cleave, tank faces away<br>- <span class="ability">Dragon's Gaze</span>: Look away when cast to avoid hysteria debuff<br>- <span class="ability">Lightning Storm</span>: 🌐 Spread out<br>- <span class="ability">Dragon's Rage</span>: 🤝 Stack behind boss after Lightning Storm<br>- 🛡️ <span class="ability">Heavenly Heel</span>: Tankbuster, swap after<br><br><span class="boss">Phase 2a: Conviction Towers</span><br>- <span class="mechanic">Assign positions</span> for towers at cardinal directions<br>- 🤝 Stack middle, then 🌐 spread to towers when <span class="ability">Heavensflames</span> spawn<br>- <span class="mechanic">Break Holy Chains, stand in towers (1 per tower)</span><br><br><span class="boss">Phase 2b: Sacred Cross + Spiral Thrust</span><br>- <span class="ability">Sacred Cross</span>: Bring <span class="boss">Ser Zephirin</span> below 50% HP<br>- <span class="ability">Spiral Thrust</span>: Stand in center of leaf decals to avoid<br><br><span class="boss">Phase 3: Two Knights</span><br>- <span class="mechanic">Tanks separate</span> <span class="boss">Ser Adelphel</span> (west) and <span class="boss">Ser Janlenoux</span> (east)<br>- <span class="ability">Divine Right</span>: One knight gets Sword Oath, other Shield Oath<br>- 🎯 DPS focus Sword Oath knight<br>- 🛡️ <span class="ability">Holy Bladedance</span>: Tankbuster, Sword Oath tank invulns, Shield Oath uses cooldown<br>- <span class="ability">Skyward Leap</span>: Marked DPS 🏃 N/S/N<br>- 💥 <span class="ability">Holiest of Holy</span>: Raid-wide AoE, 🩹 heal up<br><br><span class="boss">Phase 4a: Dimensional Collapse + Spiral Pierce + Hiemal Storm</span><br>- 🤝 Stack center, 🌐 spread for <span class="ability">Dimensional Collapse</span><br>- 3 players 🔗 tethered to center knight, 5 marked for <span class="ability">Hiemal Storm</span><br>- After <span class="ability">Spiral Pierce</span> and Hiemal Storm, 🤝 stack center for knockback<br><br><span class="boss">Phase 4b: Meteors + Heavy Impact</span> <br>- 🩹 Healers remove Frostbite debuffs<br>- <span class="mechanic">Destroy 7 of 8 Comet Circles</span>, ignore 1 predetermined Comet<br>- 🎯 Focus Meteor Circle after comets explode<br>- <span class="ability">Holy Meteor</span>: Light AoE damage, avoid stacking marked players<br>- <span class="ability">Heavy Impact</span>: Move to safe sector or 🏃 cross rings as inner explodes<br><br><span class="boss">Phase 4c: Ultimate End</span><br>- <span class="ability">The Light of Ascalon</span>: Minor damage + small knockback<br>- 🛡️ <span class="mechanic">Shield raid</span> for <span class="ability">Ultimate End</span>, damage increases per dead party member<br><br><span class="boss">Phase 5: Spear of Fury</span><br>- Tank Thordan north, MT at 11 o'clock, party 1 o'clock<br>- <span class="ability">Dragon's Eye</span>: Avoid looking at both real and fake eyes<br>- <span class="ability">Holy Shield Bash</span>: Marked healer moves to edge, OT closest to center, DPS between<br>- 🛡️ OT stands between <span class="boss">Ser Zephirin</span> and marked healer for <span class="ability">Spear of Fury</span><br>- 🩹 Heal through <span class="ability">Ancient Quagga</span> raid-wide damage<br><br><span class="boss">Phase 6: Conviction Towers + Dragon's Gaze + Heavy Impact</span><br>- <span class="mechanic">Towers always in --| shape</span>, 1 player per tower<br>- 🏃 Move to outer half of tower for <span class="ability">Heavy Impact</span> rings<br>- Look away for <span class="ability">Dragon's Gaze</span> as first Impact ring explodes<br>- 🤝 Stack middle for <span class="ability">Dimensional Collapse</span> knockback and <span class="ability">Dragon's Rage</span><br><br><span class="boss">Phase 7: Lightning Storm + Skyward Leap + Spiral Thrust + Dragon's Rage</span><br>- Ignore <span class="ability">Dragon's Eye</span>, no Dragon's Gaze<br>- Handle <span class="ability">Lightning Storm</span>, <span class="ability">Skyward Leap</span>, <span class="ability">Spiral Thrust</span> and <span class="ability">Dragon's Rage</span> as before
+<span class="boss">Thordan</span>:
+- <span class="ability">Ascalon's Might</span>: 🛡️ Tankbuster, 📐 frontal cleave
+- <span class="ability">Dragon's Gaze</span>: 🚫 Don't look at boss or 🎯 Dragon's Eye
+- <span class="ability">Lightning Storm</span>: 🏃<>🏃 Spread
+- <span class="ability">Dragon's Rage</span>: 🤝 Stack behind boss
+- <span class="ability">Heavenly Heel</span>: 🛡️ Tankbuster, <span class="mechanic">swap after hit</span>
+
+<span class="boss">Phase 2</span>:
+- <span class="ability">Conviction Towers</span>: 🏃 Avoid 💥 Heavensflames, 💠 stand in towers
+- <span class="ability">Sacred Cross</span>: 💥 Raidwide damage, <span class="mechanic">DPS Zephirin to 50%</span>
+- <span class="ability">Spiral Thrust</span>: 💠 Stand between knights' paths
+
+<span class="boss">Knights Phase</span>:
+- <span class="ability">Divine Right</span>: ⚔️🛡️ Separate knights, <span class="mechanic">focus Sword Oath</span>
+- <span class="ability">Holy Bladedance</span>: 🛡️ Tankbusters, <span class="mechanic">swap after each</span>
+- <span class="ability">Skyward Leap</span>: 🎯 Marked players 🏃 N/S/N
+- <span class="ability">Holiest of Holy</span>: 💥 Raidwide damage
+
+<span class="boss">Meteors Phase</span>:
+- <span class="ability">Dimensional Collapse</span>: 🏃<>🏃 Spread
+- <span class="ability">Spiral Pierce + Hiemal Storm</span>: 🔗 Tethers + 🔴 AoEs
+- <span class="ability">Comets</span>: 💠 Destroy all but one
+- <span class="ability">Meteors</span>: 🎯 Marked players spread
+- <span class="ability">Heavy Impact</span>: 🏃 Avoid expanding 📐 cones
+- <span class="ability">Ultimate End</span>: 💥 Raidwide, <span class="mechanic">damage based on deaths</span>
+
+<span class="boss">Final Phase</span>:
+- <span class="ability">Spear of Fury</span>: 🎯 Healer, 💠 OT + DPS between boss and healer
+- <span class="ability">Conviction Towers</span>: 💠 Stand in towers, 🚫 avoid 🎯 Dragon's Eye
+- <span class="ability">Holy Chain</span>: 🏃<>🏃 Spread to break chains
+- <span class="ability">Sacred Cross</span>: 💥 Raidwide, <span class="mechanic">LB3 Zephirin</span>
+- <span class="ability">Ancient Quagga</span>: ⏳ Enrage
+
+<span class="note">Remember to assign positions, keep Thordan faced away, and watch for combos!</span>

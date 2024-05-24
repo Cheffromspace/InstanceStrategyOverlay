@@ -8,10 +8,10 @@
 - <span class="ability">Bloodburst</span>: 💥 <span class="mechanic">Party-wide AoE</span>
 - <span class="ability">Shadowflow</span>: <span class="mechanic">🏃 Avoid shadow areas</span> (🤢 magic vuln up)
 - <span class="ability">Enter Night</span>: 🎯 <span class="mechanic">Marked player runs far to break tether</span>
-- <span class="ability">Shadowsplit</span>: <span class="mechanic">👾 Adds appear, covering more area during <span class="ability">Shadowflow</span></span>
+- <span class="ability">Shadowsplit</span>: 👾 <span class="mechanic">Adds appear, cover more area in next Shadowflow</span>
 
 <span class="boss">Lorelei</span>:
 - <span class="ability">Somber Melody</span>: 💥 <span class="mechanic">Party-wide AoE</span>
 - <span class="ability">Void Water III</span>: 🎯 <span class="mechanic">AoE on targeted player</span>
-- <span class="ability">Virgin Tears</span>: <span class="mechanic">🔴 Damage over time areas, eventually forming a ring around room</span>
-- <span class="ability">Morbid Advance</span>/<span class="ability">Morbid Retreat</span>: <span class="mechanic">Forces movement 🏃 forward/backward relative to facing direction, 🏃 position to avoid <span class="ability">Virgin Tears</span></span>
+- <span class="ability">Virgin Tears</span>: 🔴 <span class="mechanic">Avoid damage over time areas</span> (fade after <span class="ability">Morbid Advance/Retreat</span>)
+- <span class="ability">Morbid Advance/Retreat</span>: <span class="mechanic">🏃 Move forward/backward relative to your facing to avoid Virgin Tears</span>

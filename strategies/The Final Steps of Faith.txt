@@ -1,1 +1,27 @@
-<span class="boss">Member of the First Brood: Nidhogg</span><br><span class="mechanic">4 phases</span> combining healer checks, DPS checks, and raid mechanics<br><br><span class="boss">Phase 1 - Normal Dragon</span><br>- Avoid <span class="ability">flyover AoE</span> and <span class="ability">Hot Wings</span> 🎯 room-wide AoE with safe line along Nidhogg's body<br>- <span class="ability">Deafening Bellow</span>: Unavoidable 💥 party-wide damage, <span class="mechanic">🩹 heal through it</span><br>- <span class="mechanic">🏃 Run out of holes</span> that spawn under players<br>- <span class="mechanic">🏃 Avoid Nidhogg's fire trail</span>, stack in center when he flies away<br><br><span class="boss">Phase 2 - Adds</span><br>- <span class="mechanic">DPS check</span>, wipe if adds not killed before Nidhogg's blast<br>- Middle add can't be tanked, <span class="mechanic">avoid unmarked frontal 🎯 AoE swipe</span><br>- Tank other adds to sides, <span class="mechanic">position 📐 AoE cones outside arena</span><br>- Assign one healer per tank, DPS adds quickly<br><br><span class="boss">Phase 3 - Humanoid Form</span><br>- <span class="ability">Akh Morn</span>: 🛡️ Tankbuster, <span class="mechanic">🩹 single-target heal/shield</span><br>- <span class="mechanic">🏃 Avoid <span class="ability">Geirskogul</span></span> line AoE towards random player<br>- <span class="mechanic">Spread out 🎯 meteor circles</span>, 🏃 run out immediately after hit<br>- <span class="mechanic">🏃 Run from room-wide AoE</span> after meteor circles, 🩹 AoE heal/shield<br><br><span class="boss">Phase 4 - Fire Dragon</span><br>- Repeats Phase 1 with additional mechanics<br>- <span class="ability">Akh Morn</span>: <span class="mechanic">🤝 Stack on targeted player</span> until all ⚡ lightning bolts strike, 🩹 heavy damage<br>- <span class="mechanic">Position to avoid 💣 fireball explosions</span> in plus shape<br>- <span class="mechanic">🏃 Avoid <span class="ability">Hot Wings</span> and <span class="ability">Hot Tail</span></span> AoEs covering alternating halves of room<br>- <span class="mechanic">🏃 Avoid holes and Nidhogg's fire trail</span><br>- Repeat until boss dies<br><br><span class="mechanic">Loot</span>: 10 Allagan Tomestone of Poetics, Nidhogg Card
+<span class="boss">Nidhogg</span>:
+
+<span class="boss">Phase 1 - Normal Dragon</span>:
+- <span class="ability">Flyover AoE</span>: 🏃 Avoid AoE
+- <span class="ability">Hot Wings</span>: 🏃 <span class="mechanic">Stand in safe line along Nidhogg's body</span>
+- <span class="ability">Deafening Bellow</span>: 💥 Party-wide damage, <span class="mechanic">stay in AoE heal range</span>
+- <span class="mechanic">Holes</span>: 🏃 Run out of holes that spawn under players
+- <span class="ability">Fire Trail</span>: 🏃 <span class="mechanic">Avoid Nidhogg's fire trail</span>, stack center then spread
+
+<span class="boss">Phase 2 - Adds (DPS Check)</span>:
+- <span class="mechanic">Kill adds before Nidhogg's blast</span> or wipe
+- Middle add: 🎯 Avoid unmarked frontal AoE swipe
+- Side adds: ⚔ Tank to sides, 🩹 assign one healer per tank
+- <span class="note">Use LB and healer DPS if needed</span>
+
+<span class="boss">Phase 3 - Humanoid Form</span>:
+- <span class="ability">Akh Morn</span>: 🛡️ Tank buster, 🩹 single target heal/shield
+- <span class="ability">Geirskogul</span>: 🏃 Avoid line AoE from Nidhogg to random player
+- <span class="mechanic">Meteor Circles</span>: 🏃<>🏃 Spread to sides, run out immediately after hit
+- <span class="mechanic">Room-wide AoE</span>: 🏃 Run far from target, avoid additional AoEs, 🩹 AoE heal/shield
+
+<span class="boss">Phase 4 - Fire Dragon</span>:
+- <span class="ability">Akh Morn</span>: 🤝 <span class="mechanic">Stack and stay on targeted player</span> until all bolts strike, 🩹 heavy damage
+- <span class="mechanic">Fireballs (3)</span>: 💠 Stand in row/column without bombs, 🏃 sprint to center after
+- <span class="ability">Hot Wings</span> + <span class="ability">Hot Tail</span>: 🏃 Avoid room-wide AoEs, stand in safe zones
+- <span class="mechanic">Holes</span> + <span class="ability">Fire Trail</span>: Same as Phase 1
+- <span class="note">Mechanics repeat until boss dies</span>

@@ -5,13 +5,13 @@
 <br>
 <span class="boss">Ruby Princess</span>:<br>
 - <span class="ability">Seduce</span>: <span class="mechanic">Run into boxes to avoid</span>, followed by 💥 <span class="ability">Coriolis Kick</span> AoE<br>
-- <span class="ability">Abyssal Volcano</span>: 🔴 <span class="mechanic">Avoid large AoE</span> + 🎯 <span class="mechanic">Dodge tracking AoEs</span><br>
+- <span class="ability">Abyssal Volcano</span>: 🔴 <span class="mechanic">Avoid large AoE</span> + 🎯 tracking AoEs on 2 players<br>
 - <span class="ability">Tornadogenesis</span>: 🛡️ <span class="mechanic">Tank buster</span>, use cooldowns and heal<br>
 <br>
 <span class="boss">Shisui Yohi</span>:<br>
 - <span class="ability">Foul Nail</span>: 🛡️ <span class="mechanic">Tank buster</span>, use cooldowns and heal<br>
 - <span class="ability">Thick Fog</span>: 💥 <span class="mechanic">Group damage</span>, kill 👾 Churn adds to remove 🤢 Dropsy debuff<br>
-- <span class="ability">Black Tide</span>: <span class="mechanic">Avoid boss re-entry point</span> to dodge 💥 damage + 🤢 Vuln Up<br>
-- <span class="mechanic">Shark adds</span>: 🎯 <span class="mechanic">Target DPS/healer with 📏 line AoE</span>, kill quickly<br>
+- <span class="ability">Black Tide</span>: <span class="mechanic">Avoid boss re-entry point</span> after Thick Fog, 💥 damage + 🤢 Vuln Up<br>
+- <span class="mechanic">Shark adds</span>: 🎯 <span class="mechanic">Target DPS and healer</span>, kill quickly before ➡️⬅️ rush attacks<br>
 - <span class="ability">Mad Stare</span>: 👀 <span class="mechanic">Look away to avoid 🤢 Hysteria debuff</span><br>
-<span class="note">Note: Kill shark adds before Thick Fog phase to avoid unexpected damage</span>
+<span class="note">⚠️ Kill shark adds before Thick Fog phase to avoid hidden rush attacks</span>

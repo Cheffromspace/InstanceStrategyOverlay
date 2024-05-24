@@ -1,1 +1,10 @@
-<span class="mechanic">Unlock Requirements</span>:<br>- Complete all Bahamut Quests through Alisaie's Resolve<br>- Clear all The Binding Coil of Bahamut and The Second Coil of Bahamut raids<br>- Start level 50 quest "Fragments of Truth" from Urianger in The Waking Sands<br><br><span class="mechanic">Raid Details</span>:<br>- Level 50 8-player raids, item level 123+ required<br>- Not included in any roulette, use Party Finder for "unsync runs"<br>- Four floors, intended to be done in order for story<br><br><span class="mechanic">Floors</span>:<br>- <span class="boss">The Final Coil of Bahamut - Turn 1</span> (T10): Boss is Imdugud<br>- <span class="boss">The Final Coil of Bahamut - Turn 2</span> (T11): Boss is Kaliya<br>- <span class="boss">The Final Coil of Bahamut - Turn 3</span> (T12): Boss is Phoenix<br>- <span class="boss">The Final Coil of Bahamut - Turn 4</span> (T13): Boss is Bahamut Prime<br><br><span class="mechanic">Rewards</span>:<br>- Treasure coffers with accessories<br>- Dreadwyrm Coffers that transform into job-specific gear:<br>  - Weapons (IL 135)<br>  - Head, Body, Hands, Legs, Feet (IL 130)<br>- Weekly limits removed in Patch 2.55
+<span class="boss">Imdugud</span>:<br>
+- <span class="ability">Electrocharge</span>: <span class="mechanic">🎯 Targets random player, 🔴 AoE on impact</span><br>
+- <span class="ability">Cyclonic Chaos</span>: <span class="mechanic">💥 Unavoidable party-wide damage</span><br>
+- <span class="ability">Dreadstorm</span>: <span class="mechanic">🔗 Tethers to 2 players, 💥 AoE damage on tethered players</span><br>
+- <span class="ability">Dreadcharge</span>: <span class="mechanic">🛡️ Tankbuster</span>, apply mitigation<br>
+- <span class="ability">Dread Shriek</span>: <span class="mechanic">🚫 Interruptible, or 💥 party-wide damage</span><br>
+- <span class="mechanic">👾 Adds spawn at 85%, 55%, and 25%</span>, focus down quickly<br>
+- <span class="ability">Electric Burst</span>: <span class="mechanic">💠 Stand in glowing pad to avoid 💥 damage</span><br>
+- <span class="ability">Electrocharge Burst</span>: <span class="mechanic">🎯 Targets all players, 🔴 AoEs on impact</span>, spread out<br>
+- <span class="mechanic">⏳ Enrage at 10 minutes</span>, burn boss before time runs out

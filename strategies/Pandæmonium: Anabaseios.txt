@@ -1,1 +1,28 @@
-<span class="boss">General Information</span><br>- Third and final section of Pandæmonium, the main 8-player raid in Endwalker<br>- Released in patch 6.4, requires item level 615 or higher to enter<br>- Queued from the Duty Finder<br>- Savage version released one week later<br><br><span class="boss">Unlock</span><br>- Complete Chronicles of a New Era quest "Truth Imperfect"<br>- To unlock each floor, continue the quest line and complete the previous floor<br><br><span class="boss">Floors</span><br>- Level 90 Disciple of War or Magic, 8 players<br>- <span class="ability">The Ninth Circle</span> (P9N): Boss - Kokytos<br>- <span class="ability">The Tenth Circle</span> (P10N): Boss - Pandæmonium<br>- <span class="ability">The Eleventh Circle</span> (P11N): Boss - Themis<br>- <span class="ability">The Twelfth Circle</span> (P12N): Boss - Athena<br><br><span class="boss">Rewards</span><br>- Treasure coffers yield tokens exchanged for gear<br>- No weekly loot restrictions as of patch 6.5<br>- No weekly restriction on entering Anabaseios<br>- Tokens exchanged with Mylenie (Labyrinthos) or Djole (Radz-at-Han)<br>- <span class="ability">Unsung Blade of Anabaseios</span> x4 from The Twelfth Circle, exchanged for <span class="ability">Hermetic Tomestones</span><br>- Reward eligibility reset every Tuesday at 1:00 a.m. (PDT)<br><br><span class="boss">Lore</span><br>- Pandæmonium threatens the aetherial sea, the source of life itself<br>- Horrors lay beyond its unmanned walls<br><br><span class="boss">Trivia</span><br>- Anabaseios (ἀνάβασις) means "the ascent" in Ancient Greek<br>- First raid tier where all bosses have voice acting
+<span class="boss">Kokytos (P9N)</span>:
+- <span class="ability">Stygian Tides</span>: 💥 Unavoidable AoE damage
+- <span class="ability">Stygian Stake</span>: 🎯 Targeted player drops 🔴 puddle, 🏃 move away
+- <span class="ability">Stygian Spear</span>: 🏃 Avoid ➡️⬅️ line AoEs
+- <span class="ability">Stygian Chains</span>: 🔗 Tethered players 🤝 stack together
+- <span class="ability">Stygian Fog</span>: 🤢 Debuff, 🩹 heal through damage
+
+<span class="boss">Pandæmonium (P10N)</span>:
+- <span class="ability">Void Gravity</span>: 💥 Unavoidable AoE damage, 💨 knockback
+- <span class="ability">Void Pressure</span>: 🛡️ Tankbuster, ⚔ tank swap
+- <span class="ability">Void Aero</span>: 🏃<>🏃 Spread to avoid splash damage
+- <span class="ability">Void Blizzard</span>: 🔴 Puddles appear, 🏃 move away
+- <span class="ability">Void Thunder</span>: 🎯 Targeted player drops ➡️⬅️ line AoE
+
+<span class="boss">Themis (P11N)</span>:
+- <span class="ability">Sunforge</span>: 💥 Unavoidable AoE damage
+- <span class="ability">Sunburst</span>: 🏃 Avoid 📐 front cone AoE
+- <span class="ability">Sunbeam</span>: 🎯 Targeted player drops 🔴 puddle, 🏃 move away
+- <span class="ability">Sunblaze</span>: 👾 Adds spawn, focus down quickly
+- <span class="ability">Searing Breeze</span>: 💨 Knockback, face away from boss
+
+<span class="boss">Athena (P12N)</span>:
+- <span class="ability">Owl's Eye</span>: 🛡️ Tankbuster, ⚔ tank swap
+- <span class="ability">Scorching Plume</span>: 💥 Unavoidable AoE damage
+- <span class="ability">Blinding Blade</span>: 🏃 Avoid 📐 front cone AoE
+- <span class="ability">Shining Blade</span>: 🔴 Puddles appear, 🏃 move away
+- <span class="ability">Glittering Plume</span>: 🎯 Targeted player drops ➡️⬅️ line AoE
+- <span class="mechanic">Enrage at 10 minutes</span> ⏳, burn boss before time runs out

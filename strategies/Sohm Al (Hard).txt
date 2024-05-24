@@ -1,24 +1,22 @@
 <span class="boss">The Leightonward</span>:
 - <span class="ability">Wild Horn</span>: 🛡️ Mini tankbuster
 - <span class="ability">Inflamable Fumes</span>: 💥 Raidwide damage
-- <span class="ability">Spore Sac</span>: <span class="mechanic">Spawns untargetable 🔴 AoE spore sacs</span>, additional 💥 proximity AoE sacs each cast
+- <span class="ability">Spore Sac</span>: <span class="mechanic">Avoid 🔴 AoEs from small spore sacs, 🏃 spread for 💥 proximity AoEs from bigger spore sacs</span>
 - <span class="ability">Excretion</span>: 🎯 Targeted damage, inflicts 30s 🤢 Heavy
 
 <span class="boss">Gowrow</span>:
 - <span class="ability">Volcanic Howl</span>: 💥 Raidwide, boss gains 🌟 Damage Up
-- <span class="ability">Ripper Claw</span>: <span class="mechanic">📐 Dodgeable cleave</span>, spawns 💨 tornado when buffed
-- <span class="ability">Tail Smash/Swing</span>: <span class="mechanic">📐 Dodgeable rear cleave/circular 💨 knockback</span>
-- <span class="ability">Fireball/Lava Flow</span>: <span class="mechanic">🎯 Targeted 🔴 AoE / 📐 cone AoE when buffed</span>
-- <span class="ability">Wild/Hot Charge</span>: <span class="mechanic">➡️ Line AoE charge with 💨 knockback</span>
+- <span class="ability">Ripper Claw</span>: <span class="mechanic">Avoid 📐 cleave, 🏃 move from 💨 tornado when boss is buffed</span>
+- <span class="ability">Tail Smash/Swing</span>: <span class="mechanic">Avoid 📐 rear cleave/circular AoE, 💨 knockback</span>
+- <span class="ability">Fireball/Lava Flow</span>: <span class="mechanic">🏃 Move from 🔴 targeted AoE or 📐 cone AoE</span>
+- <span class="ability">Wild/Hot Charge</span>: <span class="mechanic">Avoid ➡️ line AoE charge, 💨 knockback</span>
 - <span class="note">All attacks except Volcanic Howl inflict 8s 🤢 Infirmity if damage taken</span>
 
 <span class="boss">Lava Scorpion</span>:
-- <span class="ability">Molten Silk</span>: <span class="mechanic">270° 📐 cleave, safe zone behind</span>
+- <span class="ability">Molten Silk</span>: <span class="mechanic">Stand directly behind boss to avoid 270° 📐 cleave</span>
 - <span class="ability">Deadly Thrust</span>: 🛡️ High damage tankbuster
-- <span class="ability">Hiss</span>: <span class="mechanic">Summons 2-4 👾 Scorpion adds, kill quickly</span>
-- <span class="ability">Realm Shaker</span>: 🔴 Short-range circular AoE
-- <span class="ability">Flying Press</span>: 🎯 Targeted moderate damage with splash, creates 🔥 lava puddles
-- <span class="mechanic">Move toward boss to avoid 🔥 lava puddles</span>
-- <span class="mechanic">👾 Scorpion's Claw adds create 🔥 lava puddles, 🚫 interrupt Borehole cast</span>
-- <span class="mechanic">👾 Scorpion's Tail adds use weaker 🛡️ Deadly Thrust</span>
-- <span class="note">Prepare for 🛡️ Deadly Thrust + 👾 add damage, use 🌟 tank cooldowns and 🩹 heals</span>
+- <span class="ability">Hiss</span>: 👾 Kill adds before Borehole cast finishes
+- <span class="ability">Realm Shaker</span>: <span class="mechanic">Avoid 🔴 close-range AoE around boss</span>
+- <span class="ability">Flying Press</span>: 🎯 Moderate damage + 💥 splash on marked player, creates 🔥 lava puddles
+- <span class="mechanic">Avoid 🔥 lava puddles, move closer to boss if needed</span>
+- <span class="note">Scorpion's Claw adds create 🔥 lava puddles, Scorpion's Tail adds use weaker Deadly Thrust</span>

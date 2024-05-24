@@ -1,1 +1,19 @@
-<span class="boss">General Information</span><br>- Level 80 raid, item level 500+ required<br>- 4 floors: Umbra, Litany, Anamorphosis, Eternity<br>- 8-player party, 90-120 minute time limits<br><br><span class="boss">Rewards</span><br>- <span class="ability">Edenmorn Coffers</span>: Contain job-specific IL 530-535 gear<br>- <span class="ability">Eden's Promise Apocrypha</span>: Tokens exchanged for gear<br>- Weapons: 8 Books of Eternity<br>- Armor: 6-8 Books of Umbra/Litany/Anamorphosis/Eternity<br>- Accessories: 4 Books of Umbra<br><br><span class="boss">Loot by Floor</span><br>- <span class="mechanic">Umbra (E9S)</span>: Accessories<br>- <span class="mechanic">Litany (E10S)</span>: Boots, gloves, head<br>- <span class="mechanic">Anamorphosis (E11S)</span>: Boots, gloves, legs, head<br>- <span class="mechanic">Eternity (E12S)</span>: Chest, weapon, mount
+<span class="note">General Info:</span>
+- 3rd section of Eden (Savage) raid in Shadowbringers
+- Released on December 8, 2020
+- Requires item level 500+ to enter
+- Access via Party Finder or Duty Finder → Raids → Savage Raids
+- Can enter solo or with fewer than 8 players using Unrestricted Party
+
+<span class="note">Unlock:</span> 
+- Speak with Lewrey in Amh Araeng (X:26.8 Y:16.4) 
+- Must be level 80 Disciple of War/Magic
+- Complete quest "Where I Belong"
+
+<span class="note">Floors:</span>
+- E9S: <span class="boss">Cloud of Darkness</span>, ilvl 500, 90 min
+- E10S: <span class="boss">Shadowkeeper</span>, ilvl 505, 90 min  
+- E11S: <span class="boss">Fatebreaker</span>, ilvl 510, 90 min
+- E12S: <span class="boss">Eden's Promise, Oracle of Darkness</span>, ilvl 510, 120 min
+
+<span class="note">ilvl restrictions do not apply for full/unrestricted parties.</span>

@@ -1,1 +1,20 @@
-<span class="boss">Keeper of Halidom</span>:<br>- <span class="ability">Beatdown</span> and <span class="ability">Moldy Sneeze</span>: <span class="mechanic">Non-tanks avoid 🛡️ front of boss</span><br>- <span class="ability">Reduced Immunity</span>: 🩹 Esuna debuff<br>- <span class="ability">Inhale</span>: <span class="mechanic">🌐 Spread out</span> to avoid pull-in<br>- <span class="ability">Goobbue's Grief</span>: 🏃 Move away after Inhale<br>- <span class="ability">Moldy Phlegm</span>: 🏃 Avoid AoE indicator<br><br><span class="boss">Giant Bavarois</span>:<br>- <span class="ability">Fire</span>: <span class="mechanic">🚫 Interrupt cast</span> by stunning or moving behind boss<br>- <span class="mechanic">Adds</span>: 🎯 Focus Purple and White adds (Paralysis and Heavy debuffs)<br>- <span class="ability">Amorphic Flail</span>: 🏃 Targeted player kites boss<br><br><span class="boss">Tonberry King</span>:<br>- <span class="ability">Scourge of Nym</span>: 🛡️ Tank stays in melee range<br>- <span class="mechanic">Tonberry adds</span>: <span class="mechanic">Avoid killing too many</span> (grants Rancor stacks)<br>- <span class="ability">Everybody's Grudge</span>: Moderate 💥 damage based on Rancor stacks<br>- <span class="mechanic">Tonberry Slashers</span> (low HP): 🏃 Move to center, 🎯 focus boss
+<span class="boss">Keeper of Halidom</span>:<br>
+- <span class="ability">Beatdown</span>: ⚔️ Frontal melee attack<br>
+- <span class="ability">Moldy Sneeze</span>: ⚔️ Frontal attack, inflicts 🤢 Reduced Immunity<br>
+- <span class="ability">Inhale</span>: <span class="mechanic">🎯 Pulls players into melee range</span>, avoid being in front<br>
+- <span class="ability">Goobbue's Grief</span>: <span class="mechanic">💥 Pollen AoE in melee range after Inhale, 🏃 move away</span><br>
+- <span class="ability">Moldy Phlegm</span>: <span class="mechanic">🔴 Targeted AoE, 🏃 move out</span>, reduces healing received<br>
+
+<span class="boss">Giant Bavarois</span>:<br>
+- <span class="ability">Fire</span>: <span class="mechanic">🚫 Interruptible spell cast</span>, stun or move behind boss<br>
+- <span class="ability">Amorphic Flail</span>: <span class="mechanic">🎯 Chases and attacks focused player, 🏃 run away</span><br>
+- <span class="mechanic">Adds</span>: Kill 👾 Purple (Paralysis) and White (Heavy) adds first, 🩹 remove debuffs<br>
+
+<span class="boss">Tonberry King</span>:<br>
+- <span class="ability">Lateral Slash</span>: ⚔️ Melee attack<br>
+- <span class="ability">Whetstone</span>: Buffs next Lateral Slash to <span class="ability">Sharpened Knife</span>, 🛡️ extra damage<br>
+- <span class="ability">Scourge of Nym</span>: <span class="mechanic">🎯 Ranged attack if not in melee range</span>, 💥 heavy damage + Heavy debuff<br>
+- <span class="ability">Everybody's Grudge</span>: <span class="mechanic">💥 Damage based on Rancor stacks</span>, gained when 👾 Tonberry adds die<br>
+- <span class="mechanic">Tonberry Slashers at 25%</span>: 🏃 Move to center, 🚫 don't aggro or get close, 🎯 focus boss<br>
+
+<span class="note">Remember to 🩹 Esuna debuffs and 🏃 avoid avoidable mechanics throughout the dungeon!</span>
