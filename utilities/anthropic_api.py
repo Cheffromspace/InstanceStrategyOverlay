@@ -2,7 +2,11 @@ import anthropic
 
 
 def call_anthropic_api(
-    system_prompt, user_message, expected_tag, model="claude-3-opus-20240229"
+    system_prompt,
+    user_message,
+    expected_tag,
+    include_tag=True,
+    model="claude-3-opus-20240229",
 ):
     client = anthropic.Anthropic()
     message = client.messages.create(
@@ -23,27 +27,29 @@ def call_anthropic_api(
         ],
     )
     response_text = message.content[0].text
+    return extract_response_text(response_text, expected_tag, include_tag=include_tag)
 
-    if expected_tag:
-        start_tag = f"<{expected_tag}>"
-        end_tag = f"</{expected_tag}>"
-        start_index = response_text.find(start_tag)
-        end_index = response_text.find(end_tag)
 
-        if start_index != -1 and end_index != -1:
-            start_index += len(start_tag)
-            extracted_text = response_text[start_index:end_index].strip()
-            return extracted_text
+def extract_response_text(response, expected_tag, include_tag=True):
+    start_tag = f"<{expected_tag}>"
+    end_tag = f"</{expected_tag}>"
+    start_index = response.find(start_tag)
+    end_index = response.find(end_tag)
+    if start_index != -1 and end_index != -1:
+        if include_tag:
+            end_index += len(end_tag)
         else:
-            error_message = extract_error_message(response_text)
-            if error_message:
-                raise ValueError(f"Error in API response: {error_message}")
-            else:
-                raise ValueError(
-                    f"Expected tags <{expected_tag}> not found in the API response."
-                )
+            start_index += len(start_tag)
+        extracted_text = response[start_index:end_index].strip()
+        return extracted_text
     else:
-        return response_text
+        error_message = extract_error_message(response)
+        if error_message:
+            raise ValueError(f"Error in API response: {error_message}")
+        else:
+            raise ValueError(
+                f"Expected tags <{expected_tag}> not found in the API response."
+            )
 
 
 def extract_error_message(response):

@@ -11,7 +11,9 @@ def fetch_and_summarize(instance_name, save_to_repo=False):
     if strategy_text == "Strategy not found":
         return "Error: Strategy not found"
 
-    cleaned_strategy_text = clean_strategy_text(strategy_text)
+    cleaned_strategy_text = clean_strategy_text(
+        strategy_text,
+    )
     summary = summarize_strategy_text(cleaned_strategy_text)
 
     if summary is None:

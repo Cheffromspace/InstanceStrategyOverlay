@@ -1,23 +1,72 @@
 import sys
 import argparse
 from anthropic_api import call_anthropic_api
-from prompts import summary_system_prompt
+from prompts import (
+    extract_bosses_and_phases_prompt,
+    generate_bullet_points_prompt,
+    add_emojis_and_formatting_prompt,
+    compile_summary_prompt,
+)
+
+
+def extract_bosses_and_phases(cleaned_strategy_text):
+    system_prompt = extract_bosses_and_phases_prompt
+    extracted_text = call_anthropic_api(
+        system_prompt,
+        cleaned_strategy_text,
+        expected_tag="duty",
+        model="claude-3-sonnet-20240229",
+    )
+    return extracted_text
+
+
+def generate_bullet_points(duty_text):
+    system_prompt = generate_bullet_points_prompt
+    bullet_points = call_anthropic_api(
+        system_prompt, duty_text, expected_tag="duty", model="claude-3-sonnet-20240229"
+    )
+    return bullet_points
+
+
+def add_emojis_and_formatting(duty_text):
+    system_prompt = add_emojis_and_formatting_prompt
+    formatted_text = call_anthropic_api(
+        system_prompt, duty_text, expected_tag="duty", model="claude-3-sonnet-20240229"
+    )
+    return formatted_text
+
+
+def compile_summary(bullet_points_text, cleaned_strategy_text):
+    user_message = f"""
+    {cleaned_strategy_text}
+    {bullet_points_text}
+    Let's think this through step by step to ensure we have a comprehensive summary of the strategy guide.
+    """
+
+    summary_text = call_anthropic_api(
+        compile_summary_prompt,
+        user_message,
+        expected_tag="summary_text",
+        model="claude-3-opus-20240229",
+        include_tag=False,
+    )
+    return summary_text
 
 
 def summarize_strategy_text(strategy_text, output_file=None):
-    system_prompt = summary_system_prompt
-    summary_text = call_anthropic_api(
-        system_prompt, strategy_text, expected_tag="summary_text"
-    )
+    extracted_text = extract_bosses_and_phases(strategy_text)
+    bullet_points = generate_bullet_points(extracted_text)
+    formatted_text = add_emojis_and_formatting(bullet_points)
+    summary_text = compile_summary(formatted_text, strategy_text)
 
     if summary_text is not None:
         if output_file:
             with open(output_file, "w") as file:
                 file.write(summary_text)
                 print(f"Summary saved to {output_file}", file=sys.stderr)
-                print(summary_text)
         else:
             print(summary_text)
+        return
 
 
 if __name__ == "__main__":
@@ -45,5 +94,3 @@ if __name__ == "__main__":
     else:
         strategy_text = sys.stdin.read()
         summary = summarize_strategy_text(strategy_text)
-
-    print(summary)
