@@ -46,29 +46,36 @@
         color: #ff4d4d;
       }
 
+      .boss_name_or_phase {
+        color: #00ff00;
+      }
+
       .boss {
-        font-weight: 900;
-        color: #00ffcc;
+        color: #00ff00;
       }
 
       .ability {
-        font-weight: bold;
-        color: #ffcc00;
+        color: #ff6600;
       }
 
       .mechanic {
-        font-style: italic;
-        color: #00ffff;
+        color: #ff0000;
       }
 
-      .note {
-        font-weight: normal;
-        color: ##33cc33;
+      .aoe {
+        color: #ffff00;
       }
 
       .tankbuster {
-        font-weight: bold;
         color: #ff0000;
+      }
+
+      .note {
+        color: #add8e6;
+      }
+
+      span {
+        color: #ffffff;
       }
     </style>
   </head>
@@ -81,7 +88,7 @@
       // Sanitize user input
       function sanitizeInput(input) {
         return DOMPurify.sanitize(input, {
-          ALLOWED_TAGS: ["br", "span"],
+          ALLOWED_TAGS: ["br", "span", "em"],
           ALLOWED_ATTR: ["class"],
         });
       }
