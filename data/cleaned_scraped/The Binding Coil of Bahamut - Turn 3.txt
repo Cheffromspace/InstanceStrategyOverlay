@@ -1,3 +1,0 @@
-<cleaned_strategy_text>
-Uniquely, this duty consists of a jumping puzzle and lacks a boss or tomestone reward for completion. The goal is to descend toward the bottom via jump pads, with blue rings indicating the path downward. Mobs and treasure chests are strewn about but are relatively negligible, though keeping distance from the Golems is advisable for weaker party members. Staying together and assigning a single person to lead the way down can help, as the jump pads must be pointed in a specific direction by standing on one of the nearby blue circles prior to standing in the middle to jump down.
-</cleaned_strategy_text>

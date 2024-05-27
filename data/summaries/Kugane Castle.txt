@@ -1,6 +1,0 @@
-<span class="boss">Yojimbo</span>:
-- <span class="ability">Payday</span>: <span class="mechanic">Interact with 💰 gold piles to prevent 🐶 dog from filling duty gauge</span>. Groupwide damage based on gauge fill.
-- <span class="ability">Metta-Giri</span>: 💥 <span class="mechanic">Prepare for groupwide damage</span>
-- <span class="ability">Inoshi-Katcho</span>: 🔴 <span class="mechanic">Avoid circle AoEs in center, then outskirts</span>
-- <span class="ability">Circle AoE</span>: 🏃 <span class="mechanic">Move away from boss</span>
-- <span class="mechanic">2nd Payday</span>: Collect 💰 gold and 👾 <span class="mechanic">destroy dragon heads casting ➡️⬅️ column AoEs</span>

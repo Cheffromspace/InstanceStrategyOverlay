@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - "strategies/**"
+      - "data/strategies**"
 
 jobs:
   s3-sync:
@@ -23,4 +23,4 @@ jobs:
 
       - name: Sync files to S3
         run: |
-          aws s3 sync strategies s3://${{ secrets.S3_BUCKET_NAME }}/strategies
+          aws s3 sync data/strategies s3://${{ secrets.S3_BUCKET_NAME }}/strategies

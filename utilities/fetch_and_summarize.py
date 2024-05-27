@@ -6,27 +6,20 @@ from summarize_strategy import summarize_strategy_text
 
 
 def fetch_and_summarize(instance_name, save_to_repo=False):
-    strategy_text = fetch_strategy(instance_name)
-
-    if strategy_text == "Strategy not found":
-        return "Error: Strategy not found"
-
-    cleaned_strategy_text = clean_strategy_text(
-        strategy_text,
-    )
-    summary = summarize_strategy_text(cleaned_strategy_text)
-
-    if summary is None:
-        return "Error: Summary not found"
-
     if save_to_repo:
-        try:
-            with open(f"strategies/{instance_name}.html", "w") as f:
-                f.write(summary)
-        except IOError as e:
-            print(f"Error saving summary to file: {e}")
-
-    return summary
+        strategy_text = fetch_strategy(
+            instance_name, output_file=f"data/fetched_strategies/{instance_name}"
+        )
+        cleaned_strategy_text = clean_strategy_text(
+            strategy_text, output_file=f"data/cleaned_scraped/{instance_name}.txt"
+        )
+        summarize_strategy_text(
+            cleaned_strategy_text, output_file=f"strategies/{instance_name}.html"
+        )
+    else:
+        strategy_text = fetch_strategy(instance_name)
+        cleaned_strategy_text = clean_strategy_text(strategy_text)
+        summarize_strategy_text(cleaned_strategy_text)
 
 
 if __name__ == "__main__":
