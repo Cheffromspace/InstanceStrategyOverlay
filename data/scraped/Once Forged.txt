@@ -1,0 +1,22 @@
+Here is the cleaned up text for the "Once Forged" quest guide:
+
+Quest giver: G'raha Tia
+Location: Labyrinthos (X:7.2, Y:27.9)
+Quest line: Endwalker Main Scenario Quests
+Level: 88
+Experience: 501,600
+Gil: 904
+Previous quest: Hither and Yarns
+Next quest: Bonds of Adamant(ite)
+Patch: 6.0
+
+Main Scenario Progress: 789 / 853 (92.5%)
+Endwalker Progress: 91 / 155 (58.7%)
+
+Steps:
+1. Speak with G'raha Tia.
+2. Survey the designated location and defeat any enemies that appear.
+3. Survey the designated location again.
+4. Speak with Kokkol Dankkol.
+
+Journal: An unspecified task awaits you.

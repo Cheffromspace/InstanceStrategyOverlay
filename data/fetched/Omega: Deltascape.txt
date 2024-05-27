@@ -1,0 +1,47 @@
+Here is the cleaned up text for the Omega: Deltascape strategy guide:
+
+General Information
+Omega: Deltascape is the first section of Omega, the main 8-player raid in Stormblood. Released on July 4, 2017, Deltascape requires players with item level of 295 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock
+Completion of the level 70 quest chain starting with The Hunt for Omega by talking to Wedge in Rhalgr's Reach (x12.6,y12.4). Players are required to complete the Main Scenario Quest Stormblood.
+
+To unlock each floor after the first, continue the quest line and complete the consecutive floor. Each floor is listed separately.
+
+Floors
+Level Requirement: Disciple of War or Magic level 70
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Deltascape V1.0 | O1N | 295 | Alte Roite (Boss) | 10 | 90 min  
+Deltascape V2.0 | O2N | 295 | Catastrophe | 10 | 90 min
+Deltascape V3.0 | O3N | 295 | Halicarnassus | 10 | 90 min
+Deltascape V4.0 | O4N | 295 | Exdeath | 10 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing Omega: Deltascape will not yield gear, but instead yield tokens that can be traded for gear of your choosing.
+
+As of Patch 4.1, weekly restrictions on rewards have been removed.
+
+Tokens Dropped on Each Floor:
+Deltascape V1.0: 2x Deltascape Lens (Head), Deltascape Shaft (Body), Deltascape Crank (Hands), Deltascape Spring (Legs), Deltascape Pedal (Feet), 2x Deltascape Bolt (Accessories)  
+Deltascape V2.0: Deltascape Lens (Head), Deltascape Shaft (Body), Deltascape Crank (Hands), Deltascape Spring (Legs), 2x Deltascape Pedal (Feet), 2x Deltascape Bolt (Accessories)
+Deltascape V3.0: Deltascape Lens (Head), 2x Deltascape Shaft (Body), Deltascape Crank (Hands), 2x Deltascape Spring (Legs), 2x Deltascape Bolt (Accessories)
+Deltascape V4.0: 2x Deltascape Shaft (Body), Deltascape Crank (Hands), 2x Deltascape Spring (Legs), Deltascape Pedal (Feet), 2x Deltascape Bolt (Accessories), Deltascape Crystalloid
+
+Item Exchange
+By speaking with Gelfradus in Rhalgr's Reach (x13.7,y12.0), players can exchange tokens obtained from Omega: Deltascape for corresponding gear.
+
+Item Type | Required Token | Number of Tokens
+Head | Deltascape Lens | 2
+Body | Deltascape Shaft | 4  
+Hands | Deltascape Crank | 2
+Legs | Deltascape Spring | 4
+Feet | Deltascape Pedal | 2 
+Accessories | Deltascape Bolt | 1
+
+Gear
+Armor: Main article: Genta Armor
+Accessories: Main article: Genta Accessories

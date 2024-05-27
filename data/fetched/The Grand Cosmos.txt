@@ -1,0 +1,45 @@
+The Grand Cosmos
+
+"Long ago, on the far shore of the Source, a great palace was built by the elves─the Grand Cosmos, an edifice of such magnitude it was said to inspire envy in both the heavens for which it was named and the flowers that pervade its boundless gardens. As with so many wonders of the world that once was, its radiance quickly faded in the wake of the Flood, its halls falling silent, the throne sitting empty. That is, until the palace was given new purpose when a mage claimed it as their sanctuary, their only company being solace, solitude, and the legion of familiars barring entrance to any foolish enough to seek an audience."
+
+The Grand Cosmos is a level 80 dungeon introduced in patch 5.1 with Shadowbringers.
+
+Objectives:
+- Arrive at the Martial Court
+- Clear the Martial Court  
+- Arrive at the Font of Quintessence
+- Clear the Font of Quintessence
+- Arrive at the Chamber of Celestial Song
+- Defeat Lugus
+
+Bosses:
+
+Seeker of Solitude
+- Shadowbolt: Tankbuster 
+- Immortal Anathema: Moderate party-wide damage
+- Tribulation: Creates five small puddles that inflict Bleeding and Heavy
+- Sweep: Magicked Brooms move in lines, damaging and knocking back players
+- Dark Shock: Circle AoEs on two random players
+- Dark Pulse: Stack marker on random player
+- Dark Well: Circle AoEs on all players
+
+Leannan Sith  
+- Storm of Color: Tankbuster
+- Ode to Lost Love: Moderate party-wide damage 
+- Direct Seeding: Arena split into tiles, seeds placed randomly
+- Gardener's Hymn: Seeds sprout into adds, must be killed if on grass  
+- Toxic Sprout: Adds self-destruct for high damage and debuffs if left alive
+- Ode to Far Winds: Ground and player-targeted AoEs
+- Ode to Fallen Petals: Room-wide AoE with safe spot near boss
+- Ireful Wind: Djinn knocks players and seeds over one tile
+
+Insatiable Flame: Lugus
+- Scorching Left/Right: High damage to that side of arena  
+- Otherworldly Heat: Drops exploding cross-shaped cracks under players
+- Captive Bolt: Extremely damaging tankbuster
+- Mortal Flame: Debuff causing increasing damage, removed by walking into furniture 
+- Fire's Domain: Tethers to players in sequence, move away to avoid Vulnerability Up
+- Fire's Ire: Wide cone attack at targeted player after each charge
+- Culling Blade: Moderate party-wide damage, drops chandeliers to remove Mortal Flame
+
+The dungeon also contains four treasure coffers with various item level 445 gear and materia. Completing the duty can reward minions, orchestrion rolls, and furnishings.

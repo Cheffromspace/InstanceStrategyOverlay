@@ -1,0 +1,45 @@
+<cleaned_strategy_text>
+There are two trash mob packs before the four main bosses of this raid, similar to Alexander - The Cuff of the Father. However, these must all be defeated to proceed.
+This is one of the very few normal-difficulty duties where a tank swap is recommended to safely resolve some mechanics.
+
+Blaster
+Blaster drops mines which can and should be avoided (tank may have to move the boss depending on the placement)
+Players will then be marked and have copies of Blaster fall on them.
+Spread out to avoid overlapping damage.
+Try to spread out in a line to make it easier to deal with
+The copies will charge in the direction they are facing after a short delay
+If tagged, you will take damage and receive a Vulnerability Up debuff.
+Tanks don't have to swap.
+
+Brawler
+Tank should face the boss away while everyone else stacks right behind it.
+Brawler has three different attacks. Look at the hands to figure out which is coming.
+Single drill
+Single laser (one arm equipped)
+Double laser (both arms equipped)
+Single drill targets a random player with a proximity line AoE.
+If there's a single laser, the tank can soak this by themselves with mitigation
+If it's a double laser, the tank should join the group and split the damage.
+Note that lethal damage from the lasers will bypass tank invulnerabilities.
+Tanks should swap after 3-4 stacks of the Magic Vulnerability Up debuff.
+
+Swindler
+There is a debuff placed on everyone based on an altitude (high or low).
+The floor panels will raise and lower to deal with this mechanic. The raised panels will glow red.
+Go to the elevation opposite of the debuff received. (If you get the high debuff (purple), go to the lower panels. If you get the low debuff (red), go to the higher panels. You can also tell which debuff the size of the rings around you after the initiation).
+Choosing the wrong elevation will cause you to take substantial damage and receive a Vulnerability Up debuff
+There will be unavoidable AOE damage afterwards.
+The number of orbs above the targeted person indicates the number of people who need to be in the ring to split the damage in order to nullify it.
+Tanks don't have to swap unless you get the Vulnerability Up debuff by being on the wrong elevation.
+
+Vortexer
+A player will be marked with a blue indicator around them
+Lava pools will spawn
+Vortexer will use a knockback
+The marked player will summon a water sprite where they are standing
+Players will then deal with the Shiva ice rings
+At least one player needs to use these rings to freeze the water.
+Vortexer will use a knockback
+Everyone will need to hide behind the newly created ice boulder to avoid being wiped to Vortexer's Ultra Flash.
+Tanks will need to swap after (2) stacks of the Vulnerability Up debuff.
+</cleaned_strategy_text>

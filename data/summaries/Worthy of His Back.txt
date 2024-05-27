@@ -1,0 +1,21 @@
+<span class="boss">Venat</span>:<br>
+<span class="boss">Phase 1 (100-80%)</span> - Hero's Mantle (Sword):<br>
+- <span class="ability">Kleos</span>: 💥 Unavoidable damage, 🔴 searing light on arena edge inflicts 🤢 Bleed<br>
+- <span class="ability">Circumzenithal Arc</span>: 🏃 <span class="mechanic">Move behind Venat</span> when she jumps to arena side<br>
+- <span class="ability">True Blink</span>: 🏃 <span class="mechanic">Move to safe spots at arena edges</span> to avoid clone line AoEs<br>
+- <span class="ability">Circle of Brilliance</span>: 🏃 <span class="mechanic">Dodge moving 🔴 AoEs</span> across arena<br>
+
+<span class="boss">Phase 2 (80-66%)</span> - Mousa's Mantle (Dancer Chakrams):<br>
+- <span class="ability">Epea Pteroenta</span>: 🏃 <span class="mechanic">Stand in last 🔺 AoE, then move to first exploded area</span><br>
+- <span class="ability">Parhelion</span>: 🏃 <span class="mechanic">Avoid moving 📐 cone AoEs, 🔴 center and edge AoEs</span><br>
+
+<span class="boss">Phase 3 (66-40%)</span> - Mousa's Mantle (White Mage Staff):<br>
+- <span class="ability">True Aero IV</span>: 💥 Unavoidable damage, 🏃 <span class="mechanic">avoid point-blank AoEs from wind orbs</span><br>
+- <span class="ability">Afflatus Azem</span>: 🏃 <span class="mechanic">Run from chasing AoE, navigate through wind orbs</span><br>
+- <span class="ability">True Holy</span>: 💨 <span class="mechanic">Position to avoid knockback into wind orbs</span><br>
+- <span class="ability">True Stone IV</span>: 🏃 <span class="mechanic">Move into last 🔴 AoEs, then to first exploded areas</span><br>
+
+<span class="boss">Phase 4 (40-0%)</span> - Thelema Adds:<br>
+- 👾 <span class="mechanic">Defeat adds to reduce Venat's Aether gauge charge</span>, focus on faster red ones<br>
+- 🏃 <span class="mechanic">Avoid 🔴 AoEs</span> while killing adds<br>
+- <span class="ability">Thelma</span>: 🛡️ <span class="mechanic">Survive ultimate attack</span>, 💀 unsurvivable if gauge reaches 100%<br>

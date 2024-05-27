@@ -1,0 +1,7 @@
+<strategy_text>
+The Binding Coil of Bahamut requires players with item level of 82 or higher to enter. Players queuing via Duty Finder will almost never be able to form a party. It is recommended that newer players use the Party Finder to seek the assistance of a couple of level-capped players for an "unsync run" using the Unrestricted Party option.
+
+Players can unlock The Binding Coil of Bahamut after reaching level 50 and completing The Bowl of Embers (Hard), The Howling Eye (Hard) and The Navel (Hard). Afterwards players can talk to Urianger in The Waking Sands (X:6.0, Y:4.9) to start the Bahamut Quests chain with a quest titled Primal Awakening and unlock the raids.
+
+Players may proceed to any of the five floors in this raid tier after unlocking them, although the floors are intended to be done in order for story purposes. To continue the questline, complete The Binding Coil of Bahamut - Turn 5 to unlock Alisaie's Pledge.
+</strategy_text>

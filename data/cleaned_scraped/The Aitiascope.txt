@@ -1,0 +1,39 @@
+<strategy_text>
+Objectives
+Arrive at the central observatory: 0/1
+Clear the central observatory: 0/1
+Arrive at the saltcrystal strings: 0/1
+Clear the saltcrystal strings: 0/1
+Arrive at Midnight Downwell: 0/1
+Defeat Amon the Undying: 0/1
+
+Bosses
+Note that failing any mechanics in these fights will result in the player who failed them receiving a two minute stacking Vulnerability Up debuff.
+
+Livia the Undeterred
+Aglaea Bite: Tank Buster.
+Frustration: Room-wide AOE.
+Odi Et Amo: Two circle AoEs spawn under two party members. Shortly thereafter, a stack marker will spawn on a party member, requiring the group to stack after moving for the circles.
+Disparagement: Conal AOE cast in the direction of the stack marker target after the stack damage occurs, forcing the group to move out of the cone after the stack.
+Aglaea Climb: Boss will spread its arms. Two of the four arms will glow, and afterward will attack in that direction. Each arm will attack a specific quadrant of the boss's hitbox (front-left, front-right, back-left, back-right), and the glowing arms are always directly opposite each other (ex. front-left and back-right). Stand in the quadrant of one of the two arms that is not glowing.
+Aglaea Shot: 8 Line AOES will fire out from the boss to the cardinal and intercardinal points of the arena, giving a safe zone between each line. After reaching the edge of the platform, these crystals will pause for approximately 10 seconds, then fire back to the center. The telegraphs for the crystals returning to the center are extremely short. The second cast of this can occur during an Aglaea Climb, requiring players to dodge the arms while also paying attention to where the crystals are.
+
+Rhitahtyn the Unshakable
+Anvil of Tartarus: Tank Buster.
+Tartarean Impact: Room-wide AOE.
+Tartarean Spark: Line AOE on a random player.
+Shrapnel Shell: Fires mortar shots into the air, spawning two targeting circles which will move out from under the boss towards two of the 4 corners of the room, where they will then spawn a number of additional targeting markers around them which will be hit by the mortar shots, roughly filling that quadrant of the room.
+Vexillatio: Marks the outer thirds of the arena with an AOE marker that will then summon walls restricting movement to the center third. Players hit by this are knocked back a short distance and receive a Vulnerability Up debuff.
+Shield Skewer: The boss will begin absorbing Aether from four crystals along the newly summoned walls, each with an Aether meter to show how much is being drained. When a crystal is fully drained it will shatter. Once the boss finishes its cast, it will charge down the lane, dealing knockback, Vulnerability Up debuffs and very heavy damage. Players must watch to see which crystal depletes first, then move into the open space until the boss finishes its attack to avoid damage.
+
+Sundered Soul: Amon the Undying
+Dark Forte: Tank Buster.
+Entr'acte: Room-wide AOE.
+Eruption Forte: Places two circle AoEs under random players, which explode after a short time. It is advisable to postpone the use of a Limit Break until after this move to prevent the immobilized party member from being sniped.
+Thundaga Forte: Spawns a proximity-based AoE in the middle of the room, requiring players to run to the edges of the room. The room is then divided into eight sections. Each section will be visually filling with lightning, 4 of them quickly and 4 of them slowly, alternating around the circle. Move into a section where the electricity is moving slowly, then move into one of the fast sections on either side once that section has exploded to dodge the slow explosion.
+Strophe: Summons one or more circular discs from the ground. Afterwards Amon will cast Antistrophe.
+Antistrophe: The boss raises the circular disc(s) up on their edge. At the end of the cast, a column AoE will fire outward from both faces of the raised disc(s). The first cast is a single disc in the center, leaving a safe zone to either side. The second cast is two discs on either side of the platform. These discs can face parallel to each other, in which case the safe zone is at the edge of the arena on either side (between them is not safe), or they can converge towards the north or south of the arena, leaving a safe zone on the edges of the arena on either side, as well as a large triangular safe zone from the middle of the room to the side they are not converging at.
+Left/Right Firaga Forte: The boss will cleave its entire left or right side with a fire AoE; move to the opposite side of the arena to avoid. Keep in mind this is the boss's left and right, not the players'. Since the boss is stationary at the north edge and facing the arena, the direction specified in the cast name can instead be thought of as the side that is safe from the player's perspective (ex. if the cast is Left Firaga Forte, then the safe area is on the player's left as they face the boss).
+Curtain Call: During the long cast, two circular AoEs, similar to Eruption Forte will spawn in succession. Shiva will then spawn a huge ice crystal in the middle of the room (with a damage telegraph circle before it spawns; don't be near it) that the player must hide behind to avoid the attack. Any player not behind the ice crystal will be instantly killed. This bypasses tank invulnerabilities, so do not attempt to "cheese" this for uptime.
+From here the fight will continue with the above mechanics until the boss is defeated.
+</strategy_text>

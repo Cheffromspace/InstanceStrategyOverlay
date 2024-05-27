@@ -1,0 +1,22 @@
+Here is the cleaned up text for the Tam-Tara Deepcroft (Hard) strategy guide:
+
+The Tam-Tara Deepcroft (Hard) is a level 50 dungeon introduced in patch 2.3.
+
+Objectives:
+- Clear the interring chamber
+- Clear the Tomb of King Galvanth the Dominator  
+- Clear Eternal Calm
+
+Bosses:
+
+Liavinne
+For tanks, just hold onto the boss and keep her attention. The gimmick is for the DPS/Healer. A horde of zombies will chase one of the non-tank players. Do not attack them, kite them. At some point, an orange/red arrow mark will appear over someone's head (not the tank). That person needs to run into the horde, unleashing an AoE that will kill the zombies. If you kill a zombie yourself, the party takes a huge damage resistance debuff that stacks up to 8 times. Go all out on damage during the breaks between hordes.
+
+Spare Body  
+The friendly NPC Paiyo Reiyo is trapped in the middle and you must protect him. Stop the NPC from taking any damage or the boss will grow stronger. If he dies, it's a party wipe. Purple balls of energy will come from portals towards the NPC - run through them to detonate them prematurely. Later there will be two larger balls instead of smaller ones. The boss also has an AoE leaving a bleed damage zone on the floor - avoid letting the NPC get hit by it.
+
+Avere Bravearm
+Edda stands in the middle in a bleed damage circle that cannot be targeted. She periodically summons demons outside the arena to do linear AoE attacks converging on the tank. Crawling zombies will appear from the edges trying to reach the center - kill them before they get there as each one that reaches the center will strengthen the boss's "Red Wedding" attack at the end.
+
+Lore:
+The duty contains torn folios that tell a tragic story of a woman trying to find a new body for her lover so they can be together forever, even considering using the souls of her friends.

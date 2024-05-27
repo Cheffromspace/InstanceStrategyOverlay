@@ -1,0 +1,19 @@
+<span class="boss">Byakko</span>:<br>
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Storm Pulse</span>: 💥 Unavoidable raid-wide AoE<br>
+- <span class="ability">Heavenly Strike</span>: 🛡️ Tankbuster, use defensive CDs<br>
+- <span class="ability">State of Shock</span>: 🎯 Grab on MT, 🤝 stack opposite side to share slam damage, <span class="mechanic">split into 2 groups</span>, OT provoke for 2nd slam<br>
+- <span class="ability">Unrelenting Anguish</span>: 🏃 Avoid red orbs, 3 players marked with <span class="ability">Ominous Wind</span> 🔗 debuff (explodes if too close)<br>
+- <span class="ability">Fire & Lightning</span>: 🏃 Avoid column AoE<br>
+- <span class="ability">Hakutei</span>: 👾 OT grab White Tiger add, face away from party<br>
+- <span class="ability">Aramata</span>: 2 players marked, 🏃 drop 3 puddles (🤢 bleed) at arena edge<br>
+- <span class="ability">Distant Clap</span>: 💨 Doughnut AoE, group in center or far edge, OT 🎯 marked move away<br>
+- <span class="ability">Roar of Thunder</span>: 💥 Unavoidable AoE, damage based on add HP<br>
+- <span class="ability">Aramata Orbs</span>: Pop orbs before reaching add, <span class="note">healers pop to avoid dmg down debuff</span><br>
+<span class="boss">Free-Fall Transition</span>:<br>
+- 🏃 Avoid outer ring (instant kill), dodge orbs, 💨 doughnut AoE move to center, ➡️⬅️ line AoE move to sides<br>
+<span class="boss">Phase 2</span>:<br>
+- <span class="ability">Hundredfold Havoc</span>: 2 sets of ➡️⬅️ lightning AoEs, move to safe zone after 1st<br>
+- <span class="ability">Sweep the Leg</span>: 📐 Unmarked frontal cleave after <span class="ability">State of Shock</span>, stand behind boss<br>
+- <span class="ability">Unrelenting Anguish</span>: 🔴 <span class="ability">Gale Force</span> puddles (wipe if touch), 🔗 <span class="ability">Ominous Wind</span> debuffs<br>
+- <span class="mechanic">Enrage</span>: ⏳ 12 minutes, repeated <span class="ability">Storm Pulse</span> into raid wipe<br>

@@ -1,0 +1,47 @@
+Here is the cleaned up text for the Final Fantasy 14 quest guide:
+
+Newfound Adventure
+
+Quest giver: Tataru
+Location: The Rising Stones (X:6.1, Y:5.9) 
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Previous quest: Endwalker
+Next quest: Bountiful Ruins, Small Business, Big Dreams
+Patch: 6.1
+
+Rewards:
+1 Wayfarer's Tabard
+1 Wayfarer's Fingerless Gloves  
+1 Wayfarer's Boots
+1 Wayfarer's Earcuff
+1 Wayfarer's Necklace
+
+Unlocks: The Unending Codex
+
+Steps:
+1. Speak with Tataru at the Diamond Forge.
+
+Journal:
+Tataru is putting on a pot of tea and looks in need of company.
+
+Having traveled to the edge of existence and back, the question of what comes next has been at the forefront of your mind. Tataru inquires into your plans for the future, and her suggestion of returning to your adventuring roots strikes a chord. In particular, you recall the words of Emet-Selch, urging you to see with your own eyes the Bounty's undersea ruins...
+
+Having anticipated your rekindled passion for exploration, Tataru reveals that she is in the process of crafting you a new set of traveling clothes. You try to wait patiently as she cuts and sews, but are soon overcome by the accumulated fatigue of saving a world and slip into an unexpected nap. You awake to find an apologetic Tataru, who asks that you accompany her to the Diamond Forge where she intends to add the finishing touches to your outfit.
+
+Promising a shorter wait than before, Tataru throws herself body and soul into completing her work. You express admiration for the finished product, but in lieu of praise and payment she asks that you wear the outfit where other adventurers might see it, and thus garner interest for Tataru Taru's Boutique. It seems that even your return to adventure is an opportunity to drum up business!
+
+Dialogue:
+Tataru: [Forename], how lovely to see you! If you're not in too much of a rush, I was about to make a pot of tea. Would you like a cup? Take a seat, then, and I'll find us something to nibble on as well.
+
+Tataru: Observe as the artiste refines her piece into a masterpiece! And no napping this time! I only need a moment─you'll see! A little more room in the shoulders...open up the cuffs...a final adjustment to the hem... All done! Let's see how it looks on the mannequin. Well, what do you think? Doesn't it just scream "ready for a bold new adventure"!? I'm so glad you approve!
+
+Q1: What will you say?  
+A1: You've outdone yourself, Tataru, thank you!
+A1: So, what do I owe you...?
+
+Tataru: If you really want to thank me, though, all I ask is that you wear this on your travels! Or at least anywhere lots of adventurers might gather, heh heh... They'll look at you, a famous hero, and wonder, "Wherever did he/she purchase those stylish-yet-practical garments?" And before you know it, hordes of new customers will be climbing over each other to place orders at Tataru Taru's Boutique! Muahaha! I can hear it now─the merry clink-clink of gil overflowing from my coffers! Sweet music to my ears!
+
+Tataru: Ahem... Burgeoning merchant empires aside, you must be excited to start a fresh chapter of your life. New places to go, new people to meet─I often wonder how you remember all your experiences and exploits without taking at least a few notes... Oh! Maybe you should start doing just that! You never know when some odd past detail might become relevant, or if one day you'll take a blow to the head and forget the better part of the past decade. Something to keep in mind, in any case!
+
+System: The Unending Codex is now available under Collection in the Duty section of the main menu. New entries for prominent terms and characters will be added to the codex as you progress through the main scenario quests.

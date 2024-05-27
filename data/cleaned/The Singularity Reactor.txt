@@ -1,0 +1,32 @@
+<strategy_text>
+Strategy
+
+Primal: King Thordan
+
+Phase 1
+Lightning Storm: Four players  will be marked for a small lightning circle that will hit after them and everyone around them a few seconds. Simultaneously, Thordan will put AoE circles below the other four players.
+Ascalon's Mercy: Several line AoEs with gaps between them
+Ancient Quaga: Moderate raidwide damage.
+Ascalon's Might: Tankbuster
+Knights of the Round: At 80% HP, Thordan begins summons untargettable Knights of the Heavens' Ward and has them unleash mechanics on the party
+Ser Janlenoux and Ser Adelphel: Both will charge around the room, putting a Bleeding debuff on everyone in their path and leaving behind orbs of light. These will deal damage to players upon exploding. Note that this debuff can be dispelled.
+Ser Vellguine: He stands outside of the platform and cast a column AoE that goes from one side to the other and can be easily avoided.
+Ser Hermenost: He will pop out next to Thordan with three small platforms that need to be stood upon. A single player for each one of them will suffice. Fail to do so and the entire party will be affected with Paralysis. While the duration is not too long and this is not game-changing, your healers will thank you.
+The Dragon's Eye: At 55% HP, Thordan will cast this and unlock a bigger version of Ascalon's Mercy, as well as The Dragon's Gaze, which inflicts a party-wide terror. As with any other gaze attack, turn your character away from him to avoid it completely.
+
+Phase 2
+At around 15% to 10%, phase two will start. Thordan will leave the arena, letting his Knights have the spotlight. As before, all the Knights will be untargettable with rare exceptions.
+Ser Charibert and Ser Hermenost: Charibert appears in the middle and casts Heavensflame, creating several circle AoEs, while Hermenost repeats his towers mechanic from phase 1.
+Ser Zephirin: He appears in the middle and immediately starts casting an AoE attack, Sacred Cross. This cannot be interrupted; however, the less health he has at the end of the cast, the weaker it hits the party.
+Ser Vellguine: Without waiting for Zephirin to be dealt with, Vellguine will appear somewhere at the edge of the arena. Again, he will perform a column charge through the middle.
+Ser Janlenoux and Ser Adelphel: Both appear at the same time and directly engage the party. One of them will cast Holiest of Holy at random intervals, which will deal moderate damage to every player in the room. Something else to look out for is Rapid Sever, which will hit the tank for quite a bit of damage in a short span of time.
+Ser Ignasse: He smashes the ground at a point on the edge of the arena. Damage taken is reduced the farther away you are from it, like the imperial airship crashes in the Ultima Weapon.
+Ser Paulecrain and Ser Haumeric: Paulecrain places blue ice markers on players' heads, akin to those in the Shiva encounter. Try to drop them on the edges if possible, as they inflict Heavyon players in contact with the frozen ground they create. Paulecrain has a column attack that is targeted on a player, who will take less damage the closer they are to the source, like Anchag's in Amdapor Keep (Hard) or Byblos' in the Great Gubal Library.
+Ser Grinnaux: He will cast four or five black AoE circles on the ground that will grow in size over time. In addition to the previous frozen circles, finding a safe spot can be difficult.
+Ser Noudenet: His attack resembles Xande's meteorfall mechanic in Syrcus Tower; he will summon comet circles that will drop comets/meteors after a short while. There are four comet circles on the sides, and a meteor circle in the middle. Burn them before they drop their gifts.
+Ser Guerrique: At the same time as dealing with the comets, Guerrique will appear in the middle, casting a progressive round AoE that proceeds in phases. Move into the next or previous row of rocks to avoid being hit.
+After that, Thordan will reappear and repeatedly knock back all players with Light of Ascalon as the entire Heavens' Ward teleport to their positions, then will raise his sword and use Ultimate End with his Knights. The damage of this spell depends on how long it took to overwhelm the Knights and how many players died to their attacks.
+
+Phase 3
+After Ultimate End, Thordan will have used up all his energy and the Knights will not return to aid him. In addition, Thordan can only perform autoattacks and will have a Damage Down debuff, so just DPS Thordan until he dies.
+</strategy_text>

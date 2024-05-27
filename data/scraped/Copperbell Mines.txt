@@ -1,0 +1,59 @@
+Here is the cleaned up text for the Copperbell Mines dungeon guide:
+
+Copperbell Mines
+
+Level 17 (Sync: 20)  
+Difficulty: Normal
+Party size: Light Party 4 man
+Unsyncing: Allowed  
+Time limit: 90 minutes
+
+Abandoned once purged of ore, the Copperbell Mines laid abandoned for nigh on three centuries until Amajina and Sons Mineral Concern reclaimed the shafts - the guild's sights set on expanding the mines downward in an attempt to tap yet undiscovered veins of valuable metal. Unfortunately, it was not riches the powder kegs uncovered, but sheer terror, for when the smoke cleared, out poured an army of raging giants from the darkest recesses of the mines. The hecatoncheires - thralls of the lost Thorne dynasty - were, at last, free from their lightless prison; three hundred years of hate fueling their madness.
+
+Objectives
+Clear Shaft B4 of rubble  
+Clear Shaft E1 of rubble
+Arrive in Shaft E2
+Defeat Gyges the Great
+
+Walkthrough
+Throughout the dungeon, the party must collect six-onze pinches of firesand as explosive ammo needed to clear debris in the way.
+
+In the first room of enemies, defeat them and pick up the Tiny Key needed to unlock the Sealed Blasting Door. Pull the Lift Lever in the next room and ride the lift down.
+
+The next area consists of a narrow path with two branches. These are generally ignored and do not contain any bonus treasure coffers. Unlike in most dungeons, any aggroed enemies will "de-aggro" if they are pulled to a long enough distance from where they originally spawned. Therefore, it is possible to pull all enemies in this corridor until the room before the first boss, with limited risk. This should be communicated beforehand however, and is not recommended for inexperienced tanks or healers.
+
+The room before the first boss contains two Firesands, one between the torches and the other on top of the mound. These should be collected and placed in the Powder Chamber. Afterwards, interact with the Blasting Device to open the way.
+
+Defeat Kottos, the first boss, pick up the Tiny Key, and open the door. Ride the lift down at the end of the passage. 
+
+Upon reaching the intersection, the two Blasting Caps at the left and right rooms must be defeated to obtain two Firesands. Both will need to be pulled separately, as they will de-aggro if they leave their starting rooms. Fill the powder chamber and use the blasting device to open the way.
+
+Remember to pick up the Firesand in the hallway before the second boss. After defeating the Ichorous Ire, pick up the Firesand and open the path with the blasting device.
+
+Proceed through the next room and to the final boss, Gyges the Great. Note that not all enemies need to be aggroed.
+
+Bosses
+
+Kottos
+- Grand Slam: Tankbuster. Tanks should use mitigation to lower the damage.
+- Lumbering Leap: Kottos will jump to 3 areas, causing a massive circle AoE to appear at the location. Players should move to the small safe spot at the edge of the arena. 
+- Colossal Slam: A large cone AoE targeted on a random player.
+- Catapult: Kottos will throw a rock at a random player, dealing moderate damage.
+
+Ichorous Ire  
+- Fluid Spread: Tankbuster.
+- Syrup: Circle AoEs will appear below all players, requiring them to move out of it.
+- Divide: After 50% HP, Ichorous Ire will split up into many Ichorous Drips, which will each cast Burst, a circle AoE centered on the enemy.
+
+Gyges the Great
+- Grand Slam: Tankbuster. 
+- Gigantic Swing: A massive donut AoE centered on the boss. Players must move into the boss' hitbox to avoid excess damage.
+- Gigantic Smash: The boss will recenter and cast a circle AoE in the center along with 5 more on the outside of the arena. Players should move into the safe spots in between the AoEs.
+- Colossal Slam: A large cone AoE targeted on a random player.
+
+Lore
+Rise Of The Hecatoncheires
+Gyges the Great  
+Return Of The Hecatoncheires
+Ouranos

@@ -1,0 +1,44 @@
+Here is the cleaned up text for the strategy guide on The Gilded Araya trial in Final Fantasy 14:
+
+The Gilded Araya is a level 90 trial introduced in patch 6.55 with Endwalker. 
+
+Guide
+
+False Manusya: Asura
+
+Lower Realm: Raidwide damage and spawns a lethal AoE at the edge of the arena.
+
+Asuri Chakra: Spawns a point-blank AoE and multiple concentric ring AoE telegraphs, leaving narrow safe spots in between them.  Later casts of this will include several point-blank AoE telegraphs on random party members that go off at the same time as the ring telegraphs.
+
+Cutting Jewel: Telegraphed AoE tankbuster.
+
+Ephemerality: Physical raidwide damage and spawns several phantom clones of the boss. These will each do a point-blank AoE with a very brief telegraph.
+
+The boss will summon a large clone of herself in the background past the north side of the arena, then tether to it during the following mechanics. This will repeat the subsequent Iconography AoEs from the boss, but centered on the clone and much larger.  The boss will cast each of the 3 Iconography attacks in succession, in a random order.
+
+Iconography: Pedestal Purge: Telegraphed point-blank AoE from the boss.
+Iconic Execution: A briefly telegraphed, massive point-blank AoE from the clone. Move away from it.
+
+Iconography: Wheel of Deincarnation: Telegraphed donut AoE from the boss.  
+Iconic Execution: A briefly telegraphed, donut AoE from the clone. Move towards it.
+
+Iconography: Bladewise: Telegraphed line AoE from the boss.
+Iconic Execution: A briefly telegraphed, wide line AoE from the clone. Move to its sides.
+
+Six-bladed Khadga: Asura telegraphs six sequential half-room cleaves, cleaving either her north, west, or east, and traveling in a clockwise or counterclockwise pattern. The last three cleaves are a repeat of the first three.
+
+The Face of Wrath / The Face of Delight: Divides the arena into a red half and blue half while summoning either a red or blue mask. Go to the opposite floor color as the mask, because the same color floor will blow up.
+
+Myriad Aspects: Two sets of telegraphed conal AoEs.
+
+Bladescatter: Multiple sequential telegraphed line AoEs that will spawn clockwise or counterclockwise.
+
+The boss will use all 3 Iconography attacks again, in a random order. However, it will also cast Iconic Transcendence, which will cause the clone to teleport to a random location prior to using its own version of each of the 3 attacks. Players will need to identify the new location of the clone and resolve the follow-up Iconic Execution AoEs relative to it.
+
+Asuri Chakra is later repeated with telegraphed spread AoEs on random players.
+
+Loot
+Asura Card (Chance to Drop)
+
+Trivia
+This duty was originally made playable during the 2023-24 Fan Festivals as an optional "battle challenge" for attendees.

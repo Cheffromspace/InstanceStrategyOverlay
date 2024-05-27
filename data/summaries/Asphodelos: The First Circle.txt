@@ -1,0 +1,12 @@
+<span class="boss">Erichthonios</span>:<br>
+- <span class="ability">Gaeoler's Flail</span>: 🏃 <span class="mechanic">Move to side opposite spinning flail</span>, watch for mid-mechanic casts<br>
+- <span class="ability">Pitiless Flail</span>: 🎯 <span class="mechanic">Targeted player close to boss</span>, others avoid. Stack after 🤝<br>
+- <span class="ability">Heavy Hand</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Warden's Wrath</span>: 💥 Raidwide damage<br>
+- <span class="ability">Intemperance</span>: 🔴🔵 <span class="mechanic">Get 🤢 debuff (fire/cold), alternate hits to remove</span><br>
+- <span class="ability">Intemperate Torrent</span> (3x): <span class="mechanic">Stand in crystal zone opposite debuff element</span>, avoid 🟪 cross<br>
+- Later, dodge 🏃 <span class="ability">Gaeoler's Flail</span> during <span class="ability">Intemperate Torrent</span><br>
+- <span class="ability">Shining Cells</span>: 💥 Raidwide, arena shrinks & splits 🔴🔵<br>
+- <span class="ability">Aetherchain</span>: <span class="mechanic">Move to wedge opposite orb color</span><br>
+- <span class="ability">Aetherflail</span>: <span class="mechanic">Dodge 🏃 <span class="ability">Gaeoler's Flail</span> + <span class="ability">Aetherchain</span> simultaneously</span><br>
+- <span class="ability">Slam Shut</span>: 💥 Raidwide, ends <span class="ability">Shining Cells</span> phase

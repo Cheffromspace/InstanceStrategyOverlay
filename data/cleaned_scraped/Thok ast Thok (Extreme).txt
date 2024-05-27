@@ -1,0 +1,121 @@
+<strategy_text>
+Lord of the Hive: Ravana
+Ravana (Extreme) just like Ravana (Hard) is split into multiple phases and follows a set rotation for most if not all phases. Note Ravana can be 1 tanked.
+
+Dragonfly
+Blinding Blade- High damage frontal cleave.
+The Seeing X- Places a barrier on 3 sides of Ravana, if you hit the barrier, you get damaged, knocked back and slowed.
+Atma-Linga- Raid-wide AoE.
+Tapasya= Frontal cone cleave that hits 3 times.
+Warlord Shell- Shields himself, must be broken before it wears off or you will wipe.
+Bloody Fuller/Chandrahas- Ultimate ability, more on this later.
+
+Scorpion
+This stance includes the main mechanics of the fight that require the entire raid to learn, know and execute perfectly or will be the phases that will wipe your group. Something to take note of is in this stance, the damage output of Ravana is increased, but his incoming damage is also increased. In this stance he not attack but only use a variety of Liberation casts, similar to Hard modes Slaughter. Each cast of Liberation is burn time, DPS should pop their cool downs during this stance. Each Liberation is a series of AoE mechanics and getting hit by any of these will result in a 3 minute Vulnerability Up debuff that stacks.
+
+Prelude to Liberation
+When the cast ends, will do a large point blank AoE.
+Linear line AoEs that will explode after a short time.
+Random circle AoEs that cause Burn on a player that steps in them.
+5 players get purple circle around themselves that will explode and deal damage to anyone standing in them, no one should be standing in 2 purple circles.
+
+Liberation
+When the cast ends, will AoE everywhere except directly behind him, all players should stack behind Ravana.
+He will then jump up, and land somewhere around the edge of the arena and doing a large point blank AoE.
+Clones himself 3 times either left or right to where he lands, also creating point blank AoE.
+Charges across the arena in the order he landed. (Similar to Ifrit).
+When he jumps up, all players should stack in the center, wait to see where his 1st clone lands, and run to the other side the first Ravana (e.g. If Ravana lands North, his 1st clone lands North-West, players should run North-East) and run around the edge as he charges.
+
+Swift Liberation
+About 3/4 way through the cast, 4 players will be marked with a blue sword icon, they will be marked with 1, 2, 3 and 4 swords.
+The marked players need to run to the waymarks, 1 sword icon to A, 2 sword icon to B, 3 sword icon to C and 4 sword icon to D.
+All other players should stack at D or C.
+Ravana will rush from where he his, to the player with the 1 sword icon, dealing damage to anyone in his path.
+He will continue to rush from this player to the next (who had 2 sword icon), and so on. He should be going from middle -> North -> East -> South -> West.
+An X AoE appears on the ground dealing damage and a nasty Burn debuff to anyone standing in it.
+4 Purple circle AoEs same as in Prelude to Liberation.
+As Ravana rushes to the first player, all those that wasn't marked should stack to the center. The first player should also run to D and to the center, as they will be hit by the next rush to B. As Ravana appears again to rush to B, the player at B should run towards A and to the center, and so on for each marked player.
+To handle the purple circles, you should assign 2 players to A/B, B/C, C/D and D/A. These players should run to these safe segments so that several players with purple circles do not end up in the same segment. If 2 players that go to the same segment have the purple AoE, you are able to stand next to the fire AoE, this will avoid players from getting hit by 2 purple circles.
+
+Final Liberation
+There are a couple of ways to handle this Liberation in regards to the Prey mechanic which I'll go through first.
+Tactic 1 - PLD
+Marks 2 players with Prey, make sure the tank has 1 and the other player stands next to the PLD, stack at A.
+All other players should spread around B, C and D.
+Ravana will rush at both Prey targets.
+Both Prey targets should be fully healed, shielded and any cool down you can give them.
+PLD uses Cover on the other player.
+The idea here is to negate the damage of both rushes to both players at least for the first hit, if you negate the damage to 0, these players will not receive the physical up debuff.
+Tactic 2 - Actual tactic
+Marks 2 players with Prey, does not matter if the tank has one, one goes to A, the other to C.
+All other players should go to B or D.
+Ravana will rush at both Prey targets.
+2 players run to A and C to take Prey while first 2 run to safe spots.
+2 new Prey players run in between A+D and C+D.
+Safe spot now in the center.
+As for the full Liberation.
+Marks 2 players with Prey.
+Rushes both players dealing Physical Up debuff to them and anyone in his path.
+Use one of 2 tactics above.
+3 players get Purple circles, everyone else can go to the center - Rushes players with Prey dealing Phys Up at same time as purple circles explode.
+Room-wide AoE with safe spot in the center.
+Room-wide AoE with safe spot around the edge - knocks back if hit.
+Important: Ravana jumps back down for this, do not attack him, just run out as you have very little time to get out of this AoE.
+
+Beetle
+This is Ravana's defensive stance, his outgoing damage is decreased, but also takes less damage.
+Pillars of Heaven- Raid-wide AoE knock back with damage based on proximity to Ravana.
+Laughing Rose- Marks a player with a white icon, meteor-style AoE, share damage with raid.
+Prey/Surpanakha- Marks a random player with Prey, they must pass Prey to the tank. Ravana will focus on the player and hit them continuously with Surpanakha, a large frontal AoE cone.
+Rose of Conviction- No cast, 4 players get tethered by orbs and follows them, explodes after a short while dealing damage and inflicting Vuln Up. Players should stack by the edge before the orbs spawn and run around as a group.
+Rose of Hate- Linear AoE on the main tank, avoid.
+
+Phase 1 - Dragonfly
+This phases lasts until 87%, all next phases will have a set rotation that carry out as the Bloodlust meter fills up indicated his next stance change (phase change).
+Rotation: Blinding Blade -> The Seeing X -> Atma-Linga -> Tapasya -> Atma-Linga -> Blinding Blade -> The Seeing X -> Atma-Linga -> Repeat
+
+Phase 2 - Scorpion
+If all party members are fully healed, healers should be DPSing during the Prelude to Liberation cast since there is no outgoing damage. DPS should save their cooldowns for the start of this phase.
+Rotation: Prelude to Liberation -> Liberation
+
+Phase 3 - Dragonfly + Ultimate
+1/4 way through the rotation you will need to deal with both Ravana mechanics and Gana adds that add to Ravana's Ultimate.
+Rotation: Warlord Shell -> The Seeing X -> The Seeing X -> Gana Adds start -> Tapasya -> Atma-Linga -> Blinding Blade -> The Seeing X -> Atma-Linga -> Tapasya -> Atma-Linga -> Tapasya -> Blinding Blade -> The Seeing X -> Atma-Linga -> Atma-Linga -> Bloody Fuller/Chandrahas
+It's a long rotation, one which the tank will need to remember while the DPS are killing the adds. Shortly after Warlord Shell has broken and 2 of The Seeing X have been done, Ravana will shout "Take wing, ye souls of war!". This starts the all familiar Primal DPS check.
+
+Chandrahas and Gana Adds
+The DPS need to kill Spirit Gana's and Moon Gana's that spawn. They should be killed in the order that they appear in. Below is a list they appear in.
+4x Spirit Gana
+1x Moon Gana, 1x Spirit Gana
+2x Spirit Gana
+1x Moon Gana, 1x Spirit Gana
+2x Spirit Gana
+The Spirit Gana can be kill quickly, the Moon Gana takes more time to kill, all ranged should stay in the center for Blinding Blade, the melee should be wary of being cleaved if they choose to engage an add in front of the boss. These adds do not need to be tanked.
+After a short while, each gana will cast Falling Laughter, they must be killed before they can finish this cast otherwise they disappear and place a sword in the ground.
+After the rotation above, Ravana will cast Bloody Fuller which will Fetter everyone and lift them into the air, and swords on the ground, Ravana will use to deal damage and inflict Vulnerability Up for each sword, then use Chandrahas dealing high AoE damage. The goal here is to kill every add before they finish casting Falling Laughter, and have 0 swords. You can then shield the players and this should hit for less than 1k.
+
+Phase 4 - Beetle
+Transition into this phase, some of the fence around the edge will be broken, locate the safe spots and be wary of knock backs.
+Rotation: Pillars of Heaven -> Laughing Rose ->Surpanakhax4 -> The Rose of Conviction -> The Rose of Hate ->Surpanakha(repeat until Phase push by filling up the Bloodlust meter)
+All players should run next to a wall for Pillars of Heaven, then stack on Ravana for Laughing Rose. After this, a player will be marked by Prey for Surpanakha, this player needs to run over the tank to pass Prey on to them. Remember that Surpanakha is a large frontal AoE cone, Ravana will always focus and face the marked player. After 4 hits, Rose of the Conviction immediately starts so all players should make their way to the edge of the arena (except main tank) and run around the edge either clockwise or anti-clockwise (your raid should decide beforehand.) During this time, the tank will get a frontal AoE focused on them, and more Prey/Surpanakha on them, the tank needs to rotate the boss the same way the players are running the orbs, and stop when the orbs have exploded and the raid can get back to Ravana.
+
+Phase 5 - Scorpion
+This is the main part of the fight, if you get past here you should be killing Ravana, otherwise these mechanics will wipe you if 1 or 2 players mess up their positions. During this phase, you should also get Level 3 Limit Break which should be used during either the start of Swift Liberation cast, or the start of Final Liberation cast since Ravana takes more damage in this phase.
+Rotation: Swift Liberation -> Final Liberation
+Refer to the Swift and Final Liberation descriptions at the top of the guide.
+
+Phase 6 - Dragonfly
+There are adds for this Dragonfly, and there is a massive increase in outgoing AoE damage, Ravana will use Atma-Linga and Blinding Blade more frequently here, so the healers need to be focused here and make sure everyone is topped up at all times.
+Rotation: Warlord Shell -> The Seeing X -> Atma-Linga -> The Seeing X -> Blinding Blade -> Atma-Linga -> Tapasya -> Atma-Linga -> Blinding Blade -> Atma-Linga -> Atma-Linga -> Tapasya -> Blinding Blade -> Atma-Linga -> Blinding Blade -> Atma-Linga -> Tapasya
+
+Phase 7 - Beetle
+Same as previous Beetle phase, this will last until the Bloodlust meter hits 100%.
+Rotation: Pillars of Heaven -> Laughing Rose ->Surpanakhax4 -> The Rose of Conviction -> The Rose of Hate ->Surpanakhax8 -> Repeat
+You should be aiming to kill Ravana during this phase.
+
+Phase 8 - Scorpion
+In this phase, Ravana will cast 1 random Liberation. You have until the end of this Liberation cast to kill Ravana as he will enrage after.
+
+Enrage
+Ravana will enrage after Phase 8 Liberation, he casts Bloody Fuller and hits the entire raid with 12 Laughing Moons (12 adds, 12 swords, 12 laughing moons) (inflicting Vuln Up for every hit) then Chandrahas.
+</strategy_text>

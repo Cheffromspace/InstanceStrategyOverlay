@@ -1,0 +1,28 @@
+<span class="boss">Hades</span>:<br>
+<span class="mechanic">Phase 1</span>:<br>
+- <span class="ability">Ravenous Assault</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Bad Faith</span>: <span class="mechanic">🏃 Position behind wall spikes to avoid damage</span><br>
+- <span class="ability">Double</span>: Next <span class="ability">Dark Eruption</span> or <span class="ability">Shadowspread</span> cast twice<br>
+- <span class="ability">Dark Eruption</span>: 🎯 <span class="mechanic">Marked players spread, dodge 🔴 AoEs</span><br>
+- <span class="ability">Shadowspread</span>: <span class="mechanic">🏃 Dodge 📐 conal AoEs, move for 2nd set if Doubled</span><br>
+- <span class="ability">Broken Faith</span>: <span class="mechanic">🏃 Dodge descending 🔴 AoEs, wider than they appear</span><br>
+<span class="mechanic">Add Phase</span>:<br>
+- Defeat adds before <span class="ability">Fervor of the Ancients</span> gauge fills<br>
+- 🎯 <span class="mechanic">Marked players spread</span>, 🤝 <span class="mechanic">others stack for shared damage</span><br>
+- <span class="ability">Ancient Dark IV</span>: 💥 Unavoidable AoE, use mitigation and healing<br>
+<span class="mechanic">Phase 2</span>:<br>
+- <span class="note">Outer railing gone, don't fall off edge!</span> ⚠️<br>
+- <span class="ability">Titanomachy</span>: 💥 Frequent raid-wide AoE<br>
+- <span class="ability">Shadowstream</span>: <span class="mechanic">🏃 Avoid column blast through arena center</span><br>
+- <span class="ability">Dual Strike #1</span>: 🎯 <span class="mechanic">Marked players spread to avoid overlap</span><br>
+- <span class="ability">Echoes of the Lost</span>: <span class="mechanic">🏃 Stand behind Hades' outstretched arm</span><br>
+- <span class="ability">Polydegmon's Predation</span>: <span class="mechanic">🏃 Stand in safe column in front of Hades</span><br>
+- <span class="ability">Hellborn Yawp</span>: ⚔ <span class="mechanic">Tanks bait 📐 conal AoEs to sides or center</span><br>
+- <span class="ability">Captivity</span>: 🎯 <span class="mechanic">Break Aetherial Gaol to free trapped players before Chorus of the Lost</span><br>
+- <span class="ability">Dual Strike #2</span>: 🎯 <span class="mechanic">Marked players spread, avoid tether overlap</span><br>
+- <span class="ability">Doom</span>: <span class="mechanic">🏃 Each player stand in a bright circle to remove debuff</span><br>
+- <span class="ability">Wall of the Lost</span>: 💨 <span class="mechanic">Knockback from center, don't get punted off</span><br>
+<span class="mechanic">The Finale</span>:<br>
+- <span class="ability">Life In Captivity</span>: <span class="mechanic">Mash buttons in Active Time Maneuver to break free</span><br>
+- <span class="ability">The Dark Devours</span>: 💥 <span class="mechanic">Burn boss before platform is consumed</span> ⏳<br>
+- <span class="note">Enrage: Bleed debuff + Black Cauldron wipe</span> ⚠️<br>

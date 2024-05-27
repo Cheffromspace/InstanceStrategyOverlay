@@ -1,0 +1,29 @@
+Here is the cleaned up text for the "Hither and Yarns" quest guide:
+
+Quest giver: Urianger
+Location: Labyrinthos (X:19.9, Y:20.3)
+Quest line: Endwalker Main Scenario Quests
+Level: 88
+Required items: 1 Signed Documentation
+Experience: 501,600
+Gil: 1,116
+Previous quest: Sage Council
+Next quest: Once Forged, Gleaner's Wish, The Lad in Labyrinthos, A Job for a Loporrit, Dolling out Punishment, Don't Philter Yourself, Gift for a Fan, Take a Look, It's in a Book, The Dry Eyes Have It, To Care Enough to Send the Very Best, Wayward Carbuncle
+Patch: 6.0
+
+Rewards:
+1 Chondrite Hand Gear Coffer (IL 545)
+
+Walkthrough:
+When searching for reserved representative, she is located at: (X:6.3 Y:29.2 Z:1.9)
+
+Steps:
+1. Search for Alisaie.
+2. Pick up the crate of samples.
+3. Deliver the crate of samples to Alphinaud.
+4. Speak with Theopauldin.
+5. Deliver the ream of documents to the reserved representative.
+6. Speak with Theopauldin.
+
+Journal:
+The pall of anxiety over Sharlayan Hamlet has thinned to more manageable levels.

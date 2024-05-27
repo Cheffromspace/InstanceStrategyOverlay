@@ -1,0 +1,43 @@
+Here is the cleaned up text for the Wanderer's Palace strategy guide:
+
+The Wanderer's Palace
+
+Level 50 (Sync: 50)  
+Item Level 45 (Sync: 110)
+Difficulty Normal  
+Party size Light Party 4 man • 1 tank 1 healer 2 DPS
+Unsyncing Allowed
+Time limit 120 minutes
+
+Objectives
+Clear Still Waters: 0/1
+Unlock the sealed gate: 0/1 
+Climb the Endless Rise: 0/4
+Clear the Final Ease: 0/1
+Defeat the tonberry king: 0/1
+
+Bosses
+
+Keeper of Halidom
+All non-tank players should not be in front of Keeper of Halidom to avoid Beatdown and Moldy Sneeze. Healers should use Esuna to remove Reduced Immunity debuff if possible. Players should spread out across the room to avoid being pulled in by Inhale. If you are pulled in, move away from the boss as soon as you can because Keeper of Halidom will use Goobbue's Grief right after Inhale. Players should also move out of the AoE ground indicator of Moldy Phlegm.
+
+Giant Bavarois  
+Giant Bavarois will use the spell Fire. Players can interrupt his spell cast by stunning the boss or moving behind him while he is casting. Throughout the fight Giant Bavarois will spawn White, Blue, Green and Purple Bavarois adds in groups of 3-4. Purple and White adds are most dangerous because they inflict Paralysis and Heavy debuffs. They should be killed as soon as possible. Healers should remove the debuffs if possible. Occasionally, Giant Bavarois' eyes will focus onto a single target, causing him to chase that player, using Amorphic Flail when he gets close. The targeted player should run away to avoid the Amorphic Flail.
+
+Tonberry King
+Tanks should stay in the middle of the room and within the melee range of the Tonberry King to avoid Scourge of Nym. Throughout the fight, Tonberry King will spawn small Tonberry adds. When they die they will give Tonberry King a stack of Rancor. Tonberry King will use Everybody's Grudge and deal moderate damage for every stack of Rancor it has. The ability also removes all the Rancor stacks on the boss. Do not let the Tonberry King have too many stacks of Rancor, avoid killing Tonberries if they aren't an issue.
+
+At around quarter HP, Tonberry King will spawn multiple Tonberry Slashers around the room. These adds will periodically move closer to the center of the room. Players should away from the slashers and toward the center of the room. Slashers will do heavy amount of damage to players nearby and players that aggro them. Players should focus down the Tonberry King.
+
+Lore
+The Temple Of The Tonberries
+Decades of kobold mining weakened upper La Noscea until the Calamity struck, causing the land around Bronze Lake to collapse and reveal the Wanderer's Palace dedicated to the Nymian deity Oschon. It was populated by green-skinned tonberry creatures, revealed to be disfigured Nymian citizens afflicted by a Mhachi plague. As the plague spread, the Nymians drowned the palace to contain it.  
+
+Tonberry King
+The leader of the tonberries, formerly a high Nymian mage whose rage transformed him into an embodiment of rancor that consumed his kin.
+
+Mamool Ja Occupation 
+The tonberries slowly regained their senses, until mercenary Mamool Ja from the New World calling themselves the Silverscales seized the palace and enslaved the tonberries.
+
+Manxome Molaa Ja Ja
+The two-headed leader of the Silverscales who aimed to capture territory in Eorzea to gain glory.

@@ -1,0 +1,27 @@
+<span class="boss">Caustic Grebuloff</span>:
+- <span class="ability">Miasmata</span>: 💥 Roomwide AoE + 🔴 moving AoEs, 🏃 avoid or get 🤢 Necrosis debuff
+- <span class="ability">Cough Up</span>: 3 sets of 🎯 AoEs per player, 🏃<>🏃 spread then 🤝 stack for Craven Companionship debuff
+- <span class="ability">Wave of Nausea</span>: 📐 Donut AoE, 🏃 avoid or get 🤢 Necrosis
+- <span class="ability">Pox Flail</span>: 🛡️ Tankbuster
+- <span class="ability">Blighted Water</span>: 🤝 Stack marker
+- <span class="ability">Befoulment</span>: 🎯 Targeted AoEs, 🏃<>🏃 spread
+
+<span class="boss">Peacekeeper</span>:
+- <span class="ability">Decimation</span>: 💥 Raid-wide AoE + 🔥 fire on edges, 🏃 avoid Burns debuff
+- <span class="ability">Electromagnetic Repellant</span>: ⚡ Field on boss, 🏃 move out to avoid Electrocution debuff
+- <span class="ability">Order To Fire</span>: ➡️⬅️ Line AoEs from turrets, 🏃 stand in narrow safe zones between lines
+- <span class="ability">No Future</span>: 🔴 Targeting circles cover arena in patterns, 🏃 move to safe spots and adjust positioning
+- <span class="ability">Peacefire</span>: 🔴 Rotating AoEs around boss, 🏃 rotate with them, often combined with other mechanics
+- <span class="ability">Eclipsing Exhaust</span>: 🔴 Edge AoEs + 💨 knockback, 🏃 get knocked into a gap
+- <span class="ability">Elimination</span>: 🛡️ Wide beam tankbuster, 🏃 other players avoid
+
+<span class="boss">The Last Mercy: Ra-la</span>:
+- <span class="ability">Warm Glow</span>: 💥 Raid-wide AoE
+- <span class="ability">Pity</span>: 🛡️ Tankbuster
+- <span class="ability">Prance</span>: 🔴 Growing AoEs in jump order, 🏃 move to last 2 then first
+- <span class="ability">Lifesbreath</span>: ➡️⬅️ Line AoE + 👾 alternating butterflies, 🏃 stand behind a butterfly to avoid 💀 Doom
+- <span class="ability">Benevolence</span>: 🤝 Stack marker
+- <span class="ability">Loving Embrace</span>: 📐 Half-arena cleave, 🏃 move to other side
+- <span class="ability">Still Embrace</span>: 🎯 Targeted AoEs, 🏃<>🏃 spread
+
+<span class="note">⏳ Enrage: Failing mechanics gives 2-minute stacking 🤢 Vulnerability Up debuff</span>

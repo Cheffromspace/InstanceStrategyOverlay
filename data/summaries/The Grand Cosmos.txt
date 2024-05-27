@@ -1,0 +1,25 @@
+<span class="boss">Seeker of Solitude</span>:<br>
+- <span class="ability">Shadowbolt</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Immortal Anathema</span>: 💥 Moderate party-wide damage<br>
+- <span class="ability">Tribulation</span>: <span class="mechanic">🔴 Avoid puddles that inflict 🤢 Bleeding and Heavy</span><br>
+- <span class="ability">Sweep</span>: <span class="mechanic">🏃 Avoid Magicked Brooms moving to puddles, 💨 Knockback, 🤢 Vuln Up</span><br>
+- <span class="ability">Dark Shock</span>: <span class="mechanic">🎯 Large 🔴 AoEs on 2 random players</span><br>
+- <span class="ability">Dark Pulse</span>: <span class="mechanic">🤝 Stack marker on random player</span><br>
+- <span class="ability">Dark Well</span>: <span class="mechanic">🎯 🔴 AoEs on all players</span><br>
+
+<span class="boss">Leannan Sith</span>:<br>
+- <span class="ability">Storm of Color</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Ode to Lost Love</span>: 💥 Moderate party-wide damage<br>
+- <span class="ability">Direct Seeding</span>: <span class="mechanic">Arena split into tiles, 8 grassy. 4 Leannan Seeds placed. 🏃 Move seeds to grass tiles</span><br>
+- <span class="ability">Gardener's Hymn</span>: <span class="mechanic">Seeds sprout into 👾 Lover's Ring adds. Kill adds on grass, ignore on barren</span><br>
+- <span class="ability">Toxic Sprout</span>: <span class="mechanic">👾 Lover's Rings explode if not killed, 💥 high party damage, 🤢 Slow, 🤢 Poison</span><br>
+- <span class="ability">Ode to Far Winds</span> + <span class="ability">Ode to Fallen Petals</span>: <span class="mechanic">🔴 AoEs + 🎯 AoEs, then 💥 room-wide AoE. 🏃 Stand near boss</span><br>
+- <span class="ability">Ireful Wind</span>: <span class="mechanic">Djinn 💨 knocks players and seeds 1 tile</span><br>
+
+<span class="boss">Lugus</span>:<br>
+- <span class="ability">Scorching Left/Right</span>: <span class="mechanic">💥 High damage to indicated side, 🤢 Vuln Up</span><br>
+- <span class="ability">Otherworldly Heat</span>: <span class="mechanic">🔴 AoE around players, then ➕ cracks explode. Can destroy furniture</span><br>
+- <span class="ability">Captive Bolt</span>: 🛡️ Extremely damaging tankbuster<br>
+- <span class="ability">Mortal Flame</span>: <span class="mechanic">🤢 Debuff, increasing damage over time. 🏃 Transfer to unique furniture to remove</span><br>
+- <span class="ability">Fire's Domain</span> + <span class="ability">Fire's Ire</span>: <span class="mechanic">🔗 Tethers to players. 🏃 Move away for purple tether. 📐 Cone attack on tethered player</span><br>
+- <span class="ability">Culling Blade</span>: <span class="mechanic">💥 Moderate party-wide damage. Drops chandeliers to remove 🤢 Mortal Flame</span><br>

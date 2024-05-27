@@ -1,0 +1,138 @@
+<cleaned_strategy_text>
+Strategy
+Deltascape V1.0 (Savage) Guide
+
+Alte Roite
+Assign each player loose locations for spreading for Levinbolt to not clip AoEs. However, simply using your eyeballs should suffice.
+Alte Roite enrages at 9:45, with a raid DPS requirement of at least ~19500.
+
+The Classical Elements
+Alte Roite jumps to the middle. This is the main mechanic in the fight, and indicates a new phase and the next Flame mechanic.
+
+The Classical Elements Phase 1
+Stay just outside of the middle. After Downburst knocks you to the outer ring, move in immediately to dodge Flame orbs. Adjust after for Levinbolt.
+
+The Classical Elements Phase 2
+Look at the outer ring of flames. One should be missing from a cardinal direction - stack where that area is outside of Downburst. After Downburst, move in immediately, then adjust for Levinbolt.
+
+The Classical Elements Phase 3
+Look at the inner ring of flames. Stand in the middle outside of Downburst between two Flame orbs. After Downburst, move in immediately, then adjust for Blaze.
+
+The Classical Elements Phase 4
+The same thing as The Classical Elements 1, except with Blaze instead of Levinbolt.
+
+Other Mechanics
+Wyrm Tail
+A non casted tank crunch that does moderate physical damage.
+
+Twin Bolt
+A magical tank buster on the MT that is shared with the closest ally. The OT should stack with the MT and both should mitigate this accordingly.
+
+Flame
+A small raid AoE that summons flame orbs on the ground, indicated by Inside or Outside. These explode after a while, dealing damage and giving a vuln stack to anyone standing in them at the time. Flame is often accompanied with other mechanics that force you to be at a certain position.
+
+Flame Inside > Flame Outside
+Stand on the outside until Levinbolt resolves, then go inside.
+
+Flame Outside > Flame Inside
+Stand on the inside until Levinbolt resolves, then go outside.
+
+Clamp
+A line AoE in front of the boss without an AoE indicator. Any player hit will get knocked off the arena. Functionally the same as the one in Normal. Dodge it.
+
+Roar
+A magical raid buster that does moderate damage.
+
+Blaze
+A stack marker on a healer. Stack for damage and mitigate accordingly.
+
+Charybdis
+Drops all players HP to critical levels.
+
+Levinbolt
+A lightning AoE appears centered around every player. Spread out to avoid clipping each other with AoE.
+
+Downburst
+Knocks back all players from the centre. Players standing in the centre during the cast bar will periodically take damage and a vuln stack. Players standing in the middle as the cast bar resolves will instantly die. Players standing too far out will be knocked off the platform. Stand right outside of the centre to avoid bad things happening. Downburst is often accompanied with mechanics that require you to be at a certain position after the knockback.
+
+Breath Wing
+Alte Roite jumps to a random part of the arena near the edge. When the cast bar resolves, he will knock all players back from where he jumped to.
+Move towards where the boss teleports to. Move towards him again after the knockback.
+
+Fight
+Phase 1
+Wyrm Tail x2
+Twin Bolt
+The Classical Elements 1
+Flame Inside
+Downburst
+Levinbolt
+Roar
+Wyrm Tail x2
+Twin Bolt
+Clamp
+Flame Outside
+Flame Inside
+Wyrm Tail
+Levinbolt
+Blaze
+Wyrm Tail x2
+Twin Bolt
+Roar x2
+Wyrm Tail
+Charybdis
+Roar
+
+Phase 2
+The Classical Elements 2
+Flame Inside
+Flame Outside
+Downburst
+Levinbolt
+Flame Outside + Inside
+Breath Wing
+Clamp
+Blaze
+Roar
+Wyrm Tail x2
+Charybdis
+Twin Bolt
+Flame Inside
+Flame Outside
+Levinbolt
+Clamp
+Roar x2
+
+Phase 3
+The Classical Elements 3
+Flame Outside
+Flame Inside
+Downburst
+Blaze
+Roar
+Wyrm Tail x2
+Twin Bolt
+Clamp
+Flame Outside
+Flame Inside
+Wyrm Tail
+Levinbolt
+Blaze
+
+Phase 4
+The Classical Elements 4
+Flame Inside
+Downburst
+Levinbolt
+Roar
+Wyrm Tail x2
+Charybdis
+Twin Bolt
+Flame Inside
+Flame Outside
+Clamp
+Roar x2
+
+Flame Enrage
+At around 9:45 in the fight is when the balls explode, wiping the group.
+</cleaned_strategy_text>

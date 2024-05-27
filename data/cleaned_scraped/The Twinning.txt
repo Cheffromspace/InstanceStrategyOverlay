@@ -1,0 +1,35 @@
+<strategy_text>
+Objectives
+Arrive at Repurposing: 0/1
+Clear Repurposing: 0/1
+Arrive at Aetherial Observation: 0/1
+Clear Aetherial Observation: 0/1
+Arrive at Cornice: 0/1
+Defeat the Tycoon: 0/1
+
+Bosses
+Alpha Zaghnal
+Augurium: Tankbuster. Hits in a cone-shaped area directly in front of the Alpha Zaghnal. This attack targets the ground, so the Tank can dodge it by stepping out of the way.
+Beastly Roar: Moderate damage to the group.
+Pounce Errant: Large player-targeted circle AoEs on each player. Alpha Zaghnal will jump to each player in sequence, dealing damage to players in the area.
+Forlorn Impact: Marks each player with a number one through four, then fires a line attack at each player in sequence, dealing damage to all players in the line.
+Charge Eradicated: Stack marker on one player. Afterwards, a large fire puddle will spawn where the attack hit, inflicting Burns to players standing in it. Once the first attack hits, a second stack marker will appear on another player with the same effects.
+Beta Zaghnal: The east and west sides of the platform each have four containment units. If one of the Alpha Zaghnal's player-targeted attacks also hits a containment unit, it will shatter and free the Beta Zaghnal held inside. Once freed, a Beta Zaghnal will aggro onto the player who freed it.
+
+Mithridates
+Thunder Beam: Tankbuster.
+Electric Discharge: Places a number of purple orbs around the area. Those orbs will discharge after a time, dealing area damage around them.
+Laserblade: Line area of effect, crosswise with secure spots in-between.
+Allagan Thunder: Circle AoE centered on each player.
+Eventually, Mithridates will begin using all of its non tankbuster abilities simultaneously. When this happens, Allagan Thunder will only target the Tank and Healer.
+
+Artificial Enigma: The Tycoon
+Rail Cannon: Tankbuster.
+Magitek Crossray: Four rectangular laser AoEs in the cardinal directions from the boss. After a few seconds, the areas will be released from Temporal Stasis and become line attacks travelling outward. Causes very high damage and inflicts a stack of Vulnerability Up. The Tycoon telegraphs the lasers firing by counting down in a text box.
+Note that these lasers spawn on the outside of the Tycoon's hitbox and shoot toward the edge, leaving the spot where it was standing safe.
+Defensive Array: Similar to Magitek Crossray, except the AoEs appear from the outside and shoot in toward the center of the platform.
+Temporal Stasis: Running into a time-stopped laser will cause a Temporal Paradox, spreading the laser's damage to the entire party while also inflicting Vulnerability Up on the offending player.
+Artificial Gravity: Black and red circle AoEs that grow in size after a few seconds before finally going off, dealing high damage.
+High-tension Discharger: Moderate damage to the entire party.
+Magicrystal: Circle AoEs targeted on each player.
+</strategy_text>

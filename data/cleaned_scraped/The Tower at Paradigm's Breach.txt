@@ -1,0 +1,138 @@
+<cleaned_strategy_text>
+Bosses
+Knave of Hearts
+Roar - Raid-wide damage, the boss opens with this. Sometimes it doesn't animate right away so keep an eye on the cast bar.
+Colossal Impact - A linear AOE attack with two variants. When the boss first casts this, he will always do it twice. First one, then the other.
+Hands are open to the side and mouth is glowing red - The boss will cast a line AOE down the middle of the arena
+Hands in fists, leaning back, yellow glow - The boss will cast line AOEs down both sides of the arena
+Magic Artillery Beta - A splashing tank buster targeting each alliance's tank.
+Replicate - another boss will appear on the left or right side of the arena. The first time it will always be one clone, but afterwards there may be two. They are not targetable
+Stacking the Deck - the boss will briefly tether its clones and mark the order in which they will attack. Shown by the number of blue/white cubes in front of each boss. The actual boss will always go first.
+The boss and its clones will cast Colossal Impact in the order shown during Stacking the Deck. They may cast the same version of Colossal Impact or different versions.
+Spheroids - Orbs appear and will spit out red balls which float towards players causing splash damage and vulnerability stacks on contact. This is often cast in conjunction with Colossal Impact and an alternate version is cast with Magic Artillery Alpha
+Magic Artillery Alpha - AoE markers on several players. Spheroids will be cast with this after the first cast, but instead of shooting orbs it will do two casts of line AOEs across the arena. Avoid the first cast, then move into where it was to avoid the second cast.
+Light Leap - two proximity AoEs appear on the left and right and boss. The boss will jump and hit these spots. Generally, run forward so you're right on him to optimize uptime.
+Boxes will appear at the square AOEs during Light Leap
+Lunge - A knockback attack that always follows Light Leap (although the boss will often cast Replicate and Stacking the Deck inbetween). Line yourself up with the white boxes so you are knocked back into them.
+The boss will eventually (starting the third cast of Light Leap?) begin casting Colossal Impact after Lunge when Replicate is up. Make sure to line up with a box in such a way that you are not 1, knocked off the map by the clone's lunge but also not getting caught in the boss' Colossal Impact
+
+Hansel & Gretel
+Hansel and Gretel will regularly cast Upgraded Shield and Upgraded Lance. The boss with lower HP will always use Upgraded Shield, while the other will use Upgraded Lance.
+Upgraded Shield: Creates a shield around the caster's rear and flanks, leaving its front exposed. Attempting to attack a shielded side results in the attack being reflected back for high damage.
+Upgraded Lance: Increases the caster's damage dealt.
+The bosses will tether to each other if they get too close, resulting in both bosses gaining the effects of both buffs. Keep the bosses spread apart. As the bosses lack cleaving attacks, tanks can point the Shielded boss's front toward the party to allow players to deal damage to both bosses simultaneously.
+Wail: Raid-wide AOE.
+Crippling Blow: Tankbuster.
+Tandem Assault: Bloody Sweep: Hansel and Gretel move to one edge of the arena and hold their halberds into the air, coating them in flames. Subsequent uses of the ability may also tether the bosses together with a red-and-blue arrow helix, indicating that the bosses will swap places with each other before the following attack happens.
+Bloody Sweep: Deals damage on sides of the arena based on how the bosses hold their weapons: If both halberds are held on the "inside", the safe area is the furthest point from the bosses. If both halberds are held on the "outside", the safe spot is the edge of the arena between the bosses.
+Seed of Magic Alpha: Targeted circle AoEs on four random players. Occurs at the same time as Riot of Magic.
+Riot of Magic: Stack marker on a fifth random player. Occurs at the same time as Seed of Magic Alpha.
+Note, later in the fight: Seed of Magic Alpha and Riot of Magic are used without cast bars, but the AoEs and Stack markers are telegraphed as normal.
+Tandem Assault: Passing Lance: The bosses rush to one edge of the arena and lock their halberds together in preparation for Passing Lance.
+Passing Lance: A line of fireballs appear in front of Hansel and Gretel to the opposite edge, with a gap somewhere in the line. The bosses will charge as a wide line AoE, and will also detonate the fireballs into narrow line AoEs perpendicular to the charge that cover the entire arena, save for the gap with no fireball.
+Wandering Trail: Yellow spinning discs appear on the arena. The first time, they will simply move around the edge of the arena, damaging anyone caught in them. In later casts, they may move towards the center of the arena and back out.
+Breakthrough: Cast while Wandering Trail's discs are active. Hansel and Gretel will move to opposite edges of the arena, hold their halberds to one side of the arena and raise their shields, then charge into each other in the center. The attack is composed of two parts: A proximity AoE from the center of the arena that deals high damage even at the furthest point, and an AoE that hits the entire side of the arena the bosses' halberds were held out to for extreme damage.
+Seed of Magic Beta: Circle AoEs below six random players.
+Hungry Lance: Hansel and Gretel move to the center of the arena, face opposite directions, and each launch wide cone AoEs in the direction they're facing.
+After one of the bosses is defeated, the other will lose its Upgrade buff if it had one, interrupt any ability it was casting, and will begin repeatedly using Lamentation until it is defeated.
+Lamentation: High damage to the entire alliance.
+
+Red Girl
+Part 1
+Cruelty - Heavy raid-wide damage. She opens with this and will continue to cast it throughout the raid.
+The boss will create orange/red kill zones around the edge of the arena and the direct middle. This is appear and disappear throughout the fight, but there's a moment of safety for you to get out if you happen to be in it when it first appears
+Shockwave - AOE markers on select players, they will be either 'white' or 'black'. The amount of time you have until it explodes is indicated by the ring above each player's head. Be careful not to stack too many of these on accident as you can kill yourself or someone else by doing so
+Generate: Barrier (part 1) - White and black barriers form a cross through the arena. This is cast immediately after Shockwave and the players marked by Shockwave are to line up with the blocks opposite the color of their AOE to destroy it. Ground AOEs (white or black) will appear under some sections of barrier, in which case someone with an AOE does not have to line up with that section as it will be destroyed by the ground AOE.
+Black AOE - Line up with a 'White' barrier to destroy it
+White AOE - Line up with a 'Black' barrier to destroy it
+Variant - Instead of a cross, this one will be a box. Players inside will be stuck inside and some close by might be sucked in, too.
+Generate: Barrier (part 2) - This will often follow the first Generate: Barrier cast and features a line of arrows on one side of the arena. You want to position yourself so that you have a section of barrier of the SAME color as the arrow is between you and the arrow.
+(arrow) > (barrier section of same color) > you, the player
+Note: The barriers don't affect line of sight, so healers can continue to AOE heal and ranged DPS can continue to DPS
+Recreate Meteor - This first shows up after the variant casts of Generate: Barrier and will appear in the middle of what's left of the box. Players need to position themselves such that a section of barrier the same color as the coming meteor (shown by the color on the ground and pulsing effects) is between them and the meteor
+(meteor) > (barrier section of the same color) > you, the player
+Manipulate Energy - Splashing tankbusters that target all three alliance tanks
+Replicate - The boss will create a number of regular sized red girls around the arena and each girl will then telegraph 1, their triangular aoe and 2, the direction in which they will rotate.
+The suggested way to deal with this is pick a girl and stick right behind her and rotate with her
+Sublime Transcendence - Cruelty but also the phase change. Healers have a very short window in which to heal their party back up before they are pulled into the intermission phase and will be unable to heal until Phase 3.
+
+Intermission phase
+The hacking minigame from NiER: Automata. You'll be a little pointy triangle with two abilities: Shoot and Change Color. It's very short.
+You must be the opposite color of the 'barriers' and Pylons to damage them
+You must be the same color as the pulsing ground AOE to avoid the pulsing ground AOE. You can also look at the cast bar to know what color to match (Wave: Black or Wave: White)
+You must destroy the Pylons before you can continue to damage Red Sphere
+
+Part 2
+Note: This phase will open with Cruelty, so healers make sure your alliance has sufficient health if you were unable to do so before going into intermission phase.
+Child's Play - A number of players will be tethered by chains and will be subjected to Forced March in the direction indicated by the arrows around Red Girl's hand
+Later in the fight, when there are multiple large Red Girl's, Child's Play will be cast by each large Red Girl alongside Replicate and tether instead to the myriad of regular sized Red Girls around the arena and be pulled in various directions.
+Pick a girl, rotate with her until she's pulled away, and if no red girls get pulled to you you're safe, if one does get pulled to you quickly adjust to rotate with her.
+The direction options are: Left, Right, and In (towards her). She will never push you away.
+AOEs will spawn on the ground during this but will go off AFTER Forced March expired.
+What you want to do is ensure you are in a safe spot when you are released from Forced March, which often means you will start by standing in an AOE so you will end not standing in an AOE. Be mindful of the killzones along the edge and in the middle of the arena
+Shockwave - In this phase, this will be cast with Child's Play instead of Generate: Barrier
+It will target both on tethered and untethered players. The color is irrelevant, just try not to stack too many AOEs or you'll die. It's a regular player-targeted aoe.
+Generate: Barrier - Unlike in phase 1, this will NOT be followed by Shockwave and there will be gaps already in the barrier. Arrows will also now appear in both colors and in both directions, but the same principles apply as before. Be between a barrier of the same color as its oncoming arrow.
+This is now ALWAYS cast TWICE and the arrows will be perpendicular on their second cast. So if they initially cast east/west + west/east they will then be cast north/south + south/north)
+Recreate Meteor - This is cast after two Generate: Barrier and unlike in phase 1 there are two meteors, one black and one white.
+Generate: Barrier Repeats ONCE on top of this and will remove sections of barrier.
+You want 1, avoid Generate: Barrier and 2, run to the safe zone where a black barrier and white barrier are between you and their respectively colored meteors. There will be only one safe combination of barrier sections.
+
+Xun-Zi & Meng-Zi
+Mini bosses. You will first start with Xun-Zi and when sufficiently damaged they will temporarily exit and then return on the north side of the platform with Meng-Zi spawning on the west.
+The only mechanics worth noting are as follows:
+Deploy Armaments - Telegraphed attacks used by both mid-bosses following the same rules as Knave of Hearts in the first battle,
+Red - A line AOE down the middle
+Yellow - Line AOEs down the sides
+This attack will be performed by both Xun-Zi and Meng-Zi one after another so make sure to position accordingly
+
+41626572726174696F6E: False Idol
+Part 1
+Screaming Score - raid-wide damage
+Made Magic - A red wheel will appear and start turning towards one side of the arena ,look at which way and head to the opposite way (so if the wheel is spinning to the right, go left and vice versa)
+Lighter Note - AoEs will spawn on 3 players and once placed/set will consecutively fire in the direction of the arrows
+Rhythm Rings - Rings will appear in front of the boss and purple bullets will slowly fall, get out of the way of them as beams will fire the entire part of the arena
+There will be two rounds of this, and boss will also cast Seeds of Magic which are small AoE puddles from the sky that fall
+
+Part 2
+Made Magic - A red wheel will appear and start turning towards one side of the arena, look at which way and head to the opposite way (so if the wheel is spinning to the right, go left and vice versa).
+Screaming Score - raid-wide damage
+Darker Note - all three tanks get a pink AoE damage marker
+Lighter Note - AoEs will spawn on 3 players and once placed/set will consecutively fire in the direction of the arrows
+Made Magic - A red wheel will appear and start turning towards one side of the arena; look at which way and head to the opposite way (so if the wheel is spinning to the right, go left and vice versa).
+Eminence - raid-wide damage and a Down for the Count buff applied, followed by cutscene and transition into next phase/boss. The party will also receive a checkpoint and will not need to repeat this boss if they wipe to the next one.
+
+Her Inflorescence
+Part 1
+Pervasion - the floor will become transparent, getting you ready for next cast
+Recreate Structure - a building below the floor will have a 5 circle countdown and you can see where/when it is going to come up - dodge as necessary. Anyone hit will be knocked off the platform and killed.
+This will repeat a couple of times
+Recreate Signal - changes the arena to a train track
+Mixed Signals - makes the signals red and green, stand on a red to miss the incoming trains
+This will repeat a couple of times and then the arena will reset back
+Lighter Note - AoEs will spawn on 3 players and once placed/set will consecutively fire in the direction of the arrows
+Screaming Score - raid-wide damage
+Darker Note - all three tanks get a pink AoE damage marker
+Heavy Arms - if the boss forms its arms into pillars, move to the middle, if the boss forms the pillar and hugs it/sits on it then move to the sides
+Distortion - players get a circle surrounding them - half white/half black
+Final Song - a large ring will start to drop in the center - you need to match your half of color to it to avoid damage
+Pillar Impact - you need to stand next to the first pillar as its a knockback, if you position correctly you should get knocked back to the other pillar that is also about to drop second and then it will knockback you again.
+Towerfall - both towers will start to fall and eventually fall, so move out of the away
+
+Part 2
+Recreate Signal - this time only 1 train track appears just off the arena
+Mixed Signals - calls a train to the track and it will stop, Red Girls will get off and start sending out purple balls which should be avoided
+Distortion - players get a circle surrounding them - half white/half black
+Final Song - a large ring will start to drop in the center - you need to match your half of color to it to avoid damage
+Heavy Arms - if the boss forms its arms into pillars, move to the middle, if the boss forms the pillar and hugs it/sits on it then move to the sides
+Lighter Note - AoEs will spawn on 3 players and once placed/set will consecutively fire in the direction of the arrows
+Heavy Arms - if the boss forms its arms into pillars, move to the middle, if the boss forms the pillar and hugs it/sits on it then move to the sides
+Recreate Signal - changes the arena to a train track
+Mixed Signals - makes the signals red and green, stand on a red to miss the incoming trains
+Note: The boss will cast Rhythm Rings before the trains arrive, blocking your view of what is to come, so be ready to check and move out of the way.
+Rhythm Rings - Rings will appear on the side of the arena and purple bullets will slowly fall, get out of the way of them as beams will fire the entire part of the arena
+Screaming Score - raid-wide damage
+Pillar Impact - again, stand next to the first pillar for its knockback, or use your knockback nullifier right before the first one drops.
+Towerfall - same as part 1.
+The mechanics then repeat until the boss is dead.
+</cleaned_strategy_text>

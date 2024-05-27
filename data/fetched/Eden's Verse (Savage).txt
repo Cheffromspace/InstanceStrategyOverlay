@@ -1,0 +1,70 @@
+Here is the cleaned up text for the Eden's Verse (Savage) strategy guide:
+
+General Information
+
+Eden's Verse (Savage) is the 2nd section of Eden (Savage), the main 8-player raid in Shadowbringers. Released on February 18, 2020, Eden's Verse (Savage) requires players with item level of 470 or higher to enter. Once unlocked, players can use Party Finder or other means of forming a full premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Shadowbringers). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+
+To access Eden's Verse (Savage), players must speak with Lewrey in Amh Araeng (X:26.8 Y:16.4) with a level 80 Disciple of War/Magic after completing the quest, Life Finds a Way.
+
+Floors
+
+Level Requirement: Disciple of War or Magic level 80
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Eden's Verse: Fulmination (Savage) | E5S | 470 | Ramuh | 15 | 90 min  
+Eden's Verse: Furor (Savage) | E6S | 475 | Garuda, Ifrit, Raktapaksa | 15 | 90 min
+Eden's Verse: Iconoclasm (Savage) | E7S | 480 | The Idol of Darkness | 15 | 90 min
+Eden's Verse: Refulgence (Savage) | E8S | 480 | Shiva | 15 | 120 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Gear
+
+- Edenchoir Weapons
+- Edenchoir Armor  
+- Edenchoir Accessories
+
+Rewards
+
+Upon completing Eden's Verse (Savage) duties, treasure coffers will appear containing Edenchoir Coffers. When used, these items transform into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Eden's Verse: Refulgence (Savage) yield weapons.
+
+Item Type | Equipment Reward
+Edenchoir Weapon Coffer (IL 505) | Weapons
+Edenchoir Head Gear Coffer (IL 500) | Head
+Edenchoir Chest Gear Coffer (IL 500) | Body
+Edenchoir Hand Gear Coffer (IL 500) | Hands
+Edenchoir Leg Gear Coffer (IL 500) | Legs
+Edenchoir Foot Gear Coffer (IL 500) | Feet
+Edenchoir Earring Coffer (IL 500) | Earrings
+Edenchoir Necklace Coffer (IL 500) | Necklace
+Edenchoir Bracelet Coffer (IL 500) | Bracelets
+Edenchoir Ring Coffer (IL 500) | Ring
+
+Weekly loot limits removed in Patch 5.31.
+
+Item Exchange
+
+In addition to gear, players will receive Eden's Verse apocrypha from each duty, which can be exchanged for gear of your choosing.
+
+By speaking with Ghul Gul in Amh Araeng (X:26.6 Y:16.4) or Yhal Yal in Eulmore (X:10.0 Y:11.5), players can exchange Eden's Verse apocrypha from Eden's Verse (Savage) for corresponding gear.
+
+Coffer Type | Required Token | # of Token
+Weapons | Book of Refulgence | 8
+Gladiator's Arm | Book of Refulgence | 5
+Shield | Book of Refulgence | 3
+Head | Book of Furor | 6
+Body | Book of Refulgence | 8
+Hands | Book of Furor | 6
+Legs | Book of Iconoclasm | 8
+Feet | Book of Furor | 6
+Accessories | Book of Fulmination | 4
+
+Loot
+
+- Eden's Verse: Fulmination (Savage) Loot: Bracelet, earrings, necklace, rings
+- Eden's Verse: Furor (Savage) Loot: Boots, gloves, head
+- Eden's Verse: Iconoclasm (Savage) Loot: Boots, gloves, legs, head
+- Eden's Verse: Refulgence (Savage) Loot: Chest, weapon, mount

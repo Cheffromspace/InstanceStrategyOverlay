@@ -1,0 +1,15 @@
+<span class="boss">Ghrah Luminary</span>:
+- Summons <span class="mechanic">Corruptions that tether and mark players with 🎯 Prey</span>
+- Marked players must <span class="mechanic">run to a passive mob to pass the debuff</span> before <span class="ability">Aetheric Mimicry</span> cast finishes
+- Transformed mobs have low HP, <span class="mechanic">pull aside before killing to avoid 🤢 poison pools</span>
+
+<span class="boss">8th Order Patriarch Be Gu</span>:
+- Uses room-wide 💥 AoE that <span class="mechanic">opens fissures in the floor</span>
+- <span class="mechanic">Pull Corrupted Gel adds and kill on top of fissures to plug them</span>
+- Destroys <span class="mechanic">purple Alchemy Engines immediately when summoned</span>
+
+<span class="boss">Progenitrix and Progenitor</span>:
+- <span class="boss">Progenitrix</span> summons a mix of <span class="mechanic">Grey bombs (kill immediately) and Lava bombs</span>
+- After Progenitrix dies, <span class="boss">Progenitor</span> spawns and summons:
+  - <span class="mechanic">Grey bombs (kill immediately)</span>
+  - <span class="mechanic">Blue Remedy bombs (hit to push away from Grey bombs)</span>

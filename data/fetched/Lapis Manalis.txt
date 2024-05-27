@@ -1,0 +1,41 @@
+Here is the cleaned up text for the Lapis Manalis dungeon guide:
+
+Lapis Manalis is a level 90 dungeon introduced in patch 6.3 with Endwalker. 
+
+Objectives:
+Arrive at the Silvan Throne.
+Clear the Silvan Throne. 
+Arrive at the forum messorum.
+Clear the forum messorum.
+Arrive at Deepspine.
+
+Bosses:
+
+Albion
+- Call of the Mountain: Herds of animals will charge through the room in line AoEs. Getting hit inflicts Concussion and damage-over-time.
+- Albion's Embrace: Telegraphed tankbuster 
+- Left Slam / Right Slam: Half-room cleave to the left or right of the boss.
+- Knock on Ice: Boss summons three chunks of ice.
+- Icebreaker: Boss destroys an ice chunk with a large circular AoE.
+- Icy Throes: Party spreads for AoEs. Two more ice chunks spawn.
+- Roar of Albion: Roomwide AoE that can be dodged behind ice chunks.
+
+Galatea Magna  
+- Waxing Cycle: Point-blank AoE followed by donut AoE on the previously safe area. Getting hit inflicts Sustained Damage.
+- Waning Cycle: Donut AoE followed by point-blank AoE on the previously safe area. 
+- Soul Scythe: Boss jumps to a cardinal and does a circular AoE cleave.
+- Soul Nebula: Unavoidable roomwide damage. Spawns two portals the boss will teleport between for cross AoEs. Getting hit inflicts Doom.
+- Tenebrism: Gives Glassy-eyed debuff. Four meteor circles must be soaked. Look away from others when debuff resolves to avoid Petrification.
+
+Drowned King: Cagnazzo
+- Stygian Deluge: Unavoidable party-wide damage. 
+- Antediluvian: Spawns growing bubbles that drop as AoEs. Knockback AoE in middle.
+- Hydraulic Ram: Boss telegraphs charge and circle AoEs, then executes them.
+- Hydrofall: Telegraphed stack AoE.
+- Cursed Tide: Boss assigns debuffs and becomes untargetable. Point-blank, stack, and circular AoEs resolve. Defeat adds before boss's Power reaches 100.
+- Tsunami: Party-wide damage after adds phase. 
+- Voidcleaver: Portals tether players and periodically spawn conal AoEs.
+- Lifescleaver: Multiple conal AoEs from boss.
+- Void Torrent: Line AoE tankbuster.
+
+The dungeon also contains lore entries found throughout and treasure coffers with item level 605 gear. Completing the dungeon is associated with achievements like Mapping the Realm: Lapis Manalis.

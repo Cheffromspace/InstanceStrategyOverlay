@@ -1,0 +1,32 @@
+<cleaned_strategy_text>
+A2S Guide
+This fight consists of nine waves of enemies and has a hard enrage timer of 10mins 30sec. Each wave will spawn several enemies and focusing down specific enemies that can debuff players while using AoE damage to burn down everything else is key. Like the Normal version of this fight, players can use the Gobwalkers to stun/debuff enemies, and explode to deal damage. Assign players to tanks before the fight.
+
+Wave 1
+2 Gordian Soldiers will spawn. Simply stack the enemies and burn them down. At low HP they will drop bombs that can explode and wipe the party, so kill the bombs at once.
+
+Wave 2
+2 Gordian Soldiers, 1 Gordian Sniper and 1 Gordian Hardmind will spawn. Snipers attack their target relentlessly, and the Hardmind will give enemies Magic Vulnerability Down, so focus on the Hardmind first. After this phase the first assigned player can enter their tank.
+
+Wave 3
+A soldier, sniper and a Hardmind will spawn in the north, while a Gordian Hardhelm and a soldier will spawn in the southwest. The Hardhelm will buff enemies with Physical Vulnerability Down. Players should stack enemies and use the Gobwalker to stun the Hardmind and Hardhelm and burn them down first to prevent enemies from being buffed. After the enemies are dead, move to the center for the next mob.
+
+Wave 4
+2 Soldiers, 2 Snipers spawn in the center, while an enemy Gobwalker will spawn in the northeast. Stun the middle group and burn them down quickly. The Gobwalker can't be stunned, so players don't need to wait for it to move to the middle of the room. The enemy Gobwalker will cause Vulnerability Up debuffs on the main tank, so take it out quickly. The player in the Gobwalker should remember to use Recharge on the enemy Gobwalker when it's HP drops to 15% or below to restore energy to their machine.
+
+Wave 5
+A Magitek Gobwidow Tank will spawn in the north and the southeast, and 2 Soldiers in the southwest. At this point the tanks should split, one grabbing the Gobwidow tank in the north, with the other grabbing the tank and enemies in the south. The party should take out the tank in the north first while the tank in the south focuses on burning down the Soldiers as much as possible. The Gobwidow tanks will mark their main targets with with Prey and soon after use Boomcannon, dealing damaged based on their current HP. Healers should keep tanks topped off so this attack deals very little damage. Be sure to have the Gobwidow in the north destroyed before the next phase.
+
+Wave 6
+1 Hardhelm will spawn in the southwest, and a Jagd Doll and a Gobwalker will spawn in the north. The north tank will grab the Doll and the Gobwalker. The south tank should grab the Hardhelm and the player in the Gobwalker should stun the Hardhelm and the Soldiers and the party should burn them down immediately, stunning again if necessary.
+By this point the north tank will be taking stacks of Vulnerability Up from the Gobwalker and cleave damage from the Jagd Doll, so be sure to mitigate. The south tank should bring the Gobwidow up to the north and pull the enemies off the north tank at around 4 or 5 stacks. Burn down the Gobwalker first to minimize the number of stacks on the tank, then the Jagd Doll to minimize damage, then finally the Gobwidow. The Gobwalker player can detonate their walker to help with damage and add additional vulnerability debuffs at this point.
+
+Wave 7
+4 Jagd Dolls will spawn, and tanks should split them, keeping them close to each other to maintain high raid damage while turning them away to avoid stacking the cleave damage. Focus down the dolls of the off tank and move to the southwest in preparation for the next wave.
+
+Wave 8
+2 Soldiers and 2 Snipers will spawn in the southwest, while a Hardhelm will spawn in the north and a Hardmind in the southeast. A lot of damage will come out here, so healers may pull aggro. Cover them if necessary. The off tank should pull the Hardmind and Hardhelm into the corner to stack with enemies, and the other assigned Gobwalker players should get in their machines and stun the enemies to keep them from buffing enemies. Once the Hardmind and Hardhelm are dead, one of the walkers can explode to deal damage and debuffs to help finish off enemies and burn down the Jagd Doll. After the last Doll dies, the final wave will spawn.
+
+Wave 9
+2 Gobwidows will spawn, one in the north, one in the south. A Gobwalker will spawn in the north, a Doll in the south, and 2 Soldiers and 2 Snipers in the southeast corner. Tanks will grab the north and south mobs and drag them to the southeast corner to stack enemies. The last walker player can stun enemies and the party should use all their powerful AoEs. Popping Limit Breaks is also effective here. Destroy the enemy Gobwalker first, the Jagd Doll, then finally the Gobwidows. Players can detonate at this point as there are no bombs in this phase. Players simply need to defeat the enemies before the hard enrage timer to win the encounter.
+</cleaned_strategy_text>

@@ -1,0 +1,11 @@
+<strategy_text>
+The fight takes place in a circular arena. If a player is knocked out of the arena they will be stunned for several seconds though will be able to jump back in once they are no longer stunned. If however all players are knocked out of the arena then the fight will wipe.
+
+At the start Ultros and Typhon should be tanked separately, with DPS focusing on Typhon. After a period of time all DPS will be transformed into Imps, losing all their abilities but being able to use "Imp Punch". As Imps players must be hit by Ultros' Aqua Breath attack in order to gain a stack of wet plate. Each DPS should aim to get two stacks of wet plate. After a period of time Typhon will then move to the center of the arena and begin to cast his big sneeze. At this point imps should approach him and cast Imp Punch on him. If players had a total of eight stacks then Typhon will stop casting, if players did not however it will cause a wipe.
+
+Once done players will have a period of time to damage Typhon again, before being once more transformed into Imps. In this phase however Typhon will go to the center and cast Snortsault, which places a line of air from each of his mouths splitting the arena in two, which slowly rotates around the arena. Players hit by this air will be knocked out. At this point all imps and the tank with Ultros should aim to be on the same side while once again being hit by Ultros' bubbles to get wet plate stacks, while avoiding the AoE and Typhon's Snortsault. After a while Typhon will cease his spell and once more begin to cast his big sneeze, where once more Imps need to cast Imp Punch upon him (once again if there are eight stacks total he will cease to cast it, if not he will knock all players out of the arena wiping the run).
+
+If players know that they have messed up the imp punch, they can pre-preemptively leap out of the arena. When their teammates are knocked out, they can jump back in as their stun ended, avoiding the wipe.
+
+At this point the fight will devolve into a simple case of dodge the various AoEs. Occasionally Typhon will head to the center and begin casting Snort. This will cause damage to all players and knock them a small amount of space towards the edge of the arena. Players should thus be towards the center of the arena when they see Typhon casting this.
+</strategy_text>

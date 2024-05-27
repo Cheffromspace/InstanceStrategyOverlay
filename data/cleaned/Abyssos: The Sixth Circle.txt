@@ -1,0 +1,28 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Hemitheos: Hegemone
+Please note the arena is surrounded by a purple border that will kill players if touched. Also note that failing any mechanic will debuff with a stacking Vulnerability Up.
+
+Abilities
+Aetheric Polyominoid: Calls down four needles around the arena that land at the inner corner of the outermost intercardinal tiles, creating either a danger zone or a safe zone at each tile it touches. Step out of the pulsating tile to avoid.
+Choros Ixou: The boss moves to the center and points her hands at either the east and west, or north and south of the arena, and fires a conal AoE that takes up roughly a quarter of the arena in those directions. Move away from the direction the boss's hands are pointing to avoid.
+Hemitheos's Dark IV: Unavoidable room wide AoE.
+Transmission: The boss tethers to players, and they will be infected with a Glossomorph debuff. At the resolution of the debuff, players will be frozen in place and fire a conal AoE that reaches across the arena, dealing high damage and debuffing with a Vulnerability Up stack.
+Synergy: A tankbuster that targets both tanks. Inflicts a light 15 second Bleed debuff. Any other player hit by the AoE will die.
+Strophe Ixou: The boss will rotate either clockwise or counter-clockwise in accordance with the arrows that appear, and fire conal AoEs in front of and behind her hitbox until she has completed a full 360 degree rotation.
+Dark Ashes: An AoE will appear under each player, then deal damage shortly after. Separate to avoid overlapping damage.
+Aetherial Exchange: The next Aetheric Polyominoid will become Polyominoid Sigma, and will tether in pairs and switch locations before the cast fires. Some of the Polyominoids will have no safe zone.
+
+Strategy
+The boss starts with Aetheric Polyominoid, creating various safe and danger zones on the floor. Players simply need to move to a tile that is not pulsating to avoid. The boss will then return to the center of the arena, and cast Choros Ixou three times. To avoid, players must watch which direction the boss points her hands, and move away from that direction.
+
+At roughly 80% health, the boss will tether to a tank, healer and two DPS and cast Transmission, inflicting the debuff Glossomorph. She will then tether to the other tank, healer and DPS. When the debuff reaches five seconds, a large timer will appear over the infected players head, indicating the end of the debuff. When the timer finishes, players will be frozen in place by the debuff Out of Control, then fire a conal AoE in the direction they are facing. If hit by this, players will take high damage and a Sustained Damage debuff. To handle this, players should turn towards the outside of the arena before the timer reaches zero so their attack will fire harmlessly over the edge of the arena.
+
+After all the debuffs have resolved, the boss will cast Synergy, targeting both tanks (or the two highest in the enmity list if a tank is dead) and dealing high damage and inflicting a light Bleed debuff in a small AoE around each target. If any player other than the tanks are hit by this, they will die. The boss will follow this up with another Aetheric Polyominoid paired with a Choros Ixou, so players should be prepared to move to a safe zone, and close to the boss to mitigate taking overlapping damage.
+
+The boss will then use Strophe Ixou, so players will need to watch which direction the arrows are pointing and rotate around the boss to avoid getting hit. After this the boss will return to the center of the arena if she's been moved and cast another Transmission, tethering to all players this time. Players will get either a ten second or twenty second debuff, but it is still handled the same way as before. The boss will also fire a Choros Ixou, so players should be sure not to get hit by this when positioning for the debuff timer. Before the second set of debuffs fire, the boss will also cast Dark Ashes, placing an AoE under each player, requiring them to spread out to avoid overlapping damage. Players with debuffs should still face away from the center of the arena. The boss will follow up with another Synergy.
+
+After the boss reaches 50% health or below, she will begin to use Aetherial Exchange, causing the Aetheric Polyominoid to become Polyominoid Sigma. When the Polyominoids appear, they will tether in pairs, and then swap positions just before the cast finishes, moving the safe locations. Players need to be aware of where the new safe areas will be after the swap, as some will not have a safe zone at all. Players should stand on the tile where the safe zone will appear after the cast finishes to avoid damage. The boss will cast this twice, then move to the center of the arena and use Hemitheos's Dark IV.
+
+From here the boss will repeat her moveset starting with the Aetherial Exchange/Polyominoid Sigma/Strophe Ixou combination until she is defeated.
+</cleaned_strategy_text>

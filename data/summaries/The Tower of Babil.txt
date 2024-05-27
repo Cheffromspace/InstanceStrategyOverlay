@@ -1,0 +1,24 @@
+<span class="boss">Barnabas</span>:<br>
+- <span class="ability">Ground and Pound</span>: 🎯 Avoid delayed line AoE<br>
+- <span class="ability">Dynamic Pound</span>: <span class="mechanic">Match 🔗 tether polarity to AoE polarity</span> (same = 💨 knockback, opposite = pull)<br>
+- <span class="ability">Shocking Force</span>: 🤝 Stack to share damage<br>
+- <span class="ability">Dynamic Scrapline</span>: <span class="mechanic">Match boss 🔗 tether polarity</span> (same = 💨 knockback, opposite = pull)<br>
+- <span class="ability">Thundercall</span>: 🏃 Stand between lightning orbs, avoid boss AoE<br>
+
+<span class="boss">Lugae</span>:<br>
+- <span class="ability">Thermal Suppression</span>: 💥 Unavoidable AoE, mitigate and heal<br>
+- <span class="ability">Magitek Missile</span>: 🎯 Avoid targeted AoEs<br>
+- <span class="ability">Magitek Ray</span>: 🏃 Avoid line AoE<br>
+- <span class="ability">Magitek Chakram</span>: <span class="mechanic">Step on Purple Plate for 🌟 Minimum buff</span> to avoid Chakrams<br>
+- <span class="ability">Downpour</span>: <span class="mechanic">Step on Green Plate for 🐸 Toad buff</span> to remove 🤢 Breathless stacks<br>
+- <span class="ability">Magitek Explosion</span>: 🏃 Determine safe zone between untelegraphed cross-line AoEs<br>
+
+<span class="boss">Anima</span>:<br>
+- <span class="ability">Lunar Nail</span> + <span class="ability">Phantom Pain</span>: 🏃 Move to safe quadrants without 🔗 tethers on all sides<br>
+- <span class="ability">Mega Graviton</span>: 💥 Unavoidable AoE, summons Mega-Gravitons<br>
+- <span class="ability">Pater Patriae</span>: ➡️⬅️ Avoid line AoE down center<br>
+- <span class="ability">Aetherial Pull</span>: <span class="mechanic">Run to opposite side of 🔗 tethered Mega-Graviton</span>, avoid pull-in with Arm's Length or Surecast<br>
+- <span class="ability">Boundless Pain</span>: 🏃 Run to corners to escape expanding AoE<br>
+- <span class="ability">Imperatum</span>: <span class="mechanic">Defeat lower Anima before ⏳ Chaos gauge fills</span> to avoid wipe<br>
+- <span class="ability">Obliviating Claw</span>: 🏃 Stand in gaps between moving claw AoEs<br>
+- <span class="ability">Erupting Pain</span>: 🎯 Place follow AoEs on E/W edges, run to opposite side<br>

@@ -1,0 +1,17 @@
+<span class="note">Pandæmonium: Abyssos</span> (Endwalker 8-player raid):<br>
+- Released: August 23, 2022<br>
+- 🔒 Unlock: Complete lvl 90 quest "An Unwelcome Visitor" from Claudien (Labyrinthos X:8.6 Y:27.5)<br>
+- 📜 Quest Prerequisite: "Who Wards the Warders?"<br>
+- 🎚️ Item Level: 585+<br>
+<br>
+<span class="boss">Floors</span>:<br>
+1. <span class="ability">The Fifth Circle</span> (P5N) - Boss: Proto-Carbuncle<br>
+2. <span class="ability">The Sixth Circle</span> (P6N) - Boss: Hegemone<br> 
+3. <span class="ability">The Seventh Circle</span> (P7N) - Boss: Agdistis<br>
+4. <span class="ability">The Eighth Circle</span> (P8N) - Boss: Hephaistos<br>
+<br>
+<span class="note">All Floors</span>:<br>
+- 👥 Party Size: 8 players<br>
+- ⏱️ Time Limit: 90 min<br>
+- 💰 Tomestones: 10<br>
+- 🔓 Unlock Next Floor: Complete quest & previous floor

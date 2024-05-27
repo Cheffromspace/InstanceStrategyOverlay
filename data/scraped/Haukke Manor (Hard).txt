@@ -1,0 +1,52 @@
+Here is the cleaned up text for the Haukke Manor (Hard) strategy guide:
+
+Haukke Manor (Hard) is a level 50 dungeon introduced in patch 2.1.
+
+Objectives:
+- Clear the White Hall
+- Clear the Red Hall  
+- Defeat Halicarnassus
+
+Enemies:
+- Altered Wailer
+- Manor Acrobat
+- Manor Claviger
+- Manor Warden
+- Manor Sentry
+- Manor Butler
+- Taurus Minion
+- Manor Footman
+- Congealed Blood
+- Writhing Statue
+- Manor Handmaiden
+- Lady Amandine
+
+Bosses:
+
+Manor Jester
+Manor Jester will cast Void Blizzard which damages players and applies the Slow debuff. Healers should remove Slow with Esuna. Kill the adds that spawn and avoid the AoE ice patches.
+
+Ash  
+Players who are not the tank should avoid standing in front of the boss to avoid cleave attacks. Be ready to move to avoid the glowing blue spirit cutters. Avoid swirling swords spawned by the boss. When the boss casts Abyssal Transfixion and applies Paralysis, the healer should remove it quickly. Kill the add as soon as possible when spawned.
+
+Halicarnassus
+This is a series of DPS races. Avoid the AoE spells Void Fire III and Dark Mist as they cannot be stunned. The boss will summon adds: first one, then two, then finally one.
+
+Manor Sentry - When absorbed, Halicarnassus gains immunity to stun/silence.
+Manor Handmaidens x2 - When absorbed, she gains a Determination buff (increased damage).
+Lady Amandine - Normal-mode Haukke Manor boss.
+
+After absorbing an add, she will cast the unavoidable Blood Rain spell. The more health the add had, the more damage Blood Rain will do, so each wave is a DPS race. Ignore adds at 0% HP.
+
+For the two Handmaidens, bring one down to 0% HP and focus the other. If neither is at 0% when absorbed, she will choose one at random and likely wipe the group if it has full health.
+
+For Lady Amandine, using a DPS Limit Break is recommended. If significantly overgeared, she may instantly absorb Amandine which can wipe the group, so keep her around 35% until Amandine's health is low.
+
+Once the final add is dead, drag the boss to the center. At 15% HP, she will use Beguiling Mist which Charms players to walk towards her while using Void Fire IV AoEs. Kill her before the third Beguiling Mist.
+
+Loot:
+- Allagan Tomestones of Poetics from bosses
+- Ilvl 60 armor and accessories
+
+Achievements:
+- Remapping the Realm: Haukke Manor - Discover all locations

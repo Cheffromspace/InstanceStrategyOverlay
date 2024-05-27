@@ -1,0 +1,42 @@
+Here is the cleaned up text for the Xelphatol dungeon strategy guide:
+
+Xelphatol is a level 60 dungeon introduced in patch 3.4 with Heavensward. 
+
+Objectives:
+1. Arrive at the Cage.
+2. Defeat Nuzal Hueloc.
+3. Arrive in the Tiachtli.
+4. Defeat Dotoli Ciloc.
+5. Eliminate impending enemies.
+6. Defeat Tozol Huatotl.
+
+Bosses:
+
+Nuzal Hueloc
+- Wind Blast: Path AoE
+- Lift: Boss jumps up and summons 3 adds, kill turret first
+- Air Raid: Party-wide AoE
+- Hot Air: Party-wide AoE cast by the turrets, throws everyone up
+- Airstone: Add tethered to the boss or turret, kill ASAP
+- Long Burst: Unavoidable, targets random player
+- When 4 Airstones appear tethered to a turret, kill the Airstones first. Otherwise, kill turrets first.
+- After the turret's health reaches 0, it will begin casting Hot Air. During the cast, players should position themselves underneath Nuzal which will bring him down after the cast is complete.
+
+Dotoli Ciloc  
+- On Low: Frontal cleave
+- On High: Party-wide AoE with push back, stand with your back to the barriers or you will fall in the spike pit
+- Dark Wings: Targets random player and spawns windy AoE in their place, move out  
+- Terrible Fury: Marks a random player and AoE blasts them, move away
+- Swiftfeather: Causes the next On Low to be almost instant. On Low is used right after. Cannot be dodged to the side as the cast is instant, so tank must move away from the boss preemptively to dodge.
+
+Tozol Huatotl
+- Ixali Aero III: Party-wide AoE  
+- Ixali Aero II: Path AoE
+- Hawk: Resolves to either a stack marker or a spread marker
+- Summon Garuda: Boss summons untargetable Garuda, she fires a room-wide AoE with some safe areas and marks everyone with green crystals and AoE rings, spread out
+
+Lore:
+
+The Ixal settled the windswept mountains of Xelphatol more than five hundred and fifty years ago after being forced to flee the Black Shroud. These harsh lands were a stark contrast to their former lush home. While water was abundant, the unyielding rock suffered no crops and sustained little game. 
+
+Yet the Ixal expanded their dominion over the entire region. They never forgot that which was denied to them, and sought to summon Garuda to strike down their enemies. Sensing the wind's rising, the Scions of the Seventh Dawn sent forth the Warrior of Light to quell the gathering storm in the heart of enemy territory.

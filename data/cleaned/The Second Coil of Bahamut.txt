@@ -1,0 +1,12 @@
+<strategy_text>
+The Second Coil of Bahamut is the second section of The Coils of Bahamut, the level 50 8-player raids in A Realm Reborn. The Second Coil of Bahamut was released in patch 2.2, and requires players with item level of 105 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Players must first complete all of the Bahamut Quests up through Alisaie's Pledge. This includes clearing all of The Binding Coil of Bahamut raids. Players can then begin the level 50 quest Another Turn in the Coil by talking to Urianger (x6, y4) in The Waking Sands. Players may proceed to any of the four floors in this raid tier after unlocking them, although the floors are intended to be done in order for story purposes. To continue the questline, complete The Second Coil of Bahamut - Turn 4 to unlock Alisaie's Resolve.
+
+The Second Coil of Bahamut - Turn 1: Rafflesia (Item Level 90)
+The Second Coil of Bahamut - Turn 2: Melusine (Item Level 95)  
+The Second Coil of Bahamut - Turn 3: The Avatar (Item Level 100)
+The Second Coil of Bahamut - Turn 4: Nael deus Darnus (Item Level 105)
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+</strategy_text>

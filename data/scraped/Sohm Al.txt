@@ -1,0 +1,65 @@
+Here is the cleaned up text for the Sohm Al dungeon guide, with unnecessary content like image tags and links removed:
+
+Sohm Al
+
+Level: 53 (Sync: 54)  
+Item Level: 105
+Difficulty: Normal
+Party size: Light Party 4 man • 1 tank 1 healer 2 DPS
+Unsyncing: Allowed  
+Time limit: 90 minutes
+Duty Finder: Dungeons (Heavensward)
+Roulette: Leveling
+Req. quest: Mourn in Passing
+Entrance: The Dravanian Forelands (X:8, Y:6)
+Modes: Duty Support, Explorer
+Patch: 3.0
+
+"Sohm Al. Casting its shadow over the Dravanian forelands, this towering peak is revered by the dragons as both holy ground and resting place. And now, in accordance with your pact, Vidofnir has thrown open to you the final ascent to the sacred mount's summit. But Nidhogg's minions will not lightly suffer this intrusion. Ere you gaze upon the fabled expanse of the Churning Mists, you must first carve a path through the mountain's denizens and overcome the consort of Nidhogg, herself─the she-dragon, Tioman."
+
+Duty Support: Ysayle (Oracle of Frost, Tank or DPS), Alphinaud (Academician, Healer or DPS), Estinien (Dragoon, DPS)
+
+Objectives:
+Defeat Raskovnik.
+Defeat Myath. 
+Defeat Tioman.
+
+Enemies:
+Flying Killer, Abalathian Vulture, Blooming Ochu, Drakespur, Pollen Cluster, Dravanian Hornet, Eruca, Abalathian Fox, Sacred Drake, Pyrodragon, Overgrown Difflugia, Abalathian Tursus, Ice Boulder, Glacier Sprite, Cryodragon, Chyme of the Mountain, Deep-mountain Gallimimus, Sacred Biast, Deep-mountain Wyvern, Ergodragon, Wounded Cryodragon, Wounded Pyrodragon, Right Wing of Injury, Left Wing of Tragedy
+
+Bosses:
+
+Raskovnik
+- Acid Rain places small AoE circles on all players
+- Sweet Scent spawns Dravanian Hornets that move towards the boss, kill before they reach
+- Raskovnik marks and draws in a player, stunning them, then casts Flower Devour (circular AoE), hornets in range increase damage
+- Spit is a room-wide AoE to heal through
+
+Myath  
+- Razor Scales is a large cone AoE targeted at a random party member 
+- Primordial Roar does party damage and spawns blob enemies (2 red, 2 blue)
+- Myath leaps on blobs and casts Mad Dash at a player, color corresponds to blob color:
+    Red: Stack marker on player
+    Blue: Purple AoE, stay away from others
+- Second Primordial Roar spawns a large green Chyme of the Mountain that casts The Last Song (high party damage if not killed)
+
+Tioman
+- Abyssic Buster is a frontal cone, face boss away  
+- Chaos Blast places line AoE telegraphs randomly
+- Comet spawns random AoE circles and marks non-tanks with comet markers, move to edge then run back in after marker drops
+- Later Comet marks all non-tanks
+Wing Phase (under 50% HP):
+    - Wings become separate targets, attack to make her vulnerable again
+    - Heavensfall repeatedly targets a random player with unavoidable attack + AoEs to move out of
+    - Dark Star is unavoidable party damage
+
+Loot: 
+Weapons, armor and accessories (item level 130) including: 
+Woad weapons and gear pieces for various roles
+Tioman Card, Slumber Eternal Orchestrion Roll
+Additional treasure coffers containing gear, dyes, prisms
+
+Achievements:
+Mapping the Realm: Sohm Al (Discover all locations)
+
+Lore passages covering the history and significance of Sohm Al, Tioman, and other dungeon elements.

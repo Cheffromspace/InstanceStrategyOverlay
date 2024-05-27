@@ -1,0 +1,35 @@
+<cleaned_strategy_text>
+This is a gauntlet fight made up of multiple ADS-type bosses. The first boss you see will start the timer on the gauntlet and you must kill every boss including the final one before the timer runs out or the pretty lights will wipe the entire raid.
+
+Global Mechanics (used by ADS and all other nodes):
+High Voltage: Inflict moderate raidwide damage and apply Paralysis which periodically Stun the affected player. This should be interrupted.
+Repelling Cannon: A pointblank AoE that can be avoided
+Cleave: Frontal cone attack that also apply a stack of Vulnerability Up. Tank swap should occur at around 4 stacks
+Vacuum Wave: Inflict a low raidwide damage. Healers should keep this in mind.
+
+Monitoring Node:
+Upon death, all remaining mobs will gain Physical Damage Up buff increasing their damage dealt.
+
+Defense Node:
+Chain Lighting: Blast a random player with lightning and jumping to nearby players dealing damage. Spread out to minimize damage.
+Upon death, all remaining mobs will gain Slashing Resistance, reducing slashing damage taken by about 25%.
+
+Disposal Node:
+Firestream: An AoE in a star-like formation consisting of 5 AoE lines, dealing damage and applying a severe DoT to anyone hit. Move away from the AoEs to avoid getting hit
+Upon death, all remaining mobs will gain Magic Resistance, reducing magic damage taken by roughly 25%.
+
+Quarantine Node:
+Allagan Rot: Debuffs a random player with Allagan Rot. If this debuff expires it will explode dealing massive damage to the raid. This debuff can be passed on to another player, resetting its duration while applying Allagan Immunity on the spreading player preventing them from receiving Rot until it expires. Stay spread and assign order for passing Rot.
+Upon death, all remaining mobs will gain Haste, reducing cast and recast time by 50%.
+
+Attack Node:
+Gravity Field: Place down a Gravity Field on a random dealing damage and slowing down anyone standing inside it
+Upon death, all remaining mobs will gain Blunt Resistance, reducing blunt damage taken by 25%
+
+Sanitary Node:
+Ballast: Face a random direction and create three layers of ring that will damage and knocks the player back if stood inside them. Go behind the boss or run away from it.
+Upon death, all remaining mobs will gain Slashing Resistance, reducing slashing damage taken by 25%
+
+ADS (final boss):
+The final boss will use all the global mechanics and use any abilities from the nodes you haven't killed yet. If the Quarantine Node has been killed, it will gain either Gravity Field or Firestream at 75% HP and either Ballast or Chain Lightning at 50% HP. If the Quarantine Node has not been killed, it will gain Allagan Rot at 75% HP with other mechanics postponed to 50% and 25% HP. Vacuum waves will return with greatly increased damage.
+</cleaned_strategy_text>

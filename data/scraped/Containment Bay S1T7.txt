@@ -1,0 +1,34 @@
+Here is the cleaned up version of the strategy guide text:
+
+Containment Bay S1T7 is a level 60 trial introduced in patch 3.2 with Heavensward.
+
+Strategy
+
+The Fiend: Sephirot
+
+Updated Shadowbringers Guide
+Sephirot (Normal) Guide
+He has no casting bars or ground indicators, so this fight is extra fun!
+
+Phase 1
+Generally, try and keep DPS and healers stacked up behind him for this phase.
+
+Fiendish Rage - 1 player is marked with the 4 arrows indicator. All other players should stack on them to share the damage.
+Ratzon - Approximately 6 players will get a small green AoE mark on them. These players should spread out to avoid stacking the damage taken. 
+Ain - The arm air push. Sephirot will turn to face a random player and hold very still with his arms up. This attack has a 180-degree blast radius, has no cast and gives a Vulnerability Up debuff on hit, but can easily avoided by stacking behind him.
+At the phase change (about 60% hp) he'll spawn Cochma and Binah adds, burn down Binah first, then Cochma.
+
+Phase 2
+This starts at around 60% health - be careful as you can fall off the platform during this phase.
+Stay in the center as best you can.
+Pillar of Mercy - fist strikes on the blue circles with knockback - stand next to them (not inside otherwise you take the dmg) on the inside of the arena to avoid being knocked off the platform.
+He puts individual markers on two players which look like giant beams of light. He will do a large cleave at these two. Various strategies can be applied, but easiest is just strafing to a side, having marked players go one way, and non-marked go the other way. Use of waypoints is recommended.
+Kill the Storm of Words add quickly, before it casts Revelation - if it casts Revelation you'll wipe. Once Storm of Words is dead, focus on killing the Binah/Cochma adds. 
+It will drop an air current on death, when it's marked by arrows stand inside to avoid the arm sweep.
+After the arm sweep he will charge up a beam, spread out before restacking in the center.
+He will summon two large red pillars. One person needs to stand in each pillar to avoid raid damage (Tanks are a good choice for this.)
+
+Loot
+10 Allagan Tomestone of Poetics
+Sephirot Card (Drops at a fixed rate.)
+Sephirot Sap Drops directly from boss, must be synced

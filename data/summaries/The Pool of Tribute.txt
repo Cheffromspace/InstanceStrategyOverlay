@@ -1,0 +1,20 @@
+<span class="boss">Susano</span>:
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Assail</span>: 🛡️ Tankbuster, use mitigation
+- <span class="ability">Rasen Kaikyo</span>: 🔴 Circular AoEs on each player, 🤢 Lightning Resistance Down
+- <span class="ability">Yata No Kagami</span>: 🎯 Marked player knocked back, determines safe area for platform AoE
+- <span class="ability">Brightstorm</span>: 🤝 Stack on marked player to share damage
+- <span class="mechanic">Dark Clouds</span>: ➡️⬅️ Avoid line AoEs, inflict Paralysis
+
+<span class="boss">Phase 2</span>:
+- <span class="mechanic">Flower crystal</span>: Tank picks up, receives 🤢 Flesh Wound debuff
+- <span class="ability">Ame-no-Murakumo</span>: 💥 Focus damage on sword to interrupt cast
+- <span class="ability">Sheer Force</span>: Off-tank intercepts orbs to prevent splash damage
+- <span class="note">Unavoidable damage</span>: Move out of red line AoE
+
+<span class="boss">Phase 3</span>:
+- <span class="ability">Stormsplitter</span>: ➡️⬅️ 🛡️ Line AoE tankbuster, use mitigation
+- <span class="ability">Ama-no-iwato</span>: Destroy marked stone to free trapped player
+- <span class="note">Correct stone is bottom-most target in enemy list</span>
+- <span class="ability">Ukehi</span>: 💥 Moderate party-wide damage, 1-2 hits

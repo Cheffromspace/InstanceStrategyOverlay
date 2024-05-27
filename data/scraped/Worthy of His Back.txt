@@ -1,0 +1,50 @@
+Here is the cleaned up text from the strategy guide:
+
+Worthy of His Back
+
+Walkthrough
+Tactics for the duel with Venat
+
+Phase 1
+This will be a multi-phase encounter as Venat switches through various fighting styles throughout the fight, starting with 'Hero's mantle, a sword form. This first phase ends at 80% and includes:
+
+Kleos: Deals unavoidable damage and covers the edge in searing light. Entering the edge of the arena will deal damage and inflict bleeding, so move carefully as you avoid the following attacks.
+
+Circumzenithal Arc: Venat will quickly move to one side of the arena and begin charging this attack. Circumzenithal Arc is a wide AoE to the front of Venat, covering the side of the arena she is facing. The AoE indicator won't appear until just before this attack finishes casting, so move quickly behind Venat once she jumps away.
+
+True Blink: Venat will summon clones that jump to the edges of the arena and begin charging line AoE attacks, covering the majority of the arena. There will be two safe spots on either side of the clones at the edges of the arena; move there to avoid this attack.
+
+Venat will then cast Circumzenithal Arc, so move back behind her.
+
+Circle of Brilliance: Venat will summon four moving AoEs around the edges of the arena. These will slowly move in a straight line across the arena, dealing damage at set intervals. Predict the path of each AoE as you dodge them to avoid this attack.
+
+Phase 2
+When Venat reaches 80% health, she will cast Mousa's Mantle and switch her equiped weapon to Dancer Chakrams. New mechanics include:
+
+Epea Pteroenta: With her Chakrams equipped, Venat will cover the arena in three triangle-shaped AoEs, one at a time. Stand in the final AoE indicator to appear, then quickly move into the area where the first AoE explodes to avoid the remaining two AoEs.
+
+Parhelion: Venat will begin attacking with a series of AoEs. Three thin cone AoEs will stretch to the edges of the arena, while a circle AoE appears in the center. Then, as Venat rotates, the cone AoEs will move in the same direction as her, dealing damage at set intervals. At the same time, a ring AoE will appear around the edge of the circle from before, followed by a final circle around the edge of the arena.
+
+Phase 3
+At 66%, Venat will again cast Mousa's Mantle and swap her weapon to a White Mage staff. New mechanics include:
+
+True Aero IV: Deals unavoidable damage, then summons a series of wind orbs around the arena. These will emit point-blank AoEs at set intervals, so stay away from them.
+
+Afflatus Azem: While the wind orbs from True Aero IV are still on the field, Venat will target you with Afflatus Azem. This attack will send an AoE chasing after you, which you will need to run away from. Navigate through the wind orbs to avoid Afflatus Azem.
+
+True Holy: Venat will move to the center of the arena and begin charging this attack. True Holy will knock you back from the center of the arena. You will need to position yourself so that you aren't knocked into any of the wind orbs.
+
+True Stone IV: Venat will cover the arena in a series of large circular AoEs. Dodge these by moving into the ones that appear last, then quickly move into the AoEs that exploded first.
+
+※ When Venat reaches 40% health remaining, she will become untargettable and summon Thelema adds, which moves towards her to charge her Aether gauge. Defeat them to reduce the charge as much as possible, and focus especially on the faster red ones while avoiding circular AOEs.
+
+After defeating a few waves of Thelema, Venat will unleash her ultimate attack, Thelma, which will be unsurvivable if the gauge reached 100%. The fight will end once Thelma is withstood.
+
+Steps
+Survey the area from the vantage point.
+Speak with Venat. 
+Speak with Venat.
+Speak with Venat again.
+
+Journal
+Venat has a new course of investigation in mind.

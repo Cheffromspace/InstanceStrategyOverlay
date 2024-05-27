@@ -1,0 +1,37 @@
+<cleaned_strategy_text>
+This is another Gauntlet fight. There is no final boss per se in this Turn but there is a ton of ADDS that have some simple but annoying mechanics. Combat will not start until a player interacts with a terminal on the map.
+
+There are 6 Phases in the fight.
+
+Phase 1
+Bugs will spawn in a semicircle in front of where you're standing. These bugs attacks drain life, restoring it to themselves. Damage reduction abilities can make this phase go by quickly and easily. DPS should be able to kill all of these bugs, before the next phase. group the bugs together and AOE them down.
+
+Phase 2
+2 Knights and 2 Soldiers will spawn close to where the bugs spawned. The Knights will reflect any Magical Damage back to the attacker, Only Physical DPS can attack the Knights. The Soldiers have a stoneskin mechanic that negates all physical damage done to them until the stoneskin is "popped" when popped the soldier will stand there and do no damage.
+
+If you're running this with an optimal group (2 phys 2 magi) split DPS. physical DPS killing the Knights and magical killing the soldiers. DPS should be able to kill all of the adds on the "Main tank" before the next wave. If there is a soldier or knight still up on the "Off tank" it should be dealt with first before the next phase's add is dealt with. The "Main tank" role is best filled by a PLD.
+
+During this phase we had both tanks using their DPS Stance until their adds were low/dead. The Warrior tank's adds would die second since the PLD was going to pick up the next phase spawn. The PLD needs to remember to put shield stance back on before the Dreadnought spawns for the next phase. Its important that the Main Tank or PLD tank their Knight and Soldier to the left/west side from where you first spawn in. This is where the dreadnought spawns and it needs to be picked up immediately. All Healers and DPS should make their way to the far wall behind the PLD tank before the Dreadnought spawns.
+
+Phase 3
+Dreadnought #1. This phase is 1 dreadnought. It is best tanked by a PLD because it hits incredibly hard and the PLD has better defensive cooldowns, damage reduction abilities are useful in this situation.
+
+As the Dreadnought spawns all DPS and Healers should be standing behind it against the Wall. This is because a set of bugs also spawn which will be eaten by the Dreadnought. These bugs will buff the dreadnought to do about 4x normal damage, but take too long to kill. Healers just need to go all out keeping the tank topped off or he will die.
+
+The main tank after the Dreadnought eats the bugs needs to move the Dreadnought to where everyone originally spawns. all dps and healers then should be standing behind the grate to the left of where everyone spawns close to the wall. DPS down the dreadnought quickly popping short damage cooldowns, and potions as necessary. This dreadnought should be dead or very nearly dead before the bugs spawn in the next phase. The positioning on the DPS and healers is to alleviate the chance that if DPS is slow, and the dreadnought is still alive it wont eat more bugs and heal itself which will wipe the raid.
+
+Phase 4
+Bugs and Rooks will spawn throughout the room. A bard needs to pick up one of the Rooks while the off-tank picks up the other and everything else in the room. Healers and DPS can stay where they were previously during the last phase. The Rooks are the primary targets for this fight, but everything needs to be dead before the next phase so it is helpful if they are all grouped up and able to be AOE'd down. The Rooks have a very long cast called POX. POX is a frontal cone with no red indicator on the ground. POX will reduce the target's maximum HP by about 1k if it hits, Tanks/Bard Tank need to move away from its front when its cast, and try to point the rooks away from the raid. If the Main Tank's Dreadnought is dead early he can pick up the second rook, otherwise he can provoke it off the bard after the Dreadnought is down, the main tank CANNOT be POXed because he must pick up another Dreadnought next phase. All the adds during this phase must be killed.
+
+Phase 5
+Dreadnought and Knight, Soldier. The main Tank (pref PLD) should pick up the dreadnought and tank him at the Far north corner of the room. Close to where it spawns, against the wall. The Offtank will need to pick up the Knight and Soldier and tank them as best he can on the opposite side of the room. DPS and Healers should be in the middle of the room during this phase. DPS should all focus on their respective Knight/Soldier similarly to the Phase 2 fight. The dreadnought doesn't hit as hard as the first Dreadnought because it is not stacked up. You need to kill off the knight and soldier before the final phase begins. If your DPS is good you should be able to also get about 1/4 to 1/2 of the life off the dreadnought before the final set of adds.
+
+Phase 6
+This is the hardest phase of the entire fight. The Main tank will be tanking 2 Dreadnoughts, one of which is usually gaining 1 stack because it spawns too close to a bug, while the off-tank is tanking everything else in the room minus one Rook which will be burned down by the DPS, after being picked up again by the Bard and pointed away from the room.
+
+This phase Spawns a second Dreadnought, 2 bugs, a Solider and a Knight. The bard picks up the Rook and kites it, The Main tank picks up the second dreadnought which spawns very close to his original positions and immediately start calling out cooldowns he's using, this is when you use invul, Healers split choose a tank and spam heal them, the healer on the off-tank will need to be aware of when there are less adds on the off-tank and switch to backup healing the main tank, it helps when the off-tank can kite around at times to allow both healers to heal the main tank. DPS need to focus first on killing the Rook (both physical and magical DPS hit the rook in this phase).
+
+Once the Rook has been killed, all DPS need to focus on the weakened dreadnought from wave 5, once the dreadnought dies the off=tank will bring his bugs into the other full HP dreadnought to delete the bugs and save time. Magic DPS will then kill the SOLDIER and physical DPS kills the KNIGHT.
+
+After a set amount of time the room will begin to AOE everyone for around 1200-1500 dmg/4 sec which must be healed through. Once all the adds are down everyone should stack on the but of the final dreadnought and blow all your cooldowns to kill it while the healers spam aoe heals and single target heals on the tank. This part of the fight can be easy if your DPS is quick enough you won't have to deal with it for very long, if its slow you will most likely die to this phase.
+</cleaned_strategy_text>

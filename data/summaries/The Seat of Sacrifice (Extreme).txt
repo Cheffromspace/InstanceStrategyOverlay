@@ -1,0 +1,34 @@
+<span class="boss">Warrior of Light: Elidibus</span>
+
+<span class="note">Assign clock positions: tanks N/S, healers E/W, DPS intercardinals. Form 2 groups: 1 tank, 1 healer, 2 DPS each.</span>
+
+<span class="ability">Terror Unleashed</span>: Heal all to full HP or die
+<span class="ability">To The Limit</span>: Boss charges 1-3 LB bars, prepare for Limit Break
+<span class="ability">Solemn Confiteor</span> + <span class="ability">Absolute Stone III</span>: 🤝 Stack to bait AoEs, then 🏃<>🏃 spread to clock positions
+<span class="ability">Limit Break (3)</span>: 4 meteors on tanks/healers or DPS, 🏃<>🏃 spread in pairs to corners
+<span class="ability">Imbued Saber</span> x2: 1st 🏃<>🏃 spread (stone), 2nd 🚫 stop (fire) or 🏃 move (blizzard)
+<span class="ability">Imbued Coruscance</span>: 🔴 In for donut AoE or 💥 out for point-blank, handle imbued elements
+<span class="ability">Sword of Light</span> + <span class="ability">Absolute Holy</span>: Find safe edge, 🤝 stack for share damage
+<span class="ability">Limit Break (2)</span>: Healers get shared 📏 line attack, split into 2 groups
+<span class="ability">Limit Break (1)</span>: Tank, healer, DPS targeted, 🏃<>🏃 spread by role (tanks N, DPS S, healers E/W)
+<span class="ability">The Bitter End</span>: 🛡️ Tankbuster + ⚔️ tank swap
+<span class="ability">Summon Wyrm</span>: Bahamut in N, 🤝 stack for <span class="ability">Solemn Confiteor</span> then move opposite side, 👁️ gaze attack on 1 player
+<span class="ability">Elddragon Dive</span>: 💥 Raid-wide damage
+
+<span class="boss">Phase 2 - Specter Adds</span>:
+DRK + WAR: ⚔️ Tanks grab one each, 🚫 interrupt Berserk/Deep Darkside
+BRD: 🎯 Flare markers on DPS, 🏃<>🏃 spread to corners
+WHM/BLM: Soak meteor towers (2 players each)
+NIN: 🤝 Stack markers on healers, share with 1 other
+SMN: Bahamut-egi tethers, turn breath attacks to corners
+<span class="note">Destroy adds before Limit Break gauge fills. Use Tank LB3, shields, heals for Ultimate Crossover.</span>
+
+<span class="boss">Phase 3 - Specter Mini-Phases</span>:
+<span class="ability">Quintuplecast</span>: Remember 5 telegraphs (stack, spread, stop, move, gaze)
+<span class="ability">Sword of Light</span>: Find safe spot quickly
+NIN: 🤝 Stack to bait <span class="ability">Solemn Confiteor</span>, 🏃<>🏃 spread to positions, use knockback immunity
+WHM & BLM: Soak 8 meteor towers in order (HTMR x2)
+DRK & BRD: 🤝 Stack to bait <span class="ability">Solemn Confiteor</span>, DPS drop growing AoEs in corners, handle <span class="ability">Absolute Holy</span> + 🎯 flare markers
+SMN & WAR: Bahamut tethers + cleaves, pair up and 🏃<>🏃 spread, swap tether/cleave duties
+
+⏳ Enrage: Finish all 4 specter combos before Ultimate Crossover (not survivable)

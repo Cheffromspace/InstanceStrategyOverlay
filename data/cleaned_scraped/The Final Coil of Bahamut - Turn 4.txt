@@ -1,0 +1,64 @@
+<cleaned_strategy_text>
+Bahamut Prime
+This fight is all about reacting to mechanics that repeat in each phase and mitigating heavy-hitting attacks. This fight has a hard 14 minute enrage so players need to handle the fight as quickly as possible. The boss doesn't have very complex attacks so learning them well will be the key to success.
+
+Before the fight begins players need to set a marker somewhere in the arena to denote where players with a specific marker will stack to split damage.
+
+Once the boss is engaged, the edge around the arena becomes an instant-kill upon
+
+Phase 1: 100%-76%
+To begin the fight players should pull the boss to the south wall of the arena.
+
+Flare Breath: A large frontal cleave on the primary target. Be sure to turn the boss away from the party for this. This attack is usually paired with other attacks.
+
+Megaflare: 3-4 players are marked with ground AoEs. 3-4 other players will be hit with a splash damage AoE, and 2-4 players are marked for a beam that must be split by other marked players to mitigate the damage. Players with a marker should stack at the predetermined location. The boss will follow this with a Flare Breath.
+
+Flatten: A heavy damage tankbuster. Requires mitigation to survive. Followed by three casts of Flare Breath so immediate heals afterwards or invulnerability are needed.
+
+Earth Shaker: Two players are tethered to the boss and marked with brown tethers. After a short delay, the tethered players will have a line fired at them that hits anything between them. The players will also drop three puddles each. To handle this, players who are tethered should move to the left and right of the boss and slowly move around the arena to avoid cleaving the party and drop the puddles around the edge. These puddles will persist for a while, so players should avoid standing in them.
+
+This phase will repeat until the boss reaches 76% HP. players should push this phase as hard as possible to give more time later to handle other phases. It is also recommended that players use a DPS Limit Break level 1 to push the phase and also have a tank Limit Break level 3 for a later phase.
+
+At 76% the boss will cast Gigaflare, an unavoidable room-wide attack. Mitigate and heal through the damage.
+
+Phase 2: 76%-52%
+Shadow of Meracydia: After the Gigaflare cast fades a Shadow of Meracydia spawns in the north of the arena. If it gets too close to the boss, they will link and begin buffing each other. If the boss was pulled to the south, the off tank can grab the add and keep it in the north to avoid this. The other Adds will also spawn away from the boss, minimizing the chances of them tethering together.
+
+Players should focus on the add, as if it's not killed quickly, it will fire a line of puddles at a player, severely restricting how freely players can move.
+
+Flare Star: At the same time the Shadow of Meracydia spawns, the boss will summon orbs to tether to players that move slowly at first, then will speed towards the player they are tethered to. If a player is hit by an orb, they will take damage and receive a stack of the debuff Suffocated Will. This debuff will deal more damage when applied based on how many stacks a player already has. Non-tank players should not receive more than 2 stacks, as the damage will be lethal after that. Communication is required between players to note who has orbs tethered to them and who needs someone to take their tether.
+
+The boss will follow up with a Flatten, but only followed by one cast of Flare Breath and then Megaflare. This time however, the Megaflare will spawn a pillar from one of its AoEs, which will explode and wipe the raid if not dealt with. A single player must stand in the AoE and soak the damage instead, preventing the wipe.
+
+Rage of Bahamut: Deals damage based on how many stacks of Suffocated Will a player has. Healers should be ready for raid-wide healing after this.
+
+From here the phase repeats, an add will spawn in the southeast and west and the mechanics will keep repeating until the boss reaches 52% HP. At this time the boss will cast another Gigaflare and leave the arena.
+
+Phase 3: Adds
+Divebomb: Players should move to the center of the room immediately after the boss leaves the arena. It will appear at the edge of the arena and mark a random player with a red circle above their head. This indicates the boss will charge from where it is to the other side of the arena, passing through where the marked player was standing. A Storm of Meracydia will spawn at the edge as well and mark a player with a green marker, indicating the same thing. Once these markers go out, players know the boss and the add will charge through the center of the arena in a straight line, creating safe zones. Once the green marker comes up players can move to those safe zones to avoid the attack. Be aware that the paths of the attacks are rather wide, so move sufficiently into safe zones. The boss will follow this up with a Megaflare, thus it is important to not stack in the chaos of dodging the divebomb. It's wise to have half the players dodge the divebomb to the right and the other half to the left (of looking at Bahamut from the middle) to give space for each player to spread.
+
+Adds will spawn after this, a Pain of Meracydia and a Blood of Meracydia. The off tank should pull the Pain to the west of the room, while the main tank grabs the Blood and the party quickly burns it down. The Blood of Meracydia will switch between a buff that mitigates physical damage and magic damage. Players should pay attention to which buff the boss has up and try to line bursts up with these buffs. The Pain of Meracydia has a strong cleave attack that needs to be pointed away from the party and uses Tail Swipe, attacking behind it. Avoid this by attacking from its side as much as possible and being careful with positionals.
+
+Gusts of Meracydia will also spawn. The tank that grabbed the Blood should grab these, as if they get too close to the Pain, they will be absorbed, and it will receive HP back and a Damage Up buff.
+
+After the Pain and Blood are finished off, 2 Sins of Meracydia will spawn. These Adds hit hard and should be defeated quickly. Each tank should grab them and pull them into the center of the arena to be burned down by AoE attacks. At roughly 20 seconds after spawning, they will cast Evil Eye, an attack that deals damage equal to their remaining HP. Shortly after this another round of Divebombs from the boss and the Storm of Meracydia. These should be handled the same way as the previous attack.
+
+Storm of Meracydia will spawn in the center of the room and should be pulled to the south of the room. The tank that does this will also grab the Gusts that spawn later. The other tank will pick up the rest of the Adds as they spawn and pull them over to where the Storm is to burn everything down efficiently. When the Pain respawns, keep it pulled away from the group until the Gusts are defeated. After the Storm is defeated, it will drop a Neurolink 2.0 Puddle, which when stepped in greatly reduces damage dealt.
+
+Teraflare: After enough time has past, Bahamut will appear on the northern side of the arena and slowly begin casting it's ultimate attack. To withstand it, players must be prepared to perform two actions. First, the Pain must be defeated before the cast finishes, as the Neurolink puddle debuffs with Flare Dampening, greatly mitigating the damage from this attack. Secondly, the tank should use a Limit Break 3 to further mitigate damage; a countdown will appear when 10 seconds remain, and the Limit Break should generally be used at 4 seconds remaining. Healers can also use shields.
+
+After the party survives Teraflare, Bahamut will return to the arena and begin the final phase.
+
+Phase 4: 52%-0%
+The boss will use the attacks Flare Breath, Megaflare, Earthshaker, and Gigaflare in this phase, each with a slight change to their mechanics; see below for details. The boss also adds a new ability to its repertoire.
+
+Akh Morn: A multi-hit tank buster. This attack also tethers to a player, and if they are in range of the blast, will split the damage of the attack. The off tank should pick this tether up and stand near the main tank for this attack. The first hit of Akh Morn will deal heavy damage, with each hit after dealing about half as much as the first. Every time the boss uses this attack, it will add an additional Akh Morn hit.
+
+Megaflare: The attack mechanics will happen as normal, however this time up to 2 pillars will spawn, each needing a player to stand in them and soak the damage. Players will also be tethered randomly and hit by Tempest Wing, a twister that deals moderate damage. If anyone else is hit by this, they are knocked back, take damage and receive a heavy damage over time debuff. This attack can knock players into the edge of the arena, spelling instant death for anyone who touches it. The off and main tank should pick up these tethers and subsequently stand far enough to not hit each other with the twisters. This is so that the originally targeted players can stack for Megaflare if needed.
+
+Earthshaker: This attack behaves as normal, however the boss will also tether the two players targeted with Earthshaker with Tempest Wing, causing twisters to spawn on them. Targeted players should not move into other players while the twister is active and healers should be ready to heal them. The boss also follows up with a Flare Breath immediately after. These mechanics will repeat from here.
+
+After every two rounds of the above rotation, the boss will use Gigaflare, and immediately follow up with Akh Morn so be ready to move, mitigate and heal through this.
+
+This repeats until the boss is either defeated or enrages. At its enrage, it casts a 15-second Gigaflare that will wipe the party.
+</cleaned_strategy_text>

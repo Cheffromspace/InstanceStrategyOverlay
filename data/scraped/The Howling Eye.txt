@@ -1,0 +1,58 @@
+Here is the cleaned up version of the strategy guide text:
+
+The Howling Eye
+
+Level: 44 (Sync: 46)
+Difficulty: Normal
+Party size: Light Party (4 man - 1 tank, 1 healer, 2 DPS)
+Unsyncing: Allowed
+Time limit: 60 minutes
+Duty Finder: Trials (A Realm Reborn)
+Roulette: Leveling
+Required quest: Lady of the Vortex
+Location: The Howling Eye
+Region: Coerthas
+Modes: Duty Support
+Patch: 2.0
+The Echo: On wipe: +10% (max +50%)
+
+Strategy
+
+Lady of the Vortex: Garuda
+
+Phase 1
+
+- Tank should pull Garuda to 1 edge of the boss room, away from the stone pillars. 
+- Ranged damage dealers and healers should spread out to minimize damage from Friction.
+- Slipstream can be dodged despite not having an indicator.
+- Do not let Garuda damage the stone pillars with Friction and Wicked Wheel.
+- At 3/4 HP, Garuda will disappear and cast Mistral Song. Hide behind stone pillars immediately to avoid being killed.
+- After Mistral Song, Garuda will spawn Razor Plume adds. Pull DPS off Garuda to kill the adds with AoE abilities.
+- At 1/2 HP, Garuda will disappear and use Mistral Song again from the other side. More Razor Plume adds will spawn scattered around the room. Focus fire them down one by one.
+- Garuda will then vanish and reappear in the center to use Aerial Blast. Damage depends on remaining stone pillars. Tanks can use Limit Break to reduce damage. Phase 2 begins after Aerial Blast.
+
+Abilities
+- Downburst: Frontal cleave, moderate damage 
+- Friction: Ranged attack on random player and those nearby, damages pillars
+- Wicked Wheel: AoE around Garuda, moderate damage, damages pillars
+- Slipstream: Frontal column, high damage and stun, can be dodged
+- Mistral Song: Garuda vanishes and fires damaging blast, hide behind pillars
+- Aerial Blast: Used at 1/2 HP, damage based on remaining pillars, starts phase 2
+
+Adds
+- Razor Plumes: Spawned occasionally, will damage pillars, kill ASAP
+
+Phase 2
+
+- Eye of the Storm limits arena to center, avoid the vortex edges
+- Garuda will teleport and cast Mistral Shriek, run away to avoid damage 
+- Garuda will teleport to center and cast Mistral Song, get behind her
+- At 1/4 HP spawns Razor Plumes that attack random players, kill quickly
+
+Abilities
+- Mistral Song: Reappears in center, high damage in a line, get behind her
+- Eye of the Storm: Creates a damaging vortex, stay in the safe center
+- Mistral Shriek: Used after teleport, very high AoE damage, run away
+
+Adds
+- Razor Plumes: Ranged attacks on random players, kill ASAP

@@ -1,0 +1,23 @@
+Here is the cleaned up text for the "Lunar Rendezvous" quest guide:
+
+Lunar Rendezvous
+
+Quest giver: Urianger 
+Location: Garlemald (X:31.6, Y:17.3)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 2,148
+Previous quest: Bonds of Trust
+Next quest: The Red Side of the Moon
+Patch: 6.4
+
+Steps:
+1. Speak with Urianger in Sinus Lacrimarum.
+2. Speak with Y'shtola.
+3. Speak with Livingway.
+4. Wait at the designated location.
+5. /rally the Loporritts
+6. Speak with Livingway.
+
+Journal: 
+Urianger wishes to take stock of the situation.

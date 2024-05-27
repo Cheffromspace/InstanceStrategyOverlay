@@ -1,0 +1,32 @@
+<cleaned_strategy_text>
+Kefka
+Players will find themselves in an otherworldly location atop a circular platform, suspended over an endless drop into interdimensional space. Should any player fall over the edge for any reason, they will suffer an immediate KO, though they can be raised after a moderate delay. Once engaged in battle, Kefka will employ deceitful abilities and eventually summon the infamous Statue of the Gods to a glorious rendition of Dancing Mad.
+
+General Mechanics
+Hyper Drive - a tankbuster against Kefka's primary target, causing the demonic clown to drop numerous heavy weights in comedic fashion onto the targets head. Be sure to mitigate this with defensive cooldowns whenever possible.
+Blizzard Blitz - can either be a huge donut AoE or a point-blank AoE from Kefka's current location, forcing everyone to move close to (or away from) his hitbox depending on which variant is used. Once unleashed, a razor-sharp mountain of icicles will impale anyone out of position for heavy damage.
+Flagrant Fire - marks four random players with orange markers. After a delay, all four players will suffer moderate fire damage that will also clip anyone standing too close to the victims. As a result, make sure to move away from the rest of your team whenever you have these orange markers. Flagrant Fire will (initially) be unleashed at the same time as Thrumming Thunder (see below).
+Thrumming Thunder - creates two large straight-line AoE telegraphs across the arena with visibly noticeable purple effects. After a delay, anyone standing within the telegraphed areas will be blasted by waves of thunder. Simply stand beside or in-between the telegraphs to avoid taking damage.
+Ultima Upsurge - an unavoidable blast of AoE from Kefka, damaging the entire raid.
+Timely Teleport - Kefka leisurely floats in mid-air whilst two large black-and-white circles appear - one around Kefka, and another somewhere else in the arena. After a delay, Kefka will teleport from his circle to the other and use one of two abilities: an instantaneous cone-AoE across the platform that damages anyone who was standing in front of him, or alternatively, charge up an Aero Assault that will knock back the entire raid. As a rule of thumb, all players should move behind the second circle as soon as possible and, if Kefka doesn't unleash the AoE attack as soon as he re-appears, move in front of him to avoid being knocked off the platform by the delayed Aero Assault.
+
+Trick Attacks
+Having witnessed Kefka's elemental arsenal of abilities, Kefka will begin to deceive the raid by using the same abilities but with telegraphs decorated in question marks (???). In short, whenever you see question marks during mechanics, make sure to do the opposite of what you would normally do in those situations. For example:
+(Tricky) Thrumming Thunder - creates two large straight-line AoE telegraphs across the arena just like before, except they both contain question marks (???). Rather than avoid the columns, players must stand inside one to avoid the trick attack.
+(Tricky) Blizzard Blitz - creates the same donut AoE or point-blank AoE telegraph from Kefka's current location (covered in question marks). Regardless of which is used, players must actually move into the telegraph (rather than avoid it). After a brief delay, Kefka will unleash a razor-sharp blizzard to impale anyone who moved out of the questionable telegraph for major damage.
+Once an introductory bout of Trick Attacks have been displayed, Kefka will begin to rotate between standard and trick versions at random, so remain vigilant!
+
+Statue of the Gods
+Once Kefka has displayed most of his basic abilities, the Statue of the Gods will violently erupt in the background and loom over the entire raid. As Kefka's health decreases, the raid will ascend higher up the tower to the next tier. Bear in mind that each tier (bottom, middle, and top) has its own unique abilities that will be used in combination with Kefka's above-mentioned mechanics.
+
+All players should keep their eyes on the tower throughout the battle as some mechanics will not be overly telegraphed and may be missed completely if you're paying attention to Kefka or something else.
+
+Potential mechanics include:
+- The center of the tower shoots straight-line AoE's across the platform.
+- The statue places a dark purple orb on one side of the arena which will eventually explode, covering its half of the platform with devastating dark magic. To avoid, move to the other half of the arena (away from the orb).
+- The statue places a brighter orb on one side of the arena which will eventually knock back the entire raid. Unlike the dark orb, players will need to move close to the orb and position themselves so that they are not knocked over the edge.
+- The statue generates a large orb on either the left or right side of itself. After a delay, the orb-side of the arena will be blasted with elemental magic. If you notice an orb forming on one side of the statue itself, move to the orb-less side as soon as possible.
+- The very top of the tower can utilize a Gaze Attack, indicated by a purple eye-shaped icon. If you notice the icon, turn your back to the tower to avoid taking damage. However, the gaze attack also has a Trick version, displaying a yellow eye-shaped icon with a question mark (?). If you notice this icon instead, all players need to be looking at the tower to avoid taking damage.
+
+Having witnessed all mechanics from Kefka and the tower itself, they will loop until Kefka has been defeated, or the raid wipes.
+</cleaned_strategy_text>

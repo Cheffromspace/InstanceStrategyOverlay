@@ -1,0 +1,40 @@
+Here is the cleaned up text for the Pandæmonium: Abyssos raid in Final Fantasy 14:
+
+Pandæmonium: Abyssos is the second section of Pandæmonium, the main 8-player raid in Endwalker. Released on August 23, 2022, Abyssos requires players with item level of 585 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock: 
+Completion of the level 90 quest chain starting with An Unwelcome Visitor by talking to Claudien in Labyrinthos (X:8.6 Y:27.5). Players first must complete Chronicles of a New Era quest Who Wards the Warders?.
+To unlock each floor after the first, continue the quest line and complete the consecutive floor. Each floor is listed separately.
+
+Floors:
+Level Requirement: Disciple of War or Magic level 90
+Party Size: Eight players
+
+Duty / Abbreviation / Min IL / Boss(es) / Tomestones / Time Limit  
+Abyssos: The Fifth Circle / P5N / 585 / Proto-Carbuncle / 10 Tomestones / 90 min
+Abyssos: The Sixth Circle / P6N / 585 / Hegemone / 10 Tomestones / 90 min  
+Abyssos: The Seventh Circle / P7N / 585 / Agdistis / 10 Tomestones / 90 min
+Abyssos: The Eighth Circle / P8N / 585 / Hephaistos / 10 Tomestones / 90 min
+
+Rewards:
+Treasure coffers that appear upon completing Abyssos will not yield gear, but instead yield tokens that can be traded for gear of your choosing. 
+As of patch 6.38, all weekly loot restrictions have been removed.
+Also note that there is no weekly restriction on entering Abyssos.
+
+Item Exchange:
+The items obtained from treasure coffers can be exchanged for gear by speaking with Mylenie in Labyrinthos (X:8.3 Y:27.6) or Djole in Radz-at-Han (X:10.3 Y:9.6).
+
+Item Type / Required Token / Number of Tokens
+Ultralight Tomestone / Unsung Blade of Abyssos x 4 / All* 
+Head / Unsung Helm of Abyssos x 2 / 2 from Fifth, 1 from Sixth, 1 from Seventh  
+Body / Unsung Armor of Abyssos x 4 / 1 from Fifth, 1 from Sixth, 2 from Seventh, 2 from Eighth
+Hands / Unsung Gauntlets of Abyssos x 2 / 1 from each circle
+Legs / Unsung Chausses of Abyssos x 4 / 1 from Fifth, 1 from Sixth, 2 from Seventh, 2 from Eighth  
+Feet / Unsung Greaves of Abyssos x 2 / 1 from Fifth, 2 from Sixth, 1 from Eighth
+Accessories / Unsung Ring of Abyssos x 1 / 2 from each circle
+
+Lore:
+After a battle hard-fought, order has been restored to Asphodelos. However, the inner circles of Pandæmonium remain in the grip of a mysterious force, and the remaining warders are nowhere to be found. You and your allies steel yourselves to press forward, but what awaits in those unknown depths may shake even the most steadfast resolve.
+
+Trivia: 
+Abyssos (abyssos) is Latin for "bottomless pits."

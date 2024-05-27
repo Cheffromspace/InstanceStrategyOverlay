@@ -1,0 +1,33 @@
+<cleaned_strategy_text>
+It is important to note that there are multiple ways to handle each mechanic in this fight. Below is simply a recommended strategy, but it is up to players and their groups to determine what works best for them.
+
+All throughout this battle, the arena will be surrounded by a border that will kill any player who touches it. Players should set their waymarks at the cardinals and intercardinals of the map, as they persist through the several changes of the arena. It is recommended that the waymarks are set with corresponding colors on opposite sides of the arena (for instance, "1" can be located at the north, and "A" can be located at the south). Players will want to divide into two light parties, with at least one player acting as a "pivot", and again into partners, with one tank or healer for every DPS. For phase three, players should determine where they would like to have "one", "two" and "three" marked players with "Elusive Jump" and "Spineshatter Dive" stand to mitigate confusion and allow for quick adjustments.
+
+Failing mechanics, if not outright killing the player, will inflict a crippling -50% Damage Down debuff that lasts for 3 minutes, making the damage checks harder to pass. If the player does not need to immediately be alive for an upcoming mechanic, it is generally better to kill themselves by walking into the wall and then be revived, as the Weakness debuff is around half the damage loss versus the Damage Down.
+
+The total fight length is around 22 minutes (3 minutes for phase 1, 19 minutes for phases 2-7 post-checkpoint).
+
+Phase 1: Sers Adelphel, Grinnaux, and Charibert
+[Abilities and strategies for Phase 1 described here]
+
+Phase 2: King Thordan and His Knights Twelve
+[Abilities and strategies for Phase 2 described here]
+
+Phase 3: Nidhogg
+[Abilities and strategies for Phase 3 described here]
+
+Phase 4: The Eyes of Nidhogg
+[Abilities and strategies for Phase 4 described here]
+
+Intermission: Alternate History Vault
+[Abilities and strategies for the Intermission described here]
+
+Phase 5: Dark King Thordan
+[Abilities and strategies for Phase 5 described here]
+
+Phase 6: Nidhogg and Hraesvelgr
+[Abilities and strategies for Phase 6 described here]
+
+Phase 7: Dragon-king Thordan
+[Abilities and strategies for Phase 7 described here]
+</cleaned_strategy_text>

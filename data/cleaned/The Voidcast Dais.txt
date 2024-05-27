@@ -1,0 +1,29 @@
+<strategy_text>
+Knight in Black: Golbez
+Note that players can fall off the edge of the arena to their death, although they can be resurrected after a moderate delay.
+
+Phase 1
+Terrastorm: Forms rock above random corner that will explode in a briefly telegraphed circular AoE. Move away to avoid.
+Crescent Blade: Faces a random player and uses a 180 degree frontal cleave. Move behind to avoid.
+Arctic Assault: Targets opposite sides of the room, leaving two opposite quadrants safe. Stand behind "arrows" to avoid.
+Void Meteor: Telegraphed multi-hit AoE tankbusters targeting both tanks (regardless of enmity).
+Lingering Spark: Multiple baited circle AoEs under players. Move away.
+Binding Cold: Raid-wide damage +Frostbite damage-over-time.
+
+Phase 2
+Azdaja's Shadow: Phase transition.
+Black Fang: Raid-wide damage.
+Azdaja's Shadow: Powers up blade. Next Crescent Blade will become Shadow Crescent and will be followed immediately by an extra point-blank AoE attack with a very brief AoE indicator.
+Burning Shade: Spread markers on all players. Do not overlap.
+Meteor Phase: Soak towers in East and West, which may require multiple people. One healer will receive a knockback marker.
+Marked healer should stand still near/south of center.
+All other players are knocked into towers to soak, or they can pre-position and use knockback immune abilities.
+Healer tethered to dragon after knockback.
+Line attack in that direction – pull away from raid.
+Double Meteor: Two proximity damage effects centered on either the north or south corners. Move to opposite side to minimize damage.
+Gale Sphere: Spawns four clones in clockwise or counterclockwise pattern. Clones attack in the order they spawn.
+Each clone uses a line AoE across the platform. Find "safe" lanes between orbs during each round. A simple method is to find a safe area from the first two clones, then move to the safe area for the last two clones.
+Void Stardust: Two circle telegraphs appear in opposite corners. Move down the platform edges and return through the center.
+Eventide Fall: Targets each healer for a line attack. Split into light parties to share damage.
+Immolating Shade: One player marked for stack-up. Stack up to share damage.
+</strategy_text>

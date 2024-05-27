@@ -1,0 +1,48 @@
+Here is the cleaned up strategy guide for the Alzadaal's Legacy dungeon in Final Fantasy 14:
+
+Alzadaal's Legacy is a level 90 dungeon introduced in patch 6.1 with Endwalker. 
+
+Objectives:
+Arrive at the undersea entrance: 0/1
+Clear the undersea entrance: 0/1
+Arrive at the Threshold of Bounty: 0/1
+Clear the Threshold of Bounty: 0/1
+Arrive at Weaver's Warding: 0/1
+Defeat the Kapikulu: 0/1
+
+Bosses:
+
+Ambujam
+Big Wave: Moderate damage to the entire party and inflicts a weak Bleed damage over time effect.
+Tentacle Dig: Ambujam submerges one or both of its larger tentacles and moves them around, denoted by ripples in the water. Eventually the tentacles will stop moving and after a few seconds erupt into large circle AoEs that deal high damage and inflict a strong Toxicosis damage over time debuff.
+Toxic Fountain: Three sets of circle AoEs appear and burst with high damage and knockback in the order they appeared.
+
+To predict the Tentacle Dig safe spots, look at the patterns in the water. Each tentacle can start at either the boss's left flank-midpoint or the boss's right flank-midpoint. After that, the tentacles will head towards the opposite flank-midpoint, but they can do so along one of two possible paths:
+
+1. From the starting flank-midpoint they can go along the outside of the boss's hitbox first, then reach the opposite flank-midpoint, then go into the boss's hitbox as they turn towards the side of the boss where they passed by earlier. If you notice this path, the safe spot will be on the side opposite where the tentacle started.
+
+2. From the starting flank-midpoint they can take a sharper turn into the boss's hitbox, then go to the opposite flank-midpoint, and then make another turn towards the side of the boss where they entered the hitbox. If you notice this path, the safe spot will be on the same side as where the tentacles started.
+
+Since there has to always be a safe spot, the quickest way to identify it is to simply identify which of the ripples in the water is going along the outside of the boss's hitbox. Whichever side of the boss's flank-midpoint the tentacle going along the outside of the boss's hitbox originated from, the far opposite side of the arena will always be the safe spot.
+
+Armored Chariot 
+Articulated Bits: The Armored Chariot moves to the center and creates an electricity puddle inside its hitbox, which inflicts an Electrocution damage over time debuff. At the same time, several clockwork Death Claws will appear in the corners, facing the boss. These Death Claws will be marked with pips, either 1 or 2. The Armored Chariot will create violet shields and turn them to face the Death Claws, which in turn fire a large laser. The laser reflects off the shield, creating a cone AoE in that quadrant of the arena. The lasers deal damage over time while standing in them, and will also inflict a strong Sustained Damage damage over time debuff. After the first set of Death Claws fire, the Chariot will rotate its shields to the second set and repeat the process.
+
+The second cast only summons two Death Claws in opposing corners, but also adds several other Death Claws that aim across the arena and not at the Chariot. All of the Death Claws will fire at the same time, leaving narrow safe spots next to the Death Claws not firing directly at the boss. Subsequent casts alternate between the first and second versions.
+
+Diffusion Ray: Moderate damage to the entire party.
+Graviton Cannon: Targeted circle AoEs on each player. Used alongside every other Articulated Bits cast from the third onward.
+Rail Cannon: Tankbuster
+
+Looming Warden: Kapikulu
+The boss's arena is full of spike traps that inflict a Bleeding damage over time debuff if they are walked over. The spike traps along the edge of the arena are always active, while those in the center extend and retract as the boss uses its abilities.
+
+Billowing Bolts: Moderate damage to the entire party.
+Spin Out: Kapikulu moves to the northern edge of the arena and pulls all players to him, wrapping everyone in ribbons and inflicting Fetters. Several of the spike traps in the arena will extend spikes for this attack. Kapikulu will quickly unravel the ribbons, causing all players to begin uncontrollably Spinning for 10 seconds. While spinning, the players slowly move automatically in the direction indicated by a pointing hand over their heads. Attempting to turn rotates the hand, which results in very loose turns. When the Spinning effect ends, all players become Dizzy for 2 seconds, preventing movement and the use of skills. Kapikulu will then return to the center of the arena and the spikes will retract.
+Basting Blade: The second cast of Spin Out will also have the boss use this attack. Kapikulu leaps to the opposite edge of the arena and fires a wide line attack directly across. Kapikulu will do this twice before the players' Spinning and Dizzy debuffs end.
+Crewel Slice: Tankbuster.
+Wild Weave: Several yellow and green ropes will descend from the ceiling. Kapikulu will tether to one of the ropes, causing an orb to fall from all other ropes of that color, which explode in large circle AoEs.
+Magnitude Opus: Stack marker on a random player.
+Rotary Gale: Targeted circle AoEs on each player.
+
+The boss's line aoes in the second spinning attack are not truly random. The boss always hits the middle of the arena first; then he will hit either side as second attack. Therefore, the ideal path to follow when spinning is to always spin all the way to the back of the arena, along the far left/far right sides of the arena, while the boss is doing the first line AoE. Then, as you are approaching the end of the arena, make a U-turn with the goal to spin back to the front of the arena, along the middle column of the arena itself.

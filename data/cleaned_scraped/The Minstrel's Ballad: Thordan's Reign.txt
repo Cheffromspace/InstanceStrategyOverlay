@@ -1,0 +1,73 @@
+<strategy_text>
+King Thordan and His Knights Twelve
+Before the fight
+Assign players the following positions:
+MT
+   M1  M2
+ H1      H2
+   R1  R2
+     OT
+Assign tanks to knights in Phase 3 (east/west)
+Assign dps positions to go to for Skyward Leap (typically North → South → North)
+
+Phase 1: Thordan
+Tank Thordan facing away from the party because of Ascalon's Might (frontal cleave). When Thordan casts Dragon's Gaze, turn around to avoid getting hysteria. Spread out for Lightning Storm, then stack behind Thordan to split the damage from Dragon's Rage. Tanks and healers need to watch for the tankbuster, Heavenly Heel. Ascalon's Might follows right after Heavenly Heel hits, so healers will need to help the tank recover quickly after Heel.
+This phase ends after Heavenly Heel → Ascalon's Might, or when Thordan's HP reaches 70%. Thordan will become untargetable, and leave his sword behind North before disappearing. His sword can be used as an additional marker.
+Thordan's HP should be below 75% to be on track to meeting enrage. The outer ring of the arena will now deal 9999 damage per tick to any player standing at the edge.
+
+Phase 2a: Conviction Towers
+Have the party stack in the middle of the arena. When the Heavensflames spawn (red circles), have the party spread out to their pre-assigned positions, breaking Holy Chains as they do so. Prioritize breaking chains over moving to position. Four Conviction Towers will spawn at any of the eight cardinal directions. Avoid Heavensflames and stand in a tower. Be careful as a Heavensflame may spawn at a tower location- if so, wait for the Heavensflame to explode before standing in the tower. If each tower has at least one person standing in it, the mechanic is completed successfully, otherwise the party will be paralyzed (which can be removed).
+
+Phase 2b: Sacred Cross + Spiral Thrust
+Ser Zephirin will spawn in the middle of the arena and start casting Sacred Cross. This is a dps check, and when Sacred Cross is cast, it will deal damage to the party based on Ser Zephirin's remaining health. You will need to bring Ser Zephirin's health to below 50% to survive the Sacred Cross. This isn't a tight dps check, so consider saving cooldowns for the next phase.
+After Sacred Cross, the Spiral Thrust Knights, Sers Vellguine, Ignasse, and Paulecrain, will spawn outside the arena and prepare to charge down the center. This is easily done by standing at the center of each leaf-like decal that outlines the edge of the arena, where the stem would be.
+
+Phase 3: Two Knights
+Two knights will spawn- Ser Adelphel on the west, and Ser Janlenoux on the east. They will cast Divine Right that will give one of them Sword Oath, and the other Shield Oath. The two knights need to be tanked separately at the edges, or they will tether and share buffs. All dps should attack the knight with Sword Oath. After Divine Right, both knights will prepare their first tankbuster, Holy Bladedance. The tank with the Sword Oath knight will need heavy cooldowns (e.g: Inner Beast + Vengeance), or use an invincibility cooldown, while the tank with the Shield Oath knight will probably need a single cooldown (e.g: just Inner Beast).
+After the first bladedance, the Spiral Thrust Knights will appear in the center and jump up, which is the cue for Skyward Leap. Three dps will be marked with a blue prey mark, one after the other, with about two seconds in between. The first dps marked moves north and waits for the knight to pounce on him/her before rejoining the group. When pounced, the party will take damage based on proximity to the impact point. The second dps marked moves south for this mechanic, while the third dps marked moves north again. During this time, the knights will cast a second Divine Right (switches stances) and perform Heavenly Slash on the tanks.
+Holiest of Holy (party-wide AoE) follows after this, and then the second Holy Bladedance, so make sure the entire party and tanks are topped up in time. The Divine Right → Holiest of Holy → Holy Bladedance cycle repeats until both knights are dead.
+This phase is made significantly easier if one knight is downed quickly. Farm groups will likely only see one Holy Bladedance, although beginning groups will probably see two, and should strive not to see a third.
+After both knights are dead, gather the party in the center of the arena.
+
+Phase 4a: Dimensional Collapse + Spiral Pierce + Hiemal Storm
+Stack at the center of the arena, and spread to your pre-assigned positions when Dimensional Collapse (black circles) appear. Three players will be tethered to one of the knights in the center, while the other five will be marked for Hiemal Storm (shiva circles). As you move to your position, take note of where the tethered players are.
+After Spiral Pierce and Hiemal Storm, stack again in the center for the knockback. Orient yourself so that you will not be knocked back into any of the frost circles that should be placed on the outside (i.e: move to where the tethers were).
+
+Phase 4b: Meteors + Heavy Impact
+Healers remove any Frostbite debuffs from any afflicted party members. Eight Comet Circles will spawn along the eight cardinal directions, and one Meteor Circle in the center. The party can survive one Comet Circle touching the floor, but not two, so it may be a good idea to determine which comet to ignore in advance. After the comets explode, focus on the Meteor circle.
+Some players will be marked for Holy Meteor, which will do light damage in an area around them. As a result, avoid stacking two marked players together.
+Ser Hermenost will spawn in the center of the arena and perform Heavy Impact- concentric red rings that will damage and stun any player hit by them. These should be avoided by either moving to the safe sector, or by crossing rings as the inner ring explodes.
+
+Phase 4c: Ultimate End
+After the Meteor Circle is destroyed, King Thordan will reappear and his knights will perform The Light of Ascalon, which does minor damage and a small knockback per hit. Shield the raid after this to prepare for Ultimate End. Its damage will increase for each party member that died during Thordan's absence.
+
+Phase 5: Spear of Fury
+Tank Thordan north, with the MT standing at 11 o'clock, and the party at 1 o'clock. Dragon's Eye will now spawn a real Dragon's Eye at the edge of the arena. From here on, players must avoid looking at both Thordan and the dragon eye for Dragon's Gaze. This first Dragon's Eye will always spawn north, but subsequent casts will move it to a random location.
+Thordan will cast Knights of the Round, summoning Adelphel and Janlenoux, who will mark a healer (green mark) for Holy Shield Bash, stunning them and increasing their magic vulnerability. That player should move to the outer edge of the arena, while the rest of the party arranges themselves so the OT is closest to the center of the arena and the affected healer is on the outside.
+Ser Zephirin will then spawn in the middle of the arena and begin casting Spear of Fury to kill the healer. To mitigate damage, The OT should stand between Zephirin and the healer and use cooldowns with stand the spear, while the dps players stand between the OT and the Healer. If any player dies from this attack, Zephirin will enrage and wipe the party. Players hit will also be debuffed with Infirmary (healing received down).
+As Spear of Fury happens, Thordan will also Heavenly Heel the MT. Healers quickly top up the MT, and have the whole party turn around to dodge Dragon's Gaze, after which the Infirmary debuff will wear off. Heal up the party quickly for Ancient Quagga.
+
+Phase 6: Conviction Towers + Dragon's Gaze + Heavy Impact
+Thordan casts Dragon's Eye, and the MT will need to move Thordan to the eye's new location. Face Thordan towards the Eye.
+When he casts Knights of the round and you see the bright animation, Sers Guerrique and Hermenost, followed by Ser Grinnaux, will spawn and begin the next series of mechanics.
+The first set of mechanics is the Four Conviction Towers part. There will be two knights in the arena in a line, one in front of the other; denoted by the two dashes in this example --. While there is a lot of moving going on, players may miss the two knights are standing in place for the conviction towers. The four conviction towers will always form a line perpendicular to the knights straight through the center of the arena. So the shape of the attack is two knights --| with the conviction towers; denoted by the | symbol. This will help prevent raid death if people are already lined up, facing away from the Dragon eye so they can prepare to move into a tower before Dragon's Gaze is cast. Just like in Phase 2a, each tower needs at least one person standing in it to avoid party-wide damage and paralysis.
+(The position of the knights may be random as I cannot correlate their formation with anything else at this time. However, the four conviction towers are not random. They will always be in a line perpendicular to the knights. Essentially forming a --| shape when the towers show up on screen. It is hard to describe this attack pattern with words so I do hope my instructions are understandable.)
+Each ring from Heavy Impact only affects one half of the tower, so have players move to the outer half of each Conviction Tower, remembering to face away for Dragon's Gaze. To help spread players out, you may want to agree on a scheme (e.g: melee take the inner two towers, ranged take the outer two, tanks and healers try to fill in).
+The Dragon's Gaze check happens when the first Heavy Impact ring explodes, while the Conviction Tower check happens as the second Heavy Impact ring explodes.
+After Conviction Towers, Grinnaux spawns Dimensional Collapse circles at each player's location. Thordan then prepares to cast Dragon's Rage, but Grinnaux will also be preparing a knockback, Faith Unmoving, so players should stack in the middle to both manage the stack marker and avoid hitting the edges. After that, have the MT split away from the group, being careful not to hit anyone with Thordan's Ascalon's Might (frontal cleave).
+
+Phase 7: Lightning Storm + Skyward Leap + Spiral Thrust + Dragon's Rage
+Ignore the Dragon's Eye Thordan casts during this phase, as there is no Dragon's Gaze. Thordan will cast Lightning Storm, just as in Phase 1, and then the three knights that from phase 2b (Vellguine, Ignasse, and Paulecrain) will be summoned next. After Lightning Storm hits, quickly heal up the party. Ser Ignasse marks a player (not the MT) for Skyward Leap (blue prey mark) and Ser Paulecrain will remain at the center and tether to another player. Ser Vellguine will be outside the arena preparing to charge as in phase 2b.
+As Thordan begins to cast Dragon's Rage, Thordan should be on the edge of the arena, out of the Spiral Thrust knight's path. The player marked for Skyward Leap should move opposite the party to reduce the damage the party takes from Skyward Leap, while the tethered player must avoid both the party and the Spiral Thrust knight, while ideally being away from the Skyward Leap player.
+A simple way while learning the fight would be to have the MT bring Thordan about 45 degrees from the Spiral Thrust knight. Then, the Skyward Leap player moves opposite, while the tethered player moves 90 degrees from the party in either direction.
+After Dragon's Rage hits, heal the tank in preparation for Heavenly Heel and Ascalon's Might.
+
+Phase 8: Holy Chains + Dragon's Gaze + Ascalon's Fury + Hiemal Storm + Heavensflame
+Thordan will cast Dragon's Eye- move him to the eye's new location. All players (other than the MT) should stack behind Thordan. Shortly after Thordan's Ascalon's Might, Knights of the Round is cast again and three knights, Ser Charibert, SerHaumeric, and Ser Noudenet are summoned and cast the above mechanics. The party will be inflicted with Holy Chains, Spread out to your pre-assigned location, relative to the MT (treat the MT as north). Once again, prioritize breaking Holy Chains.
+The party members will naturally avoid Dragon's Gaze as they spread out to break Holy Chains, other than the MT, who will need to move sideways to help break his/her chain. As chains are getting broken, Hiemal Storm markers and Ascalon's Mercy will appear- dodge Ascalon's Mercy and place Hiemal Storm before stacking back behind Thordan.
+Quickly heal up the party to prepare for Ancient Quagga → Heavenly Heel → Ancient Quagga, bearing in mind that Thordan's damage is significantly stronger now because of accumulated Increase Damage stacks.
+
+Phase 9: Sacred Cross + Dragon's Gaze
+At the final Knights of the Round, two to three knights will spawn at a time (starting with Adelphel and Janlenoux) and begin casting heavy raidwide damage, putting healers on high alert. The last knight to appear is Ser Zephirin, who will begin to cast Sacred Cross again. This time, however, he will be tethered to Thordan, making him invulnerable until Sacred Cross is finished. Zephirin has significantly more health, so an DPS LB3 should be used on Zephirin if it was not already used on Thordan.
+After Sacred Cross, prepare for Heavenly Heel → Ascalon's Might. After that, Thordan will use Ascalon's Might several times in a row before slowly casting Ancient Quagga. This last Ancient Quagga is the hard enrage of the fight and will wipe the raid if Thordan is not defeated in time.
+</strategy_text>

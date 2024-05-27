@@ -1,0 +1,19 @@
+<cleaned_strategy_text>
+The second pack of enemies can be skipped. Run past them and jump down the chute at the left.
+
+The "boss" is a series of waves of enemies. There is also a blue magitek robot which 1 or 2 raiders can choose to mount into. The Magitek armor mount has the ability to deal damage to the enemy, put a vulnerability debuff on the enemy, and most importantly, have the ability to drag the bombs which will spawn. The bombs have a wide explosion radius and stack a fire damage taken debuff on anyone hit.
+
+Players can fight the enemies on one side of the arena so that the bomb can be taken to the opposite corner and prevent raid damage. With current stats, this is not necessary, as the bombs only inflict minor damage if they explode.
+
+Recommended kill order:
+1) Red Magitek Suits of Armor, Boomtype Magitek Gobwalker
+These enemies can inflict debuffs on the raid, they are a priority to kill.
+2) Tall Robot Knights, Jagd Dolls
+Not overly difficult, just can cause a lot of damage if not careful.
+3) Big Goblins, Gordian Hardhelms and Gordian Hardminds
+Again, not much of a threat, but they have more health than the smaller enemies
+4) Little Goblins, Gordian Soldiers and Gordian Snipers
+More trash mobs, deal with them to reduce the number of enemies attacking the tank.
+5) Gigantic Robot Machines, Magitek Gobwidow G-IX
+Save these for last, they are easy enough to take down, but have an AOE. IF only one is spawned, tank it separately from the rest of the enemies until they are dealt with. Otherwise try to avoid having many of these in one area.
+</cleaned_strategy_text>

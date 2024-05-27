@@ -1,0 +1,35 @@
+Here is the cleaned up strategy guide for Shisui of the Violet Tides:
+
+Shisui of the Violet Tides is a level 63 dungeon introduced in patch 4.0 with Stormblood. 
+
+Objectives:
+- Clear the Sogyoku Piscary
+- Defeat Amikiri
+- Clear the Kogyoku Palace  
+- Defeat the Ruby Princess
+- Clear the Shisui Temple
+- Defeat the Shisui Yohi
+
+Bosses:
+
+Amikiri
+- Mostly a tank-and-spank fight
+- Boss uses Sharpstrike on tank, moderate damage
+- Boss targets a player with puddle AoE, immobilizing them, then casts Shuck which can kill 
+- Destroy boss's leg to interrupt Shuck and make boss vulnerable
+- Kamikiri add spawns and marks non-tank players for Digest, leaving water puddles. Kill add to stop Digest.
+
+Ruby Princess 
+- Boss periodically casts Seduce, causing players to walk toward her, followed by Coriolis Kick AoE
+- To avoid Seduce, each player must run into one of the four boxes around the arena 
+- Boss casts Abyssal Volcano placing a circular AoE and marking two players with tracking AoEs
+- Boss casts Tornadogenesis on tank, moderate damage
+
+Shisui Yohi
+- Uses Foul Nail on tank, two moderate damage attacks  
+- Casts Thick Fog, group damage, fills arena with water and hides boss. Kill three Churn adds that spawn.
+- Boss moves around in ripples during Thick Fog, damaging players. Emerges and casts Black Tide AoE.
+- Summons two Shark adds that target a player with rush AoE. Kill sharks before rush.
+- Casts Mad Stare after sharks, gaze attack causing Hysteria. Look away to avoid.
+
+The dungeon also has four treasure coffers containing additional loot. Achievements are available for mapping the entire dungeon.

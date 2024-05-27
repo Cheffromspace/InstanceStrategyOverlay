@@ -1,0 +1,37 @@
+Here is the cleaned up text for The Sirensong Sea dungeon guide:
+
+The Sirensong Sea is a level 61 dungeon introduced in patch 4.0 with Stormblood. 
+
+Objectives:
+Arrive at Spae Rock. 
+Defeat Lugat. 
+Arrive at the Warden's Delight. 
+Defeat the Governor. 
+Arrive at Glowering Krautz. 
+Defeat Lorelei. 
+
+Bosses:
+
+Lugat
+- Try to stay near this boss - it will help you avoid his half-screen AOEs. 
+- Amorphous Applause: Large directional AOE. Stay tight to the boss so you have a chance to dodge.
+- Hydroball: One party member is targeted. Stack to split the damage.
+- Sea Swallows All -> Concussive Oscillation: When the boss sucks you in, be prepared to run out. Several AOEs will go down. Find a safe spot, but head back in to the center after so you can dodge the Amorphous Applause that follows.
+- Overflow -> Hydroball: Everyone is knocked to the arena edge; run back to the middle ASAP. Hydroball is coming, and you'll want to stack up.
+
+The Governor 
+- Bloodburst: Party-wide AoE.
+- Shadowflow: Creates shadow areas on the ground, which fill a large portion of the room. Stay out of those shadow areas because they will stack magic damage vulnerability. 
+- Enter Night: Marks a player, then does a draw-in and tether. Run far from the boss to break the tether.
+- Shadowsplit: Summons a bunch of small versions of himself, which then cover more areas during the ensuing Shadowflow.
+
+Lorelei
+- Somber Melody: Party-wide AoE. 
+- Void Water III: AoE on targeted party member.
+- Virgin Tears: Leaves Damage over time areas, and eventually a ring all around the room. These areas will fade after she casts either Morbid Advance or Morbid Retreat.
+- Morbid Advance and Morbid Retreat force your character to move forward, or backwards respectively. Position yourself accordingly so that you avoid Virgin Tears as much as possible. Note that "forward" and "backward" are relative to the direction you're facing; it does not mean you'll be drawn to/repelled from the boss. Pick the safest route you can based on the skill to follow.
+
+Lore:
+East of the Drown and southwest of Thavnair, there lies an expanse of water which legend holds is the haunt of sirens, the scourge of sailors. Approximately a century ago, out of concern for the impact upon trade, the magistrate of Radz-at-Han ordered the construction of a lighthouse and prison on an isle in the Sirensong Sea. However, every ship sent to deliver supplies and relieve the guard vanished, forcing the isle to be abandoned within a matter of years.
+
+En route to the Far East, the Misery was deposited on this abandoned prison isle. Within the lighthouse, members of the voyage encountered and vanquished a peculiar fiend believed to have originated the legend of the Sirensong Sea - a type of undead born of the soul of a deceased siren.

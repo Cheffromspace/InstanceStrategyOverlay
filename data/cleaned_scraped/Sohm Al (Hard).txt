@@ -1,0 +1,37 @@
+<strategy_text>
+The Leightonward
+Wild Horn: Mini TB.
+Inflamable Fumes: Raidwide.
+Spore Sac: Spawns many untargetable small spore sacs, which each explode in an AoE after a while. After the first cast, each successive cast spawns an additional (bigger) spore sac, which instead explodes in a proximity AoE. i.e. the second cast has 1 spore sac, the third cast has 2 spore sacs etc.
+Excretion: Damages a target. Inflicts 30s of Heavy.
+
+Gowrow
+This boss incorporates standard cyclops and diresaur mechanics. It uses telegraphed attacks with invisible castbars. Similar bosses are the Coincounter (cyclops) from The Aurum Vale and the Giruvegana uses (diresaurs) from The Stone Vigil (Hard).
+
+Volcanic Howl: Raidwide. The boss gains temporary Damage Up, which makes it glow red and enhances its attacks.
+Ripper Claw: Dodgeable cleave. Telegraphed by the boss raising its left arm. When the boss is buffed, also spawns a tornado where the MT was that explodes with knockback after a few seconds.
+Tail Smash: Dodgeable backwards cleave with knockback. Telegraphed by the boss twisting to its left and raising its tail.
+Tail Swing: Dodgeable melee-range circular cleave with knockback. Used instead of Tail Smash when the boss is buffed, and has the same telegraph.
+Fireball: Faces a target and remembers their location, then does an AoE there. Telegraphed by the boss standing upright and putting its hands together.
+Lava Flow: Faces a target, then channels a continuous cone AoE. Used instead of Fireball when the boss is buffed, and has the same telegraph.
+Wild Charge: Charges up to a target in a line AoE with knockback. Telegraphed by the boss taking a shoulder charge stance.
+Hot Charge: Charges in the direction of a target in a line AoE with massive knockback. Used instead of Wild Charge when the boss is buffed, and has the same telegraph.
+
+All the above attacks except Volcanic Howl (but including the tornado) inflict 8s of uncleanable Infirmity. If 0 damage is taken, such as due to shields or invincibility, the debuff is not applied (like in T5).
+
+Despite the invisible castbars, the boss's telegraphs can be seen in the battle log when the animation starts, e.g. "Gowrow readies Ripper Claw."
+
+Lava Scorpion
+Molten Silk: 270° telegraphed close range cleave. Safe zone is directly behind. Often turns around and repeats from the other side.
+Deadly Thrust: Very high damage attack on primary target.
+Hiss: Summons 2-4 Scorpions which should be killed.
+Realm Shaker: Short range circular AoE around boss.
+Flying Press: Randomly marks a party member for a moderate attack with splash damage. Will create lava puddles near point of impact, as well as expanding existing puddles.
+
+The lava puddles left behind by some of his attacks do high damage. Move toward the boss if necessary so you don't have to run through them to get back.
+
+Scorpion's Claw adds will also create lava puddles and need to be killed before they complete the Borehole cast.
+Scorpion's Tail adds use a less powerful version of Deadly Thrust.
+
+Beware Deadly Thrust in conjunction with damage from adds. Healers should be ready and tanks may want to use cooldowns.
+</strategy_text>

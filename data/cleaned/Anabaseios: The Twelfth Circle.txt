@@ -1,0 +1,20 @@
+<cleaned_strategy_text>
+Phases & Abilities
+
+Theos: Athena
+On the Soul: Heavy damage to the entire party. Later on, this attack will also regenerate destroyed sections of the arena.
+Trinity of Souls: Colored rings gradually appear around Athena's wings as the cast bar fills. When the cast finishes, Athena will launch attacks to her left and right in the directions of the rings in the order they appeared. The attack deals heavy damage to those caught in it.
+Paradeigma: Athena summons four untargetable Anthropos adds that fly to the edges of the arena. Two will cast a long line AoE across the arena, while the other two will tether to a random player and fire a line AoE beam toward them.
+Glaukopis: Line AoE Tankbuster.
+Superchain Theory: Balls of chain spawn on the arena, tethered to spheres or rings. The spheres and rings will slowly travel to the chains, unleashing an AoE when they touch. The spheres cause a small circle AoE, while the rings cast a ring AoE that covers the entire arena.
+Later casts have tethers of variable lengths: Objects with shorter tethers reach their chains first, causing their casts to happen first.
+Parthenos: Athena turns to a random direction and casts a line AoE through her hitbox that deals moderate damage and knocks back players hit by it. The attack's telegraph doesn't appear until the very end of the cast.
+Unnatural Enchainment: Athena attaches chains to random panels of the arena, causing them to break and fall into the abyss when the cast ends. While the arena is missing pieces, all players are inflicted with a debuff that prevents jumping.
+Ultima Blades: High damage to the entire party and creates an octagonal safe spot in the center of the arena surrounded by an instant death puddle. Four targetable Anthropos minions will also spawn, while Athena herself becomes untargetable.
+Athena's Power will begin charging, and the minions must be killed before the meter reaches 100.
+Palladion: Athena places a targeted circle AoE on random players, then dashes at them for high damage. The dash itself also deals damage to players between Athena and her target.
+Clear Cut: Used by the Anthropos. A short 270-degree cone AoE from their front.
+After defeating the Anthropos, the puddle will disappear and a wide line AoE will target the center four panels of the arena, which are destroyed as Athena slashes them.
+Theos's Ultima: Athena and the Anthropos unleash Ultima, dealing high damage to the party. If Athena's Power reached 100, this attack will wipe the party.
+Dialogos: A stack marker on a random player, followed by circle AoEs targeted on all players.
+</cleaned_strategy_text>

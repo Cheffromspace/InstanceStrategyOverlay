@@ -1,0 +1,23 @@
+<cleaned_strategy_text>
+Exdeath
+
+The boss will cast three spells regularly throughout the fight. The effect of these spells will change based on whether or not he is channeling energy from the large void orb outside of the arena. When he does, he will visibly face the orb and will tether to it, at which point players should watch out for the more dangerous variations of the spells since there will be no other indication of the different effect.
+
+Ability Normal Void
+Blizzard: Will place AOE's under some players feet that detonate at the end of the cast. At 75% of the cast bar start moving, and keep moving until you see yourself take damage. If you're standing still when the damage hits you'll get frozen for 8 seconds and gain a vulnerability stack.
+Thunder: Heavy hitting Tankbuster. Will also apply Lightning Resistance Down. Be sure to use damage reduction CDs and tank swap at 2 stacks. A massive AOE attack centered on the boss that stuns and gives 3 seconds of Paralysis and applies a Vulnerability Up stack.
+Fire: Places red markers on several players which will detonate for AOE damage around them. Spread as appropriate. Applies Pyretic debuff to everyone. Actions, movement, and auto-attacks will all inflict damage.
+
+He will also cast the following spells throughout the fight:
+Doom: At the start of the fight he puts Doom on two targets. Healers will have to Esuna these.
+Vacuum wave: This knocks you back a considerable distance. Later on in the fight the arena walls will be destroyed and this can knock you off the arena to your death.
+Holy: usually the follow-up to vacuum wave. Stack behind the boss to share damage
+
+The Decisive Battle: This will be cast at 66% and 33% health. He will disappear and a meteor marker will appear in the center of the arena. Run to the edge of the arena to reduce proximity damage. Once the meteor hits a giant head will appear in the center. Directly on the head is an AOE that inflicts Heavy and a DOT, so avoid running through the head. Players should run behind it to avoid getting hit by a conal AOE the head will cast after a short time. Getting hit will inflict Zombification, making you uncontrollably chase other players to attack them. After the first time this is cast the boss will now also begin casting Flare and Black Holes.
+
+The boss will cast Decisive Battle again at 33%, and will also spawn vines in a ring that will attack facing the edge of the arena, forcing players closer to the proximity marker. There will be a missing vine leaving a safe spot to distance yourself from the main aoe, after which the head will appear like last time.
+
+Black Holes: After the first Decisive Battle Exdeath will now cast black holes. These will appear around the arena and cause damage if you stand in them, so avoid standing in them.
+
+Flare: 3 players will get marked with spread markers (3 white, outwards-pointing arrows). Marked players should distance themselves from the main party as well as each other to prevent proximity damage.
+</cleaned_strategy_text>

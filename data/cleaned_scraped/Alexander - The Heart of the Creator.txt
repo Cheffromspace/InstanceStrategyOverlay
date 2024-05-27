@@ -1,0 +1,22 @@
+<cleaned_strategy_text>
+Cruise Chaser
+Phase 1:
+Occasionally, OT has to pick up the flying add (E.D.D.), it must die or it will self-destruct.
+Optical Sight: A few different modes.
+The first will target four players with a green AoE circle (make sure not to stand in overlapping circles).
+The second will create a giant light circle in the middle of the room. Move to the outer ring to avoid it, or take damage and get a Vulnerability Up debuff.
+The third will have smaller light circles appear around the room in a clockwise manner until they connect, then one will appear in the middle. Wait in the middle until you have room to go in the outer ring where one already went off.
+Photon: 4 players will drop critically low. Just heal up.
+Propeller Wind: Ensure you're behind one of the round objects or else you take damage and get Confused (it can be removed with Esuna).
+GA-100: Targets the OT, will hit for good damage against OT and AoE damage to rest of the party. Less party damage the further the AoE travels.
+Partway through the fight (around 50%), Cruise Chaser will teleport to the center, cast a knockback, become untargetable and transform into his flying form. You MUST click on one of the four ducts around him or die. During the cutscene ensure you click the button next to the red progress bar before it runs out to avoid severe damage.
+
+Phase 2:
+Limit Cut: Cruise Chaser glows red and gains Immune. If you didn't do enough damage before the phase change, four Lapis Lazuli Orbs will spawn and Cruise Chaser will cast Limit Cut. Just dps the orbs.
+Eternal Darkness: Room-wide AoE damage (lots of AoE heals), and the room will now have a bleed. If any Lapis Lazuli Orbs are still alive when this goes off, you wipe.
+Optical Sight now has flying mech adds that are untargetable. These will shoot line AoEs when Cruise Chaser uses Optical Sight that will most likely result in death.
+Cruise Chaser will cast Limit Cut and spawn a Plasma Shield. You need to be in front of the shield to damage it.
+Cruise Chaser will rush the MT after the shield is destroyed or a certain amount of time passes.
+After the shield Cruise Chaser will cast Optical Sight, then mark a party member (usually dps) with Prey. Optical Sight and Prey will usually go off at the same time.
+Prey: Three large AoE attacks on the target. Healers need to heal through this and should throw on shields before.
+</cleaned_strategy_text>

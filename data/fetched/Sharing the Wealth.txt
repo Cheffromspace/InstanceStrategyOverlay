@@ -1,0 +1,100 @@
+Here is the cleaned up text for the "Sharing the Wealth" quest guide:
+
+Sharing the Wealth
+
+Quest giver: Varshahn 
+Location: Radz-at-Han (X:14, Y:8)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 1,001
+Previous quest: A Brother's Grief
+Next quest: Bridging the Rift
+Patch: 6.1
+
+Rewards
+Choose one of the following options:
+- 3 Giant Popoto Pancakes
+- 3 Sykon Compote  
+- 3 Sykon Bavarois
+- 2 Allagan Silver Piece
+
+Steps
+1. Speak with Matsya in Akyaali.
+2. Speak with locals in Yedlihmad. 0/2
+3. Speak with Varshahn at Meghaduta.
+
+Journal
+Varshahn wishes to discuss the distribution of the treasure.
+
+Dialogue
+Estinien: I hope you enjoyed the expedition, at least. Otherwise it was a heavy purse to pay for a treasure map leading to a treasure we couldn't keep.
+
+Varshahn: Shall we begin? If we are to spend the treasure wisely, then we must first determine which groups would benefit most from monetary assistance.
+
+Varshahn: [Forename], you are to visit Akyaali and Yedlihmad. Speak with Matsya and his people, and listen to their grievances. 
+
+Varshahn: Estinien, I bid you do the same at Palaka's Stand. I will be conducting my own inquiries at the Giantsgall Grounds.
+
+Varshahn: Once you believe you have ascertained the needs of the populace, we can reconvene at Meghaduta.
+
+Matsya: Oh, [Forename]! I was so glad to see you had returned unharmed. You've finished with the boat, then?
+
+Matsya: ...Anything the village desperately needs? 
+
+Matsya: Well, I suppose Khalzahl's loss hit us the hardest.
+
+Matsya: I've been trying to find buyers for my fish, but although I sell a few here and there, it's so much more difficult than it was before. 
+
+Matsya: Everyone's still struggling to rebuild their lives... For now, we're just banding together as best we can.
+
+Matsya: I liked leaving the selling to Khalzahl. I could just catch the fish, and not have to talk people into eating them...
+
+Junkmonger: Times are harsh, my friend. The world may no longer be on fire, but we are still sifting through the ashes, so to speak. Sisters spare me, we might as well have that ugly tower back for the scant few travelers we see these days.
+
+Junkmonger: I myself barely have the coin to buy at local prices. I tell you, if I didn't charge the odd adventurer a small fortune for afternoon tea, I'd be scavenging for scraps in the street...
+
+Guild Staff: <sigh>
+
+Guild Staff: How fares the port? Well, it's in shambles, isn't it?
+
+Guild Staff: The trade routes are open once more now that the danger has passed, certainly. 
+
+Guild Staff: But no small number of merchants have had to sell their ships to make ends meet in the short term.
+
+Guild Staff: Add to that the sailors we lost in the Final Days, and it's little wonder the flow of exports is no more than a pitiful trickle.
+
+Guild Staff: If Khalzahl and his consortium were still with us, I'm sure he'd have found a way to turn our fortunes around. Now that was a man who got things done, gods rest his soul.
+
+Estinien: 'Twould seem my stint on Vrtra's back did not go unnoticed. I couldn't take two steps before another Hannish local was thanking me profusely for saving their home.
+
+Varshahn: Ah, my advisors return. I've just made it back myself.
+
+Estinien: As for my inquiries, the people of Palaka's Stand were unanimous in their reply. They are surviving. 
+
+Estinien: Resources were stretched to the limit when refugees were pouring in, but they persevered with some assistance from Yedlihmad.
+
+Estinien: From what I understand, they have always been an independent community─hunters and foragers, and the like─and I was assured that the jungle provides for their needs. For the most part.
+
+Varshahn: Palaka's Stand has weathered the disaster better than most, it seems. 
+
+Varshahn: I myself heard good news and bad.
+
+Varshahn: The quarrymen were cautiously optimistic, having just sold a full wagon of giantsgall to a foreign trader. 
+
+Varshahn: But such visitors are few and far between. Compared to our best years, the weight of stone leaving Thavnair has been light indeed.
+
+Varshahn: Our nation is small and isolated, its prosperity dependent on a steady stream of exports...
+
+Varshahn: We must identify any obstacles to the flow of trade so we may begin working to remove them. Tell me, what did you learn in Akyaali and Yedlihmad?
+
+Varshahn: Hm, I see. Without a dedicated buyer, the average fisherman must struggle to off-load his daily catch...
+
+Varshahn: Which is why I believe we should first address the lack of ships and shortage of able-bodied sailors in Yedlihmad. 
+
+Varshahn: I am reminded of a child I spied as I made my way back to the palace. His father lost at sea when the beasts sunk their vessel...
+
+Varshahn: So many variations of the same tragic tale, repeated over and over. So many lives lost...
+
+Varshahn: Enough grief to drown in if we let ourselves be overcome...but we will not. [Forename], Estinien, I will consider the perspectives you've brought me, and devise a plan to help my people confront this adversity.
+
+Varshahn: Come, I would like you to be in attendance when I announce the proposal to my assembled functionaries.

@@ -1,0 +1,97 @@
+Here is the cleaned up text from the quest guide:
+
+Kindled Spirit
+
+Quest giver: Alphinaud
+Location: Garlemald (X:14.0, Y:31.1) 
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 1,130
+Previous quest: Once More unto the Void
+Next quest: An Unforeseen Bargain
+Patch: 6.3
+
+Rewards: Choose one of the following options:
+- 2 Urchin Pasta
+- 2 Melon Pie  
+- 2 Gyros
+- 2 Piennolo Tomato Salad
+- 3 Allagan Silver Piece
+
+Steps:
+1. Speak with Alisaie.
+2. Survey the designated locations and defeat any voidsent that appear. 
+3. Search for Alisaie.
+
+Journal: 
+- Alphinaud is in need of a helping hand.
+
+Dialogue:
+
+Zero: I can't say I understand Alisaie's answer, but a debt is a debt.
+
+Alisaie: At first I didn't know what to make of Zero, but her frankness speaks to me. I like her!
+
+Alphinaud: My thanks again for agreeing to help. The Ilsabard contingent brings in shipments of food, medicine, and other necessities by airship. We have yet to deliver a share of supplies to Tertium, and I would appreciate it if one of you could assist us with the task today.
+
+Zero: I'll do it.
+
+Alisaie: Well, Forename. It looks like you're with me, then. Voidsent sightings have been increasing by the day, which is why I had a mind to go out and patrol the Eblan Rime. Shall we? 
+
+Alisaie: Voidsent were spotted here not long ago. Considering the proximity to Camp Broken Glass, everyone is understandably concerned. But hopefully not for much longer. You follow this road eastward, and I'll have a look to the north. If you should encounter any voidsent, I won't begrudge you for dispatching them without me.
+
+System: You survey your surroundings, but do not spy any errant voidsent... You sense a voidsent presence! The enemy is still about!
+
+Alisaie: All finished, are we? Good. The cold doesn't let up out here, does it... They've the means to keep everyone warm at Camp Broken Glass and Tertium. But the measures are still only temporary. 
+
+Alisaie: Subsisting on charity, dreading the day the sympathy of others is exhausted — it's no way to live. They need lasting safety and security. Though things will never be as they once were... If we can restore a modicum of normalcy to their lives, maybe that will be enough for them to move forward. If we're to achieve that, we have to work harder. I have to work harder.
+
+Player Choice: What will you say? 
+• You're doing your best. Anyone can see that.
+• Just try not to overdo it, eh?
+
+Alisaie: L-Lest you misunderstand, I wasn't fishing for a compliment... As I said, I'm doing this because I want to. Still...I appreciate your support.
+
+Alisaie: Well, our work here is done. We should be heading back. I hope Alphinaud and Zero haven't gotten into any trouble. I cannot imagine how awful it must have been to serve as Zenos's avatar. To not only suffer him, but so much else... She's a fighter all right. Like you and me.
+
+Meanwhile at the Tertium...
+
+Famished Resident: Thank you, miss. Thank you.
+
+Zero: This feels...strangely familiar... 
+
+Restless Resident: Excuse me, Alphinaud. My wife, she's come down with a high fever. Do you think you could take a look at her?
+
+Alphinaud: Of course. Give me a moment. Zero, may I leave the rest here to you? 
+
+Zero: Fine by me.
+
+Jullus: Thank you again for your help. Er...Zero, was it? I take it you're one of Alphinaud's comrades?
+
+Zero: Comrade...? We've entered into a cooperative pact, if that's what you mean. 
+
+Jullus: Pact? No, no, nothing so formal. What I mean is, you must know each other well. Be on good terms, enjoy each other's company─that sort of thing.
+
+Zero: Then no, he's not my comrade. I have none. Nor will I ever, I think.
+
+Jullus: Oh... Did I say something odd?
+
+Zero: No, not at all. On the contrary, it makes sense.
+
+Jullus: When Alphinaud and the contingent first arrived, we rejected them out of hand. Whatever they may have claimed, they were the enemy. Savages with their savage ways. To accept their help was to admit defeat. But no matter how poorly we treated them, they didn't turn their backs on us. They stayed and listened. That's just the kind of people they are. Makes sense they'd get along with someone like you, who tries to push others away.
+
+Zero: Get along? I'm upholding my part of the bargain. There's nothing more to it than that.
+
+Jullus: If you say so... Ah, I'd nearly forgotten why I came. Are you hungry? We all get rations, and considering the work you're doing, you're as good as one of us. 
+
+Zero: I am running low on aether... Very well.
+
+Jullus: Azim Steppe-style dumplings. Buuz, they call them. Never had a dumpling? It's like...a kind of bread stuffed with a filling─meat or vegetables usually─that you bake or steam. We have our own recipes in Garlemald, too. My mother liked to make them. My brother and sister always fought over the jam-filled ones... J-Just think of it as bread, all right?
+
+Jullus: I should warn you, though, they're spicy─helps them keep longer, I assume. Too much for the children to handle, though. 
+
+Zero: Interesting...
+
+Jullus: Interesting good or interesting...
+
+Zero: I don't know much about taste. Not anymore. But I do feel a sensation in my

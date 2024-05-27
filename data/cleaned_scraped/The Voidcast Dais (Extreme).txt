@@ -1,0 +1,74 @@
+<strategy_text>
+Assign light parties and Support / DPS pairs
+
+Terrastorm- Slow falling Meteors on 2 diagonals with an AOE that touches in the middle. Move to a safe corner.
+Lingering Spark- Drops a puddle on every player. Once the meteor AOE resolves, bait the cast by waiting until Lingering Spark's castbar completes, then run away.
+Phases of the Blade- Golbez cleaves the room in halves. First front, then behind.
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Gale Sphere- line aoes from front/back, then left/right order + Arctic Assault (shadowspread from Hades) on second hit
+Phases of the Blade- Golbez cleaves the room in halves. First front, then behind.
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Void Meteor- Tank buster on both tanks, hits 5 times.
+Azdaja's Shadow- Phase change, although this transition is much faster than in normal mode as it not voiced and does not have an unskippable cutscene.
+Black Fang- ultimate AoE
+
+Azdaja's Shadow
+3 hit tank line AoE busters + swap
+Phases of the Blade
+circling dragon with purple rings: donut + spread
+circling dragon with small ring & orbs: PB AoE + stacks
+Double Meteor- MT flex for double ranged flares, H flex for double melee flares
+2 people with flares: KB to open intershealer with KB: mid, baited line AoE
+towers at intercardinals: other people (3 stack in N, 2 stack in S)
+
+Azdaja's Shadow
+3 hit tank line AoE busters + swap
+
+THE REST EXECUTES WAY LATER
+Void Stardust
+trailing AoEs (exaflares): start on E/W side and move into the first exaflare that goes off (side to corner)
+Enumeration (melee in, ranged at corners)
+Eventide Fall- light parties OR Eventide Triad - role-based cleaves
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Void Meteor
+Phases of the Blade
+Azdaja's Shadow - execution
+Terrastorm
+with Arctic Assault (find safe quadrant) and healer stacks (melee in, ranged corner)
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Gale Sphere
+light parties / Enumeration
+Arctic Assault
+light parties / Enumeration
+Phases of the Blade
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Azdaja's Shadow
+3 hit tank line AoE busters + swap
+
+THE REST EXECUTES WAY LATER
+Void Stardust
+corner to side
+Enumeration (ranged stay, melee move)
+Lingering Spark- Puddles. Bait, then move.
+Eventide Fall / Triad
+Phases of the Blade
+Azdaja's Shadow- execution
+Double Meteor
+Void Meteor
+Gale Sphere
+light parties / Enumeration
+*Arctic Assault
+light parties / Enumeration
+Phases of the Blade
+Binding Cold- Raidwide. Inflicts Frostbite for 8 seconds.
+Azdaja's Shadow
+3 hit tank line AoE busters + swap
+Phases of the Blade
+Azdaja's Shadow- execution
+
+Pre-Enrage- Double stack of Binding Cold
+Frostbite
+then Void Meteor (5-hit double tankbuster)
+
+Enrage- Golbez will cast Azdaja's Shadow in preperation and then slowly begin casting Black Fang. The boss must be defeated before this finishes or the party will wipe.
+</strategy_text>

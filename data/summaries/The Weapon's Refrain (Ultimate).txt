@@ -1,0 +1,129 @@
+<span class="boss">The Ultima Weapon</span>:<br>
+- Assign 3 DPS to receive 2 stacks of 🤢 Thermal Low later<br>
+- Tank pulls boss north, faces away from party<br>
+- <span class="ability">Slipstream</span>: Marked healer moves away, tank intercepts 🎯 Mistral Song<br>
+- <span class="ability">Downburst</span>: 🛡️ Tankbuster<br>
+- 👾 Satin Plumes tether to DPS, 👾 Spiny Plume tethers to first attacker<br>
+- 🔥 AoE down plumes quickly to avoid 💤 Sleep<br>
+- Tank grabs Spiny Plume, takes no more than 2 hits of <span class="ability">Cyclone</span> (magic damage + 🤢 Thermal Low)<br>
+- 🏃 Dodge <span class="ability">Feather Rain</span><br>
+- <span class="mechanic">Thermal Low 🤢: Raid-wide damage on removal, 3 stacks = wipe</span><br>
+- Cleanse in Spiny Plume's bubble after defeat or with boss 🔗 Mesohigh tether<br>
+- <span class="ability">Friction</span> 2x: Stack in bubble except 3 pre-assigned DPS (1st stack), then all move out (2nd stack)<br>
+- Cleanse DPS with 2 stacks one at a time, heal between<br>
+- Boss gains 3 stacks of Aetherically Charged, 5 players at 1 stack, 1 at 2 stacks<br>
+- <span class="ability">Eye of the Storm</span>, then 👾 Chirada and Suparna spawn<br>
+- 🎯 Mistral Song on DPS and healer, ads jump to cardinals<br>
+- Tanks intercept songs at edge, party stacks center<br>
+- 🌪️ Tornadoes drop under tanks<br>
+- Pull boss center for <span class="ability">Eye of the Storm</span>, 👾 Satin Plumes spawn<br>
+- 🔥 Burn plumes quickly<br>
+- Ads tether 🔗 Mesohigh to 2-stack player and another<br>
+- 🛡️ <span class="ability">Downburst</span> tankbuster<br>
+- Boss gains final Aetherically Charged stack and 🌟 Awakened buff<br>
+- 🏃 Dodge <span class="ability">Feather Rain</span>, <span class="ability">Slipstream</span>, <span class="ability">Wicked Wheel</span>, and <span class="ability">Wicked Tornado</span><br>
+- 🛡️ Split <span class="ability">Downburst</span> between 2 tanks<br>
+- Boss enrages with <span class="ability">Aerial Blast</span> (wipe)<br>
+
+<span class="boss">Ifrit</span>:<br>
+- Spawns at random cardinal, casts <span class="ability">Crimson Cyclone</span> and 🔥 Radiant Plumes<br>
+- 🏃 Move to safe adjacent cardinals<br>
+- 💥 <span class="ability">Hellfire</span> and <span class="ability">Vulcan Burst</span>, shield to avoid knockback<br>
+- Main tank picks up boss<br>
+- <span class="ability">Incinerate</span> 3x: Invuln or tank swap each<br>
+- 4 👾 Infernal Nails spawn (2 close, 2 far)<br>
+- 💥 Raid damage and 🤢 Vuln Up when nails die (1s duration, stacks)<br>
+- 🎯 <span class="ability">Infernal Howl</span> on healer, drop at edge<br>
+- 🔗 <span class="ability">Infernal Tethers</span> chain players<br>
+- <span class="mechanic"><span class="ability">Eruption</span>: Hit each nail 2x for Vuln Down and Damage Up</span><br>
+- Nail defeat order determines <span class="ability">Crimson Cyclone</span> direction<br>
+- Boss gains Aetherically Charged stack and 🌟 Awakening per nail<br>
+- 💥 <span class="ability">Hellfire</span>, 🎯 <span class="ability">Infernal Howl</span> on healer, then <span class="ability">Eruption</span><br>
+- 🤢 Searing Wind lasts 30s with Awakened buff<br>
+- Tank pulls boss SW after <span class="ability">Hellfire</span><br>
+- 2 players bait <span class="ability">Eruptions</span> NE, then move to party<br>
+- Healer with 🤢 Searing Wind moves opposite party<br>
+- 🎯 <span class="ability">Flaming Crush</span> on DPS, stack to mitigate damage and 🤢 Accursed Flame duration<br>
+- Ifrit leaps to edge, summons 3 clones<br>
+- Clones 🔥 <span class="ability">Crimson Cyclone</span> in nail defeat order<br>
+- Party moves to 4th nail spot, 🤢 Searing Wind healer opposite<br>
+- Dodge clone charges based on nail order<br>
+- Awakened boss leaves 🔥 cross AoE (intercardinal start = cardinal cross, vice versa)<br>
+- <span class="ability">Incinerate</span> 3x again<br>
+- <span class="ability">Eruption</span> on 2 farthest players<br>
+- Stack for <span class="ability">Flaming Crush</span><br>
+- Enrage: 💥 <span class="ability">Hellfire</span> (wipe)<br>
+
+<span class="boss">Titan</span>:<br>
+- Spawns center, 💥 <span class="ability">Geocrush</span> (fatal if not near wall)<br>
+- Collect light pillar<br>
+- 💥 <span class="ability">Earthen Fury</span>, mitigate and heal<br>
+- Main tank grabs aggro<br>
+- 🛡️ Rock/Mountain Buster combo<br>
+- 🏃 Dodge <span class="ability">Weight of the Land</span><br>
+- <span class="ability">Geocrush</span>: Identify jump direction, move opposite<br>
+- <span class="ability">Upheaval</span> + <span class="ability">Rock Throw</span>: Stand in boss hitbox, get knocked into safe zone behind rocks<br>
+- 💥 Rocks cast <span class="ability">Burst</span>, stay stacked<br>
+- New rock drops in previous safe zone<br>
+- 🎯 <span class="ability">Granite Gaols</span> on players<br>
+- <span class="ability">Landslide</span> 2x: Gaol players form line between last rock and boss<br>
+- Rock explosions free players and create safe puddle chain<br>
+- Boss gains Aetherically Charged stacks and 🌟 Awakened<br>
+- <span class="ability">Tumult</span> 8x: Group for AoE heals<br>
+- 🏃 Dodge <span class="ability">Weight of the Land</span><br>
+- Awakened <span class="ability">Landslide</span>: 2nd wave in previous safe zones<br>
+- <span class="ability">Geocrush</span>: Move opposite boss facing<br>
+- 🎯 <span class="ability">Granite Gaol</span> on healer, break immediately<br>
+- 🏃 Dodge <span class="ability">Landslide</span><br>
+- <span class="ability">Tumult</span> 6x<br>
+- 🛡️ Rock/Mountain Buster combo<br>
+- Rocks drop clockwise around center<br>
+- <span class="ability">Weight of the Land</span> 3x + Awakened <span class="ability">Landslide</span> (mind dropping rocks)<br>
+- 🛡️ Rock/Mountain Buster combo<br>
+- <span class="ability">Weight of the Land</span> sets<br>
+- <span class="ability">Tumult</span> 8x<br>
+- Enrage: 💥 <span class="ability">Earthen Fury</span> (wipe)<br>
+
+<span class="boss">The Ultima Weapon</span>:<br>
+- 4 pillars drop at cardinals, proximity damage<br>
+- Stack center to mitigate<br>
+- 6 👾 Magitek Bits spawn, slow-cast Self Destruct (wipe)<br>
+- 🌟 Beyond Limits caster LB3 to destroy bits<br>
+- Lahabrea spawns, casts <span class="ability">Blight</span> (1 HP, 💀 Doom 8s, 🤢 Down for the Count 4s)<br>
+- 🌟 Beyond Limits healer LB3 to survive<br>
+- Boss targetable, casts <span class="ability">Dark IV</span> (max damage)<br>
+- 🌟 Melee LB3 + party DPS to defeat<br>
+- Ultima Weapon spawns, casts 💥 <span class="ability">Ultima</span> (mitigate with shields, CDs, 🌟 tank LB3)<br>
+
+<span class="boss">Ultimate Predation</span>:<br>
+- Boss consumes primals<br>
+- <span class="ability">Tank Purge</span> + <span class="ability">Homing Lasers</span><br>
+- Garuda random center, Ifrit/Ultima intercardinal, Titan cardinal<br>
+- Garuda: <span class="ability">Wicked Wheel</span> + <span class="ability">Wicked Tornado</span><br>
+- Ifrit: Awakened 🔥 <span class="ability">Crimson Cyclone</span> (cross puddle through cardinals)<br>
+- Titan: Awakened <span class="ability">Landslide</span> (dodge out, then back in)<br>
+- Ultima: <span class="ability">Ceruleum Vent</span> (front area unsafe)<br>
+- Garuda: <span class="ability">Feather Rain</span><br>
+- Mind Ultima position and Ifrit puddle when dodging<br>
+
+<span class="boss">Primal Summoning</span>:<br>
+- Ifrit: <span class="ability">Eruption</span><br>
+- Ultima: 🔥 <span class="ability">Radiant Plume</span> at edges<br>
+- Titan: Clockwise dropping rocks<br>
+- Titan + Ultima: <span class="ability">Landslide</span> (Titan Awakened version)<br>
+- Titan: <span class="ability">Tumult</span><br>
+- Ultima: 🎯 <span class="ability">Viscous Aetheroplasm</span> on 2nd aggro<br>
+- Chirada + Suparna (E/W): 🏃 Avoid <span class="ability">Wicked Wheel</span><br>
+- Garuda (center): <span class="ability">Mistral Shriek</span>, ads move + <span class="ability">Feather Rain</span><br>
+- Ultima: 🎯 <span class="ability">Homing Lasers</span> on 2nd aggro<br>
+- Garuda: <span class="ability">Feather Rain</span><br>
+- <span class="mechanic">Strategy: Move Ultima south, Titan north to resolve mechanics around party</span><br>
+- 🏃 Dodge <span class="ability">Viscous Aetheroplasm</span> at boss front<br>
+
+<span class="boss">Primal Positions</span>:<br>
+- Ultima north, Garuda south, Titan/Ifrit SE/SW<br>
+- Titan: <span class="ability">Weight of the Land</span><br>
+- Ifrit: Awakened 🎯 <span class="ability">Flaming Crush</span> on non-tank<br>
+- Garuda: <span class="ability">Eye of the Storm</span> (avoid edges)<br>
+- <span class="ability">Weight of the Land</span> repeats<br>
+- Garuda: 🔗 <span class="ability">Mesohigh</span> tether on player<br>

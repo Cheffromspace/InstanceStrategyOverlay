@@ -1,0 +1,17 @@
+<strategy_text>
+Upon entering the instance, players will find an arcane sphere which must be used to perform an invocation. Doing so will trigger a roulette wheel, summoning forth one or more creatures to serve as the first trial.
+
+A treasure chest will appear upon defeating the enemies summoned. Only the player who opened the teleportation portal can access it. After claiming the contents of the treasure chest, the arcane sphere can be used again to initiate the next trial.
+
+Outcome Effects:
+Results in a lesser summon.
+Results in a greater summon.
+Results in an elder summon.
+Summons a kalypso, expelling the party from the instance. Small chance for lightning to kill the kalypso, causing the party to stay in the instance.
+Causes the arcane circles to shift.
+
+The duty will end if any of the following conditions are met:
+Five summons are performed and the duty is completed.
+A kalypso is summoned and removes the party from the duty.
+All party members are KO'd.
+</strategy_text>

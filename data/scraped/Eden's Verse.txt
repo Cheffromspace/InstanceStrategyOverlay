@@ -1,0 +1,90 @@
+Here is the cleaned up text for the Eden's Verse strategy guide:
+
+Eden's Verse is the 2nd section of Eden, the main 8-player raid in Shadowbringers. Released on February 18, 2020, Eden's Verse requires players with item level of 455 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock
+Players must first complete all of the Eden Quests up through The Next Piece of the Puzzle. This includes clearing all of the Eden's Gate raids. 
+Players can then begin the level 80 quest chain starting with Away with the Faerie by talking to Yalfort in Amh Araeng (X:26.7, Y:16.7).
+To unlock each floor after the first, continue the quest line and complete the consecutive floor. Each floor is listed separately.
+
+Floors
+
+Duty
+Abbreviation
+Min IL
+Boss(es)
+Tomestones
+Time Limit
+
+Eden's Verse: Fulmination
+E5N
+455
+Ramuh
+10
+90 min
+
+Eden's Verse: Furor  
+E6N
+455
+Garuda, Ifrit, Raktapaksa
+10
+90 min
+
+Eden's Verse: Iconoclasm
+E7N
+450
+The Idol of Darkness
+10
+90 min
+
+Eden's Verse: Refulgence
+E8N
+455
+Shiva
+10
+90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing Eden's Verse will not yield gear, but instead yield tokens that can be traded for gear of your choosing. 
+As of patch 5.3, weekly loot restrictions have been removed.
+Also note that there is no weekly restriction on entering Eden's Verse.
+
+Item Exchange
+The items obtained from treasure coffers can be exchanged for gear by speaking with Ghul Gul in Amh Araeng (X:26.6 Y:16.4) or Yhal Yal in Eulmore (X:10.0 Y:11.5).
+
+Item Type
+Required Token / Number of Tokens
+Token Drop Location
+
+Head
+Helm of Golden Antiquity x 2
+2x Fulmination, Furor, Iconoclasm
+
+Body  
+Armor of Golden Antiquity x 4
+Fulmination, Furor, 2x Iconoclasm, 2x Refulgence
+
+Hands
+Gauntlets of Golden Antiquity x 2  
+Fulmination, Furor, Iconoclasm, Refulgence
+
+Legs
+Chausses of Golden Antiquity x 4
+Fulmination, Furor, 2x Iconoclasm, 2x Refulgence  
+
+Feet
+Greaves of Golden Antiquity x 2
+Fulmination, 2x Furor, Refulgence
+
+Accessories  
+Bangle of Golden Antiquity x 1
+2x Fulmination, 2x Furor, 2x Iconoclasm, 2x Refulgence
+
+Gear
+Armor
+Main article: Edencall Armor
+
+Accessories  
+Main article: Edencall Accessories

@@ -1,0 +1,107 @@
+<cleaned_strategy_text>
+Strategy
+
+Ratfinx Twinkledinks
+
+Syringes/Puddles
+To spawn the puddles someone has to run into the purple ring in the center which inflicts damage over time and the duration that the puddles remain on the ground depends on how many damage ticks they took.
+
+Overgulp (De-buff) - This de-buff starts off at a set time once you enter your first puddle, and every puddle you enter afterwards will restart the timer but starting from a lower value. If the timer runs out or you get 12 stacks you get a 20s strong dot. Usually by the end of the fight this de-buff can fall off, and to avoid this so healers aren't stuck healing you extra, just enter a puddle to refresh your timer if it gets too low.
+
+Green - Used to remove the increasing stack de-buff that the 'Snake Adds' give out.
+Blue - Used to remove the tether the 'Winged Lion' puts out.
+Red - Used to turn into a monkey to knock back bomb's after boss casts 'Bomb's Away'.
+Purple - Used by the entire group while boss is in big mode when the boss starts casting 'Boost' (to avoid high damage).
+
+Extra: Keep boss and adds out of puddles otherwise they will get a damage up buff.
+
+Phase 1 (100%-89%)
+1. Boss will start off small and go big basically right away.
+2. When he goes big this first time he will start off by stacking headache onto the MT with each hit.
+3. At 4 headache stacks the MT will get the concussion de-buff stunning them for 10 seconds and increasing damage taken. As soon as this happens the OT has to grab the boss.
+4. Once OT has the boss they have to wait and see whether they will be getting a cleave tank buster or stack marker next.
+- If they get the stack marker the OT has to stack with the group.
+- If the OT doesn't get the stack marker they just have to face the boss away from the group and MT.
+5. Next someone will get a prey marker. (can be skipped with good DPS)
+- After some time the boss will rush to that player doing proximity damage to them and anyone else who stand in between the boss and the prey player.
+- The prey player also needs to get shielded to absorb all damage from the rush because if they take any damage at all they will receive a 30s damage down de-buff.
+
+Phase 2 (89%-70%)
+1. Boss will go small again and cast out two poison puddle markers. Place these away from the party and east wall.
+2. As the last poison puddle marker is moving away, Shock Therapy will begin (only two happen here) doing raid-wide damage.
+3. Two snakes will spawn next in the NE and SE corners.
+- These will give people a stacking anti-coagulant de-buff which will kill the player when it reaches 8 stacks.
+- They also cast 'steel scale' increasing their damage. This can be blocked by stunning the snakes.
+4. After both snakes are dead everyone with the anti-coagulant de-buff cleanses in the green puddle.
+5. Next will be bombs away, dropping 1 spiked bomb and 2 smartbombs.
+- The spiked bomb will explode in a plus shape and the smartbombs in a circle aoe.
+- One player can enter the red puddle to transform into a money which allows them to push the smartbombs away into the spike bomb after which everyone move far away from the bombs.
+
+Phase 3 (70%-60%)
+1. Boss will go big again and start casting boost.
+- Everyone should step into the purple puddle to transform into a bird so you don't get hit by boost.
+2. As soon as you're a bird 4 spiked bombs will drop on a diagonal.
+- Head next to the first one or the last one that drops (both will get you to the same spot).
+- After first bomb explodes into a plus form move into the now safe area while waiting for the rest to explode.
+3. Next prey will go out to a random player which is handled the same as in phase 1.
+4. Right after the prey player is charged, boss will target a random player and begin casting Gobhook.
+- Gobhook is a massive 180° frontal cleave so move behind him to avoid getting hit.
+5. Next boss will start stacking headache onto the MT.
+6. At 4 headache stacks the MT will get the concussion de-buff stunning them for 10 seconds and increasing damage taken. As soon as this happens the OT has to grab the boss.
+7. Once OT has the boss they have to wait and see whether they will be getting a cleave tank buster or stack marker next.
+- If they get the stack marker the OT has to stack with the group.
+- If the OT doesn't get the stack marker they just have to face the boss away from the group and MT.
+
+Phase 4 (60%-50%)
+1. Boss will go small again and summon the Gobbledygroper.
+2. Someone will be tethered to the add right away.
+- This person has to cleanse this tether by stepping into the blue puddle.
+3. After tether is off the player, OT be sure to grab this add and face it away from the party.
+4. Next the boss will cast out another poison puddle.
+5. Followed by another bombs away, where this time 2 spiked bombs will drop in opposite corners.
+- Monkey player will be smacking bombs opposite to the first spiked bomb.
+- Everyone stands close to the first spiked bomb and moves into its location after it has exploded.
+6. Shock Therapy x5 (healers just be sure to top people off, everyone else push max DPS).
+
+Phase 5 (50%-25%)
+1. Boss will go big again and starts casting boost.
+- Everyone should step into the purple puddle to transform into a bird so you don't get hit by boost.
+- 3 spiked bombs will drop in random locations such that the room is divided in a 4x4 grid where 1 tile is safe.
+2. Next 2 prey's will be given out, while the MT gets marked with a stack marker.
+- First prey marker will run away from the group and get shielded liked normal.
+- Second prey will stay with the group and help soak the stack damage first.
+- After the stack, first prey charge will happen.
+- During this first charge everyone but the second prey person move out of the way.
+- And healers need to shield the second prey person before the second charge.
+3. Next the MT will get concussion again so the OT has to take the boss and see if they get the cleave tank buster or the stack marker.
+
+Phase 6 (25%-15%)
+1. A minotaur will spawn at the NW corner which the OT will grab to keep it away from the rest of the party.
+- The minotaur will eat any nearby adds which increases his damage.
+- He has a cleave attack that can be avoided by running behind him.
+2. Yorn pigs will spawn at the NE corner, which the MT will grab.
+3. x2 Gobbeldygawkers will spawn, one at SW and one at SE corner (they can cast petrifaction).
+- MT should grab these Gobbeldygawkers and the yorn pigs.
+- Everyone be on the look-out for Oogle (which is the gobwalker's petrifaction cast).
+- Use caster LB to kill the adds quickly.
+4. Once the MT has aggro of the yorn pigs, the OT should move the minotaur to the NE corner.
+- A snake will then spawn in the NE corner which the minotaur will eat giving him a damage up buff but also the anti-coagulant de-buff which will kill him when it reaches 8 stacks.
+5. Another set of yorn pigs will spawn this time in the NW corner which the MT will grab again.
+
+Phase 7 (15%-5%)
+1. Next up is x5 Shock Therapy's incoming.
+- This is a perfect time to have everyone check their color puddle stacking de-buff, and to refresh it if need be.
+2. Next up a Glassy-Eyed Shabti add will spawn.
+- He has a buff that makes all of its attacks crit.
+- OT grabs this add and wants to use a cooldown at all times and face add away from Party and MT.
+- Add has to die before the MT gets concussion again.
+3. Boss will go big one more time and give the MT concussion, after which the OT takes the boss again to take the cleave tank buster or stack marker.
+
+Phase 8 (5%-0%)
+1. Boss will go small again and summon the Gobbledygroper.
+- The person who gets tethered needs to clear it with the blue puddle.
+2. Player will get marked to drop poison gain.
+3. Bomb's away where party will stack by first spiked bomb.
+- All other bombs get smacked to the second spiked bomb that gets dropped.
+4. Boss will now enrage with hard hitting shock therapy's.
+</cleaned_strategy_text>

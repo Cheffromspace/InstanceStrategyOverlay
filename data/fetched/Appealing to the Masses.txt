@@ -1,0 +1,28 @@
+Here is the cleaned up text for the "Appealing to the Masses" quest in Final Fantasy 14:
+
+Quest giver: Ryne
+Location: The Crystarium (X:11.7, Y:11.2) 
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 1,606
+Previous quest: Seeking the Light
+Next quest: In Defiance of Fate 
+Patch: 6.5
+
+Main Scenario Progress: 845 / 853 (99.1%)
+Endwalker Progress: 147 / 155 (94.8%)
+
+"Ryne is eager to help you set your plan in motion." — In-game description
+
+Rewards - Choose one of the following options:
+1 Piety Materia IX
+1 Battledance Materia IX 
+1 Quickarm Materia IX
+1 Quicktongue Materia IX
+
+Steps:
+1. Speak with Chai-Nuzz in Eulmore.
+2. Speak with Zero and have her accompany you.
+3. Speak with the Eumoran citizens while Zero and Ryne are accompanying you.
+4. Speak with Chai-Nuzz while Zero and Ryne are accompanying you.
+5. Speak with Zero.

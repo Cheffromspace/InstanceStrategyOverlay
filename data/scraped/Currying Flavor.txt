@@ -1,0 +1,46 @@
+Here is the cleaned up text for the "Currying Flavor" quest guide:
+
+Currying Flavor
+
+Quest giver: Varshahn
+Location: Radz-at-Han (X:4.4, Y:9.8)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 1,346
+Previous quest: Gods Revel, Lands Tremble
+Next quest: Going Haam
+Patch: 6.4
+
+Main Scenario Progress: 835 / 853 (97.9%)
+Endwalker Progress: 137 / 155 (88.4%)
+
+Rewards:
+Choose one of the following options:
+2 Urchin Pasta
+2 Melon Pie
+2 Gyros
+2 Piennolo Tomato Salad
+3 Allagan Silver Piece
+
+Steps:
+1. Speak with Zero.
+2. Select a spice.
+3. Taste the spice in Zero's presence.
+4. Speak with Zero.
+5. Speak with the Meghaduta Attendant.
+
+Journal:
+Though eager to return to the void and resume the search for his sister, Varshahn has had no choice but to wait for Y'shtola's efforts to bear fruit. As he confesses restlessness at the lack of glad tidings, Zero makes an appearance—albeit one she intends to be brief, as she is heading out to "replenish her aether" shortly. Somewhat surprisingly, she extends an invitation to you and the satrap to join her, and so the three of you make your way to the bazaar.
+
+Zero's business in the bazaar transpires to be the acquisition of supplementary spice that Mehryde requires to satisfy Zero's particular tastes. Delighted to find his regular customer in the company of others, the merchant is happy to make your acquaintance and cheerfully suggests you select an additional spice to blend with today's order.
+
+After much deliberation, you make your choice. All that's left is to sample it...and pray that your taste buds can weather the coming storm.
+
+Satisfied by your colorful reaction, Zero accepts your selection of spice and proceeds without hesitation to Mehryde's Meyhane. She doubtless expects you to follow, once you have regained your composure.
+
+With Zero's blessing, Mehryde makes a full kettle of intensely spicy curry and offers it to the meyhane at large. The casualties are considerable, but the people nevertheless appreciate the delicious agony. After watching you and Zero sup on some curry yourself, Varshahn suggests delivering a meal to Estinien, whom he suspects has returned to his chambers in Meghaduta.
+
+Masala has been delivered and misunderstandings averted by the time Y'shtola and Urianger arrive with good news. It seems you may be able to reach Golbez and Azdaja on the Thirteenth's moon by way of a gate opened from Mare Lamentorum. Opening said gate will be no small feat, however, as it will require channeling vast amounts of aether to the moon by way of the Tower of Babil. Much and more must be prepared in order to execute this plan, and so your comrades part ways to attend to their respective tasks─Y'shtola to the moon for preparations, and Estinien to escort Nidhana and a cohort of alchemists to meet her there. Urianger would have your help readying other necessities, the details of which he is eager to impart...
+
+Trivia:
+The quest name is based on the English idiom curry favor, meaning to gain favor from another person by flattery or attention.

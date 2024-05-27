@@ -1,0 +1,26 @@
+<span class="boss">Faust Oppressor</span>:<br>
+- <span class="ability">Hydrothermal Missile</span>: 🎯 <span class="mechanic">Targets random player, 🔴 AoE on impact</span><br>
+- <span class="ability">Pressure Increase</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Distress Beacon</span>: <span class="mechanic">👾 Summons adds, focus down quickly</span><br>
+- <span class="ability">Discoid</span>: 🛡️ <span class="mechanic">Tankbuster, mitigate and heal</span><br>
+
+<span class="boss">Illuminati Soldiers</span>:<br>
+- <span class="mechanic">Kill Gordian Hardhelm first</span>, then Gordian Sniper > Hardmind > Jagd Doll<br>
+- <span class="ability">Jagd Doll's Rapid Sever</span>: 🛡️ <span class="mechanic">Tankbuster, swap after 2-3 stacks</span><br>
+- <span class="ability">Gordian Sniper's Ballistic Missile</span>: 🎯 <span class="mechanic">Targets random player, 🔴 AoE</span><br>
+- <span class="ability">Gordian Hardmind's Embolus</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+
+<span class="boss">Living Liquid</span>:<br>
+- <span class="ability">Fluid Swing</span>: 🛡️ <span class="mechanic">Tankbuster, swap after debuff</span><br>
+- <span class="ability">Cascade</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Fluid Strike</span>: ➡️⬅️ <span class="mechanic">Line AoE, dodge sideways</span><br>
+- <span class="ability">Splash</span>: 🔴 <span class="mechanic">Puddle AoEs, avoid</span><br>
+- <span class="ability">Wash Away</span>: 💨 <span class="mechanic">Knockback, face away from center</span><br>
+
+<span class="boss">The Manipulator</span>:<br>
+- <span class="ability">Discoid</span>: 🛡️ <span class="mechanic">Tankbuster, mitigate and heal</span><br>
+- <span class="ability">Jagd Doll's Rapid Sever</span>: 🛡️ <span class="mechanic">Tankbuster, swap after 2-3 stacks</span><br>
+- <span class="ability">Seed of the Sky</span>: 🤝 <span class="mechanic">Stack to share damage</span><br>
+- <span class="ability">Carnage</span>: 💥 <span class="mechanic">Unavoidable raid-wide damage</span><br>
+- <span class="ability">Judgment Nisi</span>: 🔗 <span class="mechanic">Tethered players must separate</span><br>
+- <span class="mechanic">Kill adds ASAP</span>, <span class="note">prioritize Alarum</span><br>

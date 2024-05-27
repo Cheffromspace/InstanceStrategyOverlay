@@ -1,0 +1,75 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Mythic Creation: Kokytos
+Each player should be assigned a clock position, with DPS on intercardinals and supports on cardinals, along with light parties. Pairs of players consisting of 1 DPS and 1 support, each with an assigned cardinal and intercardinal, should also be designated.
+Shortly after engaging the boss, the arena will be surrounded by a purple AoE that will instantly kill anyone who touches it.
+Failing any mechanic will result in a Damage Down debuff, as well as other various effects.
+
+Strategy
+Gluttony's Augur: high raidwide damage that should be mitigated
+Ravening: signals phase transition based on boss color. Unlike Normal mode, this will be coupled with raidwide damage (Soul Surge) that should be mitigated.
+
+Mage Phase
+Duality of Death: Diffusely telegraphed AoE tankbusters hitting the first enmity player with a fire AoE that inflicts Fire Resistance Down II and the second enmity player with a wind AoE that inflicts Wind Resistance Down II. The AoEs hit twice, requiring a tank swap or invulnerability cooldowns.
+Dualspell: The boss will conjure two elements, signaling an upcoming attack. Shortly before the attack resolves, one of the elements will flash on the screen and the boss will say a specific voice line, indicating that element will be amplified in some way.
+Ice: A donut AoE that leaves the inner two rings of the arena safe. If ice is amplified, only the innermost circle is safe.
+Fire: Large circular AoEs (Pile Pyre) that target either all DPS or all supports, require two players to split damage, and inflict Magic Vulnerability Up, making overlap lethal. If fire is amplified, the AoEs will become even larger.
+Lightning: Line AoEs (Thunder III) that target all players and inflict Magic Vulnerability Up, making overlap lethal. If lightning is amplified, the AoEs will become wider.
+Combo 1: Fire + Ice: Assigned pairs will stack with each other either just inside the inner ring (if ice is amplified) or just inside the second ring (if fire is amplified).
+Combo 2: Lightning + Ice: The party will spread to their clock positions either just inside the inner ring (if ice is amplified) or just inside the second ring (if lightning is amplified).
+Combo 3: Fire + Ice: Same as combo 1, but the opposite element will always be amplified.
+After this introductory mechanic sequence, the boss will release the Mage soul with Disgorge (no cast bar) and cast Ravening to transition into its next form.
+
+Martialist Phase
+Ascendant Fist: Telegraphed, heavy-hitting single tankbuster that inflicts Concussion, dealing damage-over-time, and Physical Vulnerability Up, requiring a tank swap during the cast to prevent lethal damage from subsequent auto-attacks.
+Four AoEs will then appear on all cardinals or all intercardinals, designating where a barrier will spawn.
+Archaic Rockbreaker: A purple knockback AoE (Shockwave) will appear in the middle, killing anyone inside it. Pairs of players must be knocked back to the barriers that spawn, as this knockback cannot be prevented with knockback immune actions. After the knockback, either all DPS or all supports will be hit with an untelegraphed split damage AoE that requires two people to soak.
+Several cracks will appear from the center, and orbs of light will begin traveling through some of the cracks, in two sets. When they reach the end, they will emit a medium-sized circular AoE with a brief telegraph.
+At the same time, the boss will use Front Combination or Rear Combination, telegraphing either a point-blank or donut AoE (Outside / Inside Roundhouse'), an untelegraphed 180 degree cleave to either its front or rear based on the name of the cast, and finally an untelegraphed point-blank or donut AoE that is opposite of the initially telegraphed AoE. Anyone hit by the 180 degree cleaves will be inflicted with Sustained Damage.
+The final untelegraphed point-blank or donut AoE will coincide with the second set of circular AoEs from the exploding cracks.
+For example, if the boss uses Front Combination and telegraphs a donut AoE, the party will dodge first set of exploding cracks, then go behind the boss and outside its hitbox at max melee range to avoid the frontal cleave and untelegraphed point-blank AoE, while dodging the second set of exploding cracks.
+Archaic Demolish: Untelegraphed split damage AoEs targeting both healers, requiring the party to split into assigned light parties.
+The boss will use another Gluttony's Augur raidwide which also removes the barriers, Ascendant Fist tankbuster, then transition to its next form with Ravening.
+
+Mage + Martialist (Chimera) Phase
+Four AoEs will then appear on all cardinals or all intercardinals, designating where a barrier will spawn.
+Levinstrike Summoning: The boss will summon four lightning orbs in front of the barriers that spawned. Each orb will be numbered 1, 3, 5, and 7, going either clockwise or counterclockwise. In addition, four random players will be numbered 2, 4, 6, and 8.
+Scrambled Succession: The four players without a number will be sequentially marked with a blue overhead marker. When the cast finishes, the boss will become untargetable and begin a series of mechanics.
+The boss will teleport to the 1 marked lightning orb and kick it across the arena until it strikes the barrier, which will cause it to explode in a small AoE (Shock) that should be avoided. Afterwards, a tower will spawn that must be soaked by a player, which will inflict Magic Vulnerability Up, or it will explode and deal massive raidwide damage, Damage Down, and Paralysis on everyone.
+The boss will strike the 2 marked player with a medium circular AoE (Firemeld) that inflicts Magic Vulnerability Up.
+At the same time, the first player with a blue overhead marker will be hit with a massive circular AoE (Icemeld) that inflicts Magic Vulnerability Up.
+The boss will repeat this sequence of mechanics for the remaining numbers.
+To prevent deaths due to the Magic Vulnerability Up timers, the towers need to be soaked by the 6 - 8 - 2 - 4 numbered players in that order. These players must also be isolated from others when they are hit with Firemeld to prevent overlapping other players. The players without numbers will need to be opposite the rest of the party when their blue marker is about to expire to prevent overlapping other players with their Icemeld AoE.
+Two Minds: Functions similarly to Dualspell with a random elemental pair and amplifier (Fire + Ice or Lightning + Ice).
+The boss will use another Gluttony's Augur raidwide which also removes the barriers, then transition to its next form with Ravening.
+
+Behemoth Phase
+Charybdis: The boss will summon four large persistent AoEs at all cardinals or all intercardinals.
+Comet: Four proximity AoEs appear at the cardinals/intercardinals not occupied by a Charybdis AoE, requiring the party to be in the middle of the arena to mitigate the damage. When the AoEs resolve, four rocks will spawn at the AoE locations: two random rocks will be cracked, while the other two will be undamaged.
+Beastly Bile: Split damage AoE targeted at the furthest player and should be soaked by four players. Note that the AoE will resolve at the same time as Thunderbolt.
+Thunderbolt: Four large conal AoEs targeted at the four closest players.
+The goal is to resolve the mechanics while protecting the two undamaged rocks, as they will become damaged if they are hit by any of these attacks, likely causing the next mechanic to fail. Four players from one role group (e.g., supports) should stack outside the boss's hitbox on a damaged rock to bait Beastly Bile, which will destroy the meteor, while the four players from the other group should spread inside the hitbox and bait Thunderbolt towards the persistent AoEs so they avoid hitting any rocks.
+The mechanic will repeat, so now the four DPS should bait Beastly Bile on the remaining damaged rocks, while the supports bait Thunderbolt.
+Ecliptic Meteor: A random surviving rock will receive a red marker, indicating where a raidwide meteor AoE will drop that will kill anyone not hiding behind an undamaged rock, specifically blocking line-of-sight with the targeted rock.
+Beastly Fury: Moderate raidwide damage.
+The boss will use Ravening again, summoning barriers on all cardinals or intercardinals.
+
+Chimera Phase 2
+The boss starts with another Duality of Death tankbuster.
+Archaic Rockbreaker is used again, requiring the party to split into pairs and be knocked to their assigned barrier, then take the split damage AoE.
+The two sets of exploding crack AoEs will appear again. However, the boss will combine this with a Dualspell (always Fire and Ice). Players will dodge both sets of AoEs, then go to their partner stack spots depending on whether Fire or Ice is amplified.
+Gluttony's Augur is used again, removing the barriers.
+Chimeric Succession: The four furthest players will be marked 1-4, indicating they will be hit with a massive circular AoE (Icemeld), requiring them to be isolated from others.
+Front/Rear Firestrikes: A stack AoE that targets a random unmarked player and deals proximity damage, requiring the players baiting this to be far enough away to mitigate the damage taken.
+Swinging Kick: A 180 degree cleave in front of the boss (if Front Firestrikes) or behind the boss (if Rear Firestrikes).
+Two Minds is used again with a random elemental combination and amplifier.
+The boss will use Ravening again and transition to its mage form again.
+
+Final Phases
+Only repeat mechanics for the remainder of the fight.
+Duality of Death
+Dualspell (random)
+Gluttony's Augur
+Ravening (transition to Chimera)
+Disintegration: Enrage. The boss must be defeated before this cast finishes or the party will wipe.
+</cleaned_strategy_text>

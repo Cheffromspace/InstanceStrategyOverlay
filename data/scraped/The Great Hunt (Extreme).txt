@@ -1,0 +1,33 @@
+Here is the cleaned up text from the strategy guide:
+
+The Great Hunt (Extreme)
+
+Strategy
+With current player power levels, it is preferable to complete and farm this duty by using an Unrestricted Party instead of solo queuing in Duty Finder. 
+
+Rathalos
+The Great Hunt (Extreme) is noticeably similar to the Normal version of the fight (with some exceptions). The battle will now involve a light party (4 players) rather than a full party (8 players), and if there are a total of three player deaths (KO's) at any point during the battle, this will prematurely reset the fight via a Mission Failed animation. Players who die will be given the option to respawn with full health, and should utilize this instead of waiting to be resurrected, as this will not inflict the Weakness debuff.
+
+During the fight itself, Rathalos will occasionally use an arena-wide roar to inflict moderate damage on the entire party at regular intervals throughout phase 1 & 2 (usually once per minute or so). Rathalos' overall damage is also higher compared to his normal variant and he also occasionally targets the same player at least two times in a row. This can potentially lead to victims being KO'd through vicious combos if they are not careful. Just like in Normal mode, the battle is composed of three phases - a grounded phase, an add phase and a flying phase - with only a few minor differences.
+
+Rathalos has no auto-attacks and is unaffected by enmity, meaning he cannot be tanked at any point during the encounter. Instead, players must continuously avoid Rathalos' attacks by paying attention to his wind-up animations and reacting accordingly. Seeing as targets are random per attack, a good rule of thumb is to keep an eye on the direction Rathalos is facing. If he turns in your direction, it is always best to move out of his path to avoid a potential rush-attack. Melee also needs to keep an eye out for his 360-degree tail-swipe during the first two phases (which will always be counterclockwise) as well as a short-ranged bite/swipe attack which will hit all players directly in front and behind Rathalos. Due to this, anyone close to Rathalos should try to stick to his left-flank. As ranged, it is best to maintain distance from Rathalos as much as possible.
+
+Due to the unavoidable and high-damage nature of Rathalos' roar mechanic, non-tanks must be cautious if on medium or low health when Rathalos hasn't roared for quite some time. As such, it is wise to remain above 40% health while Rathalos is grounded, just-in-case.
+
+Phase 1: Grounded
+Unlike Normal Mode, Rathalos will immediately begin every battle with his signature roar, inflicting unavoidable damage to the entire party. The roar has a hidden cooldown of about 1-minute or so and remains a constant threat for as long as Rathalos is grounded. After the initial roar, Rathalos will begin rotating between a set of attacks against randomly chosen players. All players must keep an eye on where Rathalos is facing and what animation he is performing if they wish to avoid any unnecessary damage. Considering that the fight will reset if the team carts three times, it is also best to save as many Mega Potions as possible for the final phase.
+
+Whipping Bite is indicated by Rathalos staring slightly to its left while opening his mouth and raising his tail. After a short delay, he will snap at players immediately in front of him while simultaneously swiping behind him with his tail. You can safely avoid this short-ranged attack by moving to either of Rathalos' flanks or by backing away.
+
+Tail Swipe is a two-part attack indicated by Rathalos looking to his right side and menacingly raising his tail. After a brief delay, Rathalos will swing his tail in a 180-degree counterclockwise motion. Immediately after this, Rathalos will perform another 180-degree sweep after a short delay in the same counterclockwise motion. Anyone caught in the path of a Tail Swipe will receive moderate damage and a massive knockback, with a possibility of being stunned. To avoid this, players should either move to Rathalos' left flank or run out of range during the wind-up animation.
+
+Charging Bite is a rush-attack indicated by Rathalos turning towards a player (regardless of distance) and performing a brief roar-like animation. After a short delay, Rathalos will then lunge directly at that player with a vicious bite, be they near or far. All players caught in the path of his charge will be inflicted with moderate damage and knockback, as well as a chance of being stunned. To avoid it, players should watch out for the brief wind-up animation and side-step out of its path as soon as possible.
+
+Fireball is indicated by an overhead marker on the target player and is one of the few telegraphed attacks Rathalos uses. After rearing up for a few seconds, Rathalos will expel an unavoidable fireball at the marked player, inflicting moderate splash damage as well as a dispellable burns debuff. Players with the marker should move away from the party to avoid inflicting unnecessary damage to others.
+
+Evasive Breath is indicated by Rathalos turning towards a target player and lowering its head and body. After a short delay, Rathalos will blast the area directly in front of him with fire during a backward leap, damaging, burning and knocking away anyone directly in front of him. This particular attack is one of the most dangerous as the telegraph is very short.
+
+Rathalos will continuously target random players and use these abilities in no particular order until the third and final phase. Once Rathalos has been reduced to around 80% health, the add phase will begin.
+
+Phase 2: Adds
+Just like Normal mode, the party must once again contend with numerous wildlife (adds) that enter the arena and (initially) attack Rathalos. Unlike Rathalos, these adds are effected by enmity, meaning they can be aggro'd by players or gathered by tanks. Just like before, Rathalos' attacks will also damage these adds (and vice-versa). Grabbing all stray adds and tanking them close to Rathalos so that they damage each other is a sound strategy. The Coeurl add is the most problematic as it will occasionally use a massive conal AoE that can cover a large portion of the arena, thus it

@@ -1,0 +1,42 @@
+<strategy_text>
+Duty Support
+Scion Marauder
+Scion Conjurer
+Scion Thaumaturge
+Scion Lancer
+
+Objectives
+Imperial identification keys: 0
+Clear all barricades. 0/1
+Defeat the magitek predator. 0/1
+Slay all the imperial defenders. 0/1
+Defeat the armored weapon. 0/1
+Clear the parapet. 0/1
+Defeat the Griffin. 0/1
+
+Bosses
+Baelsar's Wall Dungeon Guide
+
+Magitek Predator
+Magitek Claw: Targeted attack on Tank.
+Magitek Ray: Linear high-damage attack.
+Magitek Missile: Targeted high-damage explosion on marked players.
+Move away from others when marked with Magitek Missile. Prioritize killing the adds when they spawn.
+
+Armored Weapon
+Launcher: Group-wide AoE.
+Dynamic Sensory Jammer: Damages the player for any actions they take while the debuff is active, including movement.
+Magitek Bit: Summoned Bits around room create a checkerboard AoE before disappearing.
+Distress Beacon: Summons many low-HP adds. Tank damage is significant due to quantity of adds.
+Take no actions or movement during Dynamic Sensory Jammer. Be ready with heals and AoE damage during Distress Beacon adds.
+
+The Griffin
+Beak of the Griffin: Room-wide AoE attack.
+Flash Powder: Players should turn away from the boss; otherwise, this attack will stun the player and reduce accuracy.
+Sanguine Blade: Leaps to one side of the room and cleaves the room in front of him for high damage.
+Lionshead: Multiple swords rain down around the arena, damaging to nearby players. After finishing the cast, the boss does a room-wide AoE, and the swords become targetable. Those will channel Corruption. Unkilled swords eventually explode, but these explosions can be avoided. Players should focus on the massive sword in the middle, which does a high-damage room-wide explosion if it is not destroyed.
+Big Foot: Marks a player and pushes them back after the cast.
+Restraint Collar: Places the party's healer in restraints, preventing all action. Kill restraints to release the healer.
+Claw of the Griffin: High-damage attack on tank.
+When The Griffin casts Lionshead, kill the sword in the middle and stand in the now-vacant space. Be ready to chase boss to avoid the cleave from Sanguine Blade. Turn around during Flash Powder, and be ready to break party members out of restraints.
+</strategy_text>

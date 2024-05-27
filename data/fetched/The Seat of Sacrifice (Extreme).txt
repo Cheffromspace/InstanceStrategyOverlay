@@ -1,0 +1,46 @@
+Here is the cleaned up text for the strategy guide:
+
+The Seat of Sacrifice (Extreme) is a level 80 trial introduced in patch 5.3 with Shadowbringers.
+
+Guide
+
+Warrior of Light: Elidibus
+
+Positioning Tips
+- Assign clock positions to all players (tanks will be north and south, healers will be east and west, the dps will all have their own intercardinal positions). These general positions will be used throughout the entire encounter for various mechanics. 
+- Have the tanks and healers rotate clockwise to pair up with a dps at an intercardinal. These will be your partner pairs for shared mechanics that target specific groups of players or roles.
+- Split the group into two - 1 tank, 1 healer, 2 dps per group.
+
+Bonus Tip
+Do NOT DPS LB the boss while he has a LB stored or he will become invulnerable for a short time.
+
+Encounter
+
+Phase One
+- Terror Unleashed - All players' HP to 1 + debuff, must be healed to full or they will die. The outer arena edge will also be brought in to make it smaller.
+- To The Limit - Boss will charge 1,2 or 3 LB bars. The amount of bars will determine the specific attack players will need to be ready for when he next casts Limit Break.
+- Solemn Confiteor - AoE circles will appear underneath all players, can be bated by all stacking on the boss, waiting for the AoE to drop and then moving. 
+- Absolute Stone III - 8-point cleave towards all players, move into assigned clock positions as to not overlap.
+- Limit Break (3) - Will call down 4 Radiant Meteors on all the tanks and healers or all the damage dealers, this attack deals massive damage and applies a fire-resist down debuff on players hit so each meteor needs to be sufficiently spaced apart or you will die. Using the partner pairs (made before start of fight) each pair should move to their respective corners as limit break is casting to spread the meteors out.
+- Imbued Saber x2 - Adds elemental effect to weapon. Unlike normal mode (2 elements), extreme has 4 - stone (spread), holy (stack), fire (stop) and blizzard (move). Boss will cast stone first so be sure to spread. Then he will cast either fire or blizzard with NO markers unlike normal mode.
+- Imbued Coruscance - AoE sword attack and two imbued element attacks. If you see swirls around the sword this means a donut AoE and you need to get in. If not, then get out as to not get hit with the point blank AoE. Be mindful of the two imbued elements - the first is always stone so be sure to be in clock positions, again if the second if fire then stop moving, if blizzard keep moving.
+- Sword of Light - Will spawn three swords around edge of the platform. These will draw three triangles over the platforms and players will need to find the safe spot which will always be on one edge of the platform. To spot this look for a sword that has not drawn on the outer platform edge and move there.
+- Absolute Holy - (happens simultaneously with Sword of Light) Stack-up marker on a player that you will need to share the damage with in the safe spot above.
+- Limit Break (2) - Will target each healer with Radiant Desperado a shared line attack that deals high damage and a physical vulnerability up debuff on anyone hit. Split into two groups (decided at start of fight) to share the damage with each healer.
+- Limit Break (1) - Will target one tank, one healer and one dps (completely random) for high damage - split into role positions to avoid overlap. Both tanks should stand on north side, damage dealers should stay south and healers can go east or west.
+- The Bitter End - High damage tankbuster and physical vulnerability up debuff. (tank swap and cooldowns required).
+- Summon Wyrm - Bahamut appears in the north - move to the opposite side, at the same time Solemn Confiteor will be cast so players need to stack and wait for the circles to drop and then move to the safe side that Bahamut is not on. There will also be 1 player afflicted with a gaze attack (that afflicts players with damage down) - all players should stay in melee range of boss to continue attacking, while the gaze player moves to max melee range - this way players can continue attacking and not worry when the gaze attack goes off.
+- Elddragon Dive - Will deal high raid-wide damage - shield and heal.
+- Specter of Light - Both moves to the north and add phase begins - each specter add has specific abilities.
+
+Phase Two
+- Spectral DRK + WAR - Will spawn in the east and west - each tank should pick one up and keep them apart as they will tether and buff each other. The adds will periodically cast a heavy hitting tankbuster that should be mitigated as necessary. They will also cast Berserk (WAR)/Deep Darkside (DRK) which should be interrupted and not be allowed to go off.
+- Spectral BRD - Targets all damage dealers with flare markers. Move to assigned corners to minimize damage.
+- Spectral WHM/BLM - Will spawn two meteor towers in the east and west which must be soaked by two players each.
+- Spectral NIN - Targets each healer with a stack-up marker. Must be shared with 1 other player to survive.
+- Spectral SMN - Summons 4 Bahamut-egi in each of the corners that tether to 4 random players. They will eventually throw out massive breath attacks in the direction of the tethered player. As soon as the meteor tower and healer stacks are soaked we assign each healer and ranged player to a Bahamut tether and have them turn their Bahamut towards their corner to excess overlap.
+- Limit Break - Adds must be destroyed before gauge reaches 100. Destroying the adds will grant a full LB3 (which you need for the next boss cast).
+- Ultimate Crossover - Boss will cast LB4 - must use tank LB3, shields and heals to mitigate the damage.
+
+Phase Three
+- This phase varies and has no set rotation as the mini-phases depend on which specters of light are called by the boss.

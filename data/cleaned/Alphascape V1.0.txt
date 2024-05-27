@@ -1,0 +1,52 @@
+<cleaned_strategy_text>
+Chaos
+Players will find themselves on a square-shaped arena. It is possible to fall over the edge during battles, though victims can be raised after a moderate delay if they perish in this manner. In addition, the Elemental Phase of this battle will change depending on which ability Chaos uses after the opening tankbuster, giving the fight a small element of RNG, but nothing overly complex.
+
+General Mechanics
+Chaotic Dispersion - a vicious tankbuster, depicted by Chaos pulling back his arm and unleashing a vicious swipe against his main target. Be sure to utilize mitigation CDs if necessary.
+Damning Edict - causes Chaos to prepare a 180 degree frontal attack, indicated by a massive orange telegraph across the arena. All players must move behind Chaos before Damning Edict is unleashed. If Chaos opens with this move, the elemental phase will include Tsunami and Earthquake.
+Latitudinal Implosion or Longitudinal Implosion - Chaos prepares to unleash an AoE attack across the platform in two directions (such as north & south, or east & west). Before these explode, the unaffected directions will also be telegraphed for a follow-up explosion shortly afterward.
+
+Possible Phase #1: Tsunami & Earthquake
+This elemental phase will be chosen if Chaos used Damning Edict at the start of the battle.
+
+Tsunami
+Tsunami - bombards the raid with unavoidable damage, inflicts a Dynamic Fluid debuff, and causes the east and west sides of the arena to be filled with water, leaving only a central line through the center as a safe spot to stand on. Players will now have to remain in this contained area while contending with follow-up mechanics.
+Once Dynamic Fluid debuffs expire, a donut AoE will form on that player, exploding after a short delay. To avoid, players should stack together so that everyone is in the center of their own (and everyone else's) donut safe-spot. Bear in mind that Dynamic Fluid will expire from tanks and healers first, then DPS later, giving you two rounds of donut AoEs to avoid.
+Knockdown & Big Bang - marks both healers with a proximity marker simultaneously, forcing both players to avoid the group (and each other). Due to being proximity markers, the optimal solution is to leave unmarked players in the center with the boss, giving enough room for one healer to run to the far north and one to the far south. After a moderate delay, both healers will detonate, inflicting massive damage. Shortly after, Big Bang will form AoE circles at the locations where Knockdown detonated, which all players must avoid.
+Fiendish Orbs - spawns untargetable orbs to the north and south of the arena that will tether themselves to random players. After a brief delay, each orb will unleash a mini tankbuster onto the tethered target for high damage. It is generally best to have each tank take a tether and absorb the damage.
+
+Earthquake
+Earthquake - inflicts unavoidable damage to the raid and causes the southern side of the arena to become inaccessible for the duration of another mini-phase.
+Knockback - causes an unavoidable knockback from the north of the arena, pushing players to the south. Due to the south side being effected by Earthquake, all players must move to the northern-most edge of the platform to avoid excess damage.
+Latitudinal Implosion or Longitudinal Implosion - just like earlier, Chaos prepares to unleash an AoE attack across the platform in two directions (such as north & south, or east & west), shortly followed by additional attacks in the unmarked directions. Due to the previous Knockback, players will have a short amount of time to place themselves in the unmarked area, wait for the marked area to detonate, then move into the detonated area to avoid the follow-up. As soon as the implosion concludes, players will have to contend with another Chaotic Dispersion (tankbuster) and Knockback.
+Knock Down x2 - places a stack marker on two different players, forcing the raid to split into two groups and soak each marker away from the other. All players soaking a marker will receive high (shareable) damage and a Magic Vulnerability debuff. Shortly afterwards, another two players will receive a stack marker, forcing another split-soak.
+Big Bang - spawns AoE circles where all Knock Down damage was shared, forcing all players to move away from where they stacked to take the shareable damage. Simply move out of the circles to avoid taking damage.
+Fiendish Orbs - spawns four untargetable orbs in the four corners of the safe zone which periodically shoot straight-line AoEs at random players that everyone must avoid.
+
+Possible Phase #2: Inferno & Cyclone
+This elemental phase will be chosen if Chaos did not use Damning Edict at the start of the battle.
+
+Inferno
+Inferno - inflicts unavoidable raidwide damage and blasts the arena with fire damage, spawning a single safe spot in the center of the arena in the shape of a circle. All players must remain within this safe circle for the duration of Inferno to avoid unnecessary damage, starting with Entropy, afflicting four random players with AoE circles that eventually detonate for moderate damage, forcing the raid to spread out within the circle to avoid overlapping. After the first four Entropy circles have concluded, the four players who were not marked by Entropy will now be marked with AoE circles.
+Knock Down x2 - places a stack marker on two different players, forcing the raid to split into two groups and soak each marker away from the other. All players soaking a marker will receive high (shareable) damage and a Magic Vulnerability debuff. Shortly afterwards, another two players will receive a stack marker, forcing another split-soak.
+Big Bang - spawns AoE circles where all Knock Down damage was shared, forcing all players to move away from where they stacked to take the shareable damage. Simply move out of the circles to avoid taking damage.
+Fiendish Orbs - spawns four untargetable orbs around the safe circle created by Inferno which periodically shoot straight-line AoEs at random players that everyone must avoid.
+
+Cyclone
+Cyclone - causes the arena to turn back to normal, followed by a circular telegraph in the arena center that will soon become a raging tornado and inflict unavoidable damage to the raid. For the duration of Cyclone, all players must avoid the central circle.
+Knockback - causes an unavoidable knockback from the center of the arena, pushing players towards the outer edges of the platform. All players should move as close to the central circle as possible to avoid being knocked off the platform. This is best achieved by aiming yourself so that you will be pushed towards one of the four corners of the arena (or by using a Knockback Immunity cooldown).
+Damning Edict - causes Chaos to prepare a 180 degree frontal attack, indicated by a massive orange telegraph across the arena. All players must move behind Chaos before Damning Edict is unleashed, preferably without moving through the tornado in the center. Once concluded, Chaos will unleash another Chaotic Dispersion (tankbuster) and knockback.
+Knockdown & Big Bang - marks both healers with a proximity marker simultaneously, forcing both players to avoid the group (and each other). Due to being proximity markers (and the tornado making the arena center unsafe), the optimal solution is to have the bulk of the raid (and Chaos) stand in one corner of the arena, giving enough room for both healers to run to different corners away from the raid. After a moderate delay, both healers will detonate, inflicting massive damage. Shortly after, Big Bang will form AoE circles at the locations where Knockdown detonated, which all players must avoid.
+Fiendish Orbs - spawns untargetable orbs in two opposite corners of the arena that will tether themselves to random players. After a brief delay, each orb will unleash a mini tankbuster onto the tethered target for high damage. It is generally best to have each tank take a tether and absorb the damage.
+
+Once either mini-phase has concluded, the arena returns to its normal state and the fight continues as normal.
+
+Bowels of Agony - reduces all players to 1 HP and afflicts them with specific debuffs. Tanks and healers will be afflicted with Dynamic Fluid - causing them to spawn donut AoEs once the debuff expires, forcing them to stack together to avoid overlap. DPS, however, will be afflicted with Entropy, spawning AoE circles that force them to spread out away from other players to avoid overlapped damage.
+
+Dark Crystal - a DPS check, causing Chaos to leap from the arena and become untargetable. At the same time, a targetable crystal will form in the center of the arena that must be destroyed before Chaos reaches 100 Dark Aether (displayed via a Duty Gauge). Eventually, Chaos will cast Soul of Chaos, inflicting damage depending on the Dark Aether gauge, inflicting a raid wipe if the gauge reached maximum during the DPS check.
+
+Assuming the raid survives the DPS check, Chaos will return to the platform and unleash another Chaotic Dispersion (tankbuster) and Latitudinal Implosion or Longitudinal Implosion (directional AoE blasts).
+
+From here on, Chaos will repeat previously explained mechanics and phases until he has been defeated (or the raid suffers a wipe).
+</cleaned_strategy_text>

@@ -1,0 +1,27 @@
+<strategy_text>
+In the first section of the dungeon, to avoid high damage of the untelegraphed Eyes on Me AoE from the roaming All-seeing Eye (ahriman), stand on the purple ground near the glowing crystals to receive the Crystal Veil buff, which will reduce damage taken by 90%. This buff also enables one to pull all enemies in the first section of the dungeon to the room before the first boss, without much risk.
+
+In the second and third sections, the orange corrupted crystals will occasionally pulse telegraphed point-blank AoEs that should be avoided. Stand in blue Magitek circles until the countdown is completed to open doors. Some of them will be within range of the orange crystal AoEs, so heal through the damage. Having more people in the timers makes them faster, but with diminishing returns--they take 20 seconds with one person, 10s with two or three, and 7.5 with four.
+
+All-seeing Eye is the first boss of Dzemael Darkhold. This Ahriman Boss has an ability called Eyes on Me. The ability does heavy damage to all players near it. Players with the buff Crystal Veil are immune to this damage. Players receive this buff when they are near the glowing crystals. The effect of the crystals fade over time. Players need to move to a new cluster of crystals when this occurs.
+
+Throughout the fight, All-seeing Eye will spawn adds. Avoid Adds AoE attacks and kill them asap.
+
+Fight the All-seeing Eye near the crystal clusters to gain the Crystal Veil buff. When "The power of the crystal begins to dim" appears on screen, move to a new crystal cluster immediately. The All-seeing Eye is invulnerable to attack except when it is near a cluster of crystals.
+
+Taulurd is the 2nd boss of Dzemael Darkhold. He has some powerful AoE cone attacks that should be avoided by all players.
+
+Throughout the fight he will summon adds named Deepvoid Slaves. These monsters are on top of an elevated platform. They will perform ranged attacks at the players. Be sure to spread out and avoid their Firewater attacks.
+
+Batraal is the final boss of Dzemael Darkhold. This demon has an instant frontal AoE cone attack that deals heavy damage to all targets hit. Be sure to have only the tank in front of the boss. He has a long ranged AoE column attack named Desolation that does extremely high damage and will instantly kill most players.
+
+Throughout the fight, a purple beam will appear between Batraal and a crystal. Batraal will mark a player with a crosshair and fires Desolation at the target every few seconds. While Batraal is connected to the crystal, he is invulnerable. Be sure to kill the crystal as soon as possible while dodging Desolations. The player who was targeted should avoid aiming the Desolations at the rest of the party.
+
+At around 30% HP and after the 3rd crystal is destroyed, Batraal will use Hellssend and become enraged. He will start using Desolation at will. Batraal will also spawn black pools under 3 players. Players within the pool will take damage over time. Move out of them immediately. The puddles will occasionally explode and deal high damage to anyone standing in them.
+
+Avoid Desolation at all cost, since it will instantly kill most players
+
+If you are targeted, don't point Desolation at the rest of the party
+
+Kill crystals when they appear. The crystal activate in a set pattern at set percentages of the boss's HP. The first to activate is the crystal in the alcove behind and to the left of the boss, relative to where players enter the room. From there, the crystals will activate counter-clockwise (near and to the left of the boss, then behind and to the right of the boss) roughly every 25% of the boss's HP.
+</strategy_text>

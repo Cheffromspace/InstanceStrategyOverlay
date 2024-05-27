@@ -1,0 +1,98 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Ephemeral Justice: Themis
+Please note that the arena is surrounded by a blue AoE that will instantly kill any players who touch it.
+The arena contains diagonal lines and two sets of small diamonds on each cardinal and intercardinal (one outer set and one inner set) which are useful for positioning for several mechanics.
+Players should assign clock positions, light parties, and partners consisting of one DPS and one support.
+Failing most mechanics will result in a Damage Down debuff, as well as other various effects.
+
+Strategy
+Throughout the battle, the boss will imbue itself with either light (yellow rings) or darkness (purple rings) when casting an action, which will determine secondary effects of several of its attacks.
+Eunomia: High raidwide damage that inflicts Bleeding damage-over-time. Should be mitigated.
+Dike: Telegraphed, heavy-hitting tankbusters that target the highest enmity player, inflicting Dark Resistance Down, and the second highest enmity player, inflicting Light Resistance Down. This attack repeats, requiring a tank swap with heavy mitigation or invulnerability cooldowns.
+
+Basic Mechanics
+The boss will use the next three attacks in sequence, imbuing itself with either Light or Dark for each.
+Jury Overruling: Each player will be hit with a line AoE that inflicts Blunt Resistance Down, requiring the party to spread to clock positions. A secondary effect will depend on the imbued element.
+Light: Each player will leave a briefly telegraphed circle AoE (Illusory Glare) at their initial position. The party must dodge these and stack with their light party, because both healers will be hit with a split damage AoE (Inevitable Law) that inflicts Magic Vulnerability Up. Note that if a healer is dead, a random player will be targeted.
+Dark: Each player will leave a briefly telegraphed donut AoE (Illusory Gloom) at their initial position. The party must dodge these and stack with their assigned partner, because all DPS will be hit with a small, split damage AoE (Inevitable Sentence) that inflicts Magic Vulnerability Up.  Note that if a DPS is dead, a random support will be targeted.
+Upheld Overruling: The boss will tether and jump to one player, depending on its element.
+Light: One random non-tank will be tethered, indicating they will be hit with a large, split damage AoE that should be shared with the rest of the party. Afterwards, the boss will use a briefly telegraphed point-blank AoE (Inner Light) while both healers are targeted with a split damage AoE. The party should stack in the middle to share the damage, then go to max melee range in light parties.
+Dark: One random tank will be tethered, indicating they will be hit with a massive AoE tankbuster that inflicts Stab Wound damage-over-time and will knock back and kill anyone else hit. Afterwards, the boss will use a briefly telegraphed donut AoE (Outer Dark), while all DPS will be hit with a small, split damage AoE. The party should be at max melee range or further, while the targeted tank is in the middle. Afterwards, everyone should go inside the hitbox and stack with their assigned partners.
+Divisive Overruling: The boss will use a line AoE through where it is currently facing, following up with an additional effect depending on its element.
+Light: A wider line AoE (Divine Ruination) will resolve, and both healers will be hit with a split damage AoE. The party should be at max melee range in their light parties.
+Dark: The previously safe region will be hit with two line AoEs (Ripples of Gloom), while all DPS will be hit with a small, split damage AoE. Players should dodge into the original line AoE and stack with assigned partners.
+Styx: Multi-hit heavy stack damage targeting a random player, requiring mitigation. Will start with 5 hits and increase by 1 for each subsequent use.
+Arcane Revelation: The boss will imbue itself with either Light or Dark, then summon four panels (Arcane Spheres) on two adjacent cardinals of the arena. The panels will always be Dark - Light - Light - Dark on one side and Light - Dark - Dark - Light on the other. The element will indicate which color panels will shoot line AoEs (Arche) through the arena. For example, if dark was imbued, then dark panels would fire and light would be safe. The diagonal lines on the floor indicate the range of the AoEs.
+The party should split into light parties on opposite safe sides.
+The boss will begin casting Dismissal Overruling and imbue an element, which is an untelegraphed knockback from the center. The knockback can be prevented with knockback immune actions.
+The party will dodge the panel line AoEs and then resolve the secondary effect from Dismissal Overruling. If dark is active during the cast, the party will go inside the hitbox and stack with their partners. If light was active, the party will stay at max melee range and stack in their light parties.
+
+Shadowed Messengers
+Shadowed Messengers: Summons two untargetable Illusory Themis adds on adjacent intercardinals while beginning a series of mechanics.
+Both adds will begin casting Divisive Ruling, with one add imbuing light and the other imbuing dark. This attack functions similarly to Divisive Overruling from the boss but lack the follow-up light party stacks or partner stacks.
+The main tank should face the boss directly towards or opposite the light add to facilitate movement for the upcoming mechanics.
+The party should split into light parties in two opposite cardinal safe spots.
+The boss will begin casting Divisive Overruling (either light or dark).
+When Divisive Ruling from the adds resolve, the light parties should dodge into the dark line AoE to avoid the follow-up expanding light AoEs and dark side AoEs.
+They should then resolve Divisive Overruling from the boss. If it was pointed in line with the light add, this will facilitate the initial dodge. Afterwards, the party should stay out and stack (if the boss was light) or move in and stack with partners (dark).
+At the same time, two more Illusory Themis adds will spawn, with one add imbuing light and the other imbuing dark. These light add will tether one random non-tank and the dark add will tether one random tank, and both will begin casting Upheld Ruling. This functions similarly to Upheld Overruling from the boss but lack the follow-up light party stacks or partner stacks.
+The party should move to the center and stack to resolve the light Upheld Ruling, while the tethered tank moves past max melee range and use mitigation for their dark Upheld Ruling tankbuster.
+After the initial hits, the entire party will move to the tethered tank's location to dodge the follow-up point-blank AoE from the light add and donut AoE from the dark add.
+Jury Overruling is used immediately after this mechanic sequence, so the party should find their clock positions and resolve this mechanic depending on the element.
+Styx is used again and will hit 6 times, requiring mitigation.
+
+Lightstream: Summons three untargetable Arcane Cylinder adds 120 degrees from each other.
+Each add will telegraph a line AoE that will rotate either clockwise (orange arrows) or counterclockwise (blue arrows).
+There are either two clockwise AoEs and one counterclockwise, or two counterclockwise and one clockwise. The party will need to identify the sixth of the arena that is safe.
+To easily identify the safe spot, players can orient to the odd rotation add as relative north, (i.e., if there are two orange and one blue, then the blue add will be the new north). If the odd add is blue, the safe spot is  relative west. If it is orange, the safe spot will be relative east.
+When the party is in the safe spot, the boss will turn to a random player and begin casting Divisive Overruling. One light party should go left, facing the boss, and the other should go east, then resolve this mechanic appropriately.
+Upheld Overruling is used again.
+
+Dark and Light
+Dark and Light: Tethers each support to one DPS. Tethers may be dark (purple), light (yellow), or both.
+One tank:DPS pair will be either all dark or all light.
+One healer:DPS pair will be all light (if the tank:DPS is all dark) or all dark (if the tank:DPS is all light).
+One tank:DPS pair will be half dark and half light, with the tank receiving the light tether if the full light tether is on a tank:DPS.
+One healer:DPS pair will be half dark and half light, with the healer receiving the light tether if the full light tether is on a tank:Healer.
+Players will receive either Dark's Discord or Light's Discord. If this debuff persists, the debuffed players will take massive damage-over time and receive stacks of Polarizing.
+To neutralize the Discord debuffs, tethered players must move away from their partner (if the tether is one color) or close to their partner (if the tether is two colors). This will result in Dark's Accord or Light's Accord, although these can revert back to Discord if the tethers become too short/long again.
+Note that if anyone dies when tethered, it will still persist and will turn light blue. The surviving player must still satisfy the original tether conditions to prevent receiving Discord.
+If a tether is broken (i.e., by a player disconnecting), it creates a raidwide AoE (Katakrisis) that deals massive damage, Damage Down, and Polarizing to all remaining players, although this is essentially an instant wipe.
+Arcane Revelation (dark or light), is used again, this time summoning two dark and two light orbs, with same color orbs opposite each other. The boss's element will cause the two orbs of the same element to explode in a massive circular AoE (Unlucky Lot). Players must move to the safe color orbs (opposite the boss's element) while ensuring their tethers are of the correct length.
+Jury Overruling (dark or light) is then used. The party must resolve this mechanic while satisfying the tethers.
+Divisive Overruling (dark or light) is then used. The party must resolve this mechanic while satisfying the tethers.
+Emissary's Will: Instantly kills anyone with Polarizing and removes the tethers. (Note that if anyone received this debuff early on in the mechanic but correct their tethers, it may expire before this cast finishes and they will survive.)
+Styx is used again and will hit 7 times, requiring heavy mitigation.
+
+Dike
+Dark Current: Spawns 3 circular AoEs either north-south or east-west. Two rotating pink arcs will then appear indicating what direction the circular AoEs will rotate (clockwise or counterclockwise).
+All players are targeted with a telegraphed spread AoE (Blinding Light).
+Players must split into their light parties and spread while following the rotating AoEs.
+
+Jury Overruling
+Upheld Overruling
+Divisive Overruling
+Eunomia
+
+Letter of the Law
+Letter of the Law: Begins a series of mechanics:
+Twofold Revelation: Summons both the light/dark orbs and the light/dark panels used in previous usages of Arcane Revelation. The boss's element will determine the single safe color.
+Heart of Judgment: Summons four two-person towers on the intercardinals. These must be soaked later or they will inflict high raidwide damage and Sustained Damage on the entire party. Missing two or more towers will wipe the party.
+At the same time, two Illusory Themis adds (one dark and one light) will appear and both will begin casting Upheld Ruling, tethering one random tank (dark) and one random non-tank (light).
+The tethered tank should move to one safe color orb and slightly left/right looking at the diagonal lines on the floor, based on which color panel is safe. The rest of the party should be on the opposite safe orb.
+After the orb/panel AoEs resolve, the tethered tank should take Upheld Ruling with mitigation near the center of the arena, while the rest of the party remains at max melee distance for the light Upheld Ruling stack.
+The party will dodge to the tethered tank's location to avoid the donut and point-blank AoEs from the adds.
+Afterwards, they should go to their pre-assigned tower and soak it. Meanwhile, two more Illusory Themis (one dark and one light) adds will appear on adjacent intercardinals and begin casting Divisive Ruling.
+Players should then split into their light parties and go to the east and west cardinals, then dodge Divisive Ruling from the adds similarly to in Shadowed Messengers.
+The boss will cast Dismissal Overruling, so the party should use knockback immune abilities then dodge the donut AoE and stack with partners (if dark) or remain at max melee and stack with their light parties (if light).
+Styx is used again and will hit 8 times, requiring heavy mitigation.
+
+Final Phases
+Only repeat mechanics for the remainder of the fight.
+Lightstream followed by Divisive Overruling
+Dike
+Jury Overruling
+Eunomia
+Ultimate Verdict: Enrage. The boss must be defeated before this cast finishes or the party will wipe.
+</cleaned_strategy_text>

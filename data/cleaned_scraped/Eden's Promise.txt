@@ -1,0 +1,4 @@
+Unfortunately, there does not appear to be any strategy text in the provided scraped content. The text seems to be general information about the Eden's Promise raid in Final Fantasy XIV, including details about unlocking it, the floors, rewards, gear, and images. There are no sections that provide strategies or tips for completing the raid encounters.
+
+<strategy_text>
+</strategy_text>

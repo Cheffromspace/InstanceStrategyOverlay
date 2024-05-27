@@ -1,0 +1,25 @@
+<span class="boss">Minduruva</span>:
+- <span class="ability">Manusya Bio</span>: 🛡️ Tankbuster, 🤢 DoT, <span class="mechanic">cleanse immediately</span>
+- <span class="ability">Manusya Blizzard III</span>: <span class="mechanic">🏃 Stand between 12 narrow cones</span>
+- <span class="ability">Manusya Fire III</span>: <span class="mechanic">🏃 Large donut AoE, stand near boss</span>
+- <span class="ability">Manusya Thunder III</span>: <span class="mechanic">🏃 Avoid cross-pattern AoEs moving outward</span>
+- <span class="ability">Manusya Bio III</span>: <span class="mechanic">🏃 Move to unmarked side of room</span>
+- <span class="ability">Transmute</span> spells: <span class="mechanic">Watch spell type and 🎯 marker, move accordingly</span>
+- <span class="ability">Dhrupad</span>: 💥 Party-wide 🤢 DoT after each Transmute
+
+<span class="boss">Sanduruva</span>:
+- <span class="ability">Isitva Siddhi</span>: 🛡️ Tankbuster
+- <span class="ability">Prapti Siddhi</span>: <span class="mechanic">🏃 Avoid 🎯 line AoE on each player</span>
+- <span class="ability">Manusya Berserk</span>: <span class="mechanic">🏃 Move to gap in orb ring, then against wall</span>
+- <span class="ability">Prakamya Siddhi</span>: <span class="mechanic">🏃 Move out of point-blank AoE</span>
+- <span class="ability">Manusya Stop</span>: <span class="mechanic">🏃<>🏃 Spread out, 🩹 heal through unavoidable line AoEs</span>
+- <span class="ability">Manusya Confuse</span>: <span class="mechanic">Identify real boss (not emoting), 🏃 behind it</span>
+
+<span class="boss">Harbingers Elect: Cinduruva/The Magus Sisters</span>:
+- <span class="ability">Samsara</span>: 💥 Unavoidable room-wide AoE, 🩹 mitigate and heal
+- <span class="ability">Delta Attack</span> variants:
+  - <span class="ability">Blizzard III</span>: <span class="mechanic">🏃 Between narrow cones, avoid 🔴 proximity AoEs</span>
+  - <span class="ability">Thunder III</span>: <span class="mechanic">🏃 Avoid varied cross-pattern AoEs, 🤝 stack for marker</span>
+  - <span class="ability">Fire III</span>: <span class="mechanic">🏃 Stand in 2 donut AoEs, then 🏃<>🏃 spread for markers</span>
+- <span class="mechanic">Avoid Sanduruva's line AoEs, cleanse Minduruva's debuffs</span>
+- <span class="mechanic">Defeat Cinduruva first to prevent revives, then others</span>

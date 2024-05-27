@@ -1,0 +1,154 @@
+<cleaned_strategy_text>
+Catastrophe
+Many mechanics in the fight only affect you if you are floating and vice-versa. Sometimes you have to float and sometimes you have to stay on the ground. To float, use the Duty Action, which costs an oGCD.
+
+Before starting, assign each tank/healer and each DPS with a main cardinal direction, N/E/S/W. One tank/healer and one DPS should be at each main cardinal direction.
+
+Catastrophe enrages at 10:45, with a raid DPS requirement of at least ~20500.
+
+Antilight
+The main mechanic in the fight. Catastrophe summons large spheres that cover a large portion of the arena. Blue spheres are on the ground and Yellow spheres are in the air. Stand in the safe spot to avoid probably dying.
+
+Antilight Yellow
+Floating players are not safe. Do not float until a ground mechanic resolves in order to dodge this.
+
+Antilight Blue and Yellow
+The middle will be safe, whether you are floating or not.
+For the very first one, only being on the ground in the middle is safe.
+
+Tremblor
+A small raidwide AoE, and indicates that Earthquake is about to come. Happens twice.
+
+Earthquake
+Instantly kills anyone on the ground when the castbar resolves.
+
+100Gs
+Two blue circles spawn on players with #1 enmity and #2 enmity. Players standing in these circles will be forced to the ground. Always stack to ensure everyone safely makes it to the ground.
+
+Gravitational Wave
+A magical raid buster AoE that does lots of damage. Mitigate as necessary.
+
+Gravitational Manipulation
+Catastrophe forces one tank/healer and one DPS to either float or be on the ground, then puts a stack marker AoE around them both (Fourfold Sacrifice). Four players including the marked player must be in each stack. Failure to do so will do heavy AoE damage and apply a vuln stack.
+
+Assign tanks/healers OR DPS to float. This will always satisfy the Fourfold Sacrifice's condition. We had DPS always float.
+
+Aetherial Rift
+Inflicts the 6 Fulms Under debuff to anyone standing on the ground. If the debuff resolves, it instantly kills the player. Float to get rid of the debuff.
+
+Paranormal Wave
+A cleave directed towards the MT. Inflicts a stacking debuff called Gradual Petrification. If a player has three stacks, it will petrify them and likely instantly kill them. There will always be three in a row, and an Evilsphere after the second cleave.
+
+Tank swap after the second cleave to ensure the MT does not die from the third cleave. The MT should move to the side afterwards to avoid getting cleaved. We have the OT provoke during Evilsphere.
+
+Evilsphere
+A high damage magical tank buster. Mitigate as necessary.
+
+Maniacal Probe
+Marks tanks/healers or DPS with tentacle spawns. The marked players must bring their tentacles to their assigned positions. These tentacles, after Epicenter casts, will indicate where Earthquakes will spawn from. Deals slight damage to the marked players.
+
+Epicenter
+The tentacles begin to react to where the Earthquakes are. The very edge of the arena where the first tentacle to stop glowing will be safe.
+
+Death's Gaze
+A standard gaze type attack that will kill anyone looking at the boss when the cast bar resolves.
+
+-100Gs
+Catastrophe summons three Antilight Blue and Yellows across the centre of the arena. The very North and South is safe. Additionally, he marks a few players with an AoE - be careful not to overlap these. When the cast bar resolves, all players will be flung into the air.
+
+Stand in the very North and South of the arena, and spread out in that small space to avoid overlapping AoE markers.
+
+Unstable Gravity
+Marks four players with the Unstable Gravity debuff. When this resolves, it emits a large AoE damaging all players hit.
+
+Long Drop
+An AoE stack marker that knocks anyone floating back from the center of the stack. Players on the ground are not knocked back. Deals heavy damage to all players hit.
+
+Unstable Gravity goes off a few seconds after Long Drop. Have the players marked with Unstable Gravity get knocked back to their assigned positions once the Antilight Blue and Yellow resolves.
+
+Alternatively, you can have the players marked with Unstable Gravity move right after the Antilight Blue and Yellow resolves to their assigned positions, and heavily mitigate the Long Drop with Feint, Shields, Reprisal, etc. I do not recommend this but it does work, and has about the same uptime.
+
+Fight
+Phase 1
+Tremblor x2
+Earthquake
+100 Gs
+Antilight Blue and Yellow
+Gravitational Wave
+Gravitational Manipulation
+Aetherial Rift
+Paranormal Wave
+Paranormal Wave
+Evilsphere
+Paranormal Wave
+
+Phase 2
+Maniacal Probe Tanks/Healers
+Death's Gaze
+Epicenter
+Gravitational Wave
+100 Gs
+Gravitational Wave
+Paranormal Wave
+Gravitational Manipulation
+Paranormal Wave
+Evilsphere
+Paranormal Wave
+-100 Gs
+Death's Gaze
+100 Gs
+Antilight Blue and Yellow + Unstable Gravity Tanks/Healers
+Long Drop
+100 Gs
+Antilight Yellow
+Tremblor x2
+Earthquake
+100 Gs
+
+Phase 3
+Maniacal Probe DPS
+Death's Gaze
+Epicenter
+Gravitational Manipulation
+Antilight Blue and Yellow + Unstable Gravity DPS
+Long Drop
+Paranormal Wave
+Paranormal Wave
+Evilsphere
+Paranormal Wave
+Antilight Yellow
+100 Gs
+
+Phase 4
+Maniacal Probe Tanks/Healers
+Death's Gaze
+Epicenter
+Gravitational Manipulation
+Antilight Blue and Yellow + Unstable Gravity Tanks/Healers
+Long Drop
+Death's Gaze
+Aetherial Rift
+Gravitational Wave
+Paranormal Wave
+Antilight Yellow
+100 Gs
+Paranormal Wave
+Evilsphere
+Paranormal Wave
+Gravitational Manipulation
+Aetherial Rift
+Antilight Yellow
+100 Gs
+Tremblor x2
+Earthquake
+Gravitational Wave
+-100 Gs
+Death's Gaze
+Antilight Yellow
+100 Gs
+Tremblor x2
+Earthquake
+Gravitational Wave Enrage
+
+Enrage is a long Gravitational Wave cast that ends at around ~10:45.
+</cleaned_strategy_text>

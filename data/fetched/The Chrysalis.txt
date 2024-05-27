@@ -1,0 +1,27 @@
+Here is the cleaned up strategy guide for The Chrysalis trial in Final Fantasy 14:
+
+Strategy
+Ascian: Nabriales
+
+Phase 1: 100% - 80%
+- At 80%, players should spread out and absorb orbs. Alternate between big and small orbs to minimize damage. 
+- For each orb that hits him, Nabriales gains a stack. Small adds have low HP and perform a cone AoE. 
+- Stack up for heals and Sacred Soil if you have 3+ stacks. 7 stacks is instant death for non-tanks.
+
+Phase 2: 79% - 40% 
+- Nabriales casts Double, then Spark twice. Tanks can swap using Provoke and Shirk.
+- At 40%, orb phase repeats (see Phase 1).
+
+Phase 3: 39% - 20%
+- Nabriales casts Triple, then Spark three times. Tanks can swap to manage this.
+- After second orb phase, he teleports around casting End of Days (dodgeable line AoE) and Quake 3 (party-wide AoE).
+
+At 20%, Nabriales casts Meteor
+- Floor turns red and applies Bleed. Run to the edge until Bleed hits 0, then you get sucked in.
+- Buffs/debuffs duration multiplied by 10. DPS use damage buffs, tanks use defensive buffs and Sprint before entering.
+- Meteors fall continuously. One tank per meteor to prevent party damage. Non-tanks will likely die if hit.
+- A tear spawns on first meteor location, focus DPS to destroy it before the large meteor in the center hits the ground.
+- Use Limit Break on the tear if available. Tanks continue intercepting meteors until tear is destroyed.
+
+Phase 4: 19% - 0%
+- Tank and spank, Nabriales uses mechanics from Phase 2.

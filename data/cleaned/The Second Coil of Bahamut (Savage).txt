@@ -1,0 +1,14 @@
+<strategy_text>
+Unlock
+Entry Requirements
+Players must first complete the quest "The Ultimate Ballad" and have completed The Second Coil of Bahamut - Turn 4.
+
+Entering the Second Coil of Bahamut (Savage)
+After forming a group of eight players, speak with Anaelle in the North Shroud (X:20.8 Y:27.4) to enter. Please note that all party members must have completed The Second Coil of Bahamut - Turn 4 before entering.
+
+Floors
+The Second Coil of Bahamut - Turn 1 (Savage): Boss - Rafflesia
+The Second Coil of Bahamut - Turn 2 (Savage): Boss - Melusine  
+The Second Coil of Bahamut - Turn 3 (Savage): Boss - The Avatar
+The Second Coil of Bahamut - Turn 4 (Savage): Boss - Nael deus Darnus
+</strategy_text>

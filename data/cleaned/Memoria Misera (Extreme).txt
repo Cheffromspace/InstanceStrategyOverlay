@@ -1,0 +1,88 @@
+<strategy_text>
+
+Video guide by Joonbob
+
+The Last Word: Varis yae Galvus
+Your battle against Varis yae Galvus takes place within a square-shaped arena with a noticeable greyish-white hue around the outer edges. Should any player touch these glowing walls for any reason, they will suffer various detrimental effects via Confines Of Memory (see below). Throughout the encounter, players will also need to pay attention to the duty gauge (Charge) which will appear when Varis casts specific Gunshield abilities. However, Gunshield abilities will not be executed until the gauge has been fully charged.
+
+Below is a list of all abilities used by Varis yae Galvus during the encounter, followed by a mechanical timeline so you'll know what to expect (and when), starting with the Gunshield abilities.
+
+Outer Wall & Gunshield Abilities
+Confines Of Memory - affects any player who touches the outer edge of the arena. Once touched, the affected player(s) will be encased in a glowing rock prison, rendering them completely unable to act. Whilst locked down, players will also suffer heavy damage-over-time. Fellow raid members can save trapped teammates by destroying the prison as soon as possible (which doesn't have a lot of health).
+
+(Charged) Loaded Gunshield - executed once the duty gauge (Charge) reaches maximum. Once charged, all members of the raid will suffer moderate damage and unleash a medium-sized circle AoE at their current locations. As a result, all members of the raid should spread out before the Charge reaches maximum to avoid overlap.
+
+(Charged) Reinforced Gunshield - executed once the duty gauge (Charge) reaches maximum. Once charged, Varis will deploy two shields on opposite sides of himself (such as front & rear, or to his sides). Once deployed, any player who inflicts damage upon a shielded side of the boss will receive a hefty knockback and debuffs. Before Reinforced Gunshield has been executed, players should cease damage give themselves enough time to recognize which sides of the boss will be shielded, then resume damage on the unshielded sides.
+
+(Charged) Electrified Gunshield - executed once the duty gauge (Charge) reaches maximum. Once fully charged, all players will be knocked back from Varis' current location. To avoid being punted into the outer walls, players can utilize knockback immunity cooldowns or simply position themselves in the centre of the arena.
+
+Gunshield abilities are typically used as phase-openers or mini-phases, forcing players to react to a combination of other mechanics while waiting for the duty gauge to reach maximum before the Gunshield itself goes off.
+
+Phase 1: Abilities
+Altius - inflicts unavoidable raid-wide damage and causes all players to leave an x-shaped marker at their current locations (facing in the direction that players were facing at the time). Altius is always followed closely by Terminus Est (see below).
+
+Terminus Est - causes all x-shaped markers (spawned via Altius) to shoot large straight-line AoE's across the arena in the direction the markers are facing. Seeing as the x-shaped markers are dependant on player positioning and look-direction, the raid can bait the straight-line AoE's so that they shoot in an overlapped fashion, giving the raid plenty of space to avoid them. The most common method is to have the entire raid (except the main tank) stand behind Varis, facing the main tank, who will be in front of Varis and facing the raid. After Altius has been cast and the markers have been placed, the entire group can rotate to Varis' sides while the straight-line AoE's shoot towards each-other.
+
+Alea Iacta Est - causes Varis to unleash four consecutive 180-degree cone attacks in the direction he is facing, followed by one final (delayed) attack directly behind himself. All attacks from Alea Iacta Est can cover the entire arena, thus the only way to avoid being sliced is to stand directly behind Varis during the first four swipes, then re-position in front of him before the final backward slash. Bear in mind - the first Terminus Est (x-markers) will not resolve until after Alea Iacta Est has concluded.
+
+Citius - a large, shareable, forward-cleaving tank-buster against Varis' main target. The main tank can utilize immunity cooldowns to absorb the cleave individually, or stack with the off-tank to share the damage. Meanwhile, all non-tanks should avoid standing in front of Varis during Citius as they will suffer tremendous (typically fatal) damage if cleaved.
+
+Ignis Est - causes Varis to turn towards a random non-tank player and aim a short-ranged telegraph in their direction. After a brief delay, Varis will shoot a large straight-line AoE in the direction of the telegraph whilst simultaneously unleashing a moderate point-blank AoE at his current location. Players can bait Ignis Est by stacking together so that once a player has been targeted, the entire raid can move away from the boss and out of the direction of the telegraph to avoid the point-blank AoE and straight-line AoE. Assuming Varis is in the centre of the arena at the time, players can use the pattern on the arena floor as a visual indicator of how big the circle AoE will be. Bear in mind that the first Ignis Est will conclude at the exact same time as Festina Lente (see below).
+
+Festina Lente - places a stack-marker on both healers that will need to be shared, preferably by splitting the raid into even halves (3 per healer). After a brief delay, each healer will be blasted by moderate-sized AoE circles, thus it is wise to have each healer stand a safe distance away from the other. Bear in mind that the first Festina Lente concludes at the same time as Ignis Est, thus the raid will need to split in half (with one healer per half) and soak Festina Lente (stack markers) while avoiding the point-blank AoE and the straight-line AoE from Ignis Est at the exact same time.
+
+Ventus Est - practically identical to Ignis Est (see above), except Varis will utilize a donut AoE instead of a point-blank AoE (as well as the aimed straight-line AoE in the direction of a random player). Just like Ignis Est, the straight-line AoE can be baited by the raid, and the pattern on the arena floor is a good visual indicator of how large the safe-spot for the donut AoE will be.
+
+Vivere Militare Est - begins a small cutscene of Varis leaping out of the arena and shooting two x-shaped pulses from his gunblade towards the raid. Once the animation has ended, each tank will need to click on one of two markers near the centre of the arena to 'catch' a pulse each, locking them within an active time manoeuvre. Once caught, tanks will need to mash buttons whilst the rest of the group destroys each pulse. Healers beware - both tanks will be taking bleed damage for the duration of the event and the entire raid will also be suffering frequent pulses of unavoidable damage. Vivere Militare Est is essentially a phase-ending DPS check. If the pulses have not been destroyed before Varis reaches maximum charge, the entire raid will be slain. If the pulses are successfully destroyed, the battle transitions into the second phase.
+
+Phase 2: Abilities
+Varis returns to the platform and begins to cycle between three Gunshield mini-phases in random order. Each mini-phase is comprised of various previously used mechanics in combination (with some added dangers). Below are all possible phases, though as mentioned, the order they appear in will be entirely random, so watch out!
+
+(Mini-Phase) - Electrified Gunshield:
+Varis will summon reinforcements in the form of five magitek turrets - two untargetable and three targetable. The three targetable turrets will begin to shoot straight-line AoE's in the direction of random players until destroyed. Meanwhile, the two untargetable turrets will tether themselves to random players and blast them for a large amount of damage. Each tether can be taken by (or given to) other players, thus they should be intercepted by each tank as soon as possible.
+
+After the turrets have been summoned, players will also notice clones of Varis carving multiple x-shaped markers at the northern edge of the arena. Just like the x-shaped markers from Altius / Terminus Est, each one will fire straight-line AoE's across the arena. However, there will always be an obvious safe lane for the raid to utilize.
+
+Lastly, the duty gauge (Charge) will be filling up throughout the mini-phase. Once fully charged, Varis will unleash an unavoidable knock-back against the entire raid, followed by Alea Iacta Est - four consecutive 180-degree cone attacks in the direction Varis is facing, then one final (delayed) attack directly behind himself.
+
+Note that immediately after Alea Iacta Est resolves, if the targetable turrets are still alive, they will explode, dealing ~25k damage and applying a stack of Vulnerability to the entire raid.
+
+In summary, the group will need to quickly destroy targetable turrets as soon as possible. Meanwhile, both tanks will need to grab tethers from the two un-targetable turrets. Soon after, the entire raid will need to identify the safe lane provided by x-shaped markers to the north, then position themselves (or use knockback immunity cooldowns) to avoid being pushed into the outer walls of the arena. Lastly, the entire raid will need to stand behind Varis to avoid the four 180-degree slashes, then move in front of him to avoid the final backward slash. Once all Alea Iacta Est slashes have concluded, the mini-phase ends.
+
+(Mini-Phase) - Loaded Gunshield:
+Varis will target a random player with Ignis Est, which is handled in the exact same manner as it was in the first phase. However, multiple clones of Varis will also spawn at the northern side of the arena - each one creating a Altius / Terminus Est x-shaped marker that will eventually shoot straight-line AoE's across the platform. There will always be an obvious safe lane for the raid to utilize, though bear in mind - everyone should avoid moving to the safe lane until Ignis Est (telegraphed straight-line AoE + point-blank AoE from Varis) has concluded.
+
+As soon as the straight-line + point-blank AoE's have detonated, Festina Lente will create a stack-marker on each healer, just like in the first phase. The raid will need to split in half and stack with their respective healer to soak the upcoming damage (within the safe-lane). As such, one healer should move to the north of the safe lane (with three other players) while the other healer moves to the south (with the remaining three players) so that the stack-markers do not cause any overlap.
+
+Once Festina Lente has concluded and the clones have fired their straight-line AoE's, Varis will unleash Citius - the forward cleaving tank-buster. Tanks will need to decide whether to soak Citius individually using an immunity cooldown, or stack together to share the damage. Meanwhile, all non-tanks should position themselves behind Varis to avoid being cleaved.
+
+In summary, the raid can bait the initial Ignis Est just like they did in the first phase. Once the telegraph appears, clones will be summoned to the north, giving the raid enough time to identify the safe-lane (wherever a clone is missing). After dodging the straight-line AoE and circle-AoE from Ignis Est, players can start moving towards the safe-line, dividing into two groups, each stacked with a healer to absorb the upcoming Festina Lente. Once the stack-markers explode, all players (except the tanks) should move behind Varis to avoid his cleaving tank-buster, while the tanks decide whether to soak it as a duo or utilize an immunity cooldown to soak it individually. Once Citius has concluded, the mini-phase ends.
+
+(Mini-Phase) - Reinforced Gunshield:
+Varis begins the mini-phase by casting an Altius+Terminus Est combo that is handled in the exact same manner as the first phase. As a quick refresher: Altius inflicts unavoidable raid-wide damage and causes all players to leave an x-shaped marker at their current locations (facing in the direction that players were facing at the time). Shortly afterwards, Terminus Est causes all x-shaped markers to shoot straight-line AoE's in the direction they are facing. As such, players can easily bait markers into shooting towards each-other, leaving plenty of space for the raid to rotate around Varis into safe areas.
+
+After the initial combo has concluded, Varis will create two shields (either to the front & rear or to his sides), forcing the raid to avoid damaging the shielded sides. Simultaneously, Varis will use Ventus - creating a donut AoE that will cleave any player who is not standing in the centre of the arena.
+
+As soon as Ventus (donut AoE) has concluded, Varis will unleash Citius - the forward cleaving tank-buster. As usual, everyone except the two tanks should make sure that they are not standing in-front of Varis at this time. It is up to the tanks how they wish to handle Citius - either by stacking together to soak the damage or having one tank soak it themselves via an immunity cooldown. Once Citius has concluded, the mini-phase ends.
+
+In summary, the raid can bait the Altius + Terminus Est opener by having the entire raid (except the main tank) stand behind Varis, facing the main tank, who will be in front of Varis and facing the raid. After Altius has been cast and the markers have been placed, the entire group can rotate to Varis' sides while the straight-line AoE's harmlessly shoot towards each-other. However, don't forget to remain in the centre of the arena to avoid being cleaved by Ventus (donut AoE)!
+
+After all AoE's have been fired, all non-tanks should move behind Varis to avoid the cleaving tank-buster, while the tanks decide whether to soak it as a duo or utilize an immunity cooldown to soak it individually. Once Citius has concluded, the mini-phase ends.
+
+As soon as Varis has cycled through all three Gunshield phases, he will leap to the north of the arena and begin to hard-cast Altius (initiating a DPS check). While doing so, Varis will be protected by a destroyable shield. As soon as the shield has been summoned, it will utilize Magitek Torch and Magitek Spark in random order.
+
+Magitek Torch - bombards the raid with a massive blast of shareable damage - the brunt of which will be focused on those closest to the shield. The entire raid will need to stack together in order to survive the damage, preferably behind both tanks.
+
+Magitek Spark - shoots straight-line cleaves towards all members of the raid simultaneously, inflicting heavy damage and debuffs. The entire raid will need to spread out in a semi-circle as quickly as possible so that their individual cleave doesn't overlap other players (which will likely be fatal).
+
+Remember: the order of these two mechanics is entirely random. Depending on which is cast first, the raid will need to stack together (then quickly spread out), or vice versa, whilst maintaining uptime on the Magitek Shield.
+
+Phase 3: Abilities
+After destroying the Magitek Shield, Varis will leap to the centre of the arena and immediately cast Loaded Gunshield, which will not detonate until the duty gauge (Charge) has reached maximum. Once cast, the final phase of the battle begins with another rotation of mini-phases - this time in a set order.
+
+(Mini-Phase) - Loaded Gunshield #2
+Fortius - causes Varis to slash at the raid via four cleaves -- the first of which is unavoidable and causes all players to drop a persistent puddle at their locations. The remaining three cleaves will be done in the same pattern as the previous, except now, they will rotate clockwise or counterclockwise. While initially being cast, players will notice a rotation-marker on Varis himself, indicating which direction the cleaves will rotate after the initial hit.
+
+Due to the initial 'aimed' component (and the upcoming Loaded Gunshield), all players should spread out to pre-assigned cardinal and inter-cardinal locations around Varis (at the far edges of the arena). This allows the raid to drop their puddles out of harm's way and also causes the initial cleave to form a predictable star-shaped pattern. Once the first unavoidable cleave has been unleashed, Varis will repeatedly cleave the previous pattern in a clockwise or counter-clockwise motion. By standing still, the raid will automatically dodge the second cleave, and can simply side-step the following two cleaves.
+
+Once all four cleaves have resolved,

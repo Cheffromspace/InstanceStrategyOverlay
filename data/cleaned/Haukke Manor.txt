@@ -1,0 +1,63 @@
+<strategy_text>
+Duty Support
+Scion Marauder
+Scion Conjurer
+Scion Thaumaturge
+Scion Lancer
+
+Objectives
+Find the green key: 0/1
+Find the yellow key: 0/1
+Find the bloody parchment: 0/1
+Defeat Lady Amandine: 0/1
+
+Walkthrough
+Haukke Manor Guide
+The dungeon layout is fairly non-linear, with several side rooms that contain bonus treasure coffers. Many rooms are locked and will require the party to collect Tiny Keys to progress.
+
+Because the extra loot is typically of little value, many parties will skip the side rooms.
+
+Optimal pathing for the dungeon is as follows (this skips optional side rooms and requires only collecting the minimum number of keys needed to progress to the end):
+
+At the start, head left, into the hall, and left to the first side room.
+Defeat the enemies and collect the Tiny Key.
+Return to the hallway and follow it until reaching the intersection. Head to the right room.
+In the right room, defeat the enemies and open the door with the key.
+Collect the Tiny Key in the next room. Exit to the hallway and ignore the rooms/doors until reaching the Ivy Door.
+Head right to the boss room and defeat the Manor Claviger.
+Collect the Green Key and backtrack to the Ivy Door and unlock it.
+Jump down to the basement (do not need to take the stairs).
+Ignore the key. Defeat the enemies or pull them into the hallway.
+Go left at the hallway and circle clockwise, defeating enemies and ignoring all rooms, until reaching the south room (right before the slope of debris).
+Open the locked door with a key, defeat the enemies in the cell, and collect the Yellow Key.
+Go up the slope, return to the Carnation Door, and unlock it.
+Defeat the Manor Steward and Manor Jester and collect the Bloody Parchment.
+Interact with the Aetherial Flow to return to the foyer.
+Go up the stairs and interact with the Sealed Barrier.
+Proceed to Lady Amandine's chamber after fighting the Manor Sentry.
+
+Visiting all side rooms is required for the Mapping the Realm: Haukke Manor achievement. Players who wish to obtain this achievement should use Duty Support, communicate with their Duty Finder party that they would like to open all side rooms, or run the dungeon solo with Unrestricted Party (unsyncing) settings when they are of sufficiently high level.
+
+Bosses
+Manor Claviger
+Manor Claviger has an untelegraphed melee cleaver attack. The attack can do massive physical damage to lightly armored party members. Make sure the tank faces her away from the rest of the party. When defeated, the doors leading to the Foyer will open, and Claviger will drop a Green Key. Do not go forward to the Foyer. Instead, proceed back out of the entrance of the boss room and use the Green Key to unlock the Ivy Door.
+
+Sweet Steel is an untelegraphed cone AoE melee attack.
+Void Fire II is an interruptible AoE spell, typically targeted on a player at range from the boss (ranged DPS, healer).
+Dark Mist is a large PBAoE spell. This spell can be avoided by stunning Claviger.
+
+Manor Jester and Manor Steward
+Manor Jester and Manor Steward are two bosses located in the same room. Jester is the spell caster and Steward is the tank. Players should kill Jester first because it deals more damage and has less HP. When defeated, Steward will drop a slip of Bloody Parchment. As of Patch 6.1, there is a teleporter that will return you to the entrance of the dungeon afterwards. Then, use the Bloody Parchment to unlock the Sealed Barrier along the stairs.
+
+Ice Spikes (Jester) is an interruptible spell.
+Soul Drain (Steward) is a large PBAoE spell. This spell can be avoided by stunning Steward.
+
+Lady Amandine
+Lady Amandine, an Elezen Duskwight thaumaturge, is the main boss of Haukke Manor.
+
+As of patch 6.1, the boss mechanics have changed. Lady Amandine will cast Void Fire and Void Thunder. Avoid her spellcast if possible by interrupting her. Sometimes, Lady Amandine will teleport to one side of the arena and cast a Seduced debuff, causing you to walk slowly towards her while the AoE is being cast, but it is only for a couple seconds, giving you enough time to quickly turn around. Overall, this battle is significantly easier than the original form. She can also summon a Manor Sentry and Lady's Handmaidens.
+
+Void Fire III is an interruptible spell.
+Void Thunder III is an interruptible spell.
+Dark Mist is a large PBAoE spell. This spell can be avoided by stunning Lady Amandine.
+</strategy_text>

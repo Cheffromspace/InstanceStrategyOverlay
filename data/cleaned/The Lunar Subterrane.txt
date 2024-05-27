@@ -1,0 +1,37 @@
+<strategy_text>
+Dark Elf
+Hexing Staves: Summons two staves on two tiles of the arena, each telegraphing a plus-shaped AoE.
+Ruinous Confluence: The staff line AoEs go off. Anyone hit will be inflicted with a cleansable Doom and a stack of Dark Whispers that lasts indefinitely. The more stacks they have, the shorter the duration of the Doom if they are hit again.
+Shadowy Sigil: Each tile will have a blue square or purple triangle, while an aura corresponding to one shape will emit from the boss, indicating which shape tiles are unsafe.
+Hexing Staves / Sorcerous Shroud: Causes the two summoned staves to disappear. Players will need to remember their original locations.
+Void Dark II: Spread AoE telegraphs on all players.
+Ruinous Confluence: The staves will reappear and resolve their line AoEs, which will be very briefly telegraphed.
+Hexing Staves / Sorcerous Shroud: Now summons three staves that disappear.
+The boss will then use both Void Dark II and Shadowy Sigil before using Ruinous Confluence to detonate the three staves.
+Staff Smite: Tankbuster
+Abyssal Outburst: Party-wide damage
+
+Damcyan Antlion
+The arena will be surrounded with a dangerous AoE shortly after pulling the boss. Entering this AoE will inflict a moderately strong Sludge damage over time effect for 20 seconds.
+Sandblast: Party-wide damage.
+Landslip: Causes four "conveyor" markers to appear parallel to the pillars on the east and west edges of the arena. After a short delay, players will be pushed a distance roughly equal to half of the arena. Anti-knockback abilities will prevent the player from being pushed.
+Antlion March: Telegraphs multiple successive line AoE charges. During the charge, the antlion will target two of the Stone Pillars on the edge of the arena and crash into them, noted with an exclamation point appearing on them.
+Landslip is used again, but this time, any damaged pillars will collapse as a line AoE in front of them, so position to be knocked back to a safe area.
+Earthen Geyser: Stack marker on the healer. This also spawns a puddle of quicksand below the healer. Everyone needs to move out of the puddle before the Six Fulms Under debuff timer expires, or they will die.
+Pound Sand: A large circle AoE targeted below the healer. When this attack resolves, the quicksand created by Earthen Geyser will disappear.
+
+Memoriate: Durante
+Old Magic: Party-wide damage.
+Duplicitous Battery: Telegraphs two sets of spiraling circle AoEs. Dodge into the first AoE when it resolves.
+Forsaken Fount: Spawns four dark orbs (Aetheric Charges) through the middle of the arena. These will each explode in a point-blank AoE with a brief indicator.
+Duplicitous Battery is used again, but all players will also receive a spread AoE marker (Fallen Grace).
+Forsaken Fount is used again but now spawns three orbs.
+Contrapasso: Party-wide damage and causes each orb to split into two and move in the direction of the arrow telegraphs. Once the orbs finish moving, they will explode as point-blank AoEs. The middle (where the orbs originally were) is safe for this first set.
+Forsaken Fount / Contrapasso is used again but now spawns five orbs, and some may travel diagonally. The resulting AoE patterns will be in a 3x3 grid with one section safe.
+Antipodal Assault: Line AoE stack marker. The boss will charge to the wall.
+Hard Slash: A briefly telegraphed frontal cone AoE used when the boss is at the wall.
+Twilight Phase: Summons two sets of fangs around the boss, telegraphing a line AoE through where the fangs are pointing towards.
+Dark Impact: Tethers a random location and throws a dark sphere towards it, causing it to explode as a massive circular AoE. Move away.
+Death's Journey: A telegraphed point blank AoE and spawns 8 purple lines extending outwards, which indicate the centers of briefly telegraphed narrow conal AoEs.
+Arcane Edge: A telegraphed single-hit tankbuster.
+</strategy_text>

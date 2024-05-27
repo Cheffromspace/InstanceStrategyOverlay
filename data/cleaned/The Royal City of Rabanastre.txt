@@ -1,0 +1,180 @@
+<cleaned_strategy_text>
+Objectives
+Arrive at the Crumbling Bridge
+Defeat Mateus, The Corrupt
+Arrive in the Palace Square
+Defeat Hashmal, Bringer of Order
+Arrive in the Garamsythe Waterway
+Clear the Garamsythe Waterway
+Defeat Rofocale
+Arrive at the Lesalia Temple Ruins
+Slay Argath Thadalfus
+
+Bosses
+Mateus, the Corrupt
+This boss has a number of distinct phases. Once you've memorized the pattern, you'll always know what happens next.
+Before pulling, mark the arena with gather points for each alliance. One goes due north, one south-west and one south-east.
+All phases:
+When adds are up, they need to be killed. No exceptions. He starts the fight with several Ice Azers already spawned; they need to be taken out or they'll detonate and leave ice puddles that will hurt you later.
+Unbind -> White Whisper
+When Mateus casts Unbind, gather up on your alliance's marker.
+Your first priority is the nearest Aqua Sphere. It needs to pop before the ice dancer gets to it, or you'll have trouble later.
+Each player should gather two of the blue orbs that appear during this phase, then stand off of the spiraling ice track to avoid getting frozen.
+The water pillars will turn into Blizzard III pillars if the ice dancer touches them.
+If three players stand in them, they will disappear.
+Any Blizzard III pillars that form need to be destroyed ASAP, or the players tethered to it will turn into snowmen once Mateus's cast of White Whisper completes.
+Rebind -> Dualcast -> Blizzard III + Blizzard IV
+If you did the mechanics correctly, there will be at least one safe spot to stand. Run there during the proximity AoE warnings to avoid dying.
+Healers should prepare large AoE heals to go off after the blizzards land.
+Suffocation Phase
+Flume Toads need to die ASAP.
+Arena-wide effect causes everyone to get gradually increasing stacks of Breathless. If the stacks hit 10, you die, no exceptions.
+Each toad drops an air pocket on death, run through those pockets to drop your Breathless stack to 0.
+Several players will be targeted for line AoE attacks, keep those lines from intersecting the air pockets to avoid popping them.
+Ultimate Phase
+Several players will be tethered by ice orbs that will slowly drift toward the tethered player.
+Don't let them touch you, or you'll die.
+Keep the tether line pointed away from the raid to avoid hitting people with the narrow cone AoEs the orbs periodically cast.
+As in phase 1, the Ice Azers need to be killed, while avoiding their AoE bursts.
+Three Azure Guards will spawn, tank them away from each other or they'll tether to each other and become stronger.
+Kill the Azure Guards before Mateus's Aether bar fills up or you'll wipe.
+He repeats the phases in order from this point until killed or wipe.
+
+Hashmal, Bringer of Order
+Before pull, place gather markers for each alliance: one south, one northwest, one northeast.
+Stick with your alliance!
+This fight is far less forgiving than the previous one.
+Boss Abilities
+Quake IV - Raid-wide AoE, heal through.
+Jagged Edge - Red circles that target and follow a random player, avoid and keep moving until they stop appearing.
+Falling Rocks - Circle AoE, avoid.
+Rock Cutter - Heavy tankbuster, use mitigation cooldown.
+Extreme Edge - Boss appears on eastern or western edge of arena with one arm on fire and flies across, burning everything on the flaming side. Look to see whether the north or south side is getting burned, and move to avoid. Sprint is strongly recommended.
+Earth Hammer - Proximity AoE, look for where the hammers spawn and move to the opposite side of the arena.
+Control Tower - Towers spawn and then drop when Hashmal cuts them; any players caught underneath die.
+Command Tower - Big tower rises out of the centre of the arena to lift Hashmal; avoid.
+Submission Tower - Drops towers in a Y-shaped pattern that leave behind flames; players running through get a persistent Burns effect.
+Landwaster - Ultimate. If Hashmal's mana bar is full when this casts, it's a guaranteed wipe.
+Summon - Summons two golems that grow over time; kill them ASAP.
+Demolish - Empowers and enlarges golems with each cast.
+To Dust - Spawns three Sand Spheres that will explode for massive damage if not killed in time.
+
+Fight Sequence
+Quake IV + Jagged Edge
+Control Tower, watch for where he cuts them and move to avoid
+Extreme Edge, move towards the centre and be ready to run for safety
+Remember, fire = bad. Run away from the fire!
+Quake IV + Earth Hammer, move to avoid
+Rock Cutter, MT use mitigation
+Command Tower spawns, move out of centre to avoid damage
+Move to your alliance's sector while avoiding AoEs
+To Dust; kill Sand Spheres before cast completes
+Destroy the Command Tower before his Mana bar fills to avoid a wipe
+Landwaster, healers prepare big raid heals
+Two pairs of Control Towers, one after the other. Jagged Edge targets a raid member during this, move to avoid
+Extreme Edge + Jagged Edge; run for safe zone while avoiding AoEs
+2x Quake IV
+Rock Cutter
+2x Earth Hammer, move away
+Summon + Rock Cutter, get ready to DPS down adds while Tanks & Healers mitigate
+Burn down Golems ASAP; Caster/Ranged LB3 useful here
+Quake IV
+Submission Tower; move to your sectors!
+To Dust; kill Sand Spheres before cast completes
+Extreme Edge + Falling Rocks; run to safe zone, then spread to minimize damage once he passes
+At this point, his abilities become semi-random. He usually uses Extreme Edge after Control Tower, so be ready for that. If you don't kill him before the second set of golems appear, you'll probably wipe.
+
+Rofocale
+Phase 1:
+At around 75% HP Rofocale will give a little speech:
+"I walk the shadows. You will not see me until my lance has transfixed your very soul."
+He then will retreat and 5 copies of him will charge the area. Watch where those copies spawn. Safe spots will be at the right side of the first and left of the last copy.
+At around 55% - 60% HP Rofocale will do the same move again.
+That move is probably rather time-based. But he will likely do it two times in phase 1.
+
+Phase 2:
+After the second split (around 55% HP), three Archaeodemons will spawn. The spawn points are at the triangle points around Rofocale's spawn point. That is, 1 behind the spawn and 2 and 3 left/right of the point of entrance, around the two circular floor patterns.
+Aetherial Acceleration will be accumulated as long as the three adds are alive.
+Each group must kill one of the Archaeodemons. The area around it will be shielded, so the other groups can't help. Think The World of Darkness - Cloud of Darkness: the 3 cloud adds.
+Rofocale will circle the area. Getting hit by him will inflict damage and a knockback.
+This phase will end if:
+All three Archaeodemons are dead; or
+Aetherial Acceleration has reached 100.
+At the end of phase 2, Rofocale will continue to circle the area and slowly ride up into the air. At the highest point he will execute Heavenly Subjugation and inflict damage according to the Aetherial Acceleration meter.
+One can avoid most of the damage by running to the sides of the area.
+At 100 Aetherial Acceleration, this will be a wipe. Not only will the damage be higher, the charge will also cover a wider area.
+
+Phase 3:
+Trample will now be followed by Cry of Victory.
+New Abilities:
+Embrace, Pomp and Circumstance and Dark Geas.
+Copies of Rofocale will charge the middle of the area. Safe spots are left/right.
+Dark Geas will be followed by 5 copies of Rofocale charging the area. Safe spots are according to the spawn of the first/last copy.
+
+Rofocale Abilities
+Crush Helm: Tank buster.
+Chariot: Target a random player and charge toward. Stay close to Rofocale because Cry of Victory will follow.
+Cry of Victory: A large cone shaped AoE, may cover most of the area. Follows Chariot or in phase 3 also Trample. Will deal moderate damage but inflict 1 stack of Vulnerability Up.
+Crush Weapon: Places AoE circles under some random players.
+Trample: Performs a roundtrip in a figure 8 or infinity. Safe zone is in the middle of upper/lower part of the 8 or outside of it. Will inflict serious damage, knockback and 1 stack of Damage Down.
+Pomp and Circumstance: Large proximity AoE, placed under Rofocale. Will deal moderate damage.
+Embrace: Places bluish circular AoE around the area, indicating a tendril-like AoE. Getting hit by this will apply a root for 8s and deal a small amount of damage. Mind that the effective AoE radius will be larger than the initial circle.
+Dark Geas: Rofocale will retreat and place a number of small Dark Circles around the area. Stand close to one and 'activate' it. During this time the raid will be inflicted with a Bleeding debuff. There is a time limit, in which all Dark Circles must be deactivated.
+Heavenly Subjugation: Ultimate ability. Executed based on the Aetherial Acceleration meter. Run to the sides of the area and avoid most of the damage. At 100 points of Aetherial Acceleration it will deal 300,000 point of damage. As it seems, this damage can not be mitigated.
+
+Add
+Archaeodemon:
+Ability - Unholy Darkness: Large circular AOE.
+Ability - Karma: Large cone AOE.
+
+Argath Thadalfus
+The fight could be separated into 3 main phases:
+Phase 1: Pre-Emptiness
+Phase 2: Emptiness
+Phase 3: Post-Emptiness
+
+Argath Thadalfus gives a little speech:
+"I am the truth from which you run!"
+This marks one of the main mechanics of the fight. Argath Thadalfus will either wear the divine or the demon face. The divine face is a white face, the demon face a bluish/black face with red eyes. Argath will also have buff icons according to the face. The important point is to do exactly as the command demands if he is wearing the divine and the opposite if he is wearing the demon face.
+
+Emptiness: Watch the Emptiness meter - if the Shards of Emptiness are not destroyed in time, this will reach 100 and you will wipe.
+Do not touch the outer edge of the area, if it is glowing bluish. It would apply a Transfiguration debuff that will kill the player.
+In phase 3, the second Gnawing Dread will be followed by Argath retreating and making the area a death zone. There will be a small circular safe area. Mind that you can only run into the direction of the arrow.
+Argath will then jump back and use Soulfix.
+
+Abilities
+Crush Weapon: Places AoE circles under players.
+Soulfix: PBAoE around Argath.
+Fire IV: Area wide moderate AoE.
+Crippling Blow: Tank buster, significant damage.
+Trepidation: Places meteor-like circles around the area. Have one (1) player stand in each one (small damage to the player) or suffer moderate area wide AoE damage.
+Unrelenting: Five cone shaped AoEs with safe zones between them. Always face this AoE away from the MT. Getting hit by this will apply a Crave debuff. Think confusion or similar.
+Judgment Blade: Places four square AoE marker around the area (more in phase 3). Do not step in them or suffer a strong Bleeding debuff. Two players will be marked with bluish swords. After a few seconds, those player will drop AoEs, that will fire large line-shaped AoEs crosswise.
+Suggestion: Drop the marker in the middle.
+Reason: Argath will drop Coldblood soon after.
+Coldblood: Proximity AoE, dropped by Argath somewhere. Be as far away as possible.
+Royal Blood: Argath will summon Shades.
+Suggestion: Stack and AoE ASAP.
+Empty Soul: Argath will summon 'Shards of Emptiness'.
+Suggestion: Stack and AoE ASAP.
+Gnawing Dread: Applies Temporary Misdirection. The player can only move in the direction of the arrow above their head.
+
+Commands
+After about 3s the command will be executed and the player will be judged. Be sure to do what is expected, or be punished.
+Failure will result in damage and 1 stack of the Unnerved debuff.
+Divine Command: Turn:
+Divine face - Turn away from the boss.
+Demon face - Do not turn away from the boss.
+Divine Command: Flee:
+Divine face - Continue to move. (ie: running, attacking)
+Demon face - Stay near Argath. Do not attack and do not move.
+
+Adds
+Shade: Tethered to one player each. Destroy as fast as possible. If not destroyed in time, will cast Unholy Sacrifice - significant area-wide AoE damage.
+Shard of Emptiness: Summoned for each player at the position of the player. If not destroyed in time - significant area-wide AoE damage or wipe.
+
+Debuffs
+Unnerved: Suffer more damage per stack. Suffer Crave at 3 stacks. Duration 60s, refresh on new stack.
+Crave: Be turned into a chicken and run away from Argath for 7s.
+Transfiguration: Hit the outer purple wall and be turned into a zombie for 10s. Unknown if this one can be removed. Attack other player and explode in AoE damage after the 10s.
+</cleaned_strategy_text>

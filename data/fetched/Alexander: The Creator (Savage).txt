@@ -1,0 +1,52 @@
+Here is the cleaned up text for the Alexander: The Creator (Savage) strategy guide:
+
+General Information
+Alexander: The Creator (Savage) is the third and final section of Alexander (Savage), the main 8-player raid in Heavensward. Released on September 27, 2016, Creator requires players with item level of 245 or higher to enter. Once unlocked, players can use Party Finder or other means of forming a premade party before entering the raid, which is located in Duty Finder → Raids → Savage Raids (Heavensward). They can also enter solo or with a party of fewer than 8 players using an Unrestricted Party.
+
+Unlock
+Completion of the level 60 quest Who Lives, Who Dies, Who Retells Your Story by talking to Wandering Minstrel in Mor Dhona (x21.7,y8.7). Players are required to first complete the side quest Of Endings and Beginnings.
+
+Floors
+Level Requirement: Disciple of War or Magic level 60
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Alexander - The Eyes of the Creator (Savage) | A9S | 245 | Faust Z, Refurbisher 0 | 30 | 90 min  
+Alexander - The Breath of the Creator (Savage) | A10S | 250 | Lamebrix Strikebocks | 30 | 90 min
+Alexander - The Heart of the Creator (Savage) | A11S | 255 | Cruise Chaser | 30 | 90 min
+Alexander - The Soul of the Creator (Savage) | A12S | 255 | Alexander Prime | 30 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing areas in Alexander: The Creator (Savage) will yield accessories. In addition, players will receive a page of the Alexandrian Manifesto from each area, which can be exchanged for gear of your choosing.
+
+Upon completing Alexander: The Creator (Savage) duties, a treasure coffer will appear containing an Alexandrian Coffer. Using this item transforms it into gear corresponding to the user's current job. In addition, the coffers that appear upon completing Alexander - The Soul of the Creator (Savage) yield weapons.
+
+Item Type | Equipment Reward  
+Alexandrian Weapon Coffer (IL 275) | Weapons
+Alexandrian Head Gear Coffer (IL 270) | Head
+Alexandrian Chest Gear Coffer (IL 270) | Body
+Alexandrian Hand Gear Coffer (IL 270) | Hands
+Alexandrian Leg Gear Coffer (IL 270) | Legs 
+Alexandrian Foot Gear Coffer (IL 270) | Feet
+
+Exchange
+Gear Slot | Required Token | # of Token
+Weapons | Alexandrian Manifesto - Page 4 | 8
+Gladiator's Arm | Alexandrian Manifesto - Page 4 | 5  
+Shield | Alexandrian Manifesto - Page 4 | 3
+Head | Alexandrian Manifesto - Page 2 | 6
+Body | Alexandrian Manifesto - Page 4 | 8
+Hands | Alexandrian Manifesto - Page 2 | 6
+Legs | Alexandrian Manifesto - Page 3 | 8
+Feet | Alexandrian Manifesto - Page 2 | 6
+Accessories | Alexandrian Manifesto - Page 1 | 4
+
+Weekly loot limits removed in Patch 3.56.
+
+Loot
+A9S Loot - Necklaces, Earrings, Bracelets, Rings 
+A10S Loot - Head Armor, Hand Armor, Feet Armor
+A11S Loot - Head Armor, Hand Armor, Feet Armor, Leg Armor
+A12S Loot - Body Armor, Weapons, Shields

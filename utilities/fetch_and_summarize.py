@@ -21,7 +21,7 @@ def fetch_and_summarize(instance_name, save_to_repo=False):
 
     if save_to_repo:
         try:
-            with open(f"strategies/{instance_name}.txt", "w") as f:
+            with open(f"strategies/{instance_name}.html", "w") as f:
                 f.write(summary)
         except IOError as e:
             print(f"Error saving summary to file: {e}")

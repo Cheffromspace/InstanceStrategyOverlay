@@ -1,0 +1,64 @@
+<strategy_text>
+Objectives
+Slay all the enemies: 0/8
+Slay all the enemies: 0/8
+Clear the Feeding Pit: 0/1
+Clear the Sunken Antechamber: 0/1
+Defeat the chimera: 0/1
+
+Walkthrough
+The dungeon layout is relatively straightforward, with only a few branching paths.
+
+In the first two rooms, the party must defeat all enemies and interact with the Shifting Sands to proceed to the next room.
+
+In the third room, take the left path at the intersection to reach the first boss. The right path is a dead end containing only enemies and no bonus treasure coffer.
+
+In the section between the first and second bosses, the party will again progress by interacting with Shifting Sands. However, these are available from the start, and the party does not need to kill any enemies along the way, although they will be aggroed. It should be communicated to the party beforehand, however, to decide whether to skip the enemies. Note that any players who get left behind and die can Release to the start of the dungeon. The rest of the party can engage the second boss. The left behind player(s) will be given an option to teleport into the boss room.
+
+The section before the last boss contains two branching paths with a treasure coffer in each one. Many parties will skip these.
+
+Bosses
+Myrmidon Princess
+Myrmidon Princess is the first boss of Cutter's Cry. Her main abilities include:
+
+Mandible Bite is a frontal cone AoE attack that damages all targets within.
+Silence is a spell used to Silence a party member for a short time.
+Trap Jaws is an instant melee attack.
+Haste is a spell used by the Myrmidon Princess to increase the attack speed of her adds.
+
+At around half health Myrmidon Princess will summon 3 types of adds to aid her in combat:
+Myrmidon Marshal is the most dangerous add type. It has an AoE frontal cone ability, Mandible Bite, that damages all targets caught within. The Marshal can also use an ability named Formic Pheromones, which puts a healing-over-time buff on Myrmidon Princess.
+Myrmidon Guard is the 2nd add type. It also has Mandible Bite, the frontal AoE cone ability.
+Myrmidon Soldier is the least dangerous add type. It only has a basic attack.
+
+It is recommended to kill Myrmidon Marshal first, Myrmidon Guard second, and Myrmidon Soldiers last.
+
+Giant Tunnel Worm
+Giant Tunnel Worm is the humongous worm boss of Cutter's Cry. Throughout the fight, it will submerge underneath the sandy grounds of the boss room. The worm is the most dangerous when it is submerged. The worm's main abilities include:
+
+Sandstorm is an instant frontal attack that deals a small amount of damage.
+Sand Cyclone is a spell that targets a random party member. It does a small amount of damage and inflicts a damage over time debuff.
+Sand Pillar is used when it is burrowed. Sand Pillar damages any player standing on top of the sand trap.
+Earthbreak is used when it is burrowed. Tunnel Worm explodes out of the ground and heavily damages anyone near it.
+Bottomless Desert is used by the Worm when it is burrowed. It appears as a whirlwind on the ground, does small amount of damage and pulls all party members towards its center.
+Sludge is a single-target ability used by the Worm. It inflicts a heavy Sludge DoT (~200 HP per tick) on a player which should be removed as soon as possible.
+
+Target priority does not seem to factor in who gets attacked.
+
+Spreading out when the worm submerges reduces the chance that multiple party members will be hit when it emerges from the sand. It is important that after it does the Bottomless Desert that adventurers move out of the center to not get hit when the worm emerges.
+
+Chimera
+The final boss of Cutter's Cry, the Chimera requires close attention to know where to step. The Chimera has a frontal cone cleave called Lion's Breath that deals a moderate amount of fire damage. Occasionally the Chimera will use the abilities Ram's Breath and Dragon's Breath. Ram's Breath causes ice damage and Heavy on the right side of its body and Dragon's Breath causes thunder damage and Paralysis on the left side of its body. Melee DPS can stand directly behind the Chimera to avoid these cones, but the tank will have to move left or right to sidestep their effects. Most of Chimera's attacks will Paralyze its target, which can be cleansed with Esuna, but Adventurers with low HP should be extra careful.
+
+At 75% of its life, the Chimera will begin to use two attacks called The Dragon's Voice and The Ram's Voice. When players see one of the two messages below in the chat log, they need to either move closer to the boss or away from it:
+
+When the Chimera's eyes glow violet - When using Dragon's Voice, a thundercloud AoE attack that damages and inflicts Paralysis on everyone outside of Chimera's melee range. Ranged DPS and healers should move toward the boss immediately.
+
+When the Chimera's eyes glow blue - When using Ram's Voice, an ice AoE attack that damages and inflcts Heavy on everyone in Chimera's melee range. Tanks and melee DPS should move away from him as soon as possible.
+
+The Chimera will randomly begin targeting adventurers with two new abilities as well:
+
+Cacophony - The Chimera sends out a purple ball of energy that travels to the target and explodes. That party member targeted by this ability should move away from the ball immediately. If the ball hits a player while it is traveling, it will explode immediately. The explosion not only damages players but also inflicts Paralysis on them.
+
+Ram's Keeper - The Chimera spits an ice orb that flies from the Chimera to one random player. It triggers a ground indicator that inflicts Deep Freeze and will leave an icy patch at that location.
+</strategy_text>

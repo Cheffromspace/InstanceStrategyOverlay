@@ -1,0 +1,54 @@
+Here is the cleaned up text for the Labyrinth of the Ancients strategy guide:
+
+The Labyrinth of the Ancients is a level 50 raid introduced in patch 2.1. It is the first part of Crystal Tower.
+
+Objectives:
+- Activate the Allagan teleporters: 0/1
+- Clear the Pools of Obllivion: 0/1
+- Defeat the bone dragon: 0/1
+- Clear the Walk of Lament: 0/1
+- Defeat Thanatos: 0/1
+- Clear the Walk of Fire: 0/1
+- Defeat the king behemoth: 0/1
+- Defeat Phlegethon: 0/1
+
+Bosses:
+Owing its lack of an IL sync, the first two Crystal Tower alliance raids have become tediously easy duties that are often completed with little difficulty, to the point where mechanics on several bosses are ignored or outright skipped. As a result the guide below includes mechanics that players will normally not experience unless on Minimum IL mode.
+
+Bone Dragon
+Bone Dragon is the 1st boss of the Labyrinth of the Ancients. Players will encounter the Dragon when they take the left path from the entrance. Bone Dragon must be killed 3 times before it is finally defeated.
+
+The arena has platforms similar to previous rooms. Poison will occasionally fill all lower areas of the room so be aware of this. The boss will spawn 3 waves of skeleton adds, which should be killed. Once the bone dragon dies, all skeleton adds will respawn and move towards the dragon. If two skeletons were close to each other when they died, they will move too fast to be killed. Each skeleton that reaches the boss will do 1500 unblockable damage to the raid. This phase will repeat once. The second time the dragon comes back to life, he will spawn floating eyes instead. These should be picked up by tanks but dps should focusing on killing boss instead of adds then the dragon will die for good this time. 
+
+Tank the Bone Dragon on the center platform. This allows for an even spread of adds around the room, while minimizing confusion on where to pull the adds as 1 spawns per "path". This will also reduce damage taken by the DPS, as they will spend more time on the raised sections out of the poison.
+
+Kill skeletons before they reach dragon. Pick the floating eyes, leave them with tank only.
+
+Atomos
+The raid will need to divide into their 3 groups based on their party (A, B, C): 1 for each path, which each has a platform. 4 people need to stand on each platform (preferably ranged dps and healers) to allow the other groups to kill Atomos. Atomos does not need to be tanked but will continuously spawn adds that should be killed. The tanks should move these adds within range of the players on the platforms.
+
+Note: Do not cross the purple line before the alliance has all arrived, that will start the encounter and force the late players to teleport into the left chamber.
+
+4 people stand on each colored platform, which will remove the corresponding color-coded barrier around an Atomos from a different party, making it vulnerable. The other four focus on killing Atomos.
+
+Note that if a sector does not contain enough people to stand on the platform, once the room is sealed, several Iron Giants will spawn and quickly wipe the raid in order for the encounter to reset.
+
+It is common for A, B, and C waymarks to be placed from left to right in front of the entrance to a sector as a reminder for where to go based on your party.
+
+Thanatos 
+Thanatos is the 3rd boss of the dungeon. Players will encounter the boss when they take the right path from the labyrinth entrance.
+
+Thanatos is a ghostly iron giant that is surrounded by three Magic Pots on the corner of his chamber. The Magic Pots are friendly mobs, and should be healed if they're damaged. If all three die, then you will be unable to harm the boss and will wipe. (For typical Duty Finder runs, it is usually not necessary to heal the Magic Pots due to the speed at which the boss is killed.)
+
+Thanatos is "ghostly" and cannot be harmed ordinarily.  At the beginning of the fight, one of the Magic Pots will shoot green lines out to several alliance members, giving them an buff called Astral Realignment. The first group to receive the buff is always A.  Astral Realignment allows you to deal damage to the boss. A tank with the buff should pick up the boss immediately, and a tank swap should occur whenever a tank picks up Astral Realignment and the one on the boss loses it. Thanatos does have a cleave, so he should be faced away from the group and the pots.
+
+Anyone who doesn't have Astral Realignment should focus on killing the adds that spawn throughout the fight. They will charge the Pots and attack, and occasionally will have a red line connecting them to a pot.  Anytime you see this, these adds must be killed immediately.  While that red line is active, Thanatos will be pulling the Pot to himself with a giant Holmgang chain -- if he gets it to him, he will kill it pretty fast.  Once the adds connected to the Pot die and the Pot is healed, it can escape back to its safe spot.
+
+This fight progresses fairly straightforwardly from here, just repeating the basic mechanics until he dies or all three Pots die.
+
+If you have Astral Realignment, DPS the boss. If you're visible, kill adds. Healers should keep the pots alive.
+
+The party should avoid pulling the boss early (at least until Alliance A has arrived) as this can potentially cause some players in A to miss the buff, prolonging the fight.
+
+Allagan Bomb
+Allagan Bomb initially does nothing. Each group takes one of the large sword adds (A left, B north, C right - waymarks may sometimes be used to denote each party's add). Those Vassagos WILL NOT aggro anyone automatically, so each tank should stand in front of each adds to avoid the boss running to the middle. The boss will periodically spawn Allagan Balloon adds that need to be killed (high priority) before they reach the center, or they will explode and cause the Allagan Bomb to enlarge.  If the bomb enlarges too much, it will explode and wipe the raid. In addition, a Napalm add may spawn and will have the highest priority to kill. The boss can be damaged once the 3 adds are

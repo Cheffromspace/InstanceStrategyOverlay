@@ -1,0 +1,47 @@
+Here is the cleaned up text for the Akadaemia Anyder strategy guide:
+
+Akadaemia Anyder is a level 80 dungeon introduced in patch 5.0 with Shadowbringers. 
+
+Objectives:
+Arrive in Ichthyology: 0/1
+Clear Ichthyology: 0/1
+Arrive in Phytobiology: 0/1
+Clear Phytobiology: 0/1
+Arrive in Phantomology: 0/1
+Defeat Quetzalcoatl: 0/1
+
+Bosses:
+
+Cladoselache and Doliodus
+Cladoselache:
+Protolithic Puncture: Tankbuster.
+Tidal Guillotine: Area of Effect attack centred around Cladoselache. Players hit will take moderate damage, be Stunned for a couple seconds, and inflicted with a stack of Vulnerability Up.
+Aquatic Lance: A circular attack focused on one player. This will create a persisting circular damaging area upon impact and should be placed accordingly. Stepping into it will inflict Vulnerability Up.
+
+Doliodus:
+Pelagic Cleaver: A large cone shaped Area of Effect attack. Getting hit by this will knock back.
+Marine Mayhem: An area wide damage attack.
+Doliodus and Cladoselache will swap place. While Doliodus is fighting, Cladoselache will be circling the area, swimming.
+Shortly after the warning Cladoselache is gathering its strength... Cladoselache will jump back into the arena and execute Tidal Guillotine.
+Doliodus will jump back into the water.
+Shortly after the warning Doliodus is gathering its strength... Doliodus wil jump back and execute Pelagic Cleaver.
+
+Marquis Morbol:
+Arbor Storm: Moderate damage to the entire party.
+Extensible Tendrils: Marquis Morbol will raise its four tentacles and eventually slam them down in a line attack inflicting hit players with Concussion. The boss will slowly rotate while doing this attack. At the end of the attack, it will use Bile Vomit, dealing moderate damage and inflicting Poison and Damage Down to players in a cone in front of it.
+Blossom: Two sections of flowers will be coated in a puddle that inflicts Heavy and Vulnerability Up to players standing in it. The puddle remains until the next cast of Blossom, at which point the other set of flowers will be coated.
+Sap Shower: Circular attack targeting all non-Tank players.
+
+Guardian Force: Quetzalcoatl:
+Shockbolt: Tankbuster.
+Thunderbolt: Moderate damage to the entire party.
+Thunderstorm: Circle AoEs targeting each player, plus several other ground-targeted AoEs randomly dispersed around the arena. After the attack finishes, an electrical orb will spawn wherever a ground-targeted attack hit. These orbs will grant a stack of Damage Up when touched. Orbs not picked up will eventually tether to the boss, giving the Damage Up buff to it a short time after.
+Shocking Plumage: Four cones AoEs, centered on the boss, pointing outwards. Deals moderate damage.
+Winding Current: Quetzalcoatl flies to one edge of the arena and knocks the party to the opposite edge. Followed immediately with four gradually-expanding circle AoEs and a Ring AoE that takes up the entire arena save for inside the boss's hitbox.
+
+Lore:
+This hall of learning was established in honor of the first Mitron, a scholar renowned for his exceptional contributions to our marine biosphere. It is here that many ichthyologists seek to follow in Mitron's footsteps, and engender sea creatures characterized by traits both unique and beneficial.
+
+Did you know that the original Halmarut, a man lauded for countless advancements in the field of phytobiology, was an avid landscape gardener? He was famed for botanical labyrinths of intricate design, the foliage of which he sought to protect from voracious pests with the inventive application of creation magicks-a recreational project said to have led to the evolution of the world's first carnivorous plants.
+
+The instances of spontaneous creation occurring in the lands across the ocean are now a confirmed phenomenon. Seemingly unguided by conscious will, these aberrations are said to manifest as malformed "beasts" of nightmarish aspect and unrestrained ferocity. A theory posited by the esteemed Lahabrea suggests that the shape these fiendish beings assume is not random, but rather an amalgamation of the fears which lurk beneath our rational minds.

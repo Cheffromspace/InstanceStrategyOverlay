@@ -1,0 +1,25 @@
+<span class="boss">Hydaelyn</span>:<br>
+- <span class="note">🚫 Outer edge of arena is instant death</span><br>
+- <span class="ability">Hero's Radiance</span>: 💥 Raid-wide AoE<br>
+- <span class="ability">Dawn Mantle</span>: <span class="mechanic">Boss changes weapon, dodge based on color</span><br>
+&nbsp;&nbsp;🔴 Red (Dancer Chakrams): 🏃 Stand inside hitbox<br>
+&nbsp;&nbsp;🟢 Green (White Mage Staff): 🏃 Move away<br>
+&nbsp;&nbsp;🔵 Blue (Paladin Sword & Shield): 🏃 Stand in intercardinal<br>
+- <span class="ability">Mousa's Scorn</span>: 🛡️ Tankbuster, share between tanks<br>
+- <span class="ability">Magos's Radiance</span>: 💥 Raid-wide AoE<br>
+<br>
+<span class="boss">Add Phase</span>:<br>
+- Destroy crystals before Conviction bar fills<br>
+- <span class="ability">Hydaelyn's Ray</span>: 🏃 Stand near edge, avoid bright line<br>
+- <span class="ability">Crystalline Stone III</span>: 🤝 Stack<br>
+- <span class="ability">Crystalline Blizzard III</span>: 🏃<>🏃 Spread AoEs<br>
+- <span class="ability">Exodus</span>: 💥 Huge raid-wide AoE<br>
+<br>
+<span class="boss">Hydaelyn (cont.)</span>:<br>
+- <span class="ability">Crystallize</span>: 🔴 Spread or 🤝 stack, appears during <span class="ability">Dawn Mantle</span><br>
+- <span class="ability">Parhelion</span> + <span class="ability">Subparhelion</span>: <span class="mechanic">3 sets of ➡️⬅️ line AoEs, dodge in order</span><br>
+- <span class="ability">Parhelic Circle</span>: 🏃 Avoid middle and smaller lines of 🟢 symbol<br>
+- <span class="ability">Hero's Sundering</span>: 📐 Cone tankbuster<br>
+- <span class="ability">Radiant Halo</span>: 💥 Raid-wide AoE<br>
+- <span class="ability">Lightwave</span>: 🏃 Dodge 4 moving waves of light<br>
+- <span class="ability">Echoes</span>: 🤝 Stack hits multiple times, cast after <span class="ability">Lightwave</span>

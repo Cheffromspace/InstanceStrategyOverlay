@@ -1,0 +1,28 @@
+Here is the cleaned up version of the Pharos Sirius (Hard) dungeon guide:
+
+Pharos Sirius (Hard) is a level 60 dungeon introduced in patch 3.1 with Heavensward. 
+
+Objectives:
+- Arrive in the fuel chamber
+- Slay the Ghrah Luminary  
+- Arrive in the second spire
+- Slay 8th Order Patriarch Be Gu
+- Arrive at Incubator 66
+- Secure Incubator 66
+
+Bosses:
+
+Ghrah Luminary: 
+Ghrah Luminary will create Corruptions that tether and mark players with Prey. The Corruptions will cast Aetheric Mimicry, and marked players should run up to one of the passive mobs circling the room to pass the debuff before the cast finishes. After a short time, the afflicted mob will transform and become aggressive; these have very little HP and should die easily. Note that the spider mobs will leave behind a small pool of poison when they die, so be sure to pull them aside before killing.
+
+8th Order Patriarch Be Gu:
+The boss will periodically perform a room-wide AoE that opens a fissure in the floor. Aether will leak out from these fissures until they are plugged by pulling a Corrupted Gel add and killing it on top of the plume. Eventually, the boss will summon a set of Kobold adds in addition to one or more purple Alchemy Engines; these engines provide a tether to the boss and should be destroyed immediately.
+
+Progenitrix and Progenitor:
+Progenitrix will periodically summon a mixture of Grey bombs and Lava bombs around the perimeter of the arena. The Grey bombs should be killed immediately. Once Progenitrix is killed, Progenitor will spawn. Like his predecessor, Progenitor will also summon Grey bombs around the perimeter of the arena; however, they will be accompanied by blue Remedy bombs rather than Lava Bombs. The Remedy bombs will attach a tether to a Grey bomb and slowly move toward it. Hitting the Remedy bombs will push them away, allowing time for the Grey bombs to be killed.
+
+Loot:
+The dungeon drops item level 185 gear for various jobs. Notable rewards include the Progenitrix Card and the Upon the Rocks Orchestrion Roll which drop at a fixed rate from the final boss.
+
+Achievements:
+Remapping the Realm: Pharos Sirius - Discover every location within Pharos Sirius (Hard).

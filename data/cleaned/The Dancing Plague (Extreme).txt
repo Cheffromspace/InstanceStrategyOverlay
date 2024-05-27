@@ -1,0 +1,53 @@
+<strategy_text>
+Overview
+The battle itself consists of 4 phases, each incorporating various different mechanics and overlapped combos. Should your team fail to kill Titania within a set amount of time, Titania will eventually wipe the raid via an unavoidable Bright Sabbath.
+
+Phases & Abilities
+Bright Sabbath- an unavoidable AoE (used at the very beginning of every pull) which will require group-wide healing.
+Phantom Rune- Titania will ask: "Can you guess which one?", indicating one of two possible mechanics that will spawn at Titania's hitbox. One possible mechanic is a large circular AoE (which players must run away from), while the other is a donut AoE (requiring players to stand within their hitbox). On hearing (or seeing) the above quote, players should pay attention to Titania's casting animation. If they spreads their wings, this indicates the circle-AoE, prompting players to run away as soon as possible. However, if their staff begins spinning around them in a circle motion, players should move close to Titania and be ready to stand within the donut-AoE safe-spot.
+NOTE: During Phase 1, Titania will cast Phantom Rune in a particular order (circle, then donut), whereas later phases will involve Titania using them randomly.
+Divination Rune- a vicious conal tank-buster that will be aimed at their primary target and blast across the arena. Tanks should make an effort to turn Titania away from the group while this is being cast. If this isn't possible for any reason, non-tanks should always avoid being directly in front of them whenever possible.
+Chain of Brambles- tethers tanks and healers to random damage-dealers, forcing them to snap the tether by stretching it as far as possible (similar to the tether encountered in The Vault dungeon). This mechanic will be used numerous times throughout the encounter, usually during (or before) specific combos. As a result, the group should pre-plan positions for individual players to run to (such as tanks and healers going North whilst damage-dealers run South).
+
+Phase 1
+Titania will begin the encounter by casting Bright Sabbath (unavoidable AoE damage) followed by Phantom Rune, forcing players to move out of a circle AoE. The second Phantom Rune (later in Phase 1) will involve the donut AoE. All Phantom Runes used after the first phase will then be entirely random.
+Mist Rune will be cast shortly after the above mechanics, forming 8 puddles around the arena (cardinally and diagonally). Players must move to their assigned puddle and stand within it until the animation has complete, as failure to do so will spawn a Spirit of Dew (add) and leave one less puddle for the next mechanic, Flame Rune.
+Flame Rune is cast immediately after Mist Rune, summoning an unattackable Spirit of Flame which will target each Healer with a stack-marker. All players hit by the resulting mechanic will suffer Fire Resistance Down II and should split evenly between both marks, as double-stacking two markers will result in typically fatal damage thanks to debuff.
+After dealing with Flame Rune, Titania will unleash a Divination Rune on the main-tank, followed closely by Chain of Brambles. Assuming the party successfully deals with them, the battle will transition to phase 2 via Midsummer Night's Dream.
+
+Phase 2
+Thunder Rune will create a tether between Titania and a non-tank player, selecting them as the target for repeated AoE blasts which will inflict Lightning Resistance Down II with each hit. The group must decide between passing to tether to a new player with each blast, or assigning a tank with an invulnerability cooldown to absorb 2-3 blasts before swapping it to others players.
+Fae Light is a triple-cast conal tank buster in quick succession. Tanks may opt to keep their invulnerability cooldowns to absorb Fae Light instead of Thunder Rune.
+Growth Rune will mark two corners of the arena with a multi-directional star-AoE telegraph. After a brief delay, rapidly growing brambles will sprout from the target location and grow in cardinal and diagonal directions, binding any victims caught in their path for their duration and inflicting a damage-over-time. Players must stand in small triangular safe-spots around the arena to avoid being bound or afflicted.
+Chain of Brambles will also be cast at the same time as Growth Rune, forcing players to stretch their tether and break it before the arena is covered in brambles.
+Frost Rune, much like the Shiva trial, will spawn large, white, outlined circles around the entire arena. Circles will spawn in a clockwise or counter-clockwise motion around the arena-edges and later explode in the order they have spawned in. By standing in the circles that spawned late (or last), players can then move towards the centre once the earlier circles have exploded.
+Uplift will drop circular AoE markers on all participants, forcing them to spread around the arena to avoid blasting fellow team-mates with the resulting AoE damage.
+
+Phase 3
+Titania will become invulnerable and summon three tree-like mini-bosses (Mustardseed, Puck and Peaseblossom), each with their own individual mechanics. Both Puck and Peaseblossom need to be grabbed by an individual tank as soon as they spawn, and all three will be re-summoned into larger and far more powerful versions after they have initially been slain. Throughout the entire add phase, Titania will be charging their power (as indicated by a duty-bar). Should their power reach 100 at any point, the entire raid will be wiped by Being Mortal.
+Puck is capable of Gentle Breeze (line-AoE attack), Pummel (physical tank-buster that applies Blunt Resistance Down), Puck's Breath (a stack marker focused on a random non-tank member of the group), Puck's Caprice (raid-wide AoE), and Puck's Rebuke (a mechanic that will eventually divide the arena into two safe-spots while a large AoE in the arena centre knock players backward).
+Peaseblossom is capable of Peasebomb (AoE markers over four non-tank members of the group that require spreading out) and Hard Swing (a physical tank-buster).
+Mustardseed is capable of Leafstorm (a conal AoE targetted at random players which contains lined safe-spots within) and Whispering Wind (an enrage mechanic capable of wiping the raid).
+Tanks should pick up Puck and Peaseblossom as soon as possible while the Healers and Damage-Dealers slay Mustardseed with all haste, as failure to do so will cause a raid-wipe via Whispering Wind. If successful, Titania will re-summon all three adds in giant form at three sides of the arena (and should be tanked + killed in the exact same order as before).
+This time, however, mini-boss mechanics will become larger, more damaging, and more chaotic. The most noteworthy aspect of this phase is Puck's Rebuke, as this will spawn a circular telegraph in the centre of the arena that will knock players towards (or even over) the edge of the arena, and even kill players outright if they stand within the circular telegraph. Additionally, vines will spawn in two opposite corners of the arena and blast line-AoEs across the arena edges. On top of that, players will also have to deal with Chain of Brambles.
+Due to the knockback component of Puck's Rebuke and the risk of falling out of the arena, players must quickly position themselves so that they are knocked away from their tethered partner to break the tether (without being knocked into the vine AoEs), preferably in a similar fashion to how they do it normally (DPS south, Healers & Tanks north).
+
+Phase 4
+The final phase involves various mechanical combos that players will now be very familiar with. Bear in mind that players must still kill Titania before they enrage, as this will result in a final Bright Sabbath that will destroy the entire group and reset the battle.
+Mechanics and combos (in order) include: Mist Rune & Phantom Rune, Flame Rune & Growth Rune, Phantom Rune (Random), Bright Sabbath, Fae Light, Frost Rune, Uplift, Bright Sabbath, Thunder Rune, Growth Rune & Chain of Brambles, Phantom Rune (Random), Bright Sabbath, Divination Rune, Bright Sabbath (Enrage).
+
+Unsynced Farming Guide
+This strategy aims to skip the later half of the fight, defeating Titania before the conclusion of Phase 2.
+Tank should begin by running straight through her center, grab aggro, then keep Titania in the center of the room, facing North.
+Party's goal during Phase 1 should reduce Titania's health to no less than 25-20%. Once it reaches this point, hold or slow all party DPS to prevent the third phase from triggering.
+BEFORE Water Rune begins, avoid reducing her health below 40%.
+At 25% it's still okay to keep using auto-attack while waiting for Phase 2 to begin.
+At 20%, completely HALT all DPS.
+When Water Rune begins: Let Tank and Melee classes have priority on the inner puddles. Ranged DPS should prioritize the outer puddles. Remember that you must have one person on each puddle to avoid the spawn of ads.
+Preparing for Fire Rune: Party should split into two stacks, each with a minimum of two people. Stacks should OPPOSE each other within the four puddles.
+When Titania begins changing the scene into Phase 2, everyone should get ready to move. People will begin to die rapidly if this is done incorrectly.
+Tank should prioritize getting the tether to target them and then immediately drawing it away from the other party members to avoid collateral damage.
+Healer should prioritize keeping the Tank alive. Wait for the voice line cue "This should tingle a bit" before resuming DPS to finish off the fight.
+DPS can focus damage to finish off the fight as soon as the voice line fires.
+Additional notes about the Tether: If the Tether targets a non-tank, the targeted player should stack with the Tank until the Tether focuses on them instead. Marking the Tank ahead of time can be a helpful time-saver. It can be helpful to have the Tank stay put while the targeted player comes to them. Having the Tank jump up and down has been observed to make successful transfer of the Tether more likely.
+</strategy_text>

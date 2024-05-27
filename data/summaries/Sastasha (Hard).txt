@@ -1,0 +1,17 @@
+<span class="boss">Karlabos</span>:<br>
+- <span class="ability">Aqua Balls</span>: 🤢 Slime DoT debuff, 🩹 Esuna ASAP, 🏃<>🏃 avoid overlapping<br>
+- <span class="ability">Prey</span>: 🎯 Targets highest enmity, 🔗 pass by running into others, causes stun<br>
+- <span class="ability">Tail Screw</span>: 🎯 Non-tank target, reduces HP to 1%, 🚫 can be stunned<br>
+- <span class="mechanic">Healer priority: 🩹 Remove Slime > Tank HP > Party HP</span><br>
+
+<span class="boss">Captain Madison</span>:<br>
+- <span class="mechanic">👾 Kill Captain's Guard adds quickly</span><br>
+- <span class="ability">Charge</span>: 💨 Knocks back target<br>
+- <span class="ability">Gun</span>: 🎯 Marks random player, shoots until damaged enough, 🚫 can't be stunned<br>
+- <span class="mechanic">💥 DUMP DPS after Charge</span><br>
+- <span class="note">Low HP: Spawns adds and runs away</span><br>
+
+<span class="boss">Kraken</span>:<br>
+- <span class="mechanic">🎯 Attack priority: Kraken's Arms (when up) > Kraken > Ignore Tentacles</span><br>
+- <span class="ability">Ink Jet</span>: 💥 AOE, 🤢 Blind debuff, 🩹 remove before normal healing<br>
+- <span class="note">Alternative: Focus one Arm near boss/corner, ranged DPS attack Kraken's head from safe spot</span><br>

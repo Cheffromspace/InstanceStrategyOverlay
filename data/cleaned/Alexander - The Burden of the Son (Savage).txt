@@ -1,0 +1,107 @@
+<cleaned_strategy_text>
+Strategy
+This fight is very heavy on mechanics that require players to understand mechanics from fights through the entire raid tier. The mechanics must be done as close to perfectly as possible as making even one mistake can result in a wipe.
+
+Before the fight, players should split into two light parties consisting of a tank, a healer and two DPS. Players should also place a marker to note where to pass a debuff later in the fight.
+
+Phase 1
+Hydrothermal Missile: Targets the main tank and has splash damage. Players should avoid standing near the tank when this goes off. This attack will fire periodically through the fight.
+Seed of the Sky: Targets random players with ground AoEs. Simply step out to avoid them.
+Megabeam: The boss will turn towards a random player and begin charging, then fire. Players need to avoid this, or they will die. There is no cast bar for this attack, so players need to watch for the boss to turn and begin the charging animation.
+Execution: Four black squares will spawn on the arena, within each will spawn either a Steam Regulator A or Steam Regulator B. These ads will explode after roughly 20 seconds if not dealt with. Once a player enters the square, they can not exit until the ad is dead, or it will explode and wipe the raid. DPS players should be the ones to take care of these enemies. When entering the black square, the player is buffed with Direct Attack, meaning they can only attack their ad. The boss will cast Seed of the Sky and Megabeam during this time. Players can bait the seeds in the corners of their black square and dodge the Megabeam this way if they are targeted.
+Perpetual Ray: A heavy-hitting tank buster that debuffs with Vulnerability Up debuff, then hits the tank four times with Perpetual Ray. With the debuff, the main tank won't survive this, so a tankswap during the cast is required. This is followed up by another Megabeam.
+Legislation: Each DPS and one healer is tethered to an orb and the DPS are given stacks of Final Punishment between 1-4. The orbs will slowly move towards the tethered players and will kill them if it reaches them. Touching the orbs will also spawn an AoE on the ground. Sharing this AoE with people will deal more damage.
+At this point the boss will also be on the lookout for Illegal Operations. Illegal Operations consist of:
+Dying with a stack of Final Punishment.
+Allowing stacks to expire without removing them.
+Pushing the boss into the next phase while players still have stacks.
+If any of these Illegal Operations come to pass, the boss will wipe the raid.
+
+Players can remove stacks of Final Punishment by taking damage in any form. This mechanic requires players to take damage and plan how they are going to do so to keep stress off the healers.
+
+The most common strategy is to first number players based on the number of punishment stacks they have, then for the DPS to stack with the main tank and take splash damage from Hydrothermal Missile to remove one stack from everyone. The player that started with 3 stacks will pop the orb on the player with the fourth. Then the player that started with 4 stacks will then pop the rest of the bubbles, removing the rest of their stacks. This will leave two players with one remaining stack.
+
+The boss will, during this time, cast Seed of the Sky. Megabeam, and Perpetual Ray, so handle mechanics as needed. The boss will then cast Hydrothermal Missile, which the debuffed DPS will share. This will remove the final stack from both of them. Players then need to push the boss to 1% while attacks continue, at which time the boss will take off away from the arena.
+
+Phase 2
+In this phase, the 4 robots from The Cuff of the Son Savage appear at set intervals. They will use the same mechanics from their fight. If all 4 of the robots are in the arena at one time, they will explode, and the party will wipe.
+
+The bosses will use their signature mechanics at exactly 50%, so players need to be careful not to push multiple robots to this point, as it may result in a wipe.
+
+At the start of the phase, Blaster and Brawler will spawn, with Brawler unable to move from the center, but still able to attack at range. Players should focus on getting rid of Blaster first. Move him to the east of the arena and away from the center, as Brawler will cast Auxiliary Power, buffing any robot that stands in the AoE.
+
+At 50%, Blaster will summon a mirage that will tether to Blaster if it gets too close and render him invincible. The off tank should provoke this and pull it away, over to Brawler. Blaster will also cast Mindblast, so be sure to interrupt him, or it is a wipe. Around this point, Swindler will drop down and the tank holding Blaster will also grab this robot as well. Swindler will introduce the height mechanics from its fight, so avoid accordingly.
+
+Players should have Blaster defeated by this point. When he is defeated, the Mirage will disappear as well. At 50%, Brawler will become invincible and summon Beta Orbs and Gamma Orbs. These work the same way as in Brawler's fight, so stun one of the Beta orbs so they don't hit the boss at the same time and pop the Gamma orbs.
+
+At 50%, Swindler' will cast Bioarithmetics, dealing high raid-wide damage to be healed through.
+
+Around this point, Vortexer will drop in the arena. He should be picked up by either tank. Focus on burning down Brawler, then focus on Vortexer and get it to around 50%.
+
+At this point, both robots should be brought to around 50%-60%, but don't kill one before the other. If one dies before the other, the survivor will cast Self-Destruct. If this cast goes off, the party will wipe.
+
+Keep the robots separate as you burn them down, as Swindler can also cast Auxiliary Power and buff Vortexer.
+
+At 50%, Vortexer will cast Super Cyclone, dealing damage and knockback to all players. Swindler will also cast Eneumeration on the tank at this time, requiring players to stack according to the orbs in the circle. Vortexer will cast Elemental Jammer, Debuffing a player with Compressed Lightning. Handle this mechanic as before. When it comes time to pass the debuff, meet at the predetermined marker. Players will have to continue to pass the debuff around until the bosses are defeated.
+
+Continue burning the bosses down evenly until one is defeated, then quickly burn the last one before it can explode.
+
+Phase 3
+At this phase, Brute Justice will form, dealing raid-wide damage. The main tank should pull the boss to the center.
+Flarethrower: The boss will cast a conal AoE of fire, move away from the front of the boss to avoid this.
+Double Rocket Punch: A heavy-hitting tank buster. This needs to be split by both tanks to mitigate. If the attack is split, the damage is split between both tanks. If more than 2 players split the attack, the damage is split in half, but applied to each person hit. If anyone dies to this attack, the boss gets a permanent Damage Up buff.
+Short Needle: Unavoidable raid-wide damage.
+Seed of the Sky: Random players are targeted for ground AoEs.
+Prey Markers: Targeted players will be hit by Long Needle. These players need to move away from the party and separate to avoid overlapping damage.
+Long Needle: A player will be marked with a stack marker, and players must stand together to mitigate the damage.
+
+To handle these mechanics coming out one after the other, players are recommended to stack on the flank of the boss to bait the Seed of the Sky, move out of the AoEs and separate/stack as needed for the following Long Needle markers.
+
+Super Jump: The boss will target the player furthest away and jump to them. The off tank should bait this attack to the west wall with the party gathered in the boss's hitbox.
+Apocalypse: The boss turns to a random player and unleashes this attack in front of them. Players need to move behind the boss to avoid. Getting hit by this deals heavy damage and adds a Vulnerability Up stack.
+
+The boss will follow this up with Flarethrower, Double Rocket Punch, and another Flarethrower. The boss will then repeat its attacks from Short Needle to Super Jump. Payers need to deal as much damage to the boss as possible in this time. The boss will leave the arena at this time.
+
+Phase 4
+This phase consists of dodging mechanics. Dying here will buff the boss permanently with Damage Up.
+J Kick: High raid-wide damage. Mitigate and heal through.
+100 Megatonze Shock: Raid-wide proximity damage. Move away to the wall and group up at the center of the wall for the next mechanic.
+Mirages: 4 players are targeted by Mirages who will charge where the markers drop. Marked players should spread out along the wall to drop their markers and move back to the center of the wall to avoid.
+Double Buster: Targets a tank. The party needs to stack on the tank to mitigate the damage.
+Steam Chakrams: These spawn at the edge of the arena, two per adjacent wall, leaving safe spaces between them. Stand in these safe zones to avoid damage. A Megabeam will fire before the Chakrams do.
+Earth/Ice Missiles: Ice missiles target random players, leaving growing AoEs behind. Drop these near the edge to avoid them. Earth missiles drop puddles, bait them against the wall as well. Players will then deal with a height mechanic.
+
+Phase 5
+This phase is an exact repeat of phase 3, except the attacks hit harder. Simply bring the boss to 0% HP and the boss will leave the arena again.
+
+Phase 6
+This phase requires players dodging more mechanics. Players should stack in the south of the room for the first mechanic, J Kick. Simply heal through this.
+Onslaughter will drop in and deal raid-wide proximity damage. Move away and heal through.
+Brawler will spawn in the north and use Double Drill and summon mines, two red and two blue. The red mines will stay visible, but the blue ones will dissapear. The drills will drop on the closest and furthest players, which the tanks should bait out, then move to blow up the blue mines after that. The boss will fire a Megabeam after this, so players should dodge to the south. More Mirages will spawn but can be dealt with the same way as last time. Steam Chakrams will also spawn around the arena and fire again. Handle these the same as last time.
+Ultra Flash: The boss will begin to charge this attack. Players will need to stand behind the legs of the Onslaughter to break the line of sight between them and the boss. Eneumeration Circles will spawn at this point, and only the correct number of players can stand in the circles. Have players with the circles stand directly in front of the legs, while the players stand further back but still behind them.
+
+Phase 7
+In this final phase, players will need to handle several mechanics that, if done incorrectly, will cause a death or even a wipe.
+Verdict: Players will be inflicted with both Final Judgment and Final Punishment. Several orbs and 4 J Storms will spawn, the latter lowering the HP of players who touch them to single digits, and the orbs will simply stay in place, as well as 2 zones with a Steam Regulator A & B. Players will need to satisfy the requirement of their debuffs before the boss uses Gavel. Let's take a look at the debuffs that each player is inflicted with:
+
+Tanks will be inflicted with Final Judgment: Max/Min HP and 3-4 stacks of Final Punishment respectively. Tanks need to remove Final Punishment via the boss's auto-attacks, so simply take enough attacks to remove your stacks, then tankswap. The tank with the Max HP must simply have max HP, where the Min HP tank needs to have the lowest HP on the party.
+
+Healers will be inflicted with Final Judgment: Penalty 1 or 2 and 3 stacks of Punishment if they have Penalty 1, or 1 Stack if they have Penalty 2. Players will need to have stacks of debuffs in accordance with their penalty.
+
+DPS players will be inflicted with Final Judgment: Nisi A or B and 1 Punishment stack, or Final Judgment: Penalty 3 with 2 Punishment stacks. Players with Nisi A or B need to kill their respective ad, while Penalty 3 players need to reach 3 debuffs.
+
+To handle all these mechanics, Players need to be hit by several attacks together. Players with Penalty 1 will pop the orb to the south, then split the 2 north orbs with the Nisi debuffed players after they defeat their ads. The other southern orb is for players with Penalty 3. The Penalty 2 player will take the northwest Jstorm, while the Min HP tank will take the other storm during the gavel cast to assure they have the lowest HP. Finally, when the boss casts Gavel, players will pop the final orb and receive their debuffs. The boss will rise into the air and drop down with a J Kick that needs to be healed through.
+
+Link-Up: A DPS will have Compressed Water cast on them.
+Final Punch: A tankbuster that stuns and knocks the main tank back followed by Final Apocalypse, dealing high damage, and Final Beam, which needs to be split amongst the party. The main tank needs to use heavy cooldowns before they're stunned. The off tank can turn the boss away for Final Apocalypse, then turn back for Final Beam.
+
+Blue mines will also spawn on one of the four middle platforms, a Long Needle marker comes out, Seed of the Sky will place AoEs on the ground, and a Prey marker will come out as well. Players should stack to bait the Seed AoEs, Prey targets should spread out from the party, while the rest of the party should stack for the Long Needle. All players should make sure to avoid the panel with the invisible Blue Mine.
+
+All of these mechanics, on top of the Compressed Water mechanics that will soon come out, can be a lot for players to deal with. To add to things, the boss will also summon Enumeration circles that will require players to stack appropriately. The most common strategy is to have the Water debuffed player to simply step into the blue mine, sacrificing themselves. The Water debuff will not explode and wipe the party if the player is killed this way. This makes the arena safer to move around on and completely skips mechanics, then the player can simply be revived.
+
+Steam Chakrams will spawn after Long Needle, so pull the boss to the safe zone between them. The boss will follow up with another Enumeration, then a Megabeam.
+
+While these mechanics are firing, have the main tank step away to bait a Super Jump from the boss. The boss will then follow up with a Flarethrower and another Final Punch set of mechanics. It is recommended that tanks use an invulnerability skill here to help take some pressure off the healers.
+
+The boss will fly away and use J Kick so players should be ready to mitigate and heal through, especially given a player has a Weakness debuff. The boss will catch fire, begin spinning, and pulsing out J Wave every 5 seconds, with each hit dealing more and more damage. This signifies the boss's enrage, so players need to defeat the boss before it defeats them.
+</cleaned_strategy_text>

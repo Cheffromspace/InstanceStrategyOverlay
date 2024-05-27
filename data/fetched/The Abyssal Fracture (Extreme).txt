@@ -1,0 +1,40 @@
+The Abyssal Fracture (Extreme)
+
+Level: 90
+Item Level: 640
+Difficulty: Extreme
+Party size: Full Party (8 man - 2 tanks, 2 healers, 4 DPS)
+Unsyncing: Not Allowed
+Time limit: 60 minutes
+Duty Finder: High-end Trials (Endwalker)
+Tomestones: 25 Allagan Tomestone of Causality, 15 Allagan Tomestone of Comedy
+Required quest: I Wandered Sharlayan as a Minstrel
+Location: The Abyssal Fracture
+Region: ???
+Stone, Sky, Sea: Available
+Patch: 6.5
+
+Guide:
+
+Phase 1:
+- Abyssal Nox: Reduces everyone to 1 HP and inflicts Doom that can be removed by healing to full. Dodge large circular AoEs indicated by light rays.
+- Sable Thread: Multi-hit line stack AoE that deals heavy damage, requiring mitigation. 
+- Dark Matter: Three-hit AoE tankbuster targeting both tanks.
+- Visceral Whirl: Dodge perpendicular line AoEs, then dodge cross AoEs from X-shaped marks.
+- Flare: Soak tower stack markers in assigned groups, then dodge line AoEs from fireballs.
+- Void Bio: Dodge moving poison orbs while going to safe spots from Visceral Whirl.
+- Big Bang: Spread from other players' AoEs and dodge circular AoEs. Transitions arena and applies debuffs.
+- Void Meteor: Stack middle for proximity AoEs. Stretch meteor tethers without overlapping existing meteors.
+- Bonds of Darkness: Break chains by running to assigned safe spots. Dodge Visceral Whirl AoEs, do mechanics for Divisive Dark, Beckoning Dark, Forked Lightning.
+- Black Hole: Drop expanding AoE and dodge boss's line AoE.
+- Big Crunch: Raidwide damage, removes HP penalty. Arena transitions back.
+- Sparking/Branding Flare: Soak towers, go to corners, spread or stack with partner while targeted players kite chasing AoEs.
+
+Phase 2:
+- Rend the Rift: Raidwide damage, transitions arena and music.
+- Void Thunder: Dodge multiple sets of AoE markers.
+- Nostalgia: Survive seven hits of raidwide damage.
+- Flow of the Abyss: Dodge line AoE from fissure while handling either stack marker, spread AoEs, or enumeration stack mechanic.
+- Chasmic Nails: Dodge conal AoEs. Cleanse damage-over-time debuff.
+
+Defeat boss before hard enrage. Loot includes totems for weapons, tomestones, orchestrion roll, crafting material.

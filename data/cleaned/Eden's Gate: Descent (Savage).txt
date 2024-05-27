@@ -1,0 +1,109 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Antithesis Manifest: Voidwalker
+NOTE: It is possible to fall off the edge of the arena and plummet to an early doom during the entire encounter. However, should any participant fall, they can be raised after a moderate delay.
+
+Doomvoid Cleaver targets all participants and blasts them with a cone-attack for medium damage. Players should spread around the arena in a circular manner (around the boss) so that only each individual player will be damaged. After the beam has subsided, demonic adds will be summoned at the end of each beam and start moving towards where the beam was initially fired, damaging and debuffing any players caught in their path.
+
+Unholy Darkness places a stack-marker on a random participant. After a brief delay, the marked player will be blasted by high damage. Much like all stack-markers, the party must group to help soak the blast.
+
+As soon as Unholy Darkness has been cast, Voidwalker will select one of two attacks at random:
+Doomvoid Guillotine - a straight-line AoE that will shoot across the entire arena through the front and back of the boss. To avoid, players must move to one of the sides.
+Doomvoid Slicer - an arena-wide donut AoE from Voidwalker's location. To avoid, players must move within Voidwalker's hitbox.
+
+NOTE: Demonic adds will be spawned in a pattern relative to the used mechanic. For example, Guillotine (the straight line AoE) will spawn adds in a straight line, whereas Slicer will spawn adds in a circular pattern. In either case, players must be ready to move out of their way to avoid taking unnecessary damage and debuffs. Bear in mind that these adds will be spawned every time Voidwalker uses either ability.
+
+Dark Fire III will mark four random players with a large purple circle that you may be familiar with from normal mode. After a moderate delay, all marked players will be blasted with high AoE damage. Be sure to spread in a manner where other players won't be caught in the upcoming blast.
+
+Punishing Rays spawns pulsating pools around the arena which you may be familiar with from normal mode. Visually, you will also see objects floating from the sky towards each puddle, much like meteor mechanics. Once the objects touch the ground, any pool that isn't sealed (i.e. doesn't have a player standing within it) will emit unavoidable damage and inflict vicious debuffs upon the raid. Just like normal mode, standing within a pool will affect you with a vicious Bleed for as long you remain within it.
+
+Spell In Waiting will cause the next mechanic used by Voidwalker to be executed after a much longer delay, just like normal mode, so beware! Aside from the spell-cast itself, players can listen for the audio cue - the eerie sound of a rewinding clock, as well as special markers relative to the mechanic.
+
+With the above in mind, Voidwalker will immediately test players with a set of delayed and undelayed mechanics in a particular order.
+
+Unholy Darkness (In Waiting) - the stack marker from earlier. While In Waiting, the targeted player will notice a static stack-marker indicator within an additional circular icon.
+Dark Fire III (In Waiting) - targets four random players with the same purple circle from earlier, indicating an upcoming AoE blast. While In Waiting, the purple circle will persist on affected players.
+Shadow Eye (In Waiting) - places a 'look away' marker on a player, indicated by a purple icon in the shape of an open eye. Only those who are looking directly at the targeted player when the spell has been activated will be affected by its detrimental effects; thus players must ensure they have their back to the marked player when it goes off.
+Hell Wind - marks two random players and eventually reduces them to 1 HP.
+
+As a result of these overlaps, players must first prepare a position for everyone to stack for Unholy Darkness (typically near the boss). Players with the Dark Fire III marker must move away from the group and spread so that the upcoming blast won't clip other players (and once the explosion has dissipated, move back to the group to help soak the upcoming Unholy Darkness). The player marked with Shadow Eye should stand directly behind players who are stacking for Unholy Darkness (and everyone else must ensure they are not looking at the Shadow Eye mark). Lastly, the two players marked by Hell Wind must move away from the stacked group seeing as they will be on 1 HP and unable to help soak the upcoming blast.
+
+Shadowflame is a vicious tankbuster against the main and off-tank simultaneously that should be mitigated whenever possible.
+
+Entropy is an unavoidable raid-wide blast (as seen in normal mode).
+
+Hand of Erebos - the gigantic hand witnessed in normal mode - will appear at either the eastern or western side of the arena.
+Hand of Erebos (Empty Rage) - a massive AoE from the hand's location that covers a sizeable portion of the platform, indicated by a noticeable flame-like (orange) tether between the hand and Voidwalker. On seeing this tether, the group must move as far away from the hand as possible to avoid being caught in the blast.
+
+Doomvoid Guillotine - the straight-line AoE from the front and back of the boss - will be fired across the arena and spawn demonic adds after it has dissipated. Once again, players must move to one of the sides to avoid the guillotine blast and must also contend with the summoned adds.
+
+Doomvoid Slicer - the arena-wide donut AoE from the bosses location - will be executed very shortly after the guillotine. As a result, players must move within Voidwalker's hitbox as soon as possible, preferably without colliding with the demonic adds spawned by the guillotine attack. Just like before, adds will once again spawn in a circular pattern and begin moving towards Voidwalker's location at the time, except now, the Hand of Erebos will appear once more.
+
+Hand of Erebos (Empty Hate) - a massive knockback, indicated by a dark purple tether between the hand and Voidwalker. If you see this tether, you can either utilize a knockback immunity or move as close to the hand as possible, preferably without colliding with any of the adds spawned by the previous Doomvoid Slicer.
+
+Doomvoid Cleaver will once again target all participants and blast them with a cone-attack, just like earlier. Be sure to spread around the boss to avoid clipping other players. Don't forget that adds will be summoned at the end of each beam.
+
+Shadowflame will blast the main and off-tank simultaneously once more with a vicious tank buster.
+
+Entropy will blast all active players with unavoidable damage, just like earlier.
+
+At this point, you will have to contend with another set of Spell In Waiting overlaps, so watch out!
+
+Hell Wind (In Waiting) - marks two random players and eventually reduces them to 1 HP, except this time, the effect will be heavily delayed.
+Proximity Flare - marks three players with a proximity marker, forcing them to move as far away from the group (and each other) as possible, typically to three corners of the arena. This mechanic is NOT delayed.
+Shadow Eye (In Waiting) - places a 'look away' marker on a player with a sizeable delay.
+
+Punishing Ray will now spawn more pools around the arena just like earlier. At the same time, Hell Wind will take effect, reducing the marked players to 1 HP and rendering it impossible for them to soak a pool until they have been healed up. In addition, Shadow Eye will be executed, forcing all unmarked players to look away from the affected player while dealing with the overlapping mechanics. Once players affected by Hell Wind have been healed up and assuming nobody was paralyzed by the simultaneous Shadow Eye, all players should be free to soak all pools and prevent the raid from taking massive damage and debuffs.
+
+Shadowflame will blast the main and off-tank simultaneously once more with a vicious tank buster.
+
+Entropy will blast all active players with unavoidable damage, just like earlier.
+
+Equilibrium will mark all players with a black or white circle. Each individual player must quickly pair up with another player that has the opposite colour. Anyone who fails to pair up in time will be bombarded by a near-fatal explosion.
+
+Doomvoid Cleaver will be unleashed soon after Equilibrium, giving players a small window of time to spread around the boss in a circle and avoid clipping other players with the upcoming line-AoEs. Don't forget that cleaver will spawn adds at the end of each beam that will move towards where the beam was fired from.
+
+Unholy Darkness - the stack marker from earlier - except this time, everyone must group up to soak the damage whilst avoiding the adds spawned by the previous cleaver.
+
+At this point, Voidwalker will unleash either a Doomvoid Slicer or Doomvoid Guillotine. Be ready to move to the sides of the boss (guillotine) or into the boss (slicer) and avoid adds spawned by either mechanic.
+
+Shadowflame will blast the main and off-tank simultaneously once more with a vicious tank buster.
+
+Entropy will blast all active players with unavoidable damage, just like earlier.
+
+You will now have to contend with yet another set of Spell In Waiting overlaps, so be careful!
+
+Proximity Flare (In Waiting) - marks three players with a proximity marker, heavily delayed due to Spell In Waiting. Considering that marked players must move as far away from the group (and each other) as possible, it is wise to do so when the debuff timer reaches 8-10 seconds.
+
+Hand of Erebos will either cast Empty Hate (knockback) or Empty Rage (point-blank AoE), forcing the raid to adjust on the fly. Remember - if you see the dark purple tether, move close to the hand or utilize knockback immunity. If you see the flaming orange tether, move as far from the hand as possible.
+
+Unholy Darkness (In Waiting) - the stack marker from earlier. While In Waiting, the targeted player will notice a static stack-marker indicator within an additional circular icon.
+
+Proximity Flare (In Waiting) - marks another three players with (delayed) proximity markers shortly before the first set of proximity markers explode.
+
+As soon as the first set of Proximity Flare players explode, they should move towards the group as soon as possible to help soak the upcoming Unholy Darkness (In Waiting). The above combination of mechanics can be quite intensive, so healers beware!
+
+Shadowflame will blast the main and off-tank simultaneously once more with a vicious tank buster.
+
+Shadow Eye x2 (In Waiting) - places a 'look away' marker on two players with a sizeable delay.
+
+Dark Fire III (In Waiting) - targets three random players with the same purple circle from earlier, indicating an upcoming AoE blast. While In Waiting, the purple circle will persist on affected players.
+
+To deal with the above mechanics, the three players marked with Proximity Flare should move to three separate corners of the arena, whilst the two players affected by Shadow Eye should move to the one remaining corner. The raid must ensure they do not look at Shadow Eye as it is cast. This includes the two marked players making sure that they avoid looking directly at each other. Once the Proximity Flare and Shadow Eye markers have been executed, the formerly marked players should move back to the centre of the arena, giving players marked by Dark Fire III enough space to spread out and avoid clipping the group with their upcoming AoE blasts. This is an extremely healing-intensive chain of events, so make sure to utilize as much mitigation and healing as possible.
+
+Punishing Ray will now spawn more pools around the arena just like earlier, except this time, the raid will also have to contend with Equilibrium. As a result, the group must resolve their white and black markers before moving to a pool. Failure to do so may result in players dying prematurely, thus leaving multiple pools that cannot be closed, resulting in raid-wide damage and debuffs (or spicy death).
+
+Doomvoid Cleaver will be unleashed soon after Punishing Ray, giving players a small window of time to spread around the boss in a circle and avoid clipping other players with the upcoming line-AoEs. Don't forget the adds!
+
+Shadowflame will blast the main and off-tank simultaneously once more with a vicious tank buster.
+
+If you have gotten this far, Voidwalker will soft-enrage via Quietus.
+
+Quietus is a raid-wide AoE blast that provides Voidwalker with a stackable Damage Up buff. At this point, Voidwalker will now cycle between either Cycle of Chaos or Cycle of Retribution. Each one is essentially three previous mechanics executed in quick succession. One will be picked at random and will always be followed by the other in a loop.
+
+If Voidwalker casts Cycle of Chaos, players must be prepared for a Doomvoid Guillotine, Doomvoid Slicer and Doomvoid Cleaver in that order. In short, players must move to the sides of the boss (guillotine - front & back), quickly move into the boss (slicer - donut), then quickly move to their assigned positions to avoid clipping other players with their upcoming conal AoE blast. Simultaneously, players must also be mindful of the 2x waves of adds spawned by guillotine and slicer.
+
+If Voidwalker casts Cycle of Retribution, players must be prepared for a Doomvoid Slicer, Doomvoid Cleaver and Doomvoid Guillotine in that order. In short, players must move into Voidwalker (slicer - donut), then move quickly to their assigned positions to avoid clipping other players with the targeted conal attacks, then move to the Voidwalker's sides to avoid the front & back guillotine blast. Players will also have to contend with the 2x waves of adds spawned by the guillotine and slicer.
+
+After Voidwalker has cast both Cycle of Chaos and Cycle of Retribution (any order), it will utilize another Quietus to inflict unavoidable raid-wide damage and provide itself yet another Damage Up buff, before entering another cycle of Chaos and Retribution (any order). If the raid survives, Voidwalker will triple-cast Quietus for tremendous raid-damage and buffs before long-casting one final Quietus that will wipe the raid if the boss is not defeated in time.
+</cleaned_strategy_text>

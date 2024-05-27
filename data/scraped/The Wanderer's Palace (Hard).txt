@@ -1,0 +1,29 @@
+Here is the cleaned up text for the Wanderer's Palace (Hard) strategy guide:
+
+The Wanderer's Palace (Hard) is a level 50 dungeon introduced in patch 2.5. 
+
+Objectives:
+- Save the fleeing tonberries: 0/3
+- Defeat Frumious Koheel Ja: 0/1  
+- Breach the defensive line: 0/1
+- Defeat Slithy Zolool Ja: 0/1
+- Free the imprisoned tonberries: 0/2
+- Clear the Bellows: 0/1
+- Defeat Manxome Molaa Ja Ja: 0/1
+
+Bosses:
+
+Frumious Koheel Ja
+Burn boss and kill spears ASAP. Frumious Koheel Ja casts Fire Angon by throwing burning spears at the ground which cast a stacking debuff to the whole party if they are left alive.
+
+Slithy Zolool Ja  
+A shaman boss, who summons totems. If after a while no-one has claimed the totems, he will recall all of them and gain the buffs himself. Some of the totems grant buffs while some should be ignored. He will randomly hex a target and turns them into a toad for 12 seconds. He will also randomly cast Fire to the party members and while the damage is not too big, the totems can increase the damage.
+
+Standing in a totem gives you a buff or debuff. Clean as many of the flags as possible and don't stack fire resist down. There will be Purple, Red, Blue and Green Totems. The effects are random - one will give attack up, another toad debuff/cleanse, another fire resist down, and the last heavy debuff. Figure out effects and manage totems/debuffs.
+
+Manxome Molaa Ja Ja
+Stay very close to him to avoid a huge cone AoE. Move away for rotting gas. Person with rotting lung has to stay away from the party when Rotting Gas pops. The person with the lungs will also AoE around them. 
+
+The boss drops banners that buff his damage and armor, so pull him away. Tank needs to keep moving the boss so the party doesn't have to fight in the banner AoE. Do not let him stand in purple circle of Sacred Standard.
+
+He casts debuffs that make healing worse and Soul Douse, applying Doom on random targets looking at him. Healers can remove doom by healing the target to full. When Sacred Idol spawns (tethered to boss), kill it ASAP!

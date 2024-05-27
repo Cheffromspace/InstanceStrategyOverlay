@@ -96,7 +96,7 @@
       // Sanitize user input
       function sanitizeInput(input) {
         return DOMPurify.sanitize(input, {
-          ALLOWED_TAGS: ["br", "span", "em", "strong", "p"]
+          ALLOWED_TAGS: ["br", "span", "em", "strong", "p"],
           ALLOWED_ATTR: ["class"],
         });
       }

@@ -1,0 +1,102 @@
+<strategy_text>
+Guide
+Video guide by MTQcapture
+
+Mark V Anti-Eikon Warmachina: The Emerald Weapon
+Phase 1
+Just like normal mode, your showdown with the iconic Emerald Weapon takes place within a circular arena surrounded by a fatal drop. Any player who walks (or is pushed over) the edge will suffer an immediate KO but can be revived after a moderate delay.
+
+Emerald Shot - causes Emerald Weapon to blast its primary target with a high damaging tank-buster.
+Optimized Ultima - unleashes unavoidable raid-wide damage, similar to the Ruby Weapon encounter in Cinder Drift.
+Aetheroplasm Production - creates a collection of blue and yellow orbs around the outer edge of the arena, all of which tether to the Emerald Weapon and will slowly move towards the arena centre. If any orbs are left for too long, they will automatically detonate for lethal damage, forcing the raid to pop orbs manually.
+--Blue Orb - applies Magic Vulnerability to everyone caught in their blast radius.
+--Yellow Orb - applies Physical Vulnerability to everyone caught in their blast radius.
+Keep in mind that colliding with an orb will cause it to detonate via a broad AoE explosion and that the damage from manually popped orbs will need to be shared by two players simultaneously. Furthermore, players will be unable to pop two orbs of the same colour due to the stacking vulnerabilities that are applied with each explosion.
+
+Emerald Beam #1 - the Emerald weapon projects two cone-shaped AoE's from its front and rear that will eventually begin to rotate in the direction shown via a marker around its hitbox. Additionally, a point-blank AoE will also be dropped by the Emerald weapon just before the beams begin to rotate. Said point-blank AoE will shortly be followed by outward-traveling rings of AoE's, forcing the raid to not only move in a circle to avoid the rotating beams but also step between the outward traveling set of AoE's as well.
+Once Emerald Beam has concluded, the outer edge of the arena will collapse, shrinking the playing field.
+
+Magitek Magnetism #1 - creates three explosive mines within the arena that are telegraphed with large circular AoE's, indicating the radius that will be affected by their upcoming explosions. Before exploding, however, two of the mines will be tethered together with the magnet-mechanic (i.e, plus symbols), indicating that the tethered mines will eventually be pushed apart before exploding. The untethered mine will remain stationary until it has exploded.
+Unlike normal mode, both tanks will also acquire proximity flare markers at the same time, forcing them to position themselves away from the rest of the raid. As a rule of thumb, each tank should stand on opposite sides of the stationary mine, giving themselves ample space away from each other (and the raid) so that the flare explosions inflict minimal raid-wide damage. Meanwhile, all other players should identify where safe-spots will be formed by the soon-to-be pushed mines, away from the flare-marked tanks.
+
+Magitek Magnetism #2 - similar to above, except this time, four mines will be spawned instead of three. This time, the mines will be magnet-tethered into two pairs - one pair to be pushed apart (identical plus or minus symbols), and one pair to be pulled together (opposite symbols). A single safe-spot will be formed near the pair of mines with identical symbols.
+
+Emerald Beam #2 - a new set of rotating cone AoE's and outward traveling ring AoE's, leading to another portion of the outer-arena being demolished. From here, the raid will have considerably less space to maneuver.
+
+Emerald Hands #1 - summons flying mechanical hands that will float within the arena. Players will need to react depending on what the emerald hands do next. As a rule of thumb:
+-- If the emerald hands remain outside, all players should move into Emerald Weapon's hitbox to avoid an upcoming donut Aoe.
+-- If the emerald hands are sucked into the Emerald Weapon, all players should run away to avoid an upcoming point-blank AoE.
+-- Typically, the emerald hands will remain outside when first witnessed, and will be sucked in later during the encounter.
+
+Divide Et Impera - a shareable tank-buster against Emerald Weapon's primary target, indicated by a glowing red marker. Both tanks will need to stand together to mitigate the attack. Meanwhile, the rest of the raid will need to spread out to avoid an upcoming barrage of AoE's from the emerald hands, preferably by having individual players position themselves at cardinal and inter-cardinal positions.
+
+Split - the Emerald Weapon will split in half, leaving behind its upper body, whilst the lower half disappears from the arena.
+
+Expire - projects a point-blank AoE from the centre of the arena. To avoid this, the raid should move as close to the outer edge as possible.
+
+Red Smash - creates a red pool near an outer edge of the arena that will eventually grow in size before detonating. All players should give the red pool a wide berth, as its true size will not be indicated until shortly before the explosion itself.
+
+Emerald Hands #2 - players will need to react depending on what the emerald hands do next. As mentioned before:
+-- If the emerald hands remain outside, all players should move into Emerald Weapon's hitbox to avoid an upcoming donut Aoe.
+-- If the emerald hands are sucked into the Emerald Weapon, all players should run away to avoid an upcoming point-blank AoE.
+-- Typically, the emerald hands will be sucked in, so be prepared for a point-blank AoE from the Emerald Weapon.
+
+Magitek Magnetism #3 + Pulse Laser - creates four mines that will once again be magnet-tethered into two pairs - one pair to be pushed apart (identical plus or minus symbols), and one pair to be pulled together (opposite symbols). Just like earlier, a single safe-spot will be formed near the pair of mines with identical symbols.
+However, two players will also be marked for Pulse Laser - causing column AoE's to be aimed in their direction before the mines explode. As a result, marked players should bait the column AoE's so that they do not cover the upcoming safe-spot generated by the soon-to-be-pushed mines, as doing so will endanger the entire raid. Bear in mind that the size of the safe-spot will also be much smaller due to the arena being smaller in size.
+
+At this point in the battle, the Emerald Weapon will cycle through various mechanics - such as Optimized Ultima (raid-wide damage) and Divide Et Impera (shared tank-buster) - before executing a hard-enrage: Full-Power Optimized Ultima. If the Emerald Weapon has not been reduced to 0% before the cast has been completed, the raid will suffer an unavoidable wipe. However, if the Emerald Weapon has been sufficiently damaged, the battle transitions to the next phase, providing a Checkpoint. As such, any future failures will cause the fight to resume from the checkpoint (rather than from the very beginning of the encounter).
+
+Phase 2
+The battle resumes within a square-shaped arena, surrounded by a bright blue-glowing wall of energy that players should avoid touching at all costs.
+
+Divide Et Impera #2 - the vicious (red-marked) tank-buster from earlier, except this time, it will also emit cone AoE's in the direction of all other players whenever it is cast. As such, all players (except the main and off-tank) should continue to position themselves at cardinal and inter-cardinal points of the arena to avoid overlap, whilst the two tanks stand together and absorb the shareable tank-buster.
+
+Primus Terminus Est - marks six players with a bright blue directional arrow, indicating the direction that each marked player will eventually be pushed. After a delay, all marked players will be forcibly shoved in the marked direction and also drop a column AoE in the marked direction. Any player caught in the wake of a dropped column AoE will also suffer a knockback in the same direction, marked or not.
+To avoid, all marked players should position themselves at opposites sides of the arena (preferably near corners of the arena without pointing arrows at each other), leaving enough space so that marked players on opposite sides are not clipped. By doing so, unmarked players should be safe and sound near the arena centre, and marked players will be harmlessly shoved from one side to another without colliding with the death-wall.
+
+Tertius Terminus Est - causes three pairs of swords to drop into the arena, one after the other. Each pair of swords (in the order they were dropped) will eventually fire straight-line AoE's across the arena in either an "x" shaped pattern or a "+" pattern, indicated by straight blue lines on the arena floor. However, they will not detonate until all three pairs of swords have dropped.
+To avoid being hit, players should memorize which pair of swords dropped first and stand within the line of fire of the swords that dropped last, giving them time to allow earlier swords to fire and provide safe-spots that can be used to avoid follow-up blasts. Bear in mind that the lines on the floor are drastically thinner than the upcoming straight-line AoE's themselves, so be wary!
+
+Legio Phantasmatis #1 - causes the Emerald Weapon to disappear from the arena, leaving behind an image of "Black Wolf" (Gaius van Baelsar), an add that should be picked up by a tank as soon as possible.
+
+Mechanized Maneuver - summons a line of mechanical airships at the western edge of the arena, as well as a single magitek mount on the southern side. After a brief delay, each airship will begin acquiring numbered markers from 1-5, indicating the order in which they will swoop across the arena and bombard their lane with a barrage of slowly traveling AoE explosions. To avoid, players should quickly identify which airship (lane) will swoop first, wait for the first AoE explosion, then move into the lane (behind the explosion) to avoid the remaining airship bombardments.
+Once the airships have all swooped, the magitek mount will prepare to blast the entire arena with a knockback-inducing blast, indicated by a large orange circle in the centre of the arena. All participants will need to position themselves near the centre to avoid being blasted into the outer death-wall.
+
+Having survived your encounter with the image of Gaius van Baelsar, the Emerald Weapon returns to the arena, sporting a shiny golden glow. Various mechanics may repeat here until the Emerald Weapon splits in half. After doing so, one of two things can happen.
+
+Split: Bottom Half - if the top half disappears, the Emerald Weapon will cast Expire - a point-blank AoE - followed by Tertius Terminus Est (triple set of swords from earlier), and also drop a Red Smash (red circle that will quickly grow larger before exploding). All participants will need to first avoid the point-blank AoE, avoid the upcoming red-circle explosion, then duck and weave between the "+" and "x" shaped sword explosions much like how you did earlier.
+
+Split: Top Half - if the bottom half disappears, the Emerald Weapon will cast Sidescathe - an attack which will blast one half of the arena, indicated by either the left or right wing beginning to glow. Unlike normal mode, Sidescathe will not provide a telegraph, so keep an eye on the wings! Soon after, Tertius Terminus Est will drop a triple set of swords as well as a unique Red Smash (red circle), except this time, the red circle will inflict a radial knockback instead of simply exploding. Players should be prepared to use a Knockback Immunity cooldown whilst ducking and weaving between the "+" and "x" shaped column Aoe's from the three sets of swords.
+Regardless of which attack is executed, the Emerald Weapon will reform back into its normal shape before the battle resumes.
+
+Legio Phantasmatis #2 - causes the Emerald Weapon to disappear from the arena, leaving behind an image of "Black Wolf" once again. just like earlier, a tank should grab enmity as soon as possible.
+
+Mechanized Maneuver - summons another line of mechanical airships (west) and a magitek mount (south) just like earlier, except this time, three lines of soldiers will also be added to the mix, eventually forming a firing squad at the northern edge of the arena.
+Just like normal mode, one solider will be missing from each of the three firing lines - one missing at the front, one missing in the middle, and one missing in the back - forming a "/" or "\" shape. As such, players should first identify the missing soldier near the front and stand in that lane, whilst also identifying which mechanical airship lane will swoop last. Once the soldiers begin to fire, all players can side-step to where the next soldier is missing (until all three lines have fired), then exit the airship lane to avoid the upcoming set of traveling explosions.
+Just like before, players will still need to prepare for the upcoming knockback-inducing blast from the magitek mount once the airships have swooped, ensuring they are not punted into the death-wall once the blast has been fired.
+
+Having survived the onslaught, the Emerald Weapon will return to the arena once again.
+
+Secundus Terminus Est - causes all participants to be marked with a variation of white "+" or "x" shaped markers. After a delay, each marked player will unleash a moderate AoE explosion at their location, overlapping damage upon anyone nearby. After a marked player has detonated, thin blue-line telegraphs (in the shape of that player's marker) will be dropped on the floor that will eventually explode via large column AoE's. For example, dropping a "+" shape on the floor will result in a large + shaped detonation from that location.
+Thanks to the AoE component, stacking with markers is out of the question. A good rule of thumb is to have players with "+" shaped markers move to an assigned corner of the arena, whilst players with "x" shaped markers move towards an assigned cardinal position. By doing so, all players can avoid overlapping the AoE detonations and ensure that the upcoming + or x shaped AoE's leave a safe spot in the arena centre for everyone to run to once the telegraphs have been dropped on the ground.
+
+Having survived the ordeal, the Emerald Weapon will eventually unleash another Split mini-phase, leaving behind either the top or bottom half. See above for a list of mechanics that follow each type of split.
+
+Once you have bypassed the resulting Split mechanics, the Emerald Weapon will begin to cast its hard-enrage: Full-Power Optimized Ultima - an unavoidable raid-wide blast that will wipe the raid if the weapon has not been reduced to 0%.
+
+Unrestricted party guide
+Video guide by Moonshadow Fantasy
+
+With a level 90 unsynchronized party, the following mechanics are of concern:
+
+Phase 1
+Aetheroplasm Production: Split into four teams of two, each assigned to a cardinal direction; once colored orbs appear, each team absorbs one of each color.
+Magitek Magnetism (twice): Stack at the edge behind the pair of mines that are closest together; the tanks with the flare markers run away and absorb any damage inflicted by the mines.
+
+Phase 2
+Primus Terminus Est: Arrow-marked players position themselves in pairs at the corners of the area, with arrows pointing inward, attempting not to overlap the resulting column AoEs. All others stack in the center.
+Tertius Terminus Est: Three pairs of swords drop into the arena.
+If the pattern in the center is a cross: Stack on the corner swords that drop last, then move into the center once the first pairs have gone off.
+If the pattern in the center is not a cross, but three parallel lines: Move to the edge of the arena inside one of the largest triangles, then move into the center once the first pairs have gone off.
+Mechanized Maneuver: Look out for the airships at the edge and evade them, they cast column AoEs in the order of the number of the dots above them. Then stack in the centre for the knockback.
+</strategy_text>

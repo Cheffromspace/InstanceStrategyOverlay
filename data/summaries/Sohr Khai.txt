@@ -1,0 +1,19 @@
+<span class="boss">Chieftain Moglin</span>:
+- Kill 👾 adds, 🏃 knock corpses out of 🔴 revive circles
+- 💥 <span class="ability">Holy</span>: Unavoidable party damage, 🩹 heal through
+- <span class="mechanic">Kill <span class="ability">Captain Mogsun</span> ASAP to remove 🔗 tether</span>
+
+<span class="boss">Poqhiraj</span>:
+- <span class="ability">Jump</span> + <span class="ability">Charge</span>: 🏃 Away from landing indicator, then 🤝 center or 🏃 near wall
+- <span class="ability">Quasar</span>: Stack behind boss to avoid hitting walls
+- <span class="ability">Cloud Call</span>: 🎯 Targeted player places ⚡ cloud near destroyed wall, away from party
+- <span class="mechanic">Avoid electrified pools from destroyed walls</span>
+
+<span class="boss">Hraesvelgr</span>:
+- <span class="ability">Wyrmclaw</span>: 🛡️ Tankbuster
+- <span class="ability">Hallowed Wings</span>: 🏃 Avoid glowing wing cleave
+- <span class="ability">Holy Storm</span>: 💥 Unavoidable party damage
+- <span class="ability">Hallowed Dive</span>: 🏃 Avoid line AoE, then 🔴 circles on edges
+- <span class="ability">Akh Morn</span>: 🤝 Stack marker
+- <span class="ability">Diamond Storm</span>: ❄️ Sliding mechanic, 🏃 only to avoid 🔴 AoEs
+- <span class="ability">Holy Breath</span>: 🏃<>🏃 Spread 🎯 player markers

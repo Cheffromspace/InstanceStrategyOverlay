@@ -1,0 +1,36 @@
+Here is the cleaned up text for the Brayflox's Longstop (Hard) strategy guide:
+
+Brayflox's Longstop (Hard) is a level 50 dungeon introduced in patch 2.2. 
+
+Objectives:
+- Clear Runstop Frontblock
+- Liberate captured goblins
+- Clear Brayflox's Drossdump  
+- Open Swiftmake Checkgates
+- Defeat the gobmachine G-VI
+
+Bosses:
+
+Illuminati Commander
+- Spawns sniper adds that fixate on players
+- Uses vertical and horizontal AoE attacks covering the arena
+- Circular AoEs are Bomb Toss
+
+Magitek Vangob G-III  
+- Boss spills ceruleum liquid creating blue zones that expand
+- After several pools, it causes them to ignite dealing damage
+- Calls two Illuminati adds that must be killed quickly  
+- Uses Drill Cannons attack
+
+Gobmachine G-VI
+- Uses Flame Thrower attack and Bombardment Circle-AoE
+- At 75/50/25% it becomes untargetable and circles the room
+- Party must gather in the center to avoid the tank
+- Illuminati adds spawn, one tethered to a player
+- Bombs cover the area and must be knocked away from the center
+- At 25% a Big Bomb spawns that must be killed quickly
+
+Notes:
+- Players can use Comfort emote to dispel the Misery debuff
+
+The guide covers loot tables for each boss and treasure coffers. It also lists associated achievements for the duty.

@@ -1,0 +1,49 @@
+<strategy_text>
+Note that failing any mechanics in these fights will result in the player who failed them receiving a two minute stacking Vulnerability Up debuff.
+
+Proto-Omega
+After the bosses first attack, the edge of the arena will be covered in an AoE that inflicts a Bleeding debuff, dealing Damage over Time until the player steps off it.
+
+Side Cannons: The boss will cleave the entire arena from the left or right side of its hitbox, indicated by the arrows pointing outwards. Move to the opposite side to avoid.
+
+Rear Interceptors and Forward Interceptors: Proto-Omega bombards the entire arena in the indicated direction in a manner similar to Side Cannons.
+
+Chemical Missile: All players but the tank are marked with point-blank AoEs, requiring them to spread out to avoid overlapping damage. Once they resolve, they will drop lava puddles that will debuff a player with Burning until they step out of them.
+
+Electric Slide: A random player will be marked for a stacking radial knockback from their hitbox, then the boss will leap on that player, knocking everyone back. Players should move in to avoid being knocked into the walls of the arena, or use a knockback resistance skill.
+
+Guided Missile: Players will be tethered to missiles that will slowly move towards them until impact, dealing minor damage and dropping more lava puddles.
+
+Mustard Bomb: Heavy-hitting tankbuster. Mitigate to minimize damage.
+
+Arch-Lambda
+Wheel: Tankbuster.
+
+Atomic Flame: Roomwide AoE.
+
+Auto-mobile Assault Cannon: The boss will return to the center of the arena and indicate where it will dash to. The boss will dash four times, hitting a wall and turning. Players should move to a space where the boss won't be charging through.
+
+Wave Cannon: On the wall where the boss stops Auto-mobile Assault Cannon, it will turn and cleave the entire room from the front half of its hitbox. Players must move to the safe zone behind the boss to avoid.
+
+Auto-mobile Sniper Cannon: The boss will dash to the north wall and drop a line AoE across the center of the arena. Orbs will appear in the AoE and over the players head, indicating that when the boss reaches that spot, the player will be hit by a laser attack. Players should stand next to the corresponding number of orbs to avoid hitting other players with their beam.
+
+Siege Matrix: Stigma-4
+After roughly five seconds, the edge of the arena will be covered in an AoE that inflicts a Bleeding debuff, dealing Damage over Time until the player steps off it.
+
+AI Takeover: Spawns one of three adds:
+Omega Frame: The add will use Proto-wave Cannon, a cleave from one half of its hitbox, and Self-Destruct, dealing moderate partywide damage if it isn't defeated before the cast finishes.
+Hybrid Dragon: Uses Firebreath, a wide conal AoE with a very short telegraph. Players need to be next to the dragon to avoid, and Self-Destruct, handled the same way as the Omega Frame.
+Because Self-Destruct does not do much damage, it may be worthwhile to ignore the adds, focus only on the boss, and heal through the damage, although this should be communicated to the party beforehand.
+
+Proto-Rocket Punch: Six adds will spawn on the edge of the arena and cast Rush. Once the cast finishes, the ads fly across the arena. Players need to find the gap between the ads for the safe spot.
+
+The boss will also transform periodically into one of two shapes:
+If the boss turns into a double helix spiral, it will use a point-blank AoE. Move away to avoid.
+If the boss turns into a donut, it will fire a Donut AoE, so players should move into the bosses hitbox to avoid.
+
+Mindhack: After the cast finishes, all players receive a Faced direction debuff, that will cause them to run in the direction listed in relation to where they are facing once the debuff runs out. Players will run for the duration of the Forced March debuff. Players need to watch to see what shape the boss takes, then prepare to face accordingly.
+
+Atomic Ray: Roomwide AoE that deals moderate damage and inflicts Bleeding.
+
+Multi-AI Takeover: Spawns two of the three different ads from AI Takeover.
+</strategy_text>

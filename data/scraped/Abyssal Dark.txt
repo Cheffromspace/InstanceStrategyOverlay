@@ -1,0 +1,47 @@
+Here is the cleaned up text for the strategy guide:
+
+Abyssal Dark
+
+Quest giver: Zero
+Location: The Red Moon (X:5.8, Y:2.7)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90
+Gil: 4,063
+Previous quest: The Red Side of the Moon
+Next quest: The Dark Throne
+Patch: 6.4
+
+Main Scenario Progress: 842 / 853 (98.7%)
+Endwalker Progress: 144 / 155 (92.9%)
+
+Rewards:
+Choose one of the following options:
+1 Heavens' Eye Materia IX
+1 Savage Aim Materia IX 
+1 Savage Might Materia IX
+Unlocks: The Voidcast Dais
+
+Walkthrough:
+The point of interest is at X:7.4, Y:6.2
+
+Steps:
+1. Search for anything of interest.
+2. Confront Golbez on the Voidcast Dais.
+3. Speak with Zero.
+
+Journal:
+Zero would begin the hunt for Golbez.
+
+To free Azdaja from her prison, you must hunt down and defeat her captor, Golbez. To that end, your comrades have already begun surveying the surrounding area for clues as to his whereabouts. Having chosen her section, Zero bids you assist by concentrating on a portion of the lunar surface to the south.
+
+After stumbling upon a memoria during your search, you find yourself immersed in strangely familiar memories through the power of the Echo. The memories involve a mysterious mage and his comrade, Durante─the selfsame pair, you come to realize, who once attempted to befriend Zero in the distant past of the Thirteenth. Unfortunately, before Zero can draw any conclusions from this discovery, Golbez makes a dramatic appearance. Holding Azdaja aloft, he proceeds to release her from his spell, leaving her at the mercy of the ambient Darkness, which flows into her very being. You can but watch in horror as the great wyrm is transformed into a stygian voidsent Golbez declares the "Shadow Dragon." With Vrtra's desperate pleas still ringing in your ears, it falls to you to put an end to Golbez's plot, and save Azdaja.
+
+The Voidcast Dais can be accessed via the Duty Finder.
+
+You have faced many formidable opponents, and Golbez is no exception. Nevertheless, you emerge victorious in the duel to decide Azdaja's fate. Darkness recedes from Golbez as he kneels in defeat, and you can only hope that you have finally put his mad ambitions to rest.
+
+In the event that you leave the area, you may return from the Drowning Brand in Mare Lamentorum.
+
+Victory is short-lived, as Golbez reveals that his plan from the very start was to infuse Azdaja with Zodiark's residual aether, and birth a voidsent wholly consumed with the desire to breach the barrier between worlds─an entity he has named after an ancient hero of the Thirteenth: Zeromus. The oppressive shroud of Darkness emanating from the entity prompts Vrtra to call for a swift withdrawal, and so you make good your escape to the Source.
+
+Alas, while your intention was to return in triumph, you have instead been forced to retreat in failure. Silence hangs heavy as your allies reflect upon recent events and weigh their options. Now that Azdaja is become the vessel for the voidsent Zeromus, is there no saving her?

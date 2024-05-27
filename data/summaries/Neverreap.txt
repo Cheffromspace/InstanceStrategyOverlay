@@ -1,0 +1,17 @@
+<span class="boss">Nunyenunc</span>:<br>
+- 🔴 <span class="ability">Feather Squall</span>: Avoid AoE<br>
+- <span class="mechanic">Boss disappears in mist</span>, 🏃 run around edge to find and kill <span class="ability">Nunyenunc's Shadow</span><br>
+- 👾 <span class="ability">Nunyeninc's Feathers</span>: Kill ASAP, explode for damage + 🤢 Vuln Up<br>
+
+<span class="boss">Canu Vanu</span>:<br>
+- <span class="ability">Morrowcloud</span>: 🎯 Targets random player, inflicts 🤢 Bleed, 🩹 cleanse<br>
+- <span class="ability">Sacred Totem</span>: Marks players, drop totem at location<br>
+- <span class="ability">Totem Chant</span>: 🔴 Purple circle spawns, 🏃 carry totems out before cast ends<br>
+- <span class="mechanic">Totem inside 🔴 circle turns into 👾 Canu Vanu's Totem</span>, makes boss immune, kill it<br>
+
+<span class="boss">Waukkeon</span>:<br>
+- 🎯 Marks random player, spawns 👾 <span class="ability">Divine Mist</span>, ignore initially<br>
+- 👾 <span class="ability">Divine Gale</span> spawns, boss rushes around dealing damage, kill 👾 Mists then Gales<br>
+- <span class="ability">Turbine</span>: 💥 Party-wide AoE + 💨 knockback, 🤝 stack near boss with space behind to avoid knockoff<br>
+- <span class="mechanic">Tornadoes spawn</span>, damage + launch players in air on contact<br>
+- <span class="note">Use 🌟 Limit Break 2 ASAP due to tornadoes</span>

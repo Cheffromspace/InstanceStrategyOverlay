@@ -1,0 +1,37 @@
+Here is the cleaned up text for the Sohr Khai dungeon guide:
+
+Sohr Khai is a level 60 dungeon introduced in patch 3.3 with Heavensward. With the addition of Duty Support in patch 6.3, changes to progression and bosses were implemented.
+
+Duty Support:
+- Aymeric (Lord Commander) - Tank or DPS 
+- Alphinaud (Academician) - Healer or DPS
+- Temple Banneret - DPS
+
+Objectives:
+1. Overcome Unsevered Despair
+2. Overcome Unstifled Prayer 
+3. Defeat Hraesvelgr
+
+Bosses:
+
+Chieftain Moglin
+- Kill the adds that spawn. Knock them out of the circles to prevent them from resurrecting.
+- AoE heal through Moglin's casts of Holy. 
+- Otherwise, tank-and-spank.
+
+Poqhiraj
+- Stand in the center of the platform unless targeted, to prevent Quasar from hitting any walls.
+- Place any Cloud Calls away from the party, near a wall that will or has been destroyed.
+- Prefer standing by a wall during Charge. Prefer standing in the center of the corridor if no walls are left or you can't get to one in time.
+
+Hraesvelgr
+- Wyrmclaw: Tankbuster
+- Hallowed Wings: Move to the opposite side of the glowing wing before the cast goes off.
+- Holy Storm: Unavoidable party damage
+- Hallowed Dive: Move to the middle after Hraesvelgr dives across to avoid the moving circle AoEs on the edges.
+- Akh Morn: Multi-hit stack marker.
+- Diamond Storm: Freezes the floor, causing players to slide in the direction they move. 
+- Frigid Dive: Line AoE across middle while arena is frozen. Only slide if on top of a red AoE circle.
+- Holy Breath: Spread out purple AoE circles.
+
+Mechanics repeat until Hraesvelgr is defeated. Loot details are provided for each boss and additional treasure coffers.

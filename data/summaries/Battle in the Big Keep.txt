@@ -1,0 +1,23 @@
+<span class="boss">Gilgamesh & Enkidu</span>:<br>
+- Tanks: <span class="mechanic">⚔️ Separate bosses</span>, group focuses Enkidu first<br>
+- <span class="ability">Aero II</span>: 💥 AoE around random players<br>
+- <span class="ability">Web</span>: 🎯 Random player, 🤢 Heavy + Slow debuff<br>
+- <span class="ability">Eerie Soundwave</span>: 📐 Conal AoE on random player<br>
+- <span class="ability">White Wind</span>: 🩹 Heals Gilgamesh<br>
+- <span class="ability">Bitter End</span>: <span class="mechanic">🏃 Avoid frontal cleave</span><br>
+- <span class="ability">Missile</span>: 🎯 Marks random player, 💥 AoE damage<br>
+- <span class="ability">Minimum</span>: <span class="mechanic">🔗 Tethered players must stack to remove debuff</span><br>
+- <span class="ability">Chicken</span>: 🎯 Random players transformed, <span class="mechanic">can run through 🌪️ tornadoes safely</span><br>
+- <span class="ability">Mini Tornado</span>: 🔴 Wind AoEs, 💨 knockback<br>
+- <span class="ability">Whirlwind Slash</span>: 💥 Large AoE centered on Gilgamesh<br>
+- <span class="ability">Pradamante</span>: 🎯 AoE on random player<br>
+
+<span class="boss">Gilgamesh Phase 2</span>:<br>
+- <span class="ability">Moonlight</span>: 💥 Roomwide AoE, <span class="mechanic">avoid by standing on raised areas</span><br>
+- <span class="ability">Icewind</span>: ➡️⬅️ Crisscrossing AoEs, <span class="mechanic">move to safe spots</span><br>
+- <span class="ability">Bloomshower</span>: 🔴 Multiple curved AoEs<br>
+- <span class="ability">Iron Chain</span>: 🎯 Chains random player, <span class="mechanic">kill chain to free them</span><br>
+- <span class="ability">Sword Dance</span>: 🛡️ Frontal tankbuster cleave<br>
+- <span class="ability">Giga Jump</span> + <span class="ability">Masamune</span>: <span class="mechanic">🏃 Avoid Gilgamesh's path between jump and MT</span><br>
+- <span class="mechanic">👾 Dragon's Head adds</span>: Kill at least 3 before 50s or 💥 Dragonstrike raidwide<br>
+- <span class="ability">Lightning Orbs</span>: <span class="mechanic">🏃 Dodge purple orbs, then move to previous orb locations</span>

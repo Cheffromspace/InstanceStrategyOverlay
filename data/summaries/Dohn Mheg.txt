@@ -1,0 +1,22 @@
+<span class="boss">Aenc Thon, Lord of the Lingering Gaze</span>:
+- <span class="ability">Candy Cane</span>: 🛡️ Tankbuster
+- <span class="ability">Hydrofall</span>: 🔴 Avoid two circle AoEs under random players
+- <span class="ability">Laughing Leap</span>: <span class="mechanic">Boss leaps to 🔴 center AoE or 🤝 stack marker</span>, followed by <span class="ability">Landsblood</span>
+- <span class="ability">Landsblood</span>: 💥 Party-wide damage + 🔴 Avoid blue water AoEs (more opaque = exploding soon, 🤢 Stun)
+
+<span class="boss">Griaule</span>:
+- <span class="ability">Swinge</span>: 📐 Avoid 60° frontal cone AoE
+- <span class="ability">Fodder</span>: <span class="mechanic">Boss summons 5 Painted Saplings, intercept tethers for 🌟 Growing buff</span> (increased damage dealt, reduced damage taken, size increase)
+- <span class="ability">Tiiimbeeer</span>: 💥 Moderate party-wide damage
+- <span class="ability">Coiling Ivy</span>: 👾 Destroy 4 Painted Ivy adds to remove 🤢 Fetter debuff
+
+<span class="boss">Lakelord: Aenc Thon, Lord of the Lengthsome Gait</span>:
+- <span class="ability">Crippling Blow</span>: 🛡️ Tankbuster
+- <span class="ability">Virtuisic Capriccio</span>: 💥 Party-wide damage + 🤢 Bleed (cast 3 times late in fight, no stack)
+- <span class="ability">Imp Choir</span>: 👀 Gaze attack, transforms players into 🤢 Imp for 6s
+- <span class="ability">Toad Choir</span>: <span class="mechanic">Boss faces random player, 📐 avoid wide frontal cone</span> (transforms into 🤢 Toad for 6s)
+- <span class="ability">Funambulist's Fantasia</span>: <span class="mechanic">Boss moves to back, knocks players to entrance, creates winding path over pit</span>
+  - Destroy <span class="ability">Liar's Lyre</span> inside boss barrier to interrupt <span class="ability">Finale</span> cast
+- <span class="ability">Changeling's Fantasia</span>: Boss transforms into Shade of Fear, then back to normal (2nd cast = helpless frog)
+  - <span class="ability">Corrosive Bile</span>: 📐 Avoid wide lingering frontal cone
+  - <span class="ability">Flailing Tentacles</span>: ➡️⬅️ Avoid line attacks from tentacles (🤢 Concussion DoT)

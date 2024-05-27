@@ -1,0 +1,34 @@
+<strategy_text>
+Objectives
+Arrive at the Reality Augmentation Bay: 0/1
+Defeat Motherbit: 0/1
+Arrive at Exhibit Level VIII: 0/1
+Defeat the Ultima Warrior: 0/1
+Arrive at the Genesis Engine: 0/1
+Defeat the Ultima Beast: 0/1
+
+Bosses
+Motherbit
+Electrochemical Transfer: Bits reactivate and form a pattern - Attacks tank and throws out linear AoEs. Move out of the damage zones when they appear.
+Allagan Gravity: Circle AoE - Leaves behind a puddle that will pull you in if too close.
+Citadel Buster: The bits form a line in the center of the arena, facing one direction. Quickly get behind them to avoid massive damage and knockback.
+
+The Ultima Warrior
+Atheroplasm: Tankbuster + Damage around Tank.
+Citadel Buster: Targets random player.
+Ceruleum Vent: Group-wide damage & knockback.
+Primordial Aether: Channels power from a Primal Statue and gains special abilities.
+If Zurvan: Players affected by fire or ice must stand in appropriate marker. ex Fire > Fire    Ice > Ice
+Mass Aetheroplasm: Stack Damage on Group.
+If Sophia: Stack Black & White markers together.
+
+The Ultima Beast
+Death Spin: Hits anyone in Melee Range - Keep Clear.
+Aether Bend: Hits anyone not inside his Hitbox - Stand on Boss.
+Flare Star: Drops Fire Puddles - Proximity Based Damage.
+Allagan Gravity: Spread out from others and move away from gravity puddles after.
+Light Pillar: Expanding AoE from center - Dodge as it moves across platform.
+Forborn Beast: Adds Damage Up buffs on Boss.
+Allagen Flare: Targets Tank - Move away to reduce damage.
+Enrage: Slow Demi Ulta - Boss must be killed before cast goes off
+</strategy_text>

@@ -1,0 +1,30 @@
+Here is a concise summary of the key mechanics and abilities for the Vanaspati dungeon in Final Fantasy 14:
+
+<h2>Terminus Snatcher</h2>
+
+- <span class="ability">Last Gasp</span>: Tank buster 🛡️
+- <span class="ability">Note of Despair</span>: Room-wide AoE 💥
+- <span class="mechanic">Mouth Off</span>: Stand on/behind closed mouths to avoid AoE
+- <span class="ability">What Is Left/Right</span>: Dodge left/right based on boss's raised arm ⬅️➡️
+- <span class="mechanic">Lost Hope</span>: Debuff restricts movement direction 🏃
+
+<h2>Terminus Wrecker</h2>
+
+- Arena edge on fire 🔥, inflicts  Burns DoT
+- <span class="ability">Total Wreck</span>: Tank buster 🛡️
+- <span class="ability">Meaningless Destruction</span>: Room-wide AoE 💥
+- <span class="ability">Poison Heart</span>: Stack marker on random player 🤝
+- <span class="mechanic">Unholy Water</span>: Absorb water orb for fire resistance 💧
+- <span class="ability">Aether Spray - Fire</span>: Hide in water orb to avoid 🔥
+- <span class="ability">Aether Spray - Water</span>: Knockback from center or use resistance 💨
+
+<h2>Blasphemy: Svarbhanu</h2>
+
+- Arena edge inflicts  Bleed DoT
+- <span class="ability">Gnashing of Teeth</span>: Tank buster 🛡️
+- <span class="ability">Flames of Decay</span>: Room-wide AoE 💥
+- <span class="mechanic">Aetherial Disruption</span>: Stand in AoEs opposite to debuff symbol
+- <span class="ability">Crumbling Sky</span>: Knockback 💨 and/or spread AoEs 🌐
+- <span class="mechanic">Meteor Phase</span>: Dodge meteors ☄️ and random AoEs while boss is untargetable
+
+Remember, failing mechanics applies a stacking  Vulnerability Up debuff. Stay alert and adapt to the mechanics to emerge victorious! ⚔️

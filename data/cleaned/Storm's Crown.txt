@@ -1,0 +1,50 @@
+<strategy_text>
+Empress of the Winds: Barbariccia
+Initially, there will be no border on the arena. However, starting in phase two, a wind border will envelop the arena, dealing damage and inflicting a powerful Windburn debuff that deals damage over time and lasts for 12 seconds. Failing any mechanic or getting hit by avoidable attacks will result in a stacking Vulnerability Up debuff.
+
+Abilities
+Void Aero IV: Unavoidable roomwide AoE.
+Savage Barbery: The boss will indicate which direction she will swing her sword, while also indicating where she will throw it afterwards. If the red swords appear to arc over her head, she will perform a line AoE that reaches across the platform. If the red blades form a circle around her, she will perform a donut AoE attack. After this, she will throw the sword to where the red arrow leads.
+Hair Raid: The boss will tether to her sword, then leap to it and quickly attack in a wide conal AoE, leaving a safe zone behind her.
+Void Aero III: a split tank tankbuster. Deals high damage in a small AoE. Any other players hit by this will most likely die.
+Teasing Tangles: The boss will call four large AoEs on the ground. After they resolve, a lock of hair will tether to each player, pulling them within the boundary of the AoE and debuffing them with Tangled. This lock of hair slows movement, and if players move beyond the edge of the AoE, they are pulled back and debuffed with Sustaining Damage. The hair will eventually release players.
+Secret Breeze: The boss fires two sets of overlapping conal AoEs.
+Hair Spray: The boss places markers on a tank, healer and two random DPS, placing an AoE underneath them.
+Deadly Twist: The boss places a stack marker on a random player.
+Void Aero: The boss summons a wide AoE where each player was standing.
+Curling Iron: The boss deals a slight knockback that ignores knockback mitigation, and stuns all players with Down for the Count.
+Catabasis: The boss leaps into the air and transforms, then crashes into the arena, dealing high damage.
+Blow Away: The boss produces several clones that fire in a straight line in the direction she is facing. She then follows up with a ground attack that hits all players. This in turn calls several randomly spawning large AoEs that deal high damage.
+Brutal Rush: The charging attack of a clone. Deals medium damage. The Clones will also charge in a straight line across the arena from one edge to the other twice.
+Boulder: A player is given a wide AoE marker that soon drops where they were standing. The AoE will then shortly resolve, dealing high damage to anyone hit.
+Boulder Break: A high damage tankbuster targeting both tanks in a large AoE. Any other players hit by this will die.
+Knuckle Drum: The boss strikes the ground repeatedly, dealing increasing damage for each strike.
+Bold Boulder: The boss targets a tank and throws a massive boulder at them, dealing high damage. The rubble rains down upon the party, dealing light damage to all.
+Trample: the boss places a stack marker on a player and jumps on them, dealing medium damage.
+Tornado Chain: The boss places a large AoE on the ground, then a donut AoE on the edge of that, which detonate one after the other.
+Tousle: the boss fires several slow moving AoEs from the center of the arena. getting hit by one knocks players into the air, dealing medium damage.
+Touchdown: the boss places a large knockback marker on the arena, then leaps to it. Players must move away from the border of the room while Tangled to avoid touching the edge and suffering Windburn.
+Impact: The boss does a knockback in the center of the room, dealing light damage and a small knockback.
+Dry Blows: The boss deals a roomwide AoE, then summons several randomly spawning AoEs around the arena that deal high damage. This attack also spawns as Brutal Gusts as well.
+
+Strategy
+Phase 1
+The boss begins the battle with a Void Aero IV, damaging the entire party. She then returns to the center of the arena and casts Savage Barbery, placing either a line AoE or donut AoE, in accordance with which direction the red blades appear. She will then throw her sword to the spot indicated by the large red arrow. Following this, she will tether to the blade and perform Hair Raid, turning towards the center of the arena and firing a wide conal AoE. Players must move behind the blade to avoid damage. She will then cast Void Aero III, so both tanks must use mitigation and stand together to take the attack. After a few auto attacks, she will return to the center of the arena and perform the opposite Savage Barbery than the one she performed first, following up with Hair Raid once again. This is followed up by another Void Aero IV.
+
+Following this, the boss will return to the center of the arena and cast Teasing Tangles, spawning four large AoEs at the cardinals of the arena. Once these resolve, two players each will tether to the hair in the center of each AoE and be pulled into them and inflicted with Tangled, a debuff that slows character movement. If players move beyond the boundary of their tether, they are pulled back in and dealt damage, as well as the Sustaining Damage debuff. While players are tethered, the boss will cast Secret Breeze, firing two sets of several conal AoEs. Players must stand in the spaces between the first set, then move to where the first set previously was to avoid taking damage from the second set. After this, players will be set free.
+
+The boss will then drop a stacking marker on a random player, requiring everyone to stack to mitigate the damage. From here the phase will repeat until players bring the boss to below 70% health, with the only added difference being that during Hair Raid, four players will be marked with AoEs that they must spread out to avoid overlapping other players. After this, the boss will return to the center and cast Curling Iron, eventually knocking all players back and stunning them. A short cinematic will play, indicating the start of phase two.
+
+Phase 2
+Attacks will come quickly in this phase. Players must always be ready to move, as several AoEs will quickly appear and overlap.
+
+The boss will return to the arena and deal high damage with Catabasis, so healers should be ready. The boss will return to center and begin firing line AoEs, while also forming an AoE in the center with six curved lines reaching the edge of the arena. Players need to avoid the firing of the straight line AoEs, then stand in the safe zones to avoid damage. Following this, several clones will appear at the edge of the arena and charge in straight lines across the arena twice in quick succession. Players will have to quickly move into the safe zones between charges. The boss will perform another AoE with curved lines similar to before, then mark a player with a stack marker as well as a large rock AoE marker. All players will need to stack to mitigate Deadly Twist, then move out of the large AoE to avoid Boulder.
+
+Immediately after the stack marker resolves, the boss will target both tanks with a high damage AoE tankbuster. Both tanks must separate and use mitigation to survive the attacks. Any other player hit by these will die. The boss will then use Knuckle Drum, striking the ground several times dealing increasingly higher damage to the party. Following this, the boss will mark another player to stack while a random tank will receive another marker. Both attacks will resolve at the same time so the tank must move away from the party. The tank will take high damage from Boulder Break, which will result in light damage for the rest of the party. While this is happening, the boss will use Tousle in the center of the arena, summoning several small AoEs that move outwards to the edge of the arena. Touching one of these will knock the player into the air, deal high damage and debuff with a stacking Vulnerability Up. This is a high amount of damage coming in, so healers should be prepared.
+
+After the stack marker resolves, the boss will return to center and cast Tornado Chain, dropping two AoEs, a large one at the center of the arena, and a donut AoE with the safe zone meeting the edge of the first AoE. Players must stand at the outside of the arena, then move in after the first AoE fires to avoid damage. At the same time, players will need to be spread out to handle the Hair Spray AoE around them. After this, the boss will use Knuckle Drum in the center of the arena. By the end of this attack, all of the Tousle AoEs will have fired and reached the edge of the arena. The boss will return to the center of the arena again and summon clones to charge to the edge of the arena in a line AoE and finish up with Blow Away, calling several wide AoEs that spawn randomly around the arena. Players need to pay attention to avoid taking high damage and multiple stacks of Vulnerability Up.
+
+Just as Blow Away is ending, the boss will use Teasing Tangles again, tethering players to AoEs. The boss will use Tornado Charge again, while also placing a knockback marker. Players must move to the edge of their AoE without leaving it to ensure they are not knocked back into the edge of the arena. The tethers will break after this and the boss will use Boulder Break on the tanks again, requiring them to separate from the group. After this, another Knuckle Drum. The boss will fire several line AoEs, then cast Teasing Tangles once more. This time, the boss will cast Tousle, requiring players to dodge carefully. At the same time, the boss will use Tornado Chain again. The best way to handle this is to move to the inner edge of the AoE to quickly move into the safe zone, as movement is restricted and the AoE fires rather quickly. The tethers will break once again and the boss will perform Knuckle Drum in the center of the arena once more.
+
+At this point, the phase will repeat until the boss is defeated, starting again with the boss firing several line AoEs.
+</strategy_text>

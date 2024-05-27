@@ -1,0 +1,21 @@
+<span class="boss">Innocence</span>:<br>
+- <span class="ability">Shadowreaver</span>: 💥 Unavoidable raid-wide AoE, 🩹 heal up<br>
+- <span class="ability">Righteous Bolt</span>: 🛡️ Tankbuster + debuff, ⚔ tank swap ASAP<br>
+
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Winged Reprobation</span>: 🎯 Tethered players 🏃 away, drop tethers at arena edge<br>
+- <span class="ability">Rightful Reprobation</span>: 🏃 Avoid 🔴 AoEs, ➡️⬅️ watch for returning spears<br>
+- <span class="ability">Rotating Swords</span>: 🏃 Move to stay in safe zones<br>
+- <span class="ability">Drop of Light</span>: 🎯 Marked players 🏃<>🏃 spread out<br>
+- <span class="ability">Light Pillar</span>: 🤝 Stack along line AoE on healer<br>
+
+<span class="boss">Phase 2</span>:<br>
+- 👾 Adds: Tanks grab Forgiven Venerys, DPS focus Forgiven Shame<br>
+- <span class="note">Kill adds before Innocence charges or wipe</span><br>
+
+<span class="boss">Phase 3</span>:<br>
+- <span class="ability">Starbirth</span>: 🏃 Pull boss away from orbs<br>
+- <span class="ability">Beautific Vision</span>: 🏃 Move to arena edge, avoid boss charge<br>
+- <span class="ability">God Ray</span>: 🏃 Wait for <span class="ability">Rightful Reprobation</span>, then move to safe spot<br>
+- <span class="mechanic">Starbirth + Winged Reprobation + Light Pillar</span>: 🏃 Dodge AoEs, 🤝 stack to explode opposite orb for safe spot<br>
+- ⏳ Enrage: <span class="ability">Beatific Vision</span>, kill boss before cast finishes

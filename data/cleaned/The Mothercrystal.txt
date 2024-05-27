@@ -1,0 +1,44 @@
+<strategy_text>
+NOTE: The outer edge of the arena will instantly kill any player that touches it.
+
+Heroes's Radiance: Raid-wide AoE.
+
+Dawn Mantle: The boss will change her weapon and perform a mechanic corresponding to her weapon of choice:
+Dancer Chakrams (Red icon): A large donut AoE, stand inside her hitbox to avoid
+White Mage Staff (Green icon): A large circle AoE under her, move away to avoid this attack.
+Paladin Sword & Shield (Blue icon): A plus shaped AoE that always goes in directions of cardinals, position yourself in an intercardinal position to avoid this attack. This attack hits the width of her hitbox in both directions, so stand out of melee range
+
+Unlike most normal-difficulty content, these telegraphs do not have any orange ground AoE markers, so players will need to pay attention to the boss's weapon or color to avoid these.
+
+Mousa's Scorn: Tankbuster that must be shared by both tanks. Mitigate as needed.
+
+Magos's Radiance: Another raid-wide AoE.
+
+The fight will transition to an add phase happens without a cast, but can be recognized by the voiceline "Crystals of Light, to me!". Players will be sent to a rainbow coloured Disc in a different area with 6 crystals spawned around the disc. These crystals must be destroyed before the Conviction bar reaches 100 or the party will wipe. Following mechanics are cast by untargetable adds on the outside during the add phase:
+
+Hydaelyn's Ray: A proximity ray attack (similar to Beautific Vision cast by Innocence (Extreme)). A bright orange line will appear across the center of the platform, pulsing outwards. Stand close to the arena's edge, far from the bright line, to take as little damage as possible from this attack.
+
+Crystalline Stone III: Stack.
+
+Crystalline Blizzard III: Spread with AoEs so they don't overlap.
+
+Exodus: Huge raid-wide AoE that signals the end of the phase. Mitigate as necessary.
+
+Arena goes back to the original and she resumes using the mechanics from the first phase, but with a few additional mechanics:
+
+Crystallize: Will either spawn AoE circles on each player or a stack marker. The boss casts this, but the mechanics of it will not appear for a while, typically appearing during her next cast of Dawn Mantle and resolving short after Dawn Mantle resolves. Remember to dodge Dawn Mantle before spreading or stacking for Crystallize, depending on the marker.
+
+Parhelion: Shoots out three sets chakrams in line AoEs originating from the boss. They will explode in the order spawned, and there's a safe zone between each one. Subparhelion will be cast immediately afterwards.
+
+Subparhelion: The same chakrams placed by the Parhelion mechanic will shoot out another set of line AoEs back through the center of the room, resulting in the entire room being covered by one of the 3 AoEs. Like Parhelion, they'll explode in the order the line AoEs appeared, so stand next to (but not within) the first set that appeared, and then run into the space they occupied after that set explodes to dodge the other two.
+
+Parhelic Circle: Spawns a green snowflake-shaped symbol on the ground, which will then spawn AoEs in the middle of the room at the tip of the lines (similar to the Ravenclaw attack in Cinder Drift). Avoid standing in the middle of this symbol, and position yourself outside of the smaller lines, where there will be a safe zone.
+
+Heroes's Sundering: Tankbuster in the shape of a cone, other players who are not tanks should avoid standing with the tank.
+
+Radiant Halo: Raid-wide AoE.
+
+Lightwave: Spawns four large waves of light on the edges of the arena that will slowly move across the room. The waves will be staggered, with two starting moving before the other two. Move the boss to the area that won't be hit by the waves, or dodge the waves as they move across.
+
+Echoes: A stack marker that hits multiple times, stay stacked until the mechanic is done. This is cast immediately after Lightwave. Don't panic, there's plenty of time after the stacked AoE has finished to move out of the way of the waves.
+</strategy_text>

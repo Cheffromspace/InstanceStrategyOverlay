@@ -1,0 +1,44 @@
+Here is the cleaned up text for the Haukke Manor dungeon guide, with unnecessary content like image tags and links removed:
+
+Haukke Manor
+
+Level: 28 (Sync: 31)  
+Difficulty: Normal
+Party size: Light Party 4 man • 1 tank 1 healer 2 DPS
+Unsyncing: Allowed  
+Time limit: 90 minutes
+Duty Finder: Dungeons (A Realm Reborn)
+Roulette: Leveling
+Req. quest: Skeletons in Her Closet
+Entrance: Central Shroud (X:9, Y:22)
+Modes: Duty Support, Explorer
+Patch: 2.0
+
+"Once used by seedseers as a place for spiritual reflection and meditation, Haukke Manor was long frowned upon by the people of Gridania as a symbol of excess. After years of protest, the building was finally sold to a wealthy duskwight by the name of Lady Amandine. While little is known of the Lady, it was said that she was exceptionally vain, and that to maintain her impeccable beauty, she would spare no expense. From facial creams concocted from rare Coerthas honeys to shampoos derived from the milk of exotic phurbles, her daily ritual of beauty treatments escalated until it was rumored she was bathing in the blood of her virgin maidservants. No amount of man-made tinctures, however could hide the hideous scars she eventually suffered during the Calamity, and from that day forth she was forced to turn to a darker solution, signing away her very soul in a final effort to "save face.""
+
+Haukke Manor is a level 28 dungeon introduced in patch 2.0. Progression was overhauled in patch 6.1.
+
+Duty Support: Scion Marauder, Scion Conjurer, Scion Thaumaturge, Scion Lancer
+
+Objectives:
+Find the green key: 0/1
+Find the yellow key: 0/1 
+Find the bloody parchment: 0/1
+Defeat Lady Amandine: 0/1
+
+Walkthrough:
+The dungeon layout is fairly non-linear, with several side rooms that contain bonus treasure coffers. Many rooms are locked and will require the party to collect Tiny Keys to progress. Because the extra loot is typically of little value, many parties will skip the side rooms.
+
+Optimal pathing for the dungeon is provided, skipping optional side rooms and collecting only the minimum keys needed.
+
+Bosses:
+Manor Claviger - Untelegraphed melee cleave attack. Drop Green Key when defeated.
+Manor Jester and Manor Steward - Kill Jester first. Steward drops Bloody Parchment when defeated. 
+Lady Amandine - Main boss. Casts Void Fire and Void Thunder. Can summon Manor Sentry and Handmaidens.
+
+Bestiary and loot listings are included.
+
+Achievements:
+Mapping the Realm: Haukke Manor - Discover every location within the dungeon.
+
+Lore sections cover the tragedy of House Dartancours, the Manor Steward, the purge of the manor, and Halicarnassus the voidsent.

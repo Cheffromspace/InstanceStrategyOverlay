@@ -1,0 +1,75 @@
+Here is the cleaned up strategy guide for The Unending Coil of Bahamut (Ultimate):
+
+The Unending Coil of Bahamut (Ultimate) is a level 70 ultimate raid introduced in patch 4.11 with Stormblood. The raid is also known as UCoB and is based on the Coils of Bahamut raid series from A Realm Reborn.
+
+Strategy
+
+Phase 1: Twintania
+
+Abilities:
+- Plummet: Frontal tankbuster cleave dealing heavy damage.
+- Fireball: A player is marked and the boss fires a large fireball dealing heavy magic damage. Can be split to mitigate damage.
+- Twister: Four random players will have small tornadoes dropped under them. Touching these causes instant death and heavy knockback. 
+- Death Sentence: Heavy tankbuster that debuffs with Slashing Resistance Down. Requires a tank swap.
+- Liquid Hell: A random player is targeted with fireball spits, each dealing moderate damage and dropping persistent fire puddles that inflict Burns.
+- Neurolink: The boss drops small black puddles. Standing in them decreases damage dealt by 90% but allows surviving Hatch orb explosions.
+- Generate: A random DPS is marked and a black orb moves towards them. If the player is in a Neurolink, the orb explodes dealing minimal damage and inflicting Mana Hypersensitivity. Anyone else hit dies. 
+- Aetheric Profusion: Enrage that wipes the party if the boss is not defeated in time.
+
+Strategy:
+- Pre-place markers for Neurolink puddles. Assign a ranged DPS to bait Liquid Hells around the edge. 
+- Dodge Twister AoEs, group for Fireball, and tankswap Death Sentence. 
+- Move boss away from Neurolink. Baiter drops Liquid Hells at edge.
+- Marked DPS enters Neurolink for Generate orb, everyone else moves out.
+- Repeat mechanics, using Neurolinks to survive orbs and Twisters. Defeat before enrage.
+
+Phase 2: Nael deus Darnus
+
+Abilities: 
+- Heavensfall: Raid-wide proximity damage and knockback that spawns a pillar. Thermionic Burst fires conal AoEs from the pillar.
+- Bahamut's Claw: Heavy 5-hit tankbuster.
+- Meteor Stream: Hits 4 random players then the remaining 4. Splash damage requires spreading.
+- Lunar Dynamo: Large donut AoE. Safe under boss or far away.
+- Iron Chariot: Lethal point-blank AoE with knockback. 
+- Dalamud Dive: Leaps on tank dealing heavy damage with splash. 
+- Raven's Dive: Leaps on random player dealing small AoE damage. Others hit are knocked into wall and killed.
+- Thermionic Beam: Laser on random player dealing massive damage that needs splitting.
+- Hypernova: Puddle on random player inflicting lethal Bleed if lingered in.
+- Ravensbeak: Heavy tankbuster inflicting Piercing Resistance Down. Requires tankswap.
+- Bahamut's Favor: Buffs boss damage and summons dragons with various abilities (Iceball, Fireball, Thunderstruck, Wings of Salvation, Doom).
+- Cauterize: Dragons mark and divebomb random players.
+- Megaflare: Enrage that wipes the party.
+
+Strategy:
+- Avoid Heavensfall pillars and conal Bursts. Spread for Meteor Streams. 
+- Move to avoid Lunar Dynamo, Iron Chariot, Dalamud Dive splash, and Raven's Dive. 
+- Stack for Thermionic Beam. Dodge Hypernova puddles.
+- Handle dragon debuff mechanics and dispel Doom with Wings of Salvation circles.
+- Marked players bait Cauterize divebombs to edges, avoiding the party.
+- Defeat before Megaflare enrage.
+
+Phase 3: Bahamut Prime
+
+Abilities:
+- Flare Breath: Hard-hitting conal cleave.  
+- Tempest Wing: Boss tethers random target for splash damage and knockback. Tether can be passed.
+- Flatten: Heavy tankbuster requiring mitigation.
+- Earthshaker: Massive conal AoE on random player inflicting Earth Resistance Down. Drops lethal Sludge puddle.
+- Megaflare: Random players marked for stacking circle AoEs while others spread to avoid splash damage.
+- Gigaflare: High raid-wide damage needing mitigation.
+- The boss occasionally leaves, summoning the previous bosses to perform mechanics simultaneously.
+
+Strategy: 
+- Mitigate Flare Breath, Flatten, and Gigaflares. Pass Tempest Wing tethers. 
+- Earthshaker targets move to edges to drop Sludge puddles. Megaflare groups stack.
+- For add phases, handle Twintania and Nael mechanics together:
+- Quickmarch Trio: Dodge charge and Twisters, Megaflare stack, handle Tempest Wing.
+- Blackfire Trio: Bait Divebomb, spread Liquid Hells, stack for Thermionic Beam, do towers.  
+- Fellruin Trio: Mitigate Tempest Wing and Aetheric Profusion in Neurolinks, spread for Meteor Stream.
+- Heavensfall Trio: Bait charges, do towers to block Heavensfall knockback, dodge Hypernovas and stack for Fireball.
+- Tenstrike Trio: Intercept Generate orbs, spread for Meteor Stream, handle tank and healer Divebombs, do Earthshakers.
+- Grand Octet: Bait dives based on boss positions, do Megaflare stack and towers.
+- Push boss to 60% before Teraflare or gain Damage Up debuff making Morn Afah difficult to survive.
+
+Phase 4: Teraflare 
+- Defeat Twintania and N

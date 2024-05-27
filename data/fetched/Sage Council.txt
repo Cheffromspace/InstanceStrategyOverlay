@@ -1,0 +1,53 @@
+Here is the cleaned up text for the "Sage Council" quest guide:
+
+Sage Council
+
+Quest giver: Urianger
+Location: Labyrinthos (X:28.9, Y:27.4)
+Quest line: Endwalker Main Scenario Quests 
+Level: 88
+Experience: 501,600
+Gil: 1,244
+Previous quest: Agriculture Shock
+Next quest: Hither and Yarns
+Patch: 6.0
+
+Rewards:
+1 Chondrite Foot Gear Coffer (IL 545)
+
+Steps:
+1. Speak with Growingway.
+2. Speak with the troubled researcher. 
+3. Seek out troubled souls in Sharlayan Hamlet. 0/8
+4. Speak with Urianger.
+5. Wait at the destination.
+6. Speak with Urianger.
+
+Walkthrough:
+NOTE: There are quest NPCs that are optional and will not progress objectives. Below are the locations of the NPC that will progress the story.
+
+Anxious Engineer: (21.1, 20.4, 1.9) 
+Hyperventilating Engineer: (21.5, 18.9, 1.9)
+Harried Aetherologist: (22.2, 20.0, 2.0)
+Grimacing Naturalist: (22.4, 20.5, 1.9)
+Ponderous Mathematician: (22.6, 20.9, 1.9) 
+Skeptical Researcher: (21.0, 22.2, 1.9)
+Distracted Researcher: (20.7, 18.0, 1.9)
+Despondent Engineer: (21.0, 21.6, 1.9)
+
+Journal:
+Urianger appears to be tallying the Loporrits in preparation for an imminent departure.
+
+With all Loporrits present and accounted for, Urianger insists that the group return to Sharlayan Hamlet, so as to be ready when the time comes to take flight. Seeing the wisdom in this, they reluctantly agree, despite their niggling curiosity about every aspect of Etheirys.
+
+An overwhelmed Growingway is distressed by how the Loporrits' efforts to create a hospitable environment pale in comparison to your star's natural beauty. As he bemoans his failure to complete his life's duty, Thancred arrives and mentions that Labyrinthos's people are feeling none too confident about their own work. Recognizing an opportunity to address both issues, Urianger suggests that Growingway offer counsel to one such researcher based on his expertise in constructing lunar environments─and the Loporrit hesitantly says that he will try.
+
+The troubled researcher doubts whether his design for the ship's gravitational systems is good enough to keep its contents and passengers anchored throughout the exodus. Happily, Growingway has a number of insights to offer on this matter, and the pair are soon engaged in deep conversation. With one success now assured, Urianger asks that you seek out additional distressed souls who might benefit from the Loporrits' counsel.
+
+You speak with a number of Sharlayan Hamlet's residents, who show varying degrees of distress over the impending crisis. Those who stand to find reassurance in the Loporrits' experience are sent to Urianger, to be paired with appropriate members of the delegation. 
+
+Urianger is pleased by the number of people who have turned up to receive counsel, and asks that you wait and see how the Loporrits get on. Your presence is sure to encourage them.
+
+Thanks to Urianger's skill in pairing the right Loporrit with the right person, many are soon joyfully engaged in conversation with Sharlayans. To his surprise, however, the next to arrive seeking assistance are Wilfsunn and Bloewyda─father and mother to none other than the dearly departed Moenbryda. Overcome by emotion, Urianger has naught but stammered apologies to offer them at first, though it soon transpires that they do not blame him in the least for their daughter's death, and have in fact been worrying over him much as they would their own child since they fell out of touch. At last, Urianger tearfully accepts Bloewyda's embrace, and affirms that he can feel Moenbryda's spirit with him, even now.
+
+Urianger insists that he is fine, and in fact feels grateful to have met Wilfsunn and Bloewyda again now that he has come into his own alongside his fellow Scions. Moenbryda would surely smile to see the man he has become.

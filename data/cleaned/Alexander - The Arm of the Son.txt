@@ -1,0 +1,32 @@
+<cleaned_strategy_text>
+
+Boss: Quickthinx Allthoughts
+
+Stepping in the spikes inflicts Bleed and Vulnerability Up as long as you stand in them. These debuffs cannot be cured with Esuna, but will go away as soon as you step back out of them, so just don't stand in them if you can avoid it.
+
+When marked with a purple marker, stay away from other players. The boss will turn to you and shoot a big beam AoE called Sizzlebeam your way, which hits anything in a straight line in front of the boss and inflicts an Electrocution DoT that cannot be cured with Esuna.
+
+The boss has a huge AoE attack he uses from time to time. While it does not have a cast-bar, it does have ground markers. Getting hit by these will drain you of 1500 MP and inflict a stacking Bleeding DoT, which lasts a minute and cannot be cured with Esuna. Simply walk out of this.
+
+The boss has an attack called Uplander Doom, which is a sort of tankbuster. It will hit multiple times (with a minimum of four times and progressively more often as the fight continues) and inflict a stacking Physical Vulnerability Upon the Tank. This debuff lasts a minute and cannot be cured with Esuna. Either simply heal through this or do a Tank-Switch if your Tanks/Healers have bad gear.
+
+At intervals, the boss will place a target on one player and fly up in the air. The boss will fly towards the marked player, stun them, then grab them and send them to a cage in one of the four corners of the room. Stay away from the marked person, as both the stun and the grab can affect multiple people. Keep in mind that while you are inside the cage, you cannot be targeted by other players, so you cannot be healed. Once the mechanic of each cage has resolved, the walls are removed and you can rejoin the fray.
+
+When you are sent to the red cage, you are inflicted with Pyretic, which inflicts damage every time you move or use actions. Stand still and do not use any actions whatsoever while the others break the Padlock add from outside and free you. This usually targets a DPS.
+
+When you are sent to the purple cage, you will be afflicted with a Throttle, a Doom-Type debuff, and must kill an Alaruma add before it runs out. Failure to kill the add in time results in immediate death. This usually targets a DPS, but is often skipped due to high damage output.
+
+When you are sent to the white cage, you get afflicted with a non-removable Frostbite DoT and must fight a Gobwalker add. Touching the cage walls will cause Deep Freeze for a few seconds, preventing any actions and movement. Try to keep the add directly between you and a wall, as the add has a knockback attack designed to push you into the walls. This usually targets the off-tank.
+
+When you are sent to the green cage, you will see a gas vent emitting noxious gas. Standing in this gas vent applies a non-removable Poison DoT to you, but not standing on it will apply this DoT to EVERYONE in the boss room. Simply stand on the vent so the others don't get poisoned and wait it out. This usually targets a Healer.
+
+During the cage mechanics, Panzer-Doll and Sturm-Doll adds will spawn in the center platform. Kill these adds quickly, as they will self-destruct if they live long enough, inflicting massive raid-wide damage. In addition, the Sturm-Doll has an attack called 'Kugelblitz'. This inflicts medium raid-wide damage, but can be interrupted with a Stun.
+
+After a short while, the spikes in the room will retract into the floor. At this point, Shanoa (the small black cat) will enter the arena. Shanoa cannot be targeted or attacked in any way. She instead will run around the arena randomly, spawning an add called True Heart from time to time that will slowly hover towards the boss. 
+
+If the True Heart reaches the boss, the boss will receive a massive heal and gain a stacking buff which greatly increases his damage output. DPSs should focus the True Heart immediately while the Main-Tank tries to keep the boss away from it.
+
+During the True Heart mechanic, a huge steel ball called Weight of the World will fall into the arena. As with Shanoa, Weight of the World cannot be targeted or attacked, and will instead roll around the room. Touching Weight of the World will result in 9999 damage and a knockback. Stay away from it.
+
+If damage output is low, you may see a Bomb drop down that will tether to a player and follow it. The tethered player should drag the bomb to one of the corners of the room where the explosion can only hit the tethered player in order to minimize damage.
+</cleaned_strategy_text>

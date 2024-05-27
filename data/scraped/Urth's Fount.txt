@@ -1,0 +1,41 @@
+Here is the cleaned up text for the Urth's Fount strategy guide:
+
+Urth's Fount is a level 50 trial introduced in patch 2.5. 
+
+Strategy
+
+The Dark Divinity: Odin
+
+Hall of Sorrow: Raid-wide magical damage. Used periodically.
+
+Hall of Lead: Targets 3 random party members (never MT) with a medium circle AoE, dealing magical damage and inflicting a curable 10s Slow on all affected targets.
+
+Hall of Stone: Targets random party members with an avoidable circle AoE, leaving ~2s to run out. Deals damage and inflicts an incurable 8s Petrification on anyone that get struck. The initial cast targets three party members, the second targets four, and later casts will target five. A second set of circles can also appear immediately after the first.
+
+Einherjar: Raid-wide magical damage with a 3s cast time. Inflicts a curable 30s Bleed on the party. First Einherjar is followed by Gungnir immediately after. Second Einherjar has no Gungnir near. Third Einherjar happens after the second Gungnir's gone down and after Odin uses Sanngetal.
+
+Valknut: Telegraphed, medium-sized circle AoE around Odin. Anyone struck will take damage equal to 60% of their max HP. Used periodically, but guaranteed after each Gungnir.
+
+Sanngetall: Tankbuster with a 3s cast time. Should be mitigated, as it happens once 30 seconds; the off-tank can also Provoke right after it hits.
+
+Gagnrath: Red spears appear on the outside of the arena and dash across in a straight line. Anyone struck will be damaged and knocked back roughly 1/3rd of the arena. There are two patterns: three lines from one direction, or one line from two perpendicular directions forming a cross pattern. Later into the fight, each pattern gets a follow-up attack: the first gets two lines from the opposite direction filling in the gaps, and the second gets a follow-up cross attack. Valknut often happens during these Gagnrath attacks.
+
+Gungnir: Three random party members (never MT) are targeted with a large circle AoE. After 3~5s, Gungnirs drop down on the targets for physical damage. Note that Hall of Sorrow goes off at the same time as the Gungnirs go off. Gungnir also inflicts a raid-wide Bleed for as long as the three spears remain alive.
+
+Shin-Zantetsuken: Hard enrage; starts the cast at about 15% HP, or after 6 minutes. Takes 30s to cast and roughly 7s to execute.
+
+Rotations:
+1. Einherjar → Gungnir → Valknut → Sanngetal (first time) 
+2. Gungnir → Valknut → Sanngetal → Einherjar (second time)
+
+Loot
+
+Treasure Coffer contains:
+- 15 Allagan Tomestone of Poetics
+- Odin Card (Drops at a fixed rate)
+- Various Dark Divinity armor pieces (item level 50)
+- Faded Copy of The Corpse Hall (Orchestrion Roll)
+
+Achievements
+
+This duty is associated with the "Missed the Cut" achievement, awarded for defeating Odin at Urth's Fount. It grants 10 points and the title "The Unsevered".

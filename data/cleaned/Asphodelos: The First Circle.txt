@@ -1,0 +1,26 @@
+<cleaned_strategy_text>
+Warder of the Condemned: Erichthonios
+
+Gaeoler's Flail: Erichthonios spins his flail in either his left or right hand, and when the cast completes hits the entire left or right side of the arena, based on the boss's orientation. Move to the side that he isn't spinning his flail on to dodge this attack. Note that the boss sometime rotates before casting this attack.
+As the fight continues, Erichthonios begins using this attack during other attacks, without a cast bar indicator. Watch for his flail while dodging Intemperate Torrent and Aetherchain.
+
+Pitiless Flail: Erichthonios targets a random player with a line AoE telegraph that follows that player. On hit, knocks back the targeted player, as well as anyone else in the line. The targeted player needs to get close to Erichthonios so they're not pushed out of the arena, while other players should avoid the attack entirely. Immediately after this attack resolves, the targeted player will be marked with a stack marker, and needs to run back to the group for the stack.
+
+Heavy Hand: Tankbuster.
+
+Warden's Wrath: A slow cast that deals heavy raidwide damage.
+
+Intemperance: Gives every raid member the debuff Overwhelmed by Fire or Overwhelmed by Cold, indicated by a red or blue triangle floating over their heads. The arena is broken into quarters, each with three crystals floating above it.
+
+Intemperate Torrent: Erichthonios will cast this spell three times. Each time, the crystal at the bottom of each stack will explode, dealing fire damage if it is red or cold damage if it is blue. If you are overwhelmed by the element you are struck with, you will take extra damage, so players with the red debuff want to be hit by the blue attack, and vice versa. If you are on the purple cross between the zones, you will take heavy damage. After each hit, your element will swap to the same color as what you were just hit by, so you need to alternate which color crystal you're hit by.
+
+After the first Intemperance phase, Erichthonios will begin charging up Gaeoler's Flail strikes that hit after the elemental explosions, making two of the four quarters of the room unsafe. Watch his hands and move to the side of the boss that is safe, and to the quarter within that half of the room that has the correct color on the bottom for your debuff.
+
+Shining Cells: This attack deals unavoidable raidwide damage, slightly shrinks the arena, and then divides the arena into alternating red and blue wedges.
+
+Aetherchain: Colored orbs will circle Erichthonios. When the cast completes, all wedges that match the color of his orbs will explode. Move to a wedge that is the opposite color.
+
+Aetherflail: After the first two casts of Aetherchain, Erichthonios will begin casting Gaeoler's Jail during Aetherchain. This attack will strike the half of the arena he's whirling his chain on at the same time that the wedges that match the color of his orbs explode. Find a wedge of the opposite color that is also on the safe side of the boss.
+
+Slam Shut: Ends the Shining Cells phase, dealing unavoidable raidwide damage.
+</cleaned_strategy_text>

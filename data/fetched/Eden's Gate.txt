@@ -1,0 +1,42 @@
+Here is the cleaned up text for the Eden's Gate strategy guide:
+
+Eden's Gate is the 1st section of Eden, the main 8-player raid in Shadowbringers. Released on July 16, 2019, Eden's Gate requires players with item level of 425 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock
+Completion of the level 80 quest chain starting with In the Middle of Nowhere by talking to Anxious Crystarium Guard in The Crystarium (X:9.7 Y:12.3). Players first must complete Main Scenario Quest Shadowbringers.
+
+The guard will send you to The Empty where you will begin the Eden's Gate quest line.
+
+To unlock each floor after the first, continue the quest line and complete the consecutive floor. Each floor is listed separately.
+
+Floors
+Level Requirement: Disciple of War or Magic level 80
+Party Size: Eight players
+
+Duty / Abbreviation / Min IL / Boss(es) / Tomestones / Time Limit
+Eden's Gate: Resurrection / E1N / 425 / Eden Prime / 10 / 90 min  
+Eden's Gate: Descent / E2N / 425 / Voidwalker / 10 / 90 min
+Eden's Gate: Inundation / E3N / 425 / Leviathan / 10 / 90 min
+Eden's Gate: Sepulture / E4N / 425 / Titan / 10 / 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards
+Treasure coffers that appear upon completing Eden's Gate will not yield gear, but instead yield tokens that can be traded for gear of your choosing.
+
+As of patch 5.1, weekly loot restrictions have been removed. Also note that there is no weekly restriction on entering Eden's Gate.
+
+Item Exchange
+The items obtained from treasure coffers can be exchanged for gear by speaking with Ghul Gul in Amh Araeng (X:26.6 Y:16.4) or Yhal Yal in Eulmore (X:10.0 Y:11.5).
+
+Item Type / Required Token / Number of Tokens / Token Drop Location  
+Head / Helm of Early Antiquity / x 2 / 2x Resurrection, Descent, Inundation
+Body / Armor of Early Antiquity / x 4 / Resurrection, Descent, 2x Inundation, 2x Sepulture  
+Hands / Gauntlets of Early Antiquity / x 2 / Resurrection, Descent, Inundation, Sepulture
+Legs / Chausses of Early Antiquity / x 4 / Resurrection, Descent, 2x Inundation, 2x Sepulture
+Feet / Greaves of Early Antiquity / x 2 / Resurrection, 2x Descent, Sepulture
+Accessories / Bangle of Early Antiquity / x 1 / 2x Resurrection, 2x Descent, 2x Inundation, 2x Sepulture
+
+Gear
+Armor: Main article: Edengate Armor 
+Accessories: Main article: Edengate Accessories

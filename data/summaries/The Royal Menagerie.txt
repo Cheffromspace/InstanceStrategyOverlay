@@ -1,0 +1,29 @@
+<span class="boss">Shinryu</span>:<br>
+- <span class="mechanic">Corrupted Aether bar</span>: Fills over time, triggers elemental attacks at 100%<br>
+- <span class="ability">Water (Tidal Wave)</span>: 🏃 <span class="mechanic">Run to edge near waterspout</span>, avoid 💨 knockback<br>
+- <span class="ability">Wind (Aerial Blast)</span>: <span class="mechanic">Stay near center</span>, avoid 💨 knockback pulses<br>
+- <span class="ability">Fire (Hellfire)</span>: 💥 <span class="mechanic">Party-wide damage, stand in water puddles to reduce damage</span><br>
+- <span class="ability">Lightning (Judgment Bolt)</span>: 💥 <span class="mechanic">Party-wide damage, avoid water puddles</span><br>
+- <span class="ability">Earth (Earthen Fury)</span>: 💥 <span class="mechanic">Moderate party-wide damage, targets and damages platforms</span><br>
+- <span class="ability">Ice (Diamond Dust)</span>: 🥶 <span class="mechanic">Freezes platform, don't move to avoid sliding off</span><br>
+- <span class="ability">Right Wing</span>: 🎯 <span class="mechanic">Marks players, 🏃<>🏃 spread to avoid lightning bolts</span><br>
+- <span class="ability">Left Wing</span>: <span class="mechanic">Icicles or low-damage platform-wide attack</span><br>
+- <span class="ability">Earth Breath</span>: 🎯 <span class="mechanic">Marks 2 players, 📐 avoid cone AoEs</span><br>
+- <span class="ability">Ahk Morn</span>: 🤝 <span class="mechanic">Stack to reduce damage</span>. Phase 3: Avoid secondary blue beam<br>
+- <span class="ability">Tail Slam</span>: <span class="mechanic">Large attack, breaks platforms in Phase 3</span><br>
+- <span class="ability">Line Charge</span>: <span class="mechanic">Wide line AoE, 🏃 avoid or soak</span><br>
+- <span class="ability">Ground Pound</span>: <span class="mechanic">Targets center platform at ~80% Corrupted Aether, 🏃 avoid</span><br>
+- <span class="ability">Burning Chains</span>: 🔗 <span class="mechanic">Chained players take DoT, break by moving apart</span><br>
+<br>
+<span class="boss">Phase 1</span>:<br>
+- <span class="note">Transition after 2 Corrupted Aether attacks</span><br>
+<br>
+<span class="boss">Phase 2</span>:<br>
+- <span class="mechanic">Avoid large AoEs, no knockback</span><br>
+- 👾 <span class="mechanic">Kill adds: 3 waves of Hakkinryu and Ginryu</span><br>
+- <span class="mechanic">Active Time Maneuver: Mash buttons to avoid starting Phase 3 with 0 HP</span><br>
+<br>
+<span class="boss">Phase 3</span>:<br>
+- <span class="mechanic">3x3 grid of platforms, outer platforms can break</span><br>
+- <span class="ability">Tail Slam</span>: <span class="mechanic">Attack tail to damage Shinryu when vulnerable</span><br>
+- <span class="mechanic">Shinryu switches sides every 2 Corrupted Aether attacks</span>

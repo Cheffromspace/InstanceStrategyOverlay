@@ -1,0 +1,33 @@
+<span class="boss">Sephirot</span>:
+
+<span class="mechanic">Setup</span>:
+- Split into two light parties, mark healers 1 and 2
+- Assign positions: MT N, OT S, H1 E, H2 W, DPS at intercardinals
+
+<span class="boss">Phase 1</span>:
+- <span class="ability">Void Aero IV</span>: 💥 Raidwide damage
+- <span class="ability">Savage Barbery</span>: 🏃 Stack behind boss based on sword position
+- <span class="ability">Hair Raid</span>: Variants based on boss posture + 🎯 stack or 🔴 spread
+- <span class="ability">Void Aero III</span>: 🛡️ Tankbuster, ⚔️ tank swap after
+- <span class="ability">Teasing Tangles</span>: 🏃 Move to edge of 🔗 tether based on debuff
+- <span class="ability">Secret Breeze</span>: Adjust for 📐 conal AoEs, then 🏃<>🏃 spread
+- <span class="ability">Curling Iron</span>: 🏃 Avoid knockback, stack mid to 🩹 heal
+
+<span class="boss">Phase 2</span>:
+- <span class="ability">Brutal Gust</span>: 🏃 Tanks/healers dodge tethered dashes
+- <span class="ability">Boulder Break</span>: ⚔️ Tanks stack N for tankbuster, avoid 🌀 spiral AoE
+- <span class="mechanic">Center Stacking</span>: After 🔴 resolves, stack mid to avoid outside line AoEs
+- <span class="ability">Brittle Boulder</span>: 🏃 Spread to positions, soak personal 🔴 AoEs
+- <span class="ability">Enumeration</span>: 🤝 Rotate CW to stack with DPS, avoid expanding 🔴 AoEs
+- <span class="ability">Brutal Gust</span>: 🏃 DPS dodge tethered dashes
+- <span class="ability">Knuckle Drums</span>: 🤝 Stack N for 💥 raidwide damage
+- <span class="ability">Bold Boulder</span>: Tanks 🏃 spread with flare markers, party 🤝 stacks
+- <span class="ability">Teasing Tangles</span>: 🏃 Tanks/healers left, DPS right based on 🔗 tether
+
+<span class="boss">Phase 3</span>:
+- <span class="ability">Entanglement</span>: 🏃 Move to intercardinal based on symbol, then resolve as in P2
+- <span class="ability">Secret Breeze</span>: Avoid 📐 conal AoEs, 🏃<>🏃 spread for targeted AoEs
+- <span class="ability">Savage Barbery</span> + <span class="ability">Hair Raid</span>: Repeat mechanics from P1
+- <span class="ability">Void Aero IV/III</span>: 💥 Raidwide damage, 🛡️ tankbuster + ⚔️ swap
+- <span class="ability">Entanglement</span> + <span class="ability">Enumeration</span>: Form line of 🎯 stack markers, unmarked find partner
+- <span class="ability">Maelstrom</span>: ⏳ Enrage, kill boss before cast ends

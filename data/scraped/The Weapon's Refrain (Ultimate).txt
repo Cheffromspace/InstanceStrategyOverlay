@@ -1,0 +1,43 @@
+Here is the cleaned up strategy guide text for The Weapon's Refrain (Ultimate):
+
+Phase 1: Garuda
+
+Abilities:
+- Down Burst: Heavy-hitting frontal cleave tankbuster with no cast bar. If the boss is buffed with Awakened, the attack hits both tanks and can be split with the entire party.
+- Aerial Blast: Heavy-hitting raid wide damage. Mitigate and heal through. 
+- Mistral Shriek: Raid-wide damage. Mitigate and shield through.
+- Mistral Song: A healer receives a green marker over their head. The boss will turn towards the marked healer and fire a line AoE in their direction, dealing heavy damage. A tank must mitigate by breaking the Line of Sight of the attack. The first player hit by this attack will have a large wind AoE spawn underneath them.
+- Slipstream: A large frontal cleave that deals heavy damage and debuffs anyone hit by it with Stun. This attack is only telegraphed by its cast bar and can be avoided by not standing in front of the boss.
+- Feather Rain: The boss will disappear and spawn several small AoEs under players. If players are hit by these, they take massive damage and receive a Damage over Time Windburn debuff, which also deals heavy damage per tick.
+- Eye of the Storm: The edge of the arena will be marked by a purple AoE and be covered by a cyclone. Touching this will result in immediate death. This effectively shrinks the arena down even smaller, so players need to be careful when maneuvering around.
+- Friction: The boss will turn to a random player and mark them with an AoE that deals splash damage. Any player hit by this attack receives a stack of the debuff Thermal Low. 
+- Mesohigh: The ads tether to a random player, deals damage and dispels any stacks of Thermal Low they may have, damaging the party. If the player has no stacks of Thermal Low, the attack will kill them.
+- Wicked Wheel: Point-blank AoE that will instantly kill anyone hit.
+- Wicked Tornado: When the boss becomes Awakened, the party is hit by an instant-kill raid-wide AoE that can only be avoided directly in the boss's hitbox or far opposite of it.
+
+Strategy:
+- Before the boss is pulled, assign 3 DPS to receive 2 stacks of Thermal Low later in the fight. 
+- Main tank pulls boss north, faces away from party. Boss casts Slipstream. Marked healer for Mistral Song moves away from party towards main tank, who intercepts the attack. Another Slipstream, then Downburst on main tank. 4 Satin Plumes and 1 Spiny Plume spawn, tethering to DPS. AoE them down quickly. Tank grabs Spiny Plume. Avoid Feather Rain. Mistral Shriek.
+- Tank takes no more than 2 hits of Cyclone from Spiny Plume, giving boss 1 stack of Aetherically Charged when defeated. 
+- Boss casts Friction twice. First one, all stack in bubble except 3 assigned DPS to get their first stack. Second one, all move out, giving everyone 1 stack and assigned DPS 2 stacks. Two DPS with 2 stacks cleanse one at a time in bubble. Boss now has 3 stacks of Aetherically Charged.
+- Eye of the Storm. Chirada and Suparna spawn. Feather Rain. Tanks intercept Mistral Shrieks at edge while party stacks center. Pull boss back to center for another Eye of the Storm and 4 Satin Plumes. Burn plumes. Ads tether players with Mesohigh - one with 2 stacks and one other take tethers. Downburst. Boss gets final Aetherically Charged stack and Awakened.
+- Ads Feather Rain. Boss Slipstream, Wicked Wheel, Wicked Tornado. Move out of melee then into hitbox to avoid. Awakened Downburst split between tanks. Slipstream, enrage, Aerial Blast wipes party.
+- Pillar of light spawns, melee/caster/healer grabs Beyond Limits buff. Tanks and healers should have 1 stack Thermal Low each.
+
+Phase 2: Ifrit  
+
+Abilities:
+- Crimson Cyclone: Boss jumps to edge, dashes across arena. Instant kill if hit. If Awakened, leaves lingering cross-shaped burn that kills.
+- Hellfire: Massive raid-wide damage. Mitigate and heal.
+- Radiant Plume: Large AoEs appear and explode into fire pillars. Fatal if hit. Can appear in different patterns.
+- Vulkan Burst: Large AoE under boss, minimal damage but large knockback. Can be shielded to prevent knockback. 
+- Inferno Howl: Targets healer with Searing Wind debuff that periodically explodes. Persists through death. Lasts 30 seconds if boss Awakened.
+- Incinerate: Heavy tankbuster, debuffs with Fire Resistance Down.
+- Infernal Fetters: DPS and 2nd in enmity tethered and debuffed, reducing their damage. Separating adds more stacks and damage taken.
+- Eruption: Fatal AoEs appear under players.
+- Flaming Crush: Random DPS marked with red arrow, boss fires attack that must be split. If Awakened, inflicts Accursed Flame heavy DoT, less time if split by more players.
+
+Strategy: 
+- Ifrit appears at random cardinal after Garuda defeated. Crimson Cyclone and Radiant Plumes cover arena, only safe spots adjacent to boss. Hellfire and Vulcan Burst after, shield knockback. Pick up boss as tank. Three Incinerates, use invulns or swap. Four Infernal Nails spawn.
+- Nails spawn in groups of two close together and two far apart. Explode on defeat, raid-wide damage and 1 second Vulnerability Up that stacks, preventing multiple nails being killed together. 
+- Boss targets healer with Infernal Howl. Move to edge

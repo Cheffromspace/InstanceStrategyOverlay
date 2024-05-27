@@ -1,0 +1,50 @@
+The World of Darkness
+
+"In the twilight of his reign, the first and last emperor of Allag, Xande, desired power above all else. He turned to the terrible being known as the Cloud of Darkness, a ruler of the void, and asked of her strength to make the world kneel before his throne with a covenant of blood.  When Xande was slain, his ambitions were laid to rest alongside him. Yet the Cloud of Darkness still seeks to enter the material realm, and will soon find passage through the Voidgate set to manifest within Syrcus Tower. With the fiend's coming, can the fellowship of NOAH brave the void and rescue the three souls able to stem the Cloud's flood of shadows, or will the expedition itself vanish beyond the rift in the World of Darkness?"
+
+The World of Darkness is a level 50 raid introduced in patch 2.5. It is the third part of Crystal Tower.
+
+Objectives:
+- Clear the Eye: 0/1
+- Defeat Angra Mainyu: 0/1 
+- Clear the Nape: 0/1
+- Defeat the five-headed dragon: 0/1
+- Clear the Jaws: 0/1
+- Defeat Cerberus: 0/1
+- Defeat Cloud Of Darkness: 0/1
+
+Bosses:
+
+Angra Mainyu
+- Double Vision: Floor-covering AoE split into red and white, giving stacking debuffs. Alternate colors to reset stacks.
+- Mortal Gaze: Look away or stand on lit platform to avoid Doom debuff. 
+- Roulette: Kill 4 Final Hourglass adds one by one. Avoid lit quarter when last one dies.
+- Level 100 Flare: Run out of red circle tether to avoid massive damage if even number of players inside.
+- Level 150 Death: Run out of purple circle tether to avoid death if number of players is multiple of 3.
+
+Five-headed Dragon
+- Ice Floor's AoE expands if it hits a player. Run from white circular swirls.
+- Kill poison Slimes to prevent silence. Stand in slime puddle to stop more spawns.
+- Kill extra heads during Discordance or raid wipes.
+- Stack to split damage from stack marker.
+- Kill red/white balls during Prominence before they explode.
+- Run red bird tether to another player before debuff kills you.
+- Every action deals damage during Heatwave when boss HP low.
+
+Cerberus
+- B alliance + DPS get Mini debuff from Gastric Orb, stand in purple goo to enter stomach. 
+- Kill stomach wall adds to make Cerberus collapse.
+- Re-chain Cerberus using tethers while he's weakened.
+- Avoid tail swipe cone behind boss.
+- Stay near others to prevent fear from Ululation roar.
+
+Cloud of Darkness
+- Tanks swap powerful DoT auto-attack.
+- Targeted player kites Feint Particle Beam blasts. Each hit adds Vulnerability Up.
+- Move to sides when boss disappears to dodge Zero-form Particle Beam laser. 
+- Stand in yellow markers to absorb comets.
+- Kill cloud/storm adds before boss eats them.
+- Each alliance kills one of 3 clouds in triangle formation.
+- Ranged DPS handle worm adds if DPS is low. Avoid Bad Breath debuffs.
+
+The guide then lists the loot available from each boss, as well as achievements associated with the raid. It notes that the raid can be cleared unsynced at level 90 with specific strategies. Finally, it includes several images of gear sets, the dungeon environment, and concept art.

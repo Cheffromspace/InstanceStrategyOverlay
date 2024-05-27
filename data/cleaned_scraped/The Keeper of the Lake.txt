@@ -1,0 +1,38 @@
+<strategy_text>
+Duty Support
+Scion Marauder
+Scion Conjurer
+Scion Thaumaturge
+Scion Lancer
+
+Objectives
+Clear the Agrius hull: 0/1
+Deactivate the Garlean barriers: 0/2
+Clear the Cereleum Spill: 0/1
+Defeat ???: 0/1
+
+Einhander
+Aero Blast: Unavoidable raidwide damage.
+Resounding Screech: Untargettable clones of Einhander appear small untargetable Einhanders will appear, holding ceruleum tanks, which they will drop onto the platform. Keep your distance from the glowing red tanks to avoid the large circle attacks around them. After the first tanks explode, more may begin to glow, so be sure to avoid those as well.
+Mark XLT Quick-firing cannon: At the same time, Einhander will fire a line Aoe that causes at least two of the tanks to glow and explode.
+Heavy Swing: Tankbuster
+
+Magitek Gunship
+Flame Thrower: The gunship will periodically target a player with Flame Thrower, a large frontal cone attack. This attack lasts for several seconds, so get out of the attack marker and stay out of the flame area to avoid damage.
+Carpet Bomb: Circular AoE
+The boss will periodically summons adds that should be dealt with so players can refocus on taking down the gunship.
+The Gunship also goes across the arena and leaves behind temporary fire puddles that leave a Burns debuff if walked into.
+
+Midgardsormr
+Unlike most bosses, his name is replaced with "???" in Duty Information for spoiler purposes.
+Admonishment: A very wide line attack from the boss.
+Disgust: Unavoidable raidwide damage.
+Inner Turmoil: A close-range attack centered on the boss.
+Outer Turmoil: A donut attack where the safe area is near the boss.
+Phantom Kin: The boss summons two untargetable Mirage Dragons. Both of them cast Admonishment, while Midgardsormr follows up Inner Turmoil and Outer Turmoil to leave even less room for players to dodge.
+Animadversion: The boss becomes untargetable, summons Mirage Dragons again, and begins charging up a Midgardsormr's Aether for his ultimate attack. As the dragons are now targetable, they must be defeated before the gauge reaches 100%, in which case Animadversion will wipe the party.
+Akh Morn: This is the first time players will see a multi-stack marker, which results in multiple attacks instead of just once. Be sure to stay stacked until the attacks stop.
+Antipathy: An expanding attack, starting as a circle of fire in the center, followed by a ring around the first circle, then a larger ring around that. Stand on the middle ring, then go into the center as soon as the flames have disappeared from the center.
+Condescension: Tankbuster
+At this point, the mechanics repeat themselves until the boss is defeated.
+</strategy_text>

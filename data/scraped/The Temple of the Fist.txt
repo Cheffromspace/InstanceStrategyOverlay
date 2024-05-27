@@ -1,0 +1,30 @@
+Here is the cleaned up version of the Temple of the Fist strategy guide:
+
+The Temple of the Fist is a level 70 dungeon introduced in patch 4.0 with Stormblood. 
+
+Objectives:
+- Clear Rhalgr's Shoulder
+- Defeat the coeurls 
+- Arrive at Harmony
+- Defeat Arbuda
+- Clear the Closed Fist
+- Defeat Ivon Coeurlfist
+
+Notes:
+There aren't many traps in the dungeon, most of the danger comes from mobs. Watch out for stone pistons on the upper pathways that have clearly marked AoEs. Also avoid the giant blobs of moss in the early phases that inflict Slow/Heavy, and the Spirit Flames in the latter stage that home in on players.
+
+Bosses:
+
+Coeurl Sruti - Uses claw attacks, jumps without a marker, and an AoE called Radial Blaster that increases magical damage received. Summons Coeurl Smriti around 77% HP who uses similar attacks. Focus Sruti first. Periodically casts Electric Blaster that places markers on players for a Thunder AoE.
+
+Arbuda - Massive four-armed statue best tanked at one end of the arena. Has powerful unmarked cone AoEs to sides and front/back. Also uses Fourfold Shear on tank, Hellseal requiring moving to glowing symbols, Tapas placing invisible markers, and Killer Instinct parrying attacks from certain sides.
+
+Ivon Coeurlfist - Powerful ancient monk. Uses Spirit Wave AoE whirlwind, Hurricane Kick stun AoE, Touch of Slaughter reducing a player to 1 HP, Rhalgr's Piece mine, The Rose of Destruction stack marker, Furious Fist collecting orbs to reduce damage, and Silent Roar tidal wave knockback. Also summons waves of glowing heads to avoid.
+
+Loot:
+Drops Allagan Tomestones of Poetics and item level 300 Arhat and Crimson Lotus gear. Treasure coffers contain additional accessories and gear.
+
+Achievements:
+Mapping the Realm: The Temple of the Fist - Discover every location within the dungeon.
+
+Let me know if you need anything else!

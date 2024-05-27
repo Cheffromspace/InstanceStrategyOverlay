@@ -1,0 +1,30 @@
+<strategy_text>
+Lightwarden: Innocence
+
+Phase 1
+Realmrazer: Moderate party-wide damage.
+Heavenly Host: Summons one Forgiven Venery and four Forgiven Shame adds.
+Scold's Bridle: Cast by Forgiven Shame, deals moderate party-wide damage.
+Holy Sword: Cast by Forgiven Venery, a relatively weak tankbuster.
+Day Break: Ground-targeted Circle AoE below each DPS.
+Sinsphere: Four meteor AoEs. Each circle must have a player in it to soak the damage, otherwise the damage is spread to the entire party.
+Enthrall: Used at the same time as Sinsphere. Gaze attack that inflicts Confusion on players hit.
+Guiding Light: Used after the second cast of Heavenly Host. Bestows Vauthry's Blessing to the adds, increasing their damage.
+Exalted Wing: Used just prior to phase 2. Deals moderate party-wide damage every few seconds.
+Exalted Plumes: The final hit of Exalted Wing. Deals moderate party-wide damage and inflicts Down for the Count on the entire party as the fight moves into Phase 2:
+
+Phase 2
+Innocence is fully healed as the phase begins. The party will also receive a checkpoint that they will restart from if they wipe. In this form, Innocence's attacks hit harder.
+Righteous Bolt: Tankbuster
+Winged Reprobation: Innocence embeds two swords into the arena which launch three sets of three Line AoEs in symmetrical patterns.
+Rightful Reprobation: Innocence moves to the center of the arena and sends out eight swords as Line AoEs. After the attack, the swords will linger for a few seconds before returning to Innocence as Line AoEs. Getting hit by either part of the attack inflicts Physical Vulnerability Up.
+Soul and Body: S-shaped AoE that rotates. Move to stay ahead of the attack or stand in one of the two safe zones within the AoE.
+Shadowreaver: High party-wide damage.
+Flaming Sword: Innocence becomes untargetable and begins building an Immaculate Authority meter. The same five adds will spawn again, but the Forgiven Venery will be shielded.
+Holy Sword: Forgiven Venery will tether to each of the Forgiven Shame adds, one at a time. If the tethered Forgiven Shame isn't killed before the cast goes off, the Shame will be sacrificed to cast Guilty Verdict, dealing moderate party-wide damage and inflicting a stack of Slashing Resistance Down. Once the Forgiven Shames have been dealt with, Forgiven Venery will drop its shield and become targetable.
+Manacle: Ground-targeted Circle AoEs cast by Forgiven Shame.
+If the Immaculate Authority meter reaches 100, Flaming Sword will wipe the party. If Forgiven Venery was allowed to sacrifice too many Shames, the stacks of Slashing Resistance Down will cause Flaming Sword to deal potentially lethal damage to the party even if the meter was stopped early. The party should heavily mitigate this attack at 2 stacks of the debuff. If there are 3 or more stacks, a Tank Limit Break is recommended.
+God Ray: Innocence moves to the center of the arena and casts three Cone attacks that hit in three parts (melee range, then mid-range, then long range). Cast three times in a row, with each subsequent cast hitting where a safe area was in the last.
+Light Pillar: Line-up Stack on a random player.
+Beatific Vision: Proximity-based Line. Innocence moves to the edge of the arena and charges through to the other side. The closer the player is to the charge path, the more damage they take.
+</strategy_text>

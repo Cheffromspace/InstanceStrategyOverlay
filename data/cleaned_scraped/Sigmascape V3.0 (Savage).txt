@@ -1,0 +1,62 @@
+<cleaned_strategy_text>
+Strategy
+Guardian
+In this three-phase battle, players will find themselves in an otherworldly location, akin to a mechanical factory, within a square-shaped arena that includes a dangerous outer wall which should be avoided at all costs. Any player who touches the edges of the arena for any reason will suffer moderate damage and a dispellable Paralysis debuff, rendering them unable to move, though it can be dispelled via Esuna.
+
+Whilst facing off against this literal death-machine, players will also notice large monitors outside of the arena which will give some visual hints regarding upcoming mechanics. Compared to the normal version of the battle, these monitors will be a much more prominent feature of the encounter. For example, the Guardian will load programs quite frequently, displaying sprites on the monitor which will indicate which attacks will happen next, forcing the raid to keep a close eye on the screen much more often compared to normal mode.
+
+General Mechanics
+Magitek Ray - Guardian turns to face a random player and - after an animated wind-up - emits a straight-line AoE across the arena. Any player hit by the beam will suffer high damage and be afflicted with a stackable Vulnerability Up debuff.
+
+Arm & Hammer - a devastating tank-buster against Guardian's current target. Be sure to mitigate the blow with cooldowns whenever possible.
+
+Atomic Ray - places orange markers upon random damage-dealers. After a brief delay, marked players will detonate via unavoidable AoE damage and leave behind a pulsing orb at their current locations (which will periodically explode in a large AoE radius). Marked players should spread apart from each other (and the rest of the raid) to avoid overlapping the initial explosions. Once the orbs have been dropped, the entire raid should move away from their location.
+
+Prey Missile - places a noticeably large orange-red marker on a random damage dealer. After a brief delay, the marked target will suffer moderate damage and receive a flaming debuff.
+
+Missile Simulation - creates multiple missiles at various edges of the arena that will slowly begin to travel from one side to the other, leaving only a few gaps for players to weave through them. Any player hit by a missile will suffer moderate damage and debuffs, so avoid at all costs.
+
+Diffractive Plasma - unleashes unavoidable raid-wide AoE that will require heavy healing.
+
+Load Program - the monitors outside of the arena will display an image that represents which program is being loaded. There are four possible programs - each being represented by a recognizable sprite of Dadaluma, Ultros, Air Force, and Bibliotaph.
+
+Program Mechanics
+Load (Program) - displays a program (sprite) on the monitor before unleashing a program-specific opening attack.
+Run (Program) - summons an add based on the program.
+Skip (Program) - causes the Guardian to completely skip the program being displayed on the big screen and run the program on the small screen instead.
+Retrieve (Program) - causes the Guardian to retrieve and Load a previously Skipped program.
+Copy (Program) - causes the Guardian to make a copy of the currently active program which it will eventually Paste later in the encounter.
+Paste (Program) - causes the Guardian to utilize a previously Copied program.
+
+Program: Dadaluma
+Load: Knockback in the form of a damaging shockwave. Position yourself to remain inside the arena.
+Missile Simulation, causing the arena to fill with slow travelling missiles that must be avoided.
+Chakra Burst will spawn eight yellow circles within the arena - each one displaying a slowly descending orb (meteor mechanic), indicating that at least one player must be standing within each circle before the orbs hit the platform. If one (or more) circles are uninhabited when the orbs descend, the entire raid will suffer damage and Damage Down debuffs.
+Run: Summons Dadaluma into a corner of the arena - an add that should be picked up by the off-tank and slain. While active, he will occasionally unleash an Aura Cannon (straight-line AoE) towards a random player marked via a blue-icon, inflicting moderate damage and bleeds.
+
+Program: Ultros
+Load: Pools of ink will be dropped onto all members of the raid in the form of unavoidable and non-telegraphed AoE circles. All players will need to spread apart to avoid overlapping damage.
+Tentacle Simulation will cause four tentacles to emerge from beneath four random players. Tentacles will eventually use Wallop in the direction selected players are facing, which is a column AoE that will outright slay any player caught in the attack.
+Run: Summons Ultros into a corner of the arena - an add that should be picked up by the off-tank and slain. While active, Ultros will periodically attempt to cast Stoneskin - an absorb shield that will render him nigh unkillable if he succeeds, so it should be interrupted at all costs.
+The Guardian will cast Air Raid, becoming untargetable while floating above the arena, eventually targeting a random player with Chain Cannon. The entire raid should battle Ultros in the corner to bait Chain Cannon predictably to that location. After Chain Cannon, the Guardian will utilize Main Cannon, dropping a proximity marker at the previously bombarded location, so the raid should have already moved to a different corner.
+
+Program: Air Force
+Load: The Guardian will unleash a point-blank AoE from its current location, forcing everyone in melee range to retreat to safety.
+Run: Summons four Air Force adds - one per corner - with each one tethering to a random damage dealer. After a brief delay, each add will aim a huge cone-shaped AoE (Diffractive Laser) towards their respective target, which will destroy any players caught in its wake. Damage dealers should turn the add away from the raid and force the cannons to shoot harmlessly outside of the arena while attacking the add.
+Bomb Deployment will create two defusable explosives within the arena - each one displaying a red and blue wire. Players must look to see which of the two colors is glowing brighter than the other and stand on that respective wire. Walking on the incorrect wire will detonate the bomb, wiping the entire raid.
+
+Program: Bibliotaph
+Load: Four summoning circles will appear within the arena. The raid will need to quickly 'close' these summoning circles by having four players stand within each circle at the same time, locking the portal. Any summoning circles that remain unclosed will eventually disperse, but not before spawning a vicious add.
+Run: Summons Bibliotaph into a corner of the arena - an add that should be picked up by the off-tank and slain. While active, Bibliotaph will periodically use Thrub, a vicious tank-buster against its primary target.
+
+Phase 2: Virus Combat Program
+Positive/Negative Charge - the entire raid will be debuffed with an even split of "+" or "-" (Positive/Negative) debuffs, and tethered into pairs. Some pairs will share opposite charged (+/-), meaning they will eventually be pulled together, whereas some other pairs will have like charges, meaning they will eventually be pushed apart.
+Searing Wind - afflicts two pairs of players (with opposite charges, meaning each pair will eventually be pulled together). One pair is a tank and healer, and another pair is two damage dealers. Pairs affected with Searing Wind will periodically unleash massive AoEs at their location, inflicting unavoidable (minor) damage to themselves, but massive damage and knockbacks to anyone overlapped by the AoE. Pairs need to spread apart from each other (and move away from the raid) as soon as possible, preferably by standing in adjacent corners away from the boss.
+Abandonment - afflicts two pairs of players (with like charges, meaning each pair will eventually be pushed apart). One pair is a tank and healer, and another pair is two damage dealers. Pairs affected with Abandonment need to remain close to at least one other player at all times. If a player with Abandonment ends up alone, they will be afflicted with Hysteria, causing them to lose control of their character.
+Aether Rot - a transferable debuff that will be placed on a single player with Abandonment. If Aether Rot expires, the debuff explodes, resulting in death for all participants. When transferred, the debuff duration will reset, though it cannot be transferred to a player more than once, thus it will need to be passed between raid members in a controlled manner throughout the phase.
+Viral Weapon - once Abandonment and Searing Wind have resolved, the Guardian will utilize various generic mechanics before unleashing Viral Weapon, removing the Aether Rot debuff and disorienting all players. While disoriented, a rotating pointer will spin overhead, and any attempt to move will cause the marker to cease spinning and move you in the direction being pointed at. Players will need to avoid mechanics like Diffractive Laser, Air Raid and Main Cannon while having only partial control of their character.
+Diffractive Radar - causes the Guardian to scan the arena via a very noticeable green radar telegraph. Whilst the arena is being scanned, any player who moves for any reason will suffer high damage and be afflicted with paralysis. Players are free to continue dealing damage so long as they remain in one spot.
+
+Phase 3: Paste Program
+The Virus Combat Program (Phase 2) ends with Paste Program, causing the Guardian to paste one of the programs that were Copied during the first phase of the battle. Due to there being only two possible paths for programs in the first phase, Paste Program will either be the Air Force Program or Ultros Program, followed by Dadaluma Program > Bibliotaph Program or Bibliotaph Program > Dadaluma Program, followed lastly by Air Force or Ultros (whichever wasn't used at the beginning of phase 3). Whilst the mechanics of each program remains the same, it will be chaotically peppered with additional mechanical overlaps, but nothing you haven't dealt with already. The hard enrage is a long cast of Extermination Sequence.
+</cleaned_strategy_text>

@@ -1,0 +1,27 @@
+<strategy_text>
+Abilities
+
+Lord of Crags: Titan
+Rock Buster is an instant melee attack that deals a moderate amount of damage to Titan's current target.
+Landslide is a frontal column AoE that deals a moderate amount of damage and knocks back all targets hit.
+Tumult is a stomp attack that deals a small amount of damage to all players. It is used up to seven times in a row depending on Titan's current HP.
+Geocrush is a leaping AoE attack. When Titan jumps into the air, a giant, red, circular ground indicator will appear at the perimeter of the boss room. After a few seconds, Titan slams down into the center of the room, dealing damage to all players based on how close you are to the center. The ability also breaks off the perimeter of the boss platform. Players at the edge of the boss room will take moderate damage, whereas players close to the center will take heavy damage.
+Weight of the Land is an AoE ability that spawns circular pools of sand under four random players. The swirls explode after a few seconds and deal heavy damage to all targets hit.
+Bomb Boulders is an ability that spawns numerous bombs around the boss room that will eventually explode in the order they dropped, dealing heavy damage to nearby players.
+Rock Throw is an ability that spawns a clock-like symbol underneath a random player. After a few seconds, the marked player will be encased within a Granite Gaol. Any player trapped in this manner cannot move, attack, or use any abilities. However, other players can attack the Gaol to break the player free. After escaping a Gaol, the victim will have a cleansable Damage Down debuff.
+Earthen Fury is Titan's ultimate ability. If Titan's Heart has not been destroyed before the end of the phase, Titan will instantly kill all players. However, if the heart is destroyed in time, Titan will do a moderate amount of damage to all players instead.
+Mountain Buster is a frontal attack that deals heavy damage to Titan's target.
+
+Rotations
+Phase 1: Landslide -> Tumult -> (Repeat)
+Phase 2: Weight of the Land -> Landslide -> Tumult -> (Repeat)  
+Phase 3: Landslide -> Weight of the Land -> Bomb Boulders -> Landslide -> Weight of the Land -> Rock Throw -> Tumult -> (Repeat)
+Phase 4: Rock Throw -> Landslide -> Weight of the Land -> Tumult -> Rock Throw -> Landslide -> Weight of the Land -> Earthen Fury
+Phase 5: Mountain Buster -> Tumult -> Weight of the Land -> Bomb Boulders + Landslide -> Mountain Buster -> Weight of the Land -> Rock Throw -> Landslide -> (Repeat)
+
+Tips
+1. You can instant-die if you get pushed off the ledge. The attack "Landslide" is a line AOE targeting a random party member. If you get hit by this you will be knocked off the stage, so prioritize dodging it over trying to tank the damage.
+2. During "Geocrush" (boss jumps up in the air, disappears, then slams the ground) there is no knockback when he lands. However, the arena past the red line is destroyed. Therefore, stay inside the red circle (so you don't fall off), but stand just in front of the line to take less damage.
+3. When the rock boulders spawn they will become targetable. Level-synced, destroying them is impossible. Watch the order they appear in to know which order they will explode, and dodge them.
+4. Falling off used to be a perma-death, but in the current patch you can now be resurrected.
+</strategy_text>

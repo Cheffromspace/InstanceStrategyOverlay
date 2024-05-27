@@ -7,7 +7,7 @@ def configure_logging():
     logger.setLevel(logging.ERROR)
 
     # Create a file handler
-    file_handler = logging.FileHandler("error.log")
+    file_handler = logging.FileHandler("logs/error.log")
     file_handler.setLevel(logging.ERROR)
 
     # Create a formatter and add it to the file handler

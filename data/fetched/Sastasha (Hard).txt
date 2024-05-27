@@ -1,0 +1,36 @@
+Here is the cleaned up text for the Sastasha (Hard) strategy guide:
+
+Sastasha (Hard) is a level 50 dungeon introduced in patch 2.4.
+
+Objectives:
+Defeat Karlabos
+Clear the Pull  
+Defeat Captain Madison
+Defeat First Mate Haerstymm
+Defeat the Kraken
+
+Enemies:
+Dripping Sallet, Spelaean Slug, Drowned Deckhand, Drowned Steersman, Drowned Powder Monkey, Drowned Lodesman, Drowned Boatswain, Sastasha Pugil, Grotto Piranu, Beryl Crab, Cave Crab, Brine, Drowned Courtesan, Drowned Wench, Captain's Boy, Captain's Guard, Captain's Leech, Captain's Slave, Drowned Topman, First Mate Haerstymm, Tentacle, Kraken's Arm
+
+Boss Strategy:
+
+Karlabos
+Karlabos will drop Aqua Balls to apply a damage-over-time Slime debuff. Remove Slime with Esuna. He targets highest enmity with Prey, stunning them. Prey can be passed by running into others. His Tail Screw attack brings players to 1% HP but kills if they have Slime. Stun Tail Screw if possible. Avoid standing too close to overlap Slime debuffs. Healer priorities: Remove Slime > Tank health > Party health.
+
+Captain Madison  
+Kill Captain's Guard adds quickly when they spawn. After charging a player, Madison marks a random player and shoots until taking enough damage. He cannot be stunned while shooting. At low HP, he spawns adds then runs away. Gather in center for 3rd and 4th add sets and AoE them down. Use caster LB on 3rd set if needed. Dump DPS after he charges and starts shooting.
+
+Kraken
+When only Kraken and Tentacles - Attack Kraken, ignore Tentacles.
+When Kraken, Tentacles and Arms - Kill Arms, ignore Tentacles. 
+When Kraken and 6 Arms - Survive.
+Ignore Ink Jet AoEs, just remove Blind with Esuna.
+Alternative: Kill one Arm in a corner, then ranged DPS Kraken's head from that hole.
+
+Loot:
+Karlabos - Allagan Tomestones, Antique gear, Rings
+Captain Madison - Allagan Tomestones, Antique gear, Accessories 
+Kraken - Allagan Tomestones, Kraken Card, Faded Riptide book, Necklaces, Antique gear, Tight-beaked Parrot minion
+Treasure Coffer - Splintered Chest
+
+I have removed all the image tags, links, and other unnecessary formatting while keeping the core strategy guide content intact. Let me know if any other cleanup is needed.

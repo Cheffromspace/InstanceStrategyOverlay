@@ -1,0 +1,17 @@
+<span class="boss">Manor Claviger</span>:
+- <span class="ability">Sweet Steel</span>: 📐 <span class="mechanic">Untelegraphed cone AoE, face boss away from party</span>
+- <span class="ability">Void Fire II</span>: <span class="mechanic">🚫 Interruptible AoE spell, typically targets ranged players</span>
+- <span class="ability">Dark Mist</span>: <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+
+<span class="boss">Manor Jester and Manor Steward</span>:
+- <span class="mechanic">Focus Jester first, less HP and more damage</span>
+- <span class="ability">Ice Spikes</span> (Jester): <span class="mechanic">🚫 Interruptible spell</span>
+- <span class="ability">Soul Drain</span> (Steward): <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+
+<span class="boss">Lady Amandine</span>:
+- <span class="ability">Void Fire III</span> and <span class="ability">Void Thunder III</span>: <span class="mechanic">🚫 Interruptible spells</span>
+- <span class="ability">Dark Mist</span>: <span class="mechanic">💥 Large PBAoE, can be avoided by stunning boss</span>
+- <span class="ability">Seduced debuff</span>: <span class="mechanic">🏃 Slowly walk towards boss, turn around quickly to avoid AoE</span>
+- <span class="note">Can summon Manor Sentry and Lady's Handmaidens</span>
+
+<span class="note">Collect keys to progress: 🟩 Green Key, 🟨 Yellow Key, 📜 Bloody Parchment</span>

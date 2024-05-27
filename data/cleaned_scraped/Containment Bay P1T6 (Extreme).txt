@@ -1,0 +1,98 @@
+<strategy_text>
+The Goddess: Sophia
+Please note that players can fall off the arena to their death but can be resurrected after a moderate delay. The party should assign pairs of players, each comprising one tank/healer and one DPS, for a future mechanic.
+
+Sophia utilizes the following moves and mechanics throughout a total of three phases. Bear in mind that certain abilities, if not dodged successfully, can inflict a stack of Vulnerability Up, increasing the damage an afflicted player will take for up to two minutes.
+
+Thunder II, a large conal cleave aimed in the direction that Sophia is facing. Keep in mind that this ability has no telegraph, thus players must watch out for Sophia's cast-bar and ensure they are not standing in front of her.
+
+Thunder III is a giant donut AoE emitted from Sophia with a safe spot just inside her hitbox. It can also be avoided by standing far enough away.
+
+Aero III, a large AoE centered on Sophia that deals moderate damage and inflicts a knockback, making it possible for Sophia to punt players out of the arena to a quick death.
+
+Note: These mechanics will be used throughout the encounter at various intervals.
+
+Phase 1
+Thunder II, the non-telegraphed frontal cleave, will be encountered first. As a result, Sophia should be picked up by the main tank and turned away from the group as soon as the fight begins.
+
+Daughter, the lower-half of Sophia, will disappear from beneath her and materialize at one of the corners of the arena. Unlike Normal mode, Daughter will cast Gnosis - a knockback in the direction it is facing. To combat this, participants should move towards Daughter and aim themselves so that they will be knocked towards the opposite corner of the arena. Poor positioning will result in victims being sent tumbling out of the arena to their doom. This knockback can be prevented with Arm's Length or Surecast.
+
+Alon Teleos will summon four blackened Sophia clones around the arena. These adds can be targeted but are invincible, so players should avoid switching targets to them. After tethering to a clone, Sophia will cast an ability against the group, such as Thunder II, Thunder III and Aero III. Bear in mind that the used ability will then be transmitted to the clone she is presently tethered to. This will persist until all four clones have been given an ability by Sophia, thus participants should keep an eye on which abilities are transferred to which clones. It is worth noting that, later in the fight, Sophia will utilize this mechanic but delay tethering to clones in order to weave in additional mechanics. In short, she can only transmit the above three abilities and only when tethered to a clone.
+
+Execute causes the clones to cast their abilities simultaneously with no telegraph. Having paid attention to the transferred abilities and the positioning of the clones, players must quickly discern which areas of the arena are safe to stand in before execute is fully cast.
+
+This mechanic has two possible main patterns:
+Pattern 1: Four clones spawn in the intercardinals and all face the center. Two opposite corner clones who are tethered with Thunder III will be safe.
+Pattern 2: The clones occupy a 3x2 grid, leaving some empty areas. The safe spot will always be a corner that does not have a clone, or behind a clone that is tethered with Thunder II.
+
+Adds Phase
+Sophia will begin casting Cloudy Heavens, making herself invulnerable and marking all players with Eternal Doom. This debuff can only be cleared by defeating three adds. This essentially servers as the enrage timer for this phase.
+
+If the debuff timer expires or if players are fatally injured while affected by Eternal Doom, they will not die but will will be inflicted with Zombification, attacking other party members with no control over their movement or actions.
+
+The First Demiurge is a Paladin-based add that utilizes AoE attacks and a two-directional parry, indicated by shield effects either in front and behind it or to both of its sides. Players who attack the incorrect side during the parry-mechanic will be knocked back and debuffed. If it uses Vertical Kenoma, the parry will be to its front and rear, while Horizontal Kenoma will cause the parry to be at its sides. Ideally, this add should be focused last. Eventually, this add will also cast Infusion - a fatal blow aimed at a random player that must be absorbed by the group. Additionally, it will also knockback players who are not absorbing damage by standing directly in the center of the line-based stack-marker. An alternative way of handling this is to simply sacrifice the targeted player, who will become zombified for several seconds.
+
+The Second Demiurge is a Healer-based add which will heal the other adds and also uses a gaze mechanic (Divine Spark) to confuse any players looking directly at it when it reaches 50% health. Ideally, this add should be slain first.
+
+The Third Demiurge is a Lancer-based add that will use Ring of Pain, a small point-blank AoE that drops a persistent ice puddle on the ground. Unlike Normal mode, The Third Demiurge will cast Gnostic Rant, a 270 degree in front that can be avoided by standing behind it. Ideally, the add should be moved away from the group so that it drops a puddle in a more convenient location, then pulled to a corner of the arena and faced away from the group so that Gnostic Rant can be easily avoided.
+
+Scales of Revelation will now be summoned once all three adds have been slain, activating a sequence which requires players to stand on the right edge of the arena while the scales tip it, forcing everyone to slide towards the left edge. They should then move to the left edge, as the arena will slide right again, to prevent them from being knocked off. After the arena has been tipped twice, Sophia will unleash an unavoidable AoE (The Scales of Wisdom) that deals high damage and should be mitigated. Note that players can use Arm's Length or Surecast to prevent sliding during all arena tilts in this encounter, although it will not be up for all of them due to the 2 minute cooldown, so should be saved for trickier patterns. Players should not knockback immune this initial tilt.
+
+Phase 2
+Quasar, like normal mode, can create tethers to the scales on the east and west of the platform, causing meteors to fall towards them and potentially Tip the Scales, as seen earlier. However, unlike Normal mode, it can also summon a proximity-based meteor on random layers (or both at the same time), forcing the raid to move away to avoid proximity damage. Seeing as the scales can only tip to the east and west, it would be wise to have the whole group remain on a northern or southern edge of the arena so that everyone can move to the opposite side if proximity meteors are dropped.
+
+If Quasar tethers to the platform, each of these tethers will spawn a meteor that will slowly fall towards the Scales of Revelation. Players must determine which side of the arena is safe by calculating the 'weight' of the meteors and moving to the side that weighs the least (if the scales would become uneven). If uneven on collision, the arena will tilt towards the side that weighs the most and send players sliding in that direction. The larger the weight-difference, the further players will slide.
+
+NOTE: There are two types of Meteors that help calculate the tilt.
+Orange Meteors have a value of 1.
+Blue Meteors have a value of 3.
+
+As such, if three orange meteors fall on one side, they will balance a blue meteor on the other, preventing the scales from tipping. However, Equilibrium were to call down two orange meteors on one side (2) and a blue and orange on the other (3), the heavier side will be tilted lightly, causing players to slide in that direction by a moderate amount, but not the full length of the platform.
+
+An easy way to determine the the position and strength of the tilt is to use the following rules.
+Always go opposite the blue meteor.
+If there are is odd total number of tethers, the knockback will be weak (~75% the length the arena).
+If there are is even total number of tethers, the knockback will be strong (~95% the length of the arena).
+
+Equilibrium causes meteors to drop down from the tethers onto the Scales of Revelation. The first Equilibrium will be even via a blue meteor (3) and three orange meteors (3) on opposite sides. After the meteors land, Sophia will also randomly use one of her three standard abilities: Thunder II, Thunder III, or Aero III.
+
+Equilibrium will be used once more, except this time it will always be uneven. Players must ensure they stand on the lighter side to avoid being tipped off the arena by the Scales of Revelation. The best approach to this mechanic is to always move away from Blue Meteors. However, seeing as the Scales of Revelation can overlap a light tilt or heavy tilt with other mechanics, the group must quickly judge whether to stand on the far edge or somewhere closer to the middle. A light tilt will slide players about 75% across the platform, whereas a heavy tilt will slide players from one end directly to another.
+
+Daughter will be summoned during this uneven Equilibrium at either the north or south of the arena. As players are being tilted by the Scales of Revelation, the Daughter will eventually fire a straight-line AoE across the platform. The group must discern where to stand to a) avoid being tilted off the platform and b) avoid landing in the path of the beam.
+
+Thunder II will typically be cast after the uneven (second) Equilibrium.
+
+Sophia Rush causes Sophia to move to the eastern or western edge of the arena and charge in a line AoE that hits half the platform Unlike Normal mode, this will overlap with an Equilibrium (uneven).
+
+Sin & Punishment causes each player to acquire a black or white marker which will explode, dealing high damage, and inflicting Infirmity on anyone who does not stand on another player with the opposite colour. All tanks and healers will receive the same color, while all DPS will receive the opposite color, allowing for fixed partner assignments. Each player with a black marker should stack with one player with a white marker. Stacking two of the same color will cause them to explode and deal high raidwide damage.
+
+Cintamani is an unavoidable raid-wide AoE attack with no telegraph other than the noticeable yellow animation Sophia uses. Cintamani will be cast twice in a row when first encountered.
+
+Alon Teleos will summon four blackened Sophia clones around the arena once more, except this time, Sophia won't be as quick to cast Execute. Instead, she will use various other attacks first (see below).
+
+Arms of Wisdom, a tankbuster and small knockback against her main target. Just like Cintamani, Arms of Wisdom is noticeable by the casting animation - in this case, a green wind effect - rather than an obvious telegraph. The tank should use mitigation and avoid standing at the edge of the arena, or they will be knocked off. Furthermore, Arms of Wisdom will debuff the victim with Lightning Resistance Down II. The off-tank should provoke Sophia while she casts Arms of Wisdom to prevent the main tank from dying to auto-attacks.
+
+Execute will now be cast, except this time, it will overlap with Daughter, which will spawn at one of the edges of the arena and charge up a straight-line AoE across the platform. As a result, players must identify safe spots by considering both the clones and the Daughter.
+
+Cintamani, the unavoidable raid-wide AoE, will now be cast three times in a row instead of two. Healers will need to be on their toes as this triple attack will also be followed by a tank buster.
+
+Equilibrium will be cast once more, as well as Daughter, which must be avoided the same way as before. Make sure you pre-position yourself so that you avoid being tilted off the platform and avoid being blasted by the Daughter's Beam in the process.
+
+Equilibrium will follow once again, except now, it will overlap with Daughter and Sophia Rush. Once more, you have to pre-position yourself to avoid being tilted off the platform, avoid the beam from Daughter, and avoid colliding with Sophia as she rushes across the platform.
+
+Cintamani will be triple-cast once again, followed by Arms of Wisdom (tank buster) and Thunder II (frontal cleave).
+
+Sin & Punishment will follow (the black and white marker mechanic), except this time, the Daughter will spawn in a corner and prepare to knockback the raid. Players must position themselves so that they resolve Sin & Punishment in a place where they will not be knocked out of the arena. Once concluded, Sophia will once again attack her main target with a vicious tank buster.
+
+Equilibrium will be cast yet again, except now, it'll stack with Sin & Punishment, forcing players to quickly resolve the black and white markers before moving to an appropriate side of the arena and avoid being tilted to their doom.
+
+Alon Teleos will summon four Sophia clones yet again (with even more sub-mechanics weaved in-between, such as triple Cintamani and tank busters). Be sure to keep an eye out for when she DOES tether and what she uses after doing so (such as Aero III, so you know which clone is unsafe). Sophia will also weave Quasar (proximity meteors) between tethers, forcing the group to stack up so that there is sufficient space to move away and avoid proximity damage, followed by another tank buster.
+
+Execute will be cast alongside Sin & Punishment, forcing the group to pair up and resolve the white & black markers near any available safe-spots provided by the clones. Remember to avoid the clone with Aero III.
+
+Cintamani will once again be triple-cast, followed by a tank buster.
+
+Mechanics will repeat until Sophia is defeated or enrages , starting with Equilibrium & Daughter, much like before.
+
+Enrage: Each party member will receive all white or all black markers with none of the other color, making them impossible to resolve. This will be coupled with a Cintamani that will wipe the party if anyone survives the failed markers.
+</strategy_text>

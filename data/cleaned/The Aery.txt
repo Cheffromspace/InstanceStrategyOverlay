@@ -1,0 +1,44 @@
+<strategy_text>
+Duty Support
+Temple Knight
+Temple Chirurgeon
+Estinien
+Temple Banneret
+
+Objectives
+Clear the Aery exterior.
+Defeat Rangda.
+Clear the Aery interior.
+Defeat Gyascutus.
+Clear Errn Scorh.
+Defeat Nidhogg.
+
+Bosses
+Rangda
+Rangda is a lightning-themed boss with a few straight-forward mechanics.
+Electric Cachexis: A long-cast attack that will attack everyone outside of Rangda's melee range. (Similar to Dragon's Voice from Cutter's Cry).
+When Rangda places the Prey debuff on you, run to one of the tall pillars encircling the room to transfer it.
+Kill adds as they spawn.
+
+Gyascutus
+Proximity Pyre: A close-range circle attack centered on the boss.
+Ashen Ouroboros: A donut attack around the edge of the room.
+Inflammable Fumes: Whenever this is cast, an unsafe ring will appear around the area. Be sure not to step in this area. there will be circles of fume spinning around the boss, which can be safely stepped in at first. The boss will then cast either Ashen Ouroboros or Proximity Pyre, causing the fume circles will explode at the same time as the donut or circle attack, so find a safe place where you are not in the circles of fume and not in the other attack marker.
+Crippling Blow: Tankbuster
+Deafening Bellow: Unavoidable raidwide damage
+Body Slam: Knocks all players back from the center of the area. Make sure to stand near the center to avoid being knocked back into the unsafe ring around the area, or use a knockback prevention move such as Arm's Length, Surecast, etc.
+
+Nidhogg
+With patch 6.2, Estinien is no longer present within the battle as an NPC, so the focus should be entirely on defeating Nidhogg.
+Deafening Bellow: Unavoidable raidwide damage
+Hot Tail: A line attack across the length of the area in the direction that Nidhogg is facing.
+Hot Wing: Two line attacks on each side of the area under Nidhogg's wings.
+This and Hot Tail are sometimes accompanied by Nidhogg spawning eyeball-shaped circle markers under random players. Move out of these circles to avoid taking damage from them.
+Cauterize: Nidhogg will leave the arena and cast a fiery line attack across the length of the platform. Move out of the attack to avoid damage.
+Horrid Roar: Nidhogg will also leave a circle marker on each player, who should also spread out to avoid overlapping.
+The Scarlet Price: Tankbuster
+The Sable Price: Nidhogg will trap a random player within the Sable Price, which begins Sable Weave to kill them if not destroyed in time.
+Massacre: At around 50% HP, Nidhogg leaves the arena, summons several dragon adds, and begins charging up a Nidhogg's Rancor gauge. If the adds are not defeated before the gauge reaches 100%, Massacre will wipe the party.
+Horrid Blaze: A stack marker that occurs after the party withstands Massacre.
+From there, the mechanics repeat themselves until the boss is defeated.
+</strategy_text>

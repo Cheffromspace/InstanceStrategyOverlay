@@ -1,0 +1,35 @@
+<strategy_text>
+Albion
+Call of the Mountain: The screen will begin shaking and the system message "A rumbling in the distance draws closer..." will appear. A portion of the east or west wall will begin to have moving snow, telegraphing where a herd of animals will charge through the room as a line AoE that hits around a third of the arena. The system message "Another rumbling can be heard in the distance..." will then appear, and an animal herd will charge down another third of the room based on the telegraph. Anyone hit by the charging animals will be inflicted with Concussion and receive damage-over-time.
+Albion's Embrace: Telegraphed tankbuster
+Left Slam / Right Slam: The boss will use a half-room cleave to the left or right of its hitbox, based on the name of the attack. Has only a brief AoE indicator.
+Knock on Ice: The boss summons three chunks of ice, telegraphed by red AoEs.
+Icebreaker: The boss faces one ice chunk, tethers it, and targets with a orange reticle. It will use a large circular AoE (with only a brief indicator) that destroys the rock.
+Icy Throes (no cast bar): The boss marks everyone with an AoE telegraph so the party should spread. Two more ice chunks will also spawn.
+Roar of Albion: A roomwide AoE that can be dodged by hiding behind an ice chunk from the boss.
+
+Galatea Magna
+Waxing Cycle: The boss will use a large, telegraphed point-blank AoE, immediately followed by a very briefly telegraphed donut AoE that hits the previously safe area. Anyone hit by this attack or the next one will be inflicted with Sustained Damage.
+Waning Cycle: The boss will use a large, telegraphed donut AoE, immediately followed by a very briefly telegraphed donut AoE that hits the previously safe area.
+Soul Scythe: The boss will face a random cardinal, then jump to it and perform a large, briefly telegraphed, circular AoE in the direction it was facing.
+Soul Nebula: Unavoidable roomwide damage that also spawns will summon two portals to the boss's east and west. This is followed by Scarecrow Chase. Each portal will have a number of dots over it (1 or 2), indicating in which order the boss will teleport to them and use a briefly telegraphed cross AoE that hits the intercardinals of the portals. Anyone hit will be inflicted with Doom that must be cleansed with Esuna to prevent death. This first set can be dodged by remaining in the center of the room.
+Tenebrism: Gives everyone the Glassy-eyed debuff. Four meteor circles will sequentially spawn around the boss and must be soaked by at least one player to prevent them from exploding and dealing party-wide damage. When the last tower is about to be soaked, gaze indicators will appear above everyone, indicating that their Glassy-eyed debuff will resolve soon. Everyone must look away from each other or they will be inflicted with Petrification.
+Soul Nebula / Scarecrow Chase (version 2): Functions similarly as before, except the boss will start on the edge of the arena and summon four portals, one in the middle, and three in the other edges.
+
+Drowned King: Cagnazzo
+Shortly after engaging the boss, the arena will be surrounded by an AoE that will inflict Dropsy and deal damage-over-time to anyone who steps in it.
+Stygian Deluge: Unavoidable party-wide damage.
+Antediluvian: Spawns three sets of two bubbles across the arena, which will grow in size. When a bubble reaches maximum size, it will drop down as a large circular AoE with a brief indicator. The boss will also spawn a purple knockback AoE in the middle (Body Slam), which will kill anyone inside the AoE telegraph. This knockback cannot be prevented with knockback immune actions.
+Hydraulic Ram: The boss will sequentially telegraph several line charge and circle AoEs which will disappear after a short time. It will then use AoE attacks in the order of the telegraphs.
+Hydrofall: Telegraphed stack AoE.
+Cursed Tide: The boss assigns various debuffs to players and becomes untargetable.
+Neap Tide: A point-blank AoE on the afflicted player when the debuff expires. Three players will receive this.
+Spring Tide: A stack AoE on the afflicted player when the debuff expires. One player will receive this.
+The boss will spawn four immobile Fearsome Flotsam which must be defeated before Cagnazzo's Power reaches 100, or the party will wipe.
+The party's debuffs will resolve, but they will be telegraphed with standard AoE indicators for several seconds before they resolve.
+Several telegraphed circular AoEs will also spawn.
+Tsunami: Party-wide damage after the adds phase. Heal through and mitigate.
+Voidcleaver: Four portals will spawn, each tethering to one player. These will periodically spawn telegraphed conal AoEs in the direction of the tethered player.
+Lifescleaver: Multiple telegraphed conal AoEs originating from the boss.
+Void Torrent: Line AoE tankbuster.
+</strategy_text>

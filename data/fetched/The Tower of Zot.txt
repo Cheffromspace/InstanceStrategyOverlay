@@ -1,0 +1,43 @@
+Here is the cleaned up version of the Tower of Zot dungeon guide:
+
+The Tower of Zot is a level 81 dungeon introduced in patch 6.0 with Endwalker. 
+
+Objectives:
+- Arrive at Ingenuity's Ingress: 0/1 
+- Clear Ingenuity's Ingress: 0/1
+- Arrive at Prosperity's Promise: 0/1
+- Clear Prosperity's Promise: 0/1 
+- Arrive at Wisdom's Ward: 0/1
+- Defeat the Magus Sisters: 0/1
+
+Bosses:
+
+Minduruva
+- Manusya Bio: Tankbuster that inflicts a high damage-over-time poison. Remove immediately. 
+- Manusya Blizzard III: Boss fires twelve narrow cones from the center. Stand between the marked AoEs.
+- Manuysa Fire III: Large donut AoE avoided by standing near the boss.
+- Manusya Thunder III: AoEs fire from front, back, left and right of boss hitbox. Move away or stand at a diagonal until they pass.
+- Manusya Bio III: Covers entire room except area between boss and nearest wall. Move to unmarked side.
+- Transmute versions of spells mark a location and fire an orb. Orb triggers the spell from that spot. First is always Transmute Blizzard III.
+- Dhrupad: Targets non-tanks with a damage-over-time debuff. Used after every Transmute spell.
+
+Sanduruva  
+- Isitva Siddhi: Tankbuster.
+- Prapti Siddhi: Fires a large line AoE at each player. Move out of markers.
+- Manusya Berserk: Five orbs appear and explode in large AoEs. Getting hit inflicts Berserk debuff. Move to the gap in the ring of orbs against the wall behind it.
+- Prakamya Siddhi: Point-blank AoE. Move out to avoid.
+- Manusya Stop: Boss teleports to center and freezes players one at a time. Unavoidable line AoE hits each frozen player. Spread out to avoid excess damage. 
+- Manusya Confuse: Boss leaps from arena, returns with five clones. Only the real one lacks an emote. Run to wall behind real boss to avoid clone explosions.
+
+Harbingers Elect: Cinduruva/The Magus Sisters
+- Starts with only Cinduruva. Other sisters join and cast Delta Attack together.
+- Delta Attack varies based on text:
+   - "Glacial ice, entomb our foes!" - Blizzard III 
+   - "Thunderous tempest, smite our foes!" - Thunder III
+   - "Insatiable flame, consume our foes!" - Fire III
+- Avoid line AoEs from Sanduruva and cleanse debuffs from Minduruva. 
+- Defeat Cinduruva first to prevent her reviving sisters. Then defeat remaining bosses.
+
+Notable loot includes Manusya armor and accessories, Monstrorum weapons, a minion, orchestrion roll, and a guaranteed card from the last boss. Treasure coffers contain additional gear.
+
+Let me know if you need anything else!

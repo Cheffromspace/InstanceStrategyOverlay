@@ -1,0 +1,48 @@
+Here is the cleaned up text for the Alexander: Midas strategy guide:
+
+General Information
+Alexander: Midas is the second section of Alexander, the main 8-player raid in Heavensward. Released on February 23, 2016, Midas requires players with item level of 200 or higher to enter. Once unlocked, the raid can be queued from the Duty Finder.
+
+Unlock
+Players must first complete all of the Alexander Quests up through Enigma. This includes clearing all of the Alexander: Gordias raids.
+Players can then begin the level 60 quest Rearmed by talking to Roundrox in Dravanian Hinterlands (x21, y18).
+To unlock each floor after the first, continue the quest line and complete the previous floor. Each floor is listed separately.
+
+Floors
+Level Requirement: Disciple of War or Magic level 60
+Party Size: Eight players
+
+Duty | Abbreviation | Min IL | Boss(es) | Tomestones | Time Limit
+Alexander - The Fist of the Son | A5N | 200 | Faust, Hummelfaust, Ratfinx Twinkledinks | 10 | 90 min  
+Alexander - The Cuff of the Son | A6N | 200 | Blaster, Brawler, Swindler, Vortexer | 10 | 90 min
+Alexander - The Arm of the Son | A7N | 200 | Quickthinx Allthoughts | 10 | 90 min
+Alexander - The Burden of the Son | A8N | 200 | Onslaughter, Blaster, Brawler, Swindler, Vortexer, Brute Justice | 10 | 90 min
+
+Item level restrictions do not apply when registering as a full party or an unrestricted party.
+
+Rewards / Exchange  
+Treasure coffers that appear upon completing Alexander: Midas will not yield gear, but instead will yield items that can be traded for gear of your choosing.
+As of patch 3.3, weekly restrictions on rewards have been removed. 
+Also note that there is no weekly restriction on entering Alexander: Midas.
+
+Rewards:
+Floor | Tokens | Additional Rewards
+Fist of the Son (A5) | 2x Tarnished Midan Lens (Head), Tarnished Midan Shaft (Body), Tarnished Midan Crank (Hands), Tarnished Midan Spring (Legs), Tarnished Midan Pedal (Feet), 2x Tarnished Midan Bolt (Accessories) | -
+Cuff of the Son (A6) | Tarnished Midan Lens (Head), Tarnished Midan Shaft (Body), Tarnished Midan Crank (Hands), Tarnished Midan Spring (Legs), 2x Tarnished Midan Pedal (Feet), 2x Tarnished Midan Bolt (Accessories) | -  
+Arm of the Son (A7) | Tarnished Midan Lens (Head), 2x Tarnished Midan Shaft (Body), Tarnished Midan Crank (Hands), 2x Tarnished Midan Spring (Legs), 2x Tarnished Midan Bolt (Accessories) | -
+Burden of the Son (A8) | 2x Tarnished Midan Shaft (Body), Tarnished Midan Crank (Hands), 2x Tarnished Midan Spring (Legs), Tarnished Midan Pedal (Feet), 2x Tarnished Midan Bolt (Accessories) | Faust Armor Plating
+
+Exchange:
+By speaking with Sabina in Idyllshire (X:5.8 Y:5.2), players can exchange tokens obtained from Alexander: Midas for corresponding gear.
+
+Gear Slot | Required Token | # of Token
+Head | Tarnished Midan Lens | 2
+Body | Tarnished Midan Shaft | 4  
+Hands | Tarnished Midan Crank | 2
+Legs | Tarnished Midan Spring | 4
+Feet | Tarnished Midan Pedal | 2
+Accessories | Tarnished Midan Bolt | 1
+
+Gear
+Armor: See Prototype Midan Armor
+Accessories: See Prototype Midan Accessories

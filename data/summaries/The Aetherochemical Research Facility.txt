@@ -1,0 +1,54 @@
+<span class="boss">Regula van Hydrus</span>:
+- <span class="mechanic">🎯 Stun + untelegraphed AoE on random player</span>, 🩹 heal and 🏃 move away
+- <span class="mechanic">👾 Summons turrets</span> every phase swap, 💥 self-destruct if not killed
+- <span class="ability">Magitek Turret I</span>: ➡️⬅️ Line AoE on random player
+- <span class="ability">Magitek Turret II</span>: 🔴 Circle AoEs on random players
+- Boss dashes and casts <span class="ability">Magitek Slug</span> ➡️⬅️ line AoE, 👾 defeat turrets to stop
+- <span class="ability">Magitek Spread</span>: 📐 270° conal AoE after second set of adds
+
+<span class="boss">Harmachis</span>:
+- <span class="ability">Weighing of the Heart</span>: <span class="mechanic">Changes forms</span>, announced briefly before change
+- <span class="boss">Sphinx form</span>:
+  - <span class="ability">Riddle of the Sphinx</span>: 🔴 Dodgeable circle AoE
+  - <span class="ability">Chthonic Hush</span>: 📐 Untelegraphed conal AoE on tank, inflicts 🤢 Poison
+- <span class="boss">Anti-Cobra form</span>:
+  - <span class="ability">Hood Swing</span>: 🛡️ Untelegraphed tankbuster
+- <span class="boss">Anti-Naga form</span>:
+  - <span class="ability">Petrification</span>: <span class="mechanic">👀 Gaze attack</span>, look away to avoid 10s 🤢 Petrification
+  - <span class="ability">Circle of Flames</span>: 🔴 Instant AoEs on multiple players, 🏃<>🏃 spread
+- <span class="boss">Anti-Machina form</span>:
+  - <span class="ability">Ballistic Missile</span>: 🎯 Enumeration marker on player, 🤝 stack to prevent damage
+  - <span class="ability">Gaseous Bomb</span>: 🤝 Stack marker on random player
+
+<span class="boss">Lahabrea & Igeyorhm</span>:
+- <span class="note">As of Patch 6.3, both must be reduced to 0.1% HP</span>
+- <span class="ability">Shadow Flare</span>: 💥 Unavoidable raidwide damage by Lahabrea
+- <span class="ability">Fire Sphere</span>: 🔴 Lahabrea summons exploding Burning Stars
+- <span class="ability">Esoteric Fusion</span>: 🔗 Tethered Burning Stars advance and explode on contact
+- <span class="ability">Grip of Night</span>: 📐 Frontal cone AoE by Igeyorhm
+- <span class="ability">Circle of Ice</span>: 💠 Igeyorhm summons Frozen Stars with donut AoEs, stand on them
+- <span class="ability">Esoteric Fusion</span>: 🔗 Tethered Frozen Stars create bigger donut AoE, 💠 stand under them
+- <span class="ability">End of Days</span>: ➡️⬅️ Line stack marker between Lahabrea and target
+- <span class="ability">Dark Fire II</span>: 🔴 Spread to avoid overlapping AoEs on all players
+- <span class="mechanic">Health transfer if HP difference too large</span>
+
+<span class="boss">Ascian Prime</span>:
+- <span class="ability">Shadow Flare</span>: 💥 Unavoidable raidwide damage
+- <span class="ability">Height of Chaos</span>: 🛡️ Tankbuster
+- <span class="ability">Dualstar</span> + <span class="ability">Fusion Prime</span>: 🔗 Tethered Burning/Frozen Stars collide
+  - 💠 Ice first: Start middle, run to wall after donut AoE
+  - 🔴 Fire first: Start near wall, run middle after AoEs
+- <span class="ability">Universal Manipulation</span>: 💥 Raidwide damage + debuffs
+  - 🤢 Bleeding: Damage over time
+  - <span class="ability">Ancient Circle</span>: 💠 Donut AoEs, stack center
+  - <span class="ability">Dark Whispers</span>: 🔴 Spread to avoid overlapping AoEs
+  - <span class="ability">Ancient Frost</span>: 🤝 Stack marker on afflicted player
+  - <span class="ability">Burning Chains</span>: 🔗 Chained in pairs, run apart to break
+- <span class="ability">Entropic Flame</span>: ➡️⬅️ Line stack marker
+- <span class="ability">Arcane Revelation</span>: Boss untargetable, Shades appear
+  - <span class="ability">Chilling Cross</span> + <span class="ability">Dark Fire II</span>: ➕ Cross AoEs + 🔴 circles on players
+  - <span class="ability">Dark Blizzard II</span> + <span class="ability">Dark Fire II</span>: ➡️⬅️ Frozen lines + 🔴 circles on players
+  - <span class="ability">Shadow Flare</span>: 💥 Extra raidwide damage by both Shades
+  - <span class="ability">Annihilation</span>: 💥 Heavy raidwide damage based on boss's power gauge
+- <span class="ability">Ancient Eruption</span>: 🔴 AoE circles under each player
+- <span class="mechanic">Mechanics repeat until boss defeated</span>

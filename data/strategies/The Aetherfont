@@ -1,0 +1,30 @@
+<span class="boss">Lyngbakr</span>:<br>
+<ul><br>
+<li><span class="ability">Sonic Bloop</span>: 🛡️ <span class="mechanic">Moderate tank buster</span></li><br>
+<li><span class="ability">Upsweep</span>: 💥 <span class="mechanic">Party-wide damage, triggers crystal AoEs</span></li><br>
+<li><span class="ability">Tidal Breath</span>: 🏃 <span class="mechanic">Get behind boss to avoid wide frontal AoE</span></li><br>
+<li><span class="ability">Body Slam</span>: 💥 <span class="mechanic">Party-wide damage, spawns crystals of various sizes</span></li><br>
+<li><span class="ability">Floodstide</span>: 🎯 <span class="mechanic">Light damage AoE markers on all players</span></li><br>
+</ul><br>
+<br>
+<span class="boss">Arkas</span>:<br>
+<ul><br>
+<li><span class="ability">Battle Cry</span>: 💥 <span class="mechanic">Party-wide damage, limits arena on 2nd cast</span></li><br>
+<li><span class="ability">Lightning Leap</span>: 🔴 <span class="mechanic">Boss leaps away from tank, circular AoE + lightning lines</span></li><br>
+<li><span class="ability">Ripper Claw</span>: 🛡️ <span class="mechanic">Moderate tank buster</span></li><br>
+<li><span class="ability">Spinning Claw</span>: 🔴 <span class="mechanic">Circular AoE + wider lightning lines across arena</span></li><br>
+<li><span class="ability">Lightning Rampage</span>: 🏃 <span class="mechanic">Boss jumps 4 times, each with circular AoE + lightning lines</span></li><br>
+</ul><br>
+<br>
+<span class="boss">Octomammoth</span>:<br>
+<ul><br>
+<li><span class="mechanic">Accompanied by 8 untargetable Tentacles that will attack independently. Irregular arena with 5 circular platforms connected by bridges</span></li><br>
+<li><span class="ability">Tidal Roar</span>: 💥 <span class="mechanic">Low party-wide damage</span></li><br>
+<li><span class="ability">Octostroke</span>: 📐 <span class="mechanic">4 platforms flanked by tentacles' cone AoEs</span></li><br>
+<li><span class="ability">Vivid Eyes</span>: ➡️⬅️ <span class="mechanic">Narrow AoE through center, stand close to boss or far</span></li><br>
+<li><span class="ability">Saline Spit</span>: 🔴 <span class="mechanic">Circle AoEs on platforms, stand on connectors</span></li><br>
+<li><span class="ability">Tidal Breath</span>: 📐 <span class="mechanic">Wide frontal AoE, boss turns leaving 1.5 platforms safe</span></li><br>
+<li><span class="ability">Telekinesis</span>: 🔗 <span class="mechanic">Crystals tethered to platforms, become circle AoEs</span></li><br>
+<li><span class="ability">Breathstroke</span>: 📐 <span class="mechanic">Octostroke + Tidal Breath, 1 tentacle on safe platform</span></li><br>
+<li><span class="ability">Water Drop</span>: 🎯 <span class="mechanic">Spread to avoid overlapping circle AoEs on players</span></li><br>
+</ul><br>

@@ -1,0 +1,42 @@
+<strategy_text>
+Duty Support
+Thancred, Alphinaud, Y'shtola
+Class: Archon, Academician
+Archon Role: Tank or DPS, Healer or DPS, DPS
+
+Objectives
+Clear the Manifest.
+Clear Where Hearts Leap.
+Clear Where All Witness.
+
+Bosses
+Zuro Roggo
+The first boss in the dungeon.
+Spawns Adds (Choirtoad) throughout the fight. Inflicts debuff toad on two players that can't be dispelled and spawns two adds, these must be killed to dispell the debuff (Seems to hit the Healer and one DPS). Spawns two bubbles that inflict moderate damage and the debuff Damage Down.
+Be sure to kill the adds quickly if your Healer is inflicted with Toad
+
+Abilities
+Toy Hammer has a cast time on the Tank, causes a DOT (Concussion) that can be dispelled
+Water Bomb circular AoE that inflicts moderate damage
+
+Ziggy
+The second boss, a spriggan.
+Spawns three stones called Stardust with expanding AoE that need to be killed before the platform is covered. They become solid after the AoE. Emotes "Ziggy takes careful aim" and tethers to one player, can be avoided by hiding behind a stone.
+Spawns adds, Spriggan Gemcutter, that need to be killed.
+
+Abilities
+Jittering Glare Frontal Cone aoe
+Gyrating Glare Platform-wide AoE for high damage, can be dodged by hiding behind the stones
+
+Calcabrina
+A giant doll that starts out as 6 smaller dolls, 3 Calca and 3 Brina, that do various AoE patterns. Merges after the small ones are dead to Calcabrina.
+Be sure to kill Calca and Brina quickly, as it can hit your Healer and your party will take medium damage throughout the dollhouse phase.
+Look away from her if you or another player has a red eye above their head.
+
+Abilities
+Dollhouse Transforms two players into dolls (Calca and Brina) that cause a dot on these player and the dolls need to be killed to free the player and end this phase
+Slapstick A channeled AoE that she casts while Dollhouse is active
+Knockout Has a medium cast time and inflicts massive damage on the tank (or other players if the tank is dead)
+Brace Parry attacks from a certain direction
+Terrifying glance Targets a player with a red eye above their head and blasts everything in their direction with a frontal cone. Causes confusion if hit. This attack can be avoided by looking away from the boss.
+</strategy_text>

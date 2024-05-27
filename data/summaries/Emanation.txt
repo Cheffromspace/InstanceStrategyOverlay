@@ -1,0 +1,9 @@
+<span class="boss">Lakshmi</span>:<br>
+- Start: Kill Dreamer Ananta adds one at a time to lower Lakshmi's barrier<br>
+- <span class="mechanic">Pick up only one Vril orb</span> for 🛡️ shield (lasts 30s)<br>
+- Use Vril when Lakshmi moves to center for 💥 platform-wide AoE (no safe zone)<br>
+- <span class="ability">Hand</span> abilities:<br>
+  - 🔴 Blue circle pools that grow if damaged<br>
+  - ➕ Cross AoEs on random players<br>
+- 🎯 Stack on marked player to split damage<br>
+- <span class="note">Fight is visually busy, focus on avoiding AoEs</span>

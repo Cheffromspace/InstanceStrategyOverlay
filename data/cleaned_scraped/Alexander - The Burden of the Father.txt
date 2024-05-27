@@ -1,0 +1,46 @@
+<cleaned_strategy_text>
+The Manipulator
+
+The Burden of the Father
+
+This boss is divided into 3 phases, with Phase 1 and Phase 2 consisting of different mechanics and Phase 3 including all mechanics. Phase 1 and 2 are destroying the legs.
+
+Note that everything the boss does is splash damage, so it is important for the range to spread out and the melee to spread out around the targets. You need to focus down one leg at a time as the other leg will fully heal when the other is destroyed.
+
+Throughout the entire fight the boss will target players to deal heavy splash damage. It will also target 1 dps and the off tank to be "Quarantined" and they will be flown through a pipe and have to kill 1 add before they're allowed back to join the fight. Note that dying in that room makes it impossible to be revived.
+
+Phase 1 - Leg #1
+It doesn't matter which leg you go after first, decide amongst your raid.
+
+Orbs
+A random party member will have a blue orb above their head, shortly after orbs will spawn from the edges of the room and start moving toward this player. Players need to run into the orbs to make them explode dealing splash damage. DPS and healers can take 1 or 2 orbs, though the off tank and main tank (depending on MTs current HP) should take most of the orbs.
+
+After the first leg is destroyed, The Manipulator is able to be targeted and you have a short time to do as much damage as you can to it. You should make sure you have cooldowns up for this time. After a very short time, it will become invulnerable and deal raid-wide AoE damage, transitioning to phase 2.
+
+Phase 2 - Leg #2
+There will be no more Orbs in this phase, but introduces two new mechanics.
+
+Laser Adds
+3 adds that can not be targeted will spawn and target 1 player with an orange line. At least 2 of these lines must be intercepted by another player, after a short time the adds will fire dealing damage to whoever the line lands on. Note that the player targeted should stop moving as the lasers move with them, and should not be taking more than 1 hit.
+
+Jagd Doll
+Important: Kill these adds ASAP.
+3 Jagd dolls will appear around the edge, one to the left, right and in front of the boss, no player should have 2 of these on them. They will deal AoE damage around themselves that stacks a debuff called Luminous Aetheroplasm. Gaining 4 stacks of this debuff will result in instant death. These adds take priority over everything.
+
+The easiest way to deal with these is to assign players (usually dps) to certain adds, keeping aggro and keeping them away from each other. Note that the laser adds may also be active at the same time, so deal with these adds and intercept the lasers as necessary. The assigned players should call out when affected by Quarantine, with a fourth player ready to replace them.
+
+Upon destroying the second leg, The Manipulator becomes vulnerable again and you have some free burn time until he does another raid-wide AoE, transitioning to Phase 3.
+
+Phase 3 - The Manipulator
+All previous mechanics are back except the Doll adds and the Quarantine, with some additional abilities. This phase is all about spreading out and healing through high damage.
+
+Important: The healers need to stand on the other end of the room from each other for a mechanic.
+
+Carnage Zero - Targets random players and deals high splash damage.
+
+Judgement Nisi - Puts a 5 stack debuff on both healers, one blue and one red debuff. Standing close to each other will cause the healers to exchange stacks, killing them instantly. The stacks fall off over time dealing high damage. The healers will need to look after themselves as well as heal the main tank, since they will be taking damage from Discoid at the same time.
+
+Discoid - Targets 4 random players and puts a circular AoE under them, then again on another 4 random players, then hits the tank for a large amount of damage that increases damage the longer the fight goes on.
+
+The most important part of this phase is keeping the healers away from everyone else, and remembering that discoid is 4x AoE -> 4x AoE -> Tank Buster. As the fight goes on, the tank and healers will want to use cooldowns to mitigate the damage of this.
+</cleaned_strategy_text>

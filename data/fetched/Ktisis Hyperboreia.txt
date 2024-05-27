@@ -1,0 +1,47 @@
+Here is the cleaned up strategy guide text for Ktisis Hyperboreia:
+
+Ktisis Hyperboreia is a level 87 dungeon introduced in patch 6.0 with Endwalker. 
+
+Objectives:
+Arrive at the Frozen Sphere: 0/1
+Clear the Frozen Sphere: 0/1
+Arrive at the Concept Review: 0/1
+Clear the Concept Review: 0/1
+Arrive at the Celestial Sphere: 0/1
+Defeat Hermes: 0/1
+
+Bosses:
+
+Lyssa
+- Skull Dasher: Tank Buster 
+- Frigid Stomp: Room-wide AOE
+- Frostbite and Seek: The boss returns to the center of the arena and shrouds it in a snowstorm, then disappears. Shortly after, the boss will emerge from one of the six craters around the arena and cover it in a massive AoE that can only be avoided by standing behind the boss. Players can determine which crater the boss will emerge from by looking for the crater with no tracks leading away from it. If hit by this, players will take heavy damage and a Vulnerability Up debuff.
+- Icicall: Three icicles spawn around the arena and fire point-blank AoEs. Following this they will either fire a straight line AoE across the edges of the arena or directly through the center. 
+- Heavy Smash: A random player receives a stack marker, requiring players to stack together to mitigate damage. This can occur during Icicall, and will resolve after the icicles have fired, so it is recommended to stack after the arena is clear.
+
+Ladon Lord
+- Scratch: Tank Buster.
+- Intimidation: Room-wide AOE.
+- Pyric Blast: Stack marker
+- Inhale: The boss will inhale Aether, after which one or two of its heads will grow large and flames will issue from its mouths. This indicates which heads will perform Pyric Breath.
+- Pyric Breath: The boss will leap to the center of the room, and once it begins casting, will face a direction and not turn. The heads that are swollen will cast a 120-degree fire AoE that fills an entire third of the room, with the normal heads indicating a safe zone to stand in. If the "side" heads are active (left and right head will fire), the spot in front of the boss is actually a safe area.
+- Pyric Spheres: Summons four Pyric Spheres around the arena. They will fire cross-line AoEs across the arena, so players must stand in the spaces between to avoid.
+
+Winged Defiance: Hermes
+After the boss's first Trismegistos, the edge of the arena will be covered in an AoE that inflicts a 15 second Windburn debuff that deals Damage over Time.
+
+- Trismegistos: Room-wide AOE.
+- Double: Augments the next spell cast.
+- Quadruple: Augments the next two spells cast.
+- True Tornado: Tank Buster. If cast with Double, drops a circular AoE under the tank's feet after the cast, which should be dodged.
+- True Bravery: Interruptible - The boss receives a Damage Up buff that lasts for 20 seconds.
+- True Aero: Each player will be marked by an unavoidable AoE line that must be spread out to avoid hitting other players. If the boss casts Double before this, after the lines fire, they will drop an additional line AoE that players can simply step out of to avoid.
+- True Aero II: Players will be marked with point-blank AoEs and must spread out to avoid overlapping damage. If the boss cast Quadruple before this, after the initial AoEs resolve, another AoE will spawn that players must step out of.
+- Meteor: 4 proximity markers around the edges of the arena. Run to the center to minimize damage from the meteors that will land. These meteors will block the damage from Hermetica.
+- Hermetica: Summon large green panels at the edges of the arena. After a moment, these will fire a large line AoE across the platform, knocking back anyone hit. The boss will summon these in one of four patterns:
+1) Three sets of panels (a couple and two single ones) spawn at the edges of the arena and are offset so as not to fire through the centre of the arena. Simply stand in the center of the room to avoid.
+2) Two panels per side on two sides that fire through the center of the arena. 
+3) (Double): Two sets of four panels. Players need to observe the order in which the sets are summoned, and break the Line of Sight of the panels in the order they were summoned. Players need to stand behind the meteor without the yellow cracks, as those meteors will shatter after the first attack, and players will not have enough time to move between the sets firing.
+4) (Quadruple): Four sets of two panels on each edge of the arena. These will fire in the order they are summoned, and players will need to stand in the center and dodge towards the opening next to each set of panels to avoid each blast.
+
+These mechanics will repeat until the boss is defeated.

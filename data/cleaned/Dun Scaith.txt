@@ -1,0 +1,142 @@
+<cleaned_strategy_text>
+Deathgaze Hollow
+
+First Half
+The boss opens up with Void Death. This is a large red-black, circle area of effect (AoE) at the center that pulls you in a couple times. You must keep running away from it or anyone caught in it dies.
+
+Next, it casts Void Aero II and marks three players with green spread markers. Go to a place away from everyone to place the tornado. Anyone walking into the tornado will get hurt by Biting Wind, which gives you small damage and the Windburn debuff. Windburn can be removed with Esuna.
+
+When the boss casts Void Blizzard II, avoid the fan AoE by going to either side or on the safe spots in between. If you don't, you receive a large amount of damage from Void Blizzard III and get the Frostbite debuff. Frostbite can be removed with Esuna
+
+Throughout the fight, the boss casts Doomsay which randomly gives Doom to one to two players. Healers must use Esuna to remove them or they will die when the countdown ends.
+
+If the boss casts Void Aero III, immediately get close to either purple walls on the top and bottom of the ship. A green circular wind will appear in the center that causes proximity-based damage and knockback, so make sure you aren't too close to it or you may die from damage. If you aren't against a wall, you may fly off to your death.
+
+When Void Blizzard IV is cast, stand directly opposite of either proximity markers and take the damage. Ice blocks are dropped where the marker is located, and the boss immediately casts Void Aero IV. If you try to stand where you take the least amount of damage from the proximity marker, you might not have enough time to get to the ice block. If you stand where the opposite side of the ice block was located, you will fly to the block when Void Aero IV is cast, blocking you from falling off. Anyone who didn't fly into the block will fall to their deaths.
+
+Second Half
+In the latter half, everything repeats with some differences.
+
+The boss casts Doomsay more often, and only one proximity marker is placed on the floor when the boss casts Void Blizzard IV.
+
+After Void Aero III is cast, the boss immediately flies right beside a purple wall and casts Bolt of Darkness. The boss shoots out a large, column AoE across the ship while the green wind on the center from Void Aero III blows people away. Bolt of Darkness gives you Bleed, which can be removed with Esuna. If you can, go to the purple wall where the boss isn't next to, to avoid Bolt of Darkness.
+
+Make sure to kill the two Void Sprites that spawn randomly. Avoid their cone AoE when they cast Dark II.
+
+Since the beginning of the fight, the boss places random gray squares on the ship's floor. In this half, the boss finally uses Void Death IV, which makes the squares pulse. Anyone standing on them when the cast is done, dies.
+
+Ferdiad Hollow
+
+Throughout the fight, the boss marks 3 players with red target markers and throws Abyssal Scythes at them. The scythes stay on the ground, dealing damage to anyone close to them and gives Flesh Wound, which can be removed using Esuna. If you are targeted, go to a place away from other players until the boss throws the scythes at you.
+
+For Wormhole, look at what is being tethered to the Atomos and what color the tethered Atomos is. If the Atomos is tethered to a yellow ring, stand right below the other same-colored Atomos to avoid the room-wide donut AoE and a stack of Vulnerability Up. If the Atomos is tethered to a blue ball, avoid the other same-colored Atomos to avoid the large circle AoE surrounding it and a stack of Vulnerability Up. At the beginning of the fight, only one Atomos is tethered. Later, two Atomos are tethered. If two Atomos are tethered to blue balls, the safe spot is always at the perpendicular area between them. Try to avoid the center where the two AoEs overlap or you will die. If one is tethered to a yellow ring and the other a blue ball, always stand below the other same-colored Atomos that was tethered to the yellow ring.
+
+For Debilitator, the boss places a debuff on everyone making you weak to either fire or water and spawns several blue and red puddles throughout the room. All the puddles have to be the opposite of what you are debuffed with by stepping on the puddle to change the color. If you are debuffed with Water Resistance Down II, all the puddles must be red. If you are debuffed with Fire Resistance Down II, all the puddles must be blue. Afterwards, Feridad casts Flameflow and deals room-wide damage based on how many puddles are the wrong color.
+
+At around 60% health, the boss goes to the middle of the room and becomes untargetable. Several Wailing Atomos are spawned around him. Avoid the front of the Atomos as they shoot Feridad's Fools from their mouths. Anyone in front of the Atomos gets hit and receives a stack of Vulnerability Up.
+
+Kill the adds and avoid looking at one of the Feridads that casts Petrifying Eye, a gaze marker giving anyone looking at its direction Petrification. Afterwards, Atomos spawns around the edge of the room and at the center. The Feridads cast Lucky Pierrot in which they dash to the Atomos at the edge and transport back out from the center dealing damage to anyone in the way. At the same time, a Feridad casts Icefall which leaves a circular AoE under a player. After the transport, the boss casts Jester's Reward, an AoE that covers half of the room. Anyone caught in the AoE will die. If the adds aren't all killed, Atomos spawns again to transport the Feridads.
+
+After all the adds are killed, the boss hits everyone with an unavoidable room-wide damage, Jester's Jig.
+
+Proto Ultima
+
+Magitek Ray (no cast bar): Telegraphed trio of line AoE lasers. The boss will face a random direction for the first laser cast, then while remaining facing in that direction, cast the next two at a 45-degree angle to the left and right of the first one.
+
+Aetherochemical Flare: Raidwide damage.
+
+Diffractive Laser (no cast bar): Untelegraphed frontal cone tankbuster. Do not be in front of the boss if not a tank.
+
+Aether Bend (no cast bar): Initially telegraphed circular AoEs that will follow random players.
+
+After losing enough health, the boss will become untargetable and a stack marker on an orb will appear in the middle (Eikonizer). The entire party should stack, then move to the walls because a proximity marker (Flare Star) will spawn. The outside of the arena will also become unsafe.
+
+Afterwards, two more Flare Star proximity markers will spawn opposite each other, so the party should move away from both.
+
+A telegraphed line AoE will then spawn through the middle.
+
+Two Allagan Dreadnaughts will spawn and the tanks should get aggro while the party defeats these. They will do Rotoswipe, a telegraphed conal AoE, and Wrecking Ball, a circle AoE.
+
+Multiple immobile Proto Bits will spawn, which should be defeated quickly. These will each use a narrow donut AoE (Integrated Aetheromodulator) followed by a large conal AoE (Diffractive Laser). The boss will also become targetable and use Magitek Ray.
+
+After losing more health, the boss will become untargetable again and spawn three immobile Aether Collectors. These must all be destroyed to make the boss vulnerable again.
+
+During this, the boss will slowly cast Supernova and must be defeated before this cast finishes, or the party will wipe. The DPS check for this encounter is generally a non-issue.
+
+Scathach
+
+Thirty Thorns: Untelegraphed three part tank buster, followed by a very short telegraph melee-range AoE. Move out of melee range to avoid this.
+
+Shadespin: Wings get big and do an hourglass aoe in the direction they are facing, get between the wings. She will always slap either her front left and back right, or front right and back left (opposite quadrants around the boss's hitbox), so simply move to a quadrant around the boss that her wings are not extended over during the cast.
+
+While she has the wings out, she will occasionally dash to a location and perform a much larger version of the melee AoE from Thirty Thorns. Ensure you avoid melee range after she does this dash.
+
+Shadow Links: When the message "Shadows gather on the floor" appears and the room turns dark, stop all movement, otherwise shadows hands will grab you from below, slowing your movement and inflicting a bleed.
+
+Shadethrust: Occasionally she will turn toward party and perform a line AoE, sidestep it.
+
+Connla add: needs to be grabbed by an offtank and killed away from Scathach, if it gets close they tether and buff her. If left alive it wipes the raid.
+
+Nox orbs: Circular red and black marker will be put on some players. Affected players should bait the orbs away from group by constantly moving away from other players.
+
+Shadow Limbs (giant hands): link to a player and follows them, if it reaches the players it kills them. The tethered player can face the Shadow Limb to stop their movement. The Limbs must be killed, they can switch tethers to a different player.
+
+Thirty Arrows: Periodically, a blue pool will appear at a random location. Shortly after, either an asterisk pattern of line telegraphs or a sequence of line telegraphs will appear from where the pool was, dealing damage to anyone in those telegraphs shortly thereafter.
+
+At 50%, Scathach will enter a cocoon and spawn adds, including a Chimera with the typical Chimera moveset, these can be interrupted.
+
+These adds must be killed, or she will wipe upon emerging from the cocoon.
+
+During this phase, towers will spawn around the room that require one person each in them to avoid raid-wide damage.
+
+Diabolos
+
+Phase 1: Diabolos
+In this phase Diabolos can be stunned. Melees and tanks can stun most casted abilities.
+
+Nightmare - Look away from Diabolos, inflicts Sleep
+
+Ultimate Terror - Donut AoE - Stand close or very far away
+
+Ruinous Omen - Raidwide AoE
+
+Night Terror - Stack marker on random player, stack to share damage.
+
+Shadethrust - Line AoE in front of Diabolos, dodge to the sides or back
+
+Kill Deathgates when they spawn to avoid adds
+
+Phase 2: Intermission / Lifegate
+Kill Lifegate 5 times. Each time it reaches 0 health, it will refill and gain a stack of a buff increasing its max HP. Kill Deathgates when they spawn to avoid adds.
+
+Phase 3: Diabolos Hollow
+Upon pulling Diabolos Hollow, the party will receive a checkpoint that they will restart from if they wipe. Diabolos starts with a large absorb shield that grants the boss 100% crit chance on all attacks. Watch main tank's HP until shield breaks, as the boss will repeatedly cast Hollow Camisado, a tankbuster that can destroy tanks due to the 100% crit chance while the shield is up
+
+Kill Deathgates, and when a larger Diabolic Gate with a glowing circle around it spawns in the center, a portion of the raid should enter it and kill the add inside. The people that go inside can be assigned, or simply free-for-all'd.
+
+Diabolos Casts:
+Hollow Camisado - Heavy Tankbuster, does around 25k damage. Guaranteed crit at the start of the phase due to the boss's absorb shield, so tanks should use CDs and healers should ensure tanks get topped up rapidly.
+
+Shadethrust - Line AoE in front of Diabolos, dodge to the sides or back.
+
+Hollow Nightmare - Upgraded version of Nightmare. Look away from Diabolos, inflicts Doom
+
+Hollow Terror - Upgraded version of Night Terror. Stand at melee range or far away
+
+Hollow Omen - Raidwide AoE
+
+Blindside - Stack marker on tank
+
+Earthshaker - Marks 3 players for a cone AoE, originating from the bos. Stand away from each other.
+
+Other Mechanics:
+Nox - Chases 2 players with big AoEs. Run away from the party, and keep running until it ends.
+
+Hollow Night - Stack marker & gaze attack originating from the marked player. This player should move slightly away from the boss, so everyone else can stand between them and the boss to share the stack damage, but remain faced away from that player.
+
+Particle Beam - Stand in the towers to soak damage. Middle tower is for tanks only.
+
+Diabolic Gate - Go in and kill the add. Wipes the party if you fail.
+
+Critical Gravity - Soak red orbs at the edges to avoid splashing the party.
+</cleaned_strategy_text>

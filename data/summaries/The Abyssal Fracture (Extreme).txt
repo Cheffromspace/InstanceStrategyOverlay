@@ -1,0 +1,29 @@
+<span class="boss">Zeromus</span>:<br>
+<span class="note">Assign light parties (1 tank, 1 healer, 2 DPS) and corner partners (DPS + support). Tanks/melees go north.</span><br>
+<br>
+<span class="boss">Phase 1</span>:<br>
+- <span class="ability">Abyssal Nox</span>: <span class="mechanic">Reduces HP to 1, inflicts 🤢 Doom (heal to full to remove). Dodge 2 sets of 🔴 AoEs (N or W safe).</span><br>
+- <span class="ability">Sable Thread</span>: <span class="mechanic">🛡️ Heavy tank stack (use mits)</span><br>
+- <span class="ability">Dark Matter</span>: <span class="mechanic">🛡️ Three-hit tank buster on both tanks</span><br>
+- <span class="ability">Visceral Whirl</span>: <span class="mechanic">➡️⬅️ line AoEs into ❌ cross AoEs (brief indicators)</span><br>
+- <span class="ability">Flare</span>: <span class="mechanic">🤝 NW tower (tanks/melee), SE tower (healers/ranged). Dodge 📏 line AoEs after.</span><br>
+- <span class="ability">Void Bio</span>: <span class="mechanic">👾 Poison orbs move S (dodge gaps). 🤢 Pollen DoT if hit. Overlaps with Visceral Whirl.</span><br>
+- <span class="ability">Big Bang</span>: <span class="mechanic">🏃<>🏃 Spreads + 🔴 AoEs (lethal overlap). 💥 Raidwide (mitigate). Debuffs applied (see below).</span><br>
+- <span class="ability">Void Meteor</span>: <span class="mechanic">💥 Proximity AoEs (stack mid), leaves meteors</span><br>
+- <span class="ability">Meteor Impact</span>: <span class="mechanic">Tethers tanks/healers then DPS (or vice versa) to 2 meteor markers. Stretch tethers without overlapping 🔴 on meteors. Place 1st group's ⏳ meteors far N. Dodge point-blank 🔴 AoEs after.</span><br>
+- <span class="ability">Bonds of Darkness</span>: <span class="mechanic">🔗 Chains (run to break). Visceral Whirl (DPS N, support S). 🏃<>🏃 Divisive Dark spreads. 🛡️ Dark Matter on tanks, 🤝 Beckoning Dark stack (no Forked Lightning).</span><br>
+- <span class="ability">Black Hole</span>: <span class="mechanic">1 player drops expanding ⚫ AoE, boss casts 📏 Fractured Eventide laser (dodge with group).</span><br>
+- <span class="ability">Big Crunch</span>: <span class="mechanic">💥 Raidwide, removes HP penalty. Only 💫 Big Bounce DoT applied.</span><br>
+- <span class="ability">Sparking/Branding Flare</span>: <span class="mechanic">🤝 W/E towers in light parties. Go to assigned corners after (always safe). 🏃<>🏃 Spreads if Sparking, 🤝 stacks if Branding. Dodge 🎯 Nox.</span><br>
+<br>
+<span class="boss">Phase 2</span> (at ~25% HP):<br>
+- <span class="ability">Rend the Rift</span>: <span class="mechanic">💥 Raidwide, transitions arena</span><br>
+- <span class="ability">Void Thunder</span>: <span class="mechanic">Baited 🔴 AoEs</span><br>
+- <span class="ability">Nostalgia</span>: <span class="mechanic">💥 7-hit raidwide (4 phys, 3 mag)</span><br>
+- <span class="ability">Flow of the Abyss</span>: <span class="mechanic">Boss tethers to fissure (📏 line AoE), plus one of:<br>
+  - 🎯 Stack marker (Umbral Rays)<br>
+  - 🏃<>🏃 Spreads (Akh Rhai) leaving persistent 🔴 AoEs<br>
+  - 1️⃣2️⃣ Partner stacks on tanks or healers (Umbral Prism)</span><br>
+- <span class="mechanic">Flow of the Abyss repeats with Void Thunder and 📐 Chasmic Nails conal AoEs (apply 🤢 DoT, cleanse with Esuna).</span><br>
+<br>
+<span class="note">Repeat until boss dies or enrages with Big Bang (hard enrage possible before phase 2).</span>

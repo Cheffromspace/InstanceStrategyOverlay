@@ -1,0 +1,52 @@
+<strategy_text>
+Sasquatch
+Kill adds then the boss. Every now and then Sasquatch will get hungry and repeatedly pound his chest. When this occurs, players should activate one of the banana trees and allow the boss to eat the banana dropped from the tree. The bananas calm him down, stopping his debuffs and AoE attacks for a while. Throughout the fight, monkey adds will spawn. Kill these adds and do not let them eat the bananas.
+
+When the boss pounds his chest, activate the Bananas Tree and spawn banana. Do not let the adds go near the spawned bananas.
+
+Abilities
+Wild Banana Tree: There are 6 banana trees along the edges of the arena. Interacting with the tree drops a Banana Bunch on the ground. Used to interupt Chest Thump. Grants the boss a stacking damage buff.
+Chest Thump: The boss rears back and thumps his chest repeatedly, dealing damage in an arena-wide AoE. Can be interupted with a Banana Bunch, where the boss will stop casting and trundle over to eat the bananas.
+Smallfoot Sifaka: Small monkeys that spawn around when the boss casts Chest Thump. Will move towards and eat Banana Bunches. Should be killed quickly and/or tanked away from where the Banana Bunches are being summoned.
+Stool Pelt: The boss will target a random player and throw poo at them, forming a large AoE around the player.
+
+Kill the Sifakas first so they don't eat the Banana Bunches.
+Avoid interacting with more than one Wild Banana Tree at a time.
+
+Sjoorm
+This is a fairly straight forward fight. Occasionally bubbles will spawn, do not run into or contact the bubbles until the boss submerges underground for the second time and starts to cast a blue AoE wave that covers the entire boss room. By running into the bubbles, the players will be shielded from the boss' AoE damage. Players outside of the bubbles will take massive amount of damage.
+
+Use the bubbles to avoid the boss' room-wide AoE. Otherwise do not touch the bubbles.
+
+Abilities
+Upwell: Long frontal line AoE.
+Water Puddle: Targets each player with a large AoE. After a few seconds, it will deal moderate damage to any player standing in the AoE.
+Watery Grave: Large bubbles that spawn around the room in a 3x3 grid. Used to avoid Whirlpool. Imobilizes and deals slight damage to players while inside, and deals additional damage in an arena-wide AoE when the bubbles pop.
+Burrow: The boss will become untargetable and dive into the earth. Uses either Whirlpool or Tunnel.
+Whirlpool: A large, pulsing AoE will appear in the center of the room. Players need to step into Watery Grave bubbles to avoid the damage. Standing too soon or too late will cause the player to take moderate damage and be sucked into the middle of the room, where they will be hit a second time as the boss emerges.
+Tunnel: The boss will move across the room in the direction of a random player, dealing damage in the form of small AoEs above it.
+Surface Breach: Used when the boss returns from Burrow. Deals heavy damage.
+
+Avoid standing where a Watery Grave can spawn, as it will suck you in if you're nearby.
+Tunnel and Whirlpool alternate every other Burrow.
+
+Kraken
+In the Kraken fight, players will kill 10 of its arms, two per platform. The boss room is divided into various platforms. Players need to use the water sprouts around the platforms to move to among them. Every now and then players will get a green pulsating icon over their heads. This indicates that a tornado is about to spawn on top of you. The player with the green icon should move to another platform immediately, then move back to the previous platform when the tornado drops, because the tornadoes act as time bombs. They will do enormous amounts of damage after a short time. Note that every time you jump you get a stacking debuff that increases the damage you will take.
+
+When a green icon appears over a players head, said player need to jump to a different platform, wait for the tornado to drop, then jump back.
+
+Abilities
+Platforms: There are 4 platforms in the arena that players can use Waterspouts to get to.
+Waterspouts: Used to move between Platforms. Applies a 15-second stacking Suppuration debuff when used; avoid excessive/repeated use in a short time to keep the debuff down.
+Kraken's Arm: One is spawned on each Platform. Killing one spawns a second at the same platform that needs to be killed as well.
+Wallop: frontal cone AoE.
+Inkblot: A large AoE on a random player. Applies a slow debuff and a DoT.
+Clearout: Donut AoE. Stand within the hitbox to avoid being hit. Knocks back affected players, potentially into a Waterspout.
+Tentacle: Appears after 4 Arms have been killed. Killing it spawns a second, final tentacle. Should be focused over the Arms as it has more health and is more annoying.
+Wallop: frontal cone AoE.
+Scoop: Will pick up players, immobilizing them, and throw them onto random platforms.
+World's End: Marks 1-2 players with a large green meteor icon. After a few seconds, they will drop a tornado where they are standing. A few more seconds after that, the tornado will explode, dealing heavy damage to all players in a massive AoE around it. Marked players should bring the marker to another island and drop it along the far edge and return, with the rest of the group moving against the far wall on the platform they stayed on.
+
+World's End tornado AoEs are big enough to hit across platforms if not dropped along the edge of the room, so keep an eye out.
+The Tentacle will follow the tank to whichever Platform they are on, making it annoying to attack if the tank is jumping around a lot. Try to stay in one place if not dodging a World's End.
+</strategy_text>

@@ -1,0 +1,53 @@
+<cleaned_strategy_text>
+Bosses
+The Avatar (abilities) - Phase 1
+Diffusion Ray - large cone AOE that applies a DoT. This DoT ticks for 600 and can be cleansed with Esuna.
+Gaseous Bomb - marks a player with a non-transferable "satellite-like" icon. The target will be hit with an AOE for huge damage. Damage is split between all targets hit.
+Homing Missile - draws a line between The Avatar and a random player (not MT). This line can be transferred by having another player intercept the line. The target will be hit with an AoE for a few thousand damage.
+
+The Avatar (abilities) - Phase 2
+Brain Jack - causes MT to attack the nearest ally for x seconds. Brain Jack is cast every 30 seconds. Diffusion Ray always follows this move. (To prevent the boss from turning around, place a DPS within melee range of the tank. The DPS should not be in the front of The Avatar, at risk of being hit with Diffusion Ray).
+Ballistic Missile - binds 2 players in place, and summons a large or small circle around each. After a delay, 2 people must be in the small circle(s) and 3 people must be in the large circle(s). Otherwise everybody in the circles will die. (Assuming that everybody stacks behind the boss, there are 3 different possibilities).
+
+The Avatar (abilities) - Phase 3
+Allagan Field - debuffs a player for 30 seconds. Time is 30 seconds on, 10 seconds off, repeat. If the player takes 100 damage during the debuff, the raid will be hit with 200 damage when the debuff wears off. If the player takes 500 damage, the raid is hit with 1000 damage. (Maintain Adloquium on the debuffed target to minimize damage taken.) (If desired, activate Defensive Reaction towers when Allagan Field is not active).
+
+Biotowers:
+Biotowers are located at North, East, South, and West areas of the room. They activate in scripted sets of 2 or 3. They start with 1 charge and gain one charge every 15 seconds. After gaining 4 charges, the next charge will activate their special ability.
+If two towers charge at the same time with the same frequency, The Avatar gains a stack of 2 buffs. The buffs will (a) increase defense and (b) increase damage output.
+If towers are pushed/rushed properly, the boss will gain 0 stacks of these buffs.
+If two or more towers charge to maximum, Avatar will wipe the party.
+If a player steps into a tower, the tower gains one charge and the player is debuffed. This debuff increases the damage a player takes from a tower, and does not increase damage from other sources. It is not recommended that a player reach 2 stacks of the debuff. Debuff lasts for 90 seconds.
+
+Special abilities of the towers:
+North - summon 1 clockwork dreadnaught (Dread has conal aoe swipe, and will enrage if not killed fast enough, causing a wipe).
+East - spawn 3 landmines in random areas, but not near towers and not under the boss (Touching a mine causes knockback and ~2000 AOE damage. If any mine remains after 15 seconds, the raid will wipe).
+South - Defensive Reaction (Raidwide AOE damage).
+West - Defensive Reaction (Raidwide AOE damage).
+
+The Avatar Strategy
+Phase 1: 0s - 2m40s
+Set 1 (Dread + West Tower): rush dread tower (send 2 DPS to dread tower). Tank grabs dread, and uses all cooldowns to survive.
+Set 2 (Mines + West Tower): rush mines tower. Assign 3 DPS for landmines, one for each landmine.
+
+Phase 2: 2m40s - 7m or 45% HP
+Set 3 (Dread + West Tower): see above, for set 1.
+Set 4 (Mines + West Tower): see above, for set 2. 
+Set 5 (Dread + Mines Tower): you can choose to rush dread or mines. Picking dread, you must deal with Ballistic Missile and mines at the same time. Picking mines, you must deal with Ballistic Missile and the dread at the same time.
+
+Phase 3: 7m - 11m or 45% to 0% HP
+3 towers now activate per wave. 3 players must push towers now. These people should not be debuffed; healers and tank(s) might need to get involved.
+The tower's automatic charge rate is now 20 seconds, instead of 15 seconds.
+The player with Allagan Field should not be pushing towers or hitting mines, period.
+The Avatar always casts Homing Missiles right after Allagan Field in this phase.
+The Avatar can no longer cast Brain Jack or Ballistic Missile.
+Set 6 (Mines + West + South Tower): send 2 players to mines and 1 player to south. (Flexible strategy, based on group preference).
+Set 7 (Mines + Dread + South Tower): send 2 players to dread and 1 player to mines. (Flexible strategy, based on group preference).
+Set 8 (Mines + West + South Tower): see above, for set 6.
+
+Strategies for Tower-Pushing
+[Several alternative strategies for handling the tower mechanics are listed]
+
+Solo Unsynced Strategy
+Avatar's mechanics interact rather poorly with the extensive DPS output available when unsynced, even when solo. If Avatar is pushed below ~75% before the first set of towers spawn, he'll unconditionally place Homing Missile on you, which then kills you regardless of your maximum HP. To combat this, do not burst the boss at the start of the fight. Instead, wait until the first set of towers spawn ~15s into the fight. Dip into one tower for a single stack (recommend the north tower, where you entered the boss arena), then burst the boss. As long as you get him under ~60% to phase push him before the first two towers go off, you won't get hit by Homing Missile and will be able to burn him straight to dead without further problems.
+</cleaned_strategy_text>

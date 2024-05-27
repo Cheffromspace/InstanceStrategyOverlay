@@ -1,0 +1,36 @@
+Here is the cleaned up text for the "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost" quest guide:
+
+Quest giver: G'raha Tia
+Location: Ultima Thule (X:25.1, Y:8.8)
+Quest line: Endwalker Main Scenario Quests
+Level: 90
+Gil: 1,475
+Previous quest: Where Kn∞wledge Leads
+Next quest: ┣┨̈//̈ No┨ΦounΔ•••Combat EvolvedLearn to Love
+Patch: 6.0
+
+Main Scenario Progress: 801 / 853 (93.9%)
+Endwalker Progress: 103 / 155 (66.5%)
+
+G'raha Tia regards his comrades in solemn silence. 
+
+Rewards:
+Unlocks Base Omicron
+
+Walkthrough:
+The title seems to read "Victory, We Lost". There seems to have been a word intended after "Victory" but it is completely obliterated. The Japanese title of this quest "戦争＊＊＊を＊＊た星" could mean "War***of**the Star"
+There is perhaps some relation with the gibberish in the title of the Omega: Beyond the Rift Quest Goodbye, ε̆│̆│Δ.
+
+Steps:
+1. Speak with Alphinaud.
+2. Pass through the portal and wait for your comrades at the designated location.
+3. Continue waiting for your comrades.
+4. Speak with G'raha Tia.
+5. Search the area for denizens.
+6. Search the area for denizens.
+7. Speak with G'raha Tia.
+8. Gather information at Base Omicron. 0/3
+9. Speak with G'raha Tia.
+
+Journal:
+G'raha Tia regards his comrades in solemn silence.

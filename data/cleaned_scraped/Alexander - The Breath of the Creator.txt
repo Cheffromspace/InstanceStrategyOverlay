@@ -1,0 +1,14 @@
+<cleaned_strategy_text>
+Video Guide
+
+Lamebrix Strikebocks
+There are three buttons in the middle of the map and an electric side section.
+Don't go into the electric tiles as the Paralysis cannot be removed unless it times out.
+The closest button will cause spikes to come up from the floor, immobilizing everyone in them as well as dealing damage.
+The middle button will cause giant spike balls to fall onto the buttons. These can be avoided by standing in the middle of two buttons or off to the side.
+The furthest button will shoot spikes along the sides of the platform. Just stand in row with the buttons to avoid them.
+The boss will jump on buttons after a time to trigger the effect.
+One party member will be targeted with a tether and take substantial damage. Have the Off Tank be the only one in line with the boss and the tether player.
+When the boss jumps to one end of the map, a steamroller will appear and make its way to the boss. Kill it before it reaches the boss. There will be consistent AOE damage at this time. The steamroller will push back to the next button when it advances.
+Saw blades will appear off to the sides when fighting the boss again. These will deal damage and knock around whoever they hit. Stand in the middle of two button to easily avoid them.
+</cleaned_strategy_text>

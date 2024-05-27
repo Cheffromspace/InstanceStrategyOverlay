@@ -1,0 +1,47 @@
+<strategy_text>
+Strategy
+
+Hades
+The Dying Gasp Trial Guide
+Your encounter with Emet-Selch (Hades) takes place within a circular arena overlooking the ruins of Amaurot, deep within the Tempest. Thanks to a small outer railing during the opening phase, players will be incapable of falling over the edge. However, the railing will eventually be destroyed as the fight progresses, meaning players can plummet to their doom if they stray too far. However, there are no notable knockback or movement-based attacks to consider at the time.
+
+Below is a list of all Hades' abilities and phases.
+
+Phase 1
+Ravenous Assault- Hades slashes at his primary target with a vicious tank-buster.
+Bad Faith- creates a large wall through the centre of the arena that reaches from one end of the platform to the other, with each half of the wall having spikes (arrows) protruding out in different directions. After a brief delay, the spikes will shoot across the platform in the direction they are pointing - one half firing north while the other fires south. To avoid being blasted, players should position themselves behind either side so that the spikes on that side are not pointing in their direction.
+Double- a buff that causes Hades next Dark Eruption (see below) or Shadowspread to be double-cast.
+Dark Eruption- targets 5 random players with purple AoE markers which will eventually explode, forcing them to spread apart to avoid overlap. Simultaneously, AoE (circle) telegraphs will also be dropped under the marked players feet, forcing them to move out of the way. Bear in mind that Dark Eruption can be Doubled- causing marked players to spawn a second circle beneath their feet after the first one they dropped has exploded.
+Shadowspread- causes Hades to emit AoE cones in multiple direction, indicated by telegraphs of the floor. Simply dodge the highlighted areas to avoid taking damage. However, if Shadowspread is Doubled, Hades will follow-up the initial attack by emiting cones in the previously undetonated areas, forcing all players to side-step.
+Broken Faith- causes a random pattern of aetheric (glowing blue) circles to slowly transcend from the sky into the arena. Once a circle touches the ground, it will detonate, searing anyone caught in their wake for moderate damage and also apply a stackable debuff. Keep in mind that the explosions are wider than the circles themselves. For reference, players can check the circular patterns on the arena floor to see how big the detonation will actually be. To avoid, simply avoid the first few circles until they detonate, then move into a previously detonated area away from other upcoming circle explosions.
+
+From here on, Hades will begin to cycle the previously utilized abilities (possibly with overlapped combinations) until his health has been reduced to 10%. Once sufficiently damaged, Hades will become untargetable while an add-phase begins.
+
+Add Phase
+Whilst invulnerable, five waves of Ancients (adds) will be summoned into the arena. Simultaneously, a Fervor of the Ancients (Duty Gauge) will slowly begin to fill-up, indicating Hades's growing power. If the adds are not defeated before Fervor of the Ancients reaches 100 (max), the raid will be wiped.
+
+Throughout the add phase, players will also contend with multiple AoE markers at the same time as a stack-mechanic. As such, AoE marked players should spread out to avoid the raid, whereas unmarked players should stack with the stack-marked victim to help soak the damage. Assuming the raid successfully defeat all Ancients before the Duty Gauge reaches maximum, Hades will unleash Ancient Dark IV- an unavoidable raid-wide AoE. So long as the Duty Gauge is below <100, the raid can survive via mitigation and healing.
+
+Hades will lament his flesh-bound form and morph into something far more threatening. By successfully reaching this point, a checkpoint is created, ensuring that any future wipes will reset the fight back to the second phase rather than the very beginning.
+
+Phase 2
+With Hades now in full form, the fight resumes with the arena shrouded in darkness and lacking the outer railing, meaning players can accidentally walk over the edge to their doom if not careful. Throughout the rest of the encounter, Hades will no longer be moveable, remaining rooted to the north of the arena with a much larger non-directional hit-box. Whilst in this form, the target with highest enmity (typically the tank) will be constantly peppered by ranged auto-attacks in-between all other mechanics, so beware.
+
+Titanomachy- a frequently used raid-wide blast of darkness, keeping healers on their toes.
+Shadowstream- casts an untelegraphed attack that will blast through the centre of the arena in a column shape, indicated by a large ball of dark energy swirling in front of Hades' face whilst casting. If you notice the animation, simply move to the east or west side of the platform to avoid the upcoming blast.
+Dual Strike #1- creates AoE circle markers on two players, forcing them to move away from the raid to avoid unnecessary overlap.
+Echoes of the Lost- causes Hades to noticeably lift one of his two arms and stretch it across the arena with an audible voice cue, such as "Meddlesome pests". After a brief delay, he will use that arm to swipe across the arena, damaging and debuffing anyone who does not stand directly behind the out-stretched arm. Players will have a small amount of time to identify the raised arm and run behind it as soon as possible.
+Polydegmon's Predation- an inverted version of Shadowstream (see above). Hades will visibly raise both his arms and prepare to smash the east and west sides of the arena, leaving only a column through the centre (a straight line directly in front of him) as a safe spot.
+Hellborn Yawp- targets both tanks (two highest enmity targets) with earthshaker markers, indicating that a cone-AoE will be aimed from Hades in the direction of each marker. Marked players can bait the attack in various ways, such as both tanks moving to the far sides so that a safe-spot is created in the centre, or stacking in the centre so that the sides of the arena remain safe, etcetera.
+Captivity- marks two random players with AoE circles. After a brief delay, both players (and anyone overlapped by the circles) will be forcibly sucked into the centre of the arena and entrapped within an Aetherial Gaol. While entrapped, players will be raised into the air and unable to move or act in any way, surrounded by a (targetable) glowing orb of darkness. All untrapped players will need to quickly destroy the Aetherial Gaol to free their comrades. If this is not done before Hades casts Chorus of the Lost, all trapped players will be executed, regardless of their HP.
+Dual Strike #2- targets the majority of the raid with a combination of plain AoE circles (yellow) and tethered AoE circles (purple) at the same time. To avoid, simply spread apart from other raid-members so that markers do not overlap other teammates.
+Doom- causes five bright circles to appear within the arena. Simultaneously, the platform itself will visibly turn black, and all members of the raid will acquire an unavoidable Doom debuff. To cleanse the debuff, all circles will need to be occupied by at least one player. Once done, the raid will be cleansed of all Doom debuffs.
+Wall of the Lost- inflicts a telegraphed knockback from the centre of the arena after a brief delay. The knockback itself is relatively mild, though it still enough to punt players into the void if they remain too close to the arena edge.
+
+At this point, Hades will begin to loop the above mechanics with increased overlap until he has been brought to around 20% health.
+
+The Finale
+Once Hades has been sufficiently damaged, he will eventually chain all players via Life In Captivity, rendering them unable to move or act. After beseeching aid from his fallen brethren and calling upon the darkness once more, an Active Time Maneuver will commence. Much like most other active time maneuvers, players must continuously press buttons to fill up a meter before a timer runs out. If successful, the player will break free of their chains in a blaze of overflowing light, much to the chagrin of Hades, who curses Hydaelyn before his last-ditch effort to thwart the raid. However, should any player fail to fill the gauge during the active time maneuver, they will be instantly KO'd instead.
+
+With the platform now shrouded in light, Hades will continuously cast The Dark Devours, dealing tremendous AoE damage and causing the platform to slowly be consumed by darkness with each cast. If Hades has not been defeated before the entire platform has been shrouded in darkness, all participants will begin to suffer from a continuous bleed debuff, and Hades himself will start to long-cast Black Cauldron- causing a full raid-wipe if the cast goes off.
+</strategy_text>

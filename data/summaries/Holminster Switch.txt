@@ -1,0 +1,20 @@
+<span class="boss">Forgiven Dissonance</span>:
+- <span class="ability">Pillory</span>: 🛡️ Tankbuster
+- <span class="ability">Brazen Bull</span>: <span class="mechanic">4 orb adds, cross AoEs, small safe zone</span>
+- <span class="ability">Thumbscrew</span>: <span class="mechanic">➡️ Line AoE toward safe area, boss moves to edge</span>
+- <span class="ability">Wooden Horse</span>: <span class="mechanic">📐 Large cone toward center after Thumbscrew</span>
+
+<span class="boss">Tesleen, the Forgiven</span>:
+- <span class="ability">The Tickler</span>: 🛡️ Tankbuster
+- <span class="ability">Fevered Flagellation</span>: <span class="mechanic">Players get 1-4 dots, boss charges in order, 🏃 dodge</span>
+- <span class="ability">Exorcise</span>: <span class="mechanic">🤝 Stack + 4 🔴 AoEs, all leave 🤢 Bleed puddles</span>
+
+<span class="boss">Lightwarden: Philia</span>:
+- <span class="ability">Headcrusher</span>: 🛡️ Tankbuster
+- <span class="ability">Pendulum</span>: <span class="mechanic">Tank 🎯 prox marker then center prox marker</span>
+- <span class="ability">Chain Down</span>: <span class="mechanic">Non-tank 🎯, destroy Iron Chain to free</span>
+- <span class="ability">Aethersup</span>: <span class="mechanic">📐 Large cone at Fettered player, high dmg + 🤢 Vuln Up</span>
+- <span class="ability">Left/Right Knout</span>: <span class="mechanic">>180° arc, boss telegraphs with raised arm, Stun + 💨 to front</span>
+- <span class="ability">Taphephobia</span>: 🎯 Circle AoE on player
+- <span class="ability">Into the Light</span>: ➡️ 🤝 Line stack on random player
+- <span class="ability">Fierce Beating</span>: <span class="mechanic">Boss in center, 🔴 puddle, 2 moving 🔴 AoEs, 📐 tail cone, repeats 360°</span>

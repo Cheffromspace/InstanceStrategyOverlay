@@ -1,0 +1,67 @@
+Here is the cleaned up text for the Snowcloak dungeon strategy guide:
+
+Snowcloak
+
+Level 50 (Sync: 50)  
+Item Level 80
+Difficulty Normal
+Party size Light Party 4 man
+Unsyncing Allowed
+Time limit 90 minutes
+
+"The landscape of Eorzea has undergone a great many changes in the wake of the Calamity, giving way to anomalies heretofore unseen. The great ice wall, Snowcloak, is one such construct molded in the aftermath of Bahamut's rampage. Once thought to be impassable, recent reports tell of a network of tunnels piercing through the heart of this crystalline impasse. Duty demands these passageways be investigated, but woe unto he who finds their creator."
+
+Objectives
+Tiny Key: 0/1
+Clear Silence: 0/1  
+Clear Conviction: 0/1
+Finger of the Apostate: 0/1
+Defeat Fenrir: 0/1
+
+Bosses
+
+Wandil
+Wandil has several AOE abilities (one of which is unavoidable) which add a stacking debuff called Frozen to all players affected. ("Ice has begun forming on gear. A stack of 4 will result in Deep Freeze.") Once this debuff reaches 4 stacks, the player is afflicted with Deep Freeze for a short duration. Periodically he will summon Frost Bombs which will self-destruct after some time or when they get low health. These should be killed to avoid additional damage and more stacks of the debuff. Healers should keep an eye on their stack count and try to top up the party's health before they're stunned.
+
+Abilities
+Cold Wave: Summons AoE circles beneath each player. Inflicts a stack of Frozen debuff.
+Snow Drift: Deals unavoidable raid-wide damage. Inflicts a stack of Frozen. Keep moving to negate the debuff. 
+Periodically, Frost Bomb adds are summoned throughout the encounter. If not dealt with, they will cast Hypothermal Combustion.
+Hypothermal Combustion: Arena wide AoE. Inflicts a stack of Frozen.
+
+Yeti  
+Abilities
+Buffet: Frontal cone AoE.
+Northerlies: Summons six untargetable snowballs, each with a point blank AoE. Yeti will breathe on one to two of the snowballs, increasing the size of the snowball and it's resulting AoE.
+Updrift: Launches players into the air, dealing damage and preventing movement. Cast shortly after Northerlies.
+Spin: Point blank AoE, immediately followed by a donut AoE. 
+Frozen Spike: Player targeted AoE.
+
+Fenrir
+Abilities  
+Fenrir will alternate between casting party-wide attacks, Heavensward Roar, and Howling Moon/Lunar Cry.
+
+Heavensward Roar: a cone attack in front of Fenrir which puts no AoE indicator on the ground but has a long animation time. Move to Fenrir's sides or rear.
+Ecliptic Bite: very high damage tank buster
+Thousand Year Storm: unavoidable party-wide attack
+Howling Moon: Four icicles drop to the ground in a diamond pattern, preempted by circular AoE indicators. Immediately followed by Lunar Cry.
+Lunar Cry: Long-duration cast that will instantly knock out any players not hiding behind an icicle. The first time Lunar Cry is cast, you can hide behind any of the four icicles to block the attack. After the first Lunar Cry, you must hide behind the icicle which stays blue. The other three of the four icicles will start blue, but turn pink in color and then shatter. As soon as Lunar Cry finishes, the icicle will explode in a circular AoE, freezing nearby players for 10 seconds and applying damage over time. Either stand far enough away from the icicle while also remaining out of sight, or stay near the icicle and be prepared to move quickly after the cast finishes.  
+After Lunar Cry, Fenrir will jump onto the tank for moderate damage with no telegraph.
+
+Lore
+
+Into the Heart of Ice
+A dizzying ravine once clove the region of Coerthas, separating the central and western highlands, and straddling this divide was a bridge known as Gargoyle Crossing. When the Calamity wrought a great freeze upon these lands, however, an avalanche engulfed both ravine and bridge in snow, and raised in their place an impenetrable ice wall: Snowcloak.
+
+Seeking refuge from the bitter cold, the desperate inhabitants of Falcon's Nest decided to make the perilous climb over the wall in order to reach Ishgard. But as the last of the group began their ascent, a section of the structure broke loose, entombing them beneath tons of ice. By some miracle, one little girl survived the tragedy, yet bereft of her kin and forced to turn back alone, it may be said that hers was the crueler fate. Her name was Ysayle Dangoulain, and she would one day become known as Iceheart.
+
+Years on from that day, now leading the heretics, Iceheart ordered her minions to dig a network of tunnels through Snowcloak. These secret passageways served as a base, allowing them to operate close to Ishgard with their enemies none the wiser.
+
+Wandil
+Brought to life by the primal Shiva, this golem guardian's hulking body is composed of icicles. Holding sway over the element of ice, it can unleash scouring drifts of snow to afflict its foes with frostbite.  
+
+Fenrir
+A massive hoarhound beholden to Lady Iceheart. With its shimmering hide reminiscent of pale moonlight and a demeanor just as cold, this imposing beast was named after the legendary spirit-hound Fenrir. It fell upon the adventurers who had stormed Snowcloak, but was slain in the attempt to protect its mistress.
+
+More
+Within the tunnels, the heretics had built a makeshift aetheryte connecting Snowcloak to another of their strongholds, the Akh Afah Amphitheatre.

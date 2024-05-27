@@ -1,0 +1,66 @@
+<strategy_text>
+
+Duty Support
+Scion Marauder: This place just keeps getting weirder...
+Scion Thaumaturge: Aye, it's downright uncanny here.
+Scion Conjurer: Sentinels!?
+
+Regula van Hydrus
+Stuns a random party member and follows up with untelegraphed AoE on them. Heal as necessary and move away from the stunned player.
+Summons turrets every phase swap, with one additional turret per swap. Turrets self-destruct if not killed in time, causing room-wide damage.
+Magitek Turret I is target a random party member with a visible line AoE (Aetherochemical Laser) and will continuously attack them.
+Magitek Turret II is target random party members with circle AoEs (Aetherochemical Grenado).
+The boss will start dashing to the walls and repeatedly cast Magitek Slug, an easily dodged line AoE
+Defeat the Magitek Turrets to stop the boss from dashing, making him easier to hit.
+After the second set of adds, the boss will cast Magitek Spread, a telegraphed 270 degree conal AoE.
+
+Harmachis
+Weighing of the Heart: Changes Forms, form will be announced but may be only a split second before the change. There is no cast or announcement prior to changing back to Sphinx.
+Sphinx form
+Riddle of the Sphinx is an easily dodged circle AoE.
+Will periodically attack the tank with a untelegraphed conal AoE (Chthonic Hush) that inflicts Poison cleansable with Esuna.
+Anti-Cobra form
+Untelegraphed tankbuster (Hood Swing)
+Anti-Naga form
+Petrification is a telegraphed gaze attack that will cause 10 seconds of Petrification unless you are looking away from the boss.
+Circle of Flames is an instant AoE that will target multiple party members, stay spread out to avoid stacking damage.
+Anti-Machina form
+Ballistic Missile will target a party member with a missile, indicated by a circular "enumeration" marker with a number of rotating spheres over it, indicating how many people should stack to prevent damage. Otherwise, the target player will take high damage.
+Gaseous Bomb is a stack marker targeting a random player. The entire party should stack.
+
+Lahabrea & Igeyorhm
+As of Patch 6.3, the battle will only end when both Ascians' health are reduced to 0.1% instead of 50%, and both will always be targettable.
+Shadow Flare: Unavoidable Raidwade damage cast by Lahabrea
+Fire Sphere: Lahabrea summons five untargetable Burning Stars that will explode in AoE circles after a few seconds.
+Esoteric Fusion: Another version of this spell will result in two pairs of Burning Stars that are tethered and advance towards each other, which will explode upon contact.
+Grip of Night: A frontal cone AoE cast by Igeyorhm.
+Circle of Ice: Igeyorhm summons four Frozen Stars that detonate Donut AoE circles. Stand on the Frozen Stars to avoid damage.
+Esoteric Fusion: Igeyorhm will tether two of her Frozen Stars together, creating a bigger donut AoE that covers the safe spots in the other Frozen Stars. Players should therefore stand under where the tethered Frozen Stars will detonate to avoid damage.
+End of Days: Similar to the Towering Oliphant's Rout attack in The Dusk Vigil, this is a line stack marker, which requires players to line up between Lahabrea and the targetted player.
+Dark Fire II: Lahabrea puts circle purple AoE markers on all players, who should spread to avoid overlapping.
+If the health difference between the bosses become too large, the higher HP boss will transfer some of its health to the lower HP boss.
+
+Ascian Prime
+Shadow Flare: Unavoidable Raidwide Damage.
+Height of Chaos: Tankbuster
+Dualstar: Features combinations of the tethered Burning Stars and Frozen Stars from the previous battle. Ascian Prime will then cast Fusion Prime to make them collide. If non-tanks are hit by two AoEs at once, they will likely die. To tell the order of the collisions and their AoEs, players must eye the distance of the tethers and the colors of the orbs instead of relying on the orange AoE indicators, which only briefly appears before the AoEs resolve.
+If the Frozen Stars collide first, stand under them and quickly run away from the imminent detonation of the Burning Stars
+If the Burning Stars collide first, run away from them and then quickly run under the Frozen Stars before they detonate as well. Using Sprint is recommended.
+Ice Collides First: Start in the middle of the room, and once the ice donut AoE goes off, run to the wall away from all the fire spheres.
+Fire Collides First: Start near the wall away from all the fire spheres, and once they explode, run to the middle of the room. Don't start directly at the wall so you won't need to run as far.
+Universal Manipulation: Causes room-wide damage and five debuffs. As of Patch 6.3, there no portals to hide in and avoid this, and the debuffs will detonate the following mechanics:
+Bleeding: Players take damage overtime until the debuff expires.
+Ancient Circle: Upon expiring, this creates a massive donut AoE around each player. They should stack in the center to ensure the donut AoEs do not spread there.
+Dark Whispers: Upon expiring, this creates a purple AoE circle on each player, who should spread out to avoid overlapping.
+Ancient Frost: Upon expiring, the afflicted player will find themselves the victim of a stack marker.
+Burning Chains: Upon expiring, players are chained by pairs and must run away from each other to break them.
+Entropic Flame: A line stack marker.
+Arcane Revelation: A reprisal of Lahabrea's ultimate from The Ultimate Weapon. Ascian Prime becomes untargettable, summons a large Arcane Sphere, and begins siphoning power from it to fill an Ascian Prime's Power gauge. Meanwhile, untargettable Shades of Lahabrea and Igeyorhm periodically appear to unleash mechanics on the party
+Chilling Cross and Dark Fire II: Igeyorhm's shade creates cross line AoEs from the middle of the arena while Lahabrea's shade places purple AoE circles on players.
+Dark Blizzard II and Dark Fire II: Igeyorhm's shade creates several frozen line AoEs while Lahabrea's shade places purple AoE circles on players.
+Shadow Flare: Both Shades cast this at the same time, dealing extra raidwide damage.
+Annihilation: Heavy raid-wide damage based on how far the Ascian Prime's Power gauge filled. If Ascian Prime was allowed to reach 100%, his attack will wipe the party
+Ancient Eruption: Ascian Prime causes AoE circles to appear underneath each player.
+From there, the mechanics repeat themselves until the boss is defeated.
+
+</strategy_text>

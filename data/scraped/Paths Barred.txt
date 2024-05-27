@@ -1,0 +1,64 @@
+Here is the cleaned up text for the "Paths Barred" quest guide:
+
+Paths Barred
+
+Quest giver: Zero 
+Location: Garlemald (X:31, Y:36)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 1,217
+Previous quest: A Dragon's Resolve
+Next quest: Desires Untold
+Patch: 6.3
+
+Rewards
+Choose one of the following options:
+2 King Urchin Loaf
+2 Melon Juice
+2 Garlean Pizza
+2 Loaghtan Rump Steak
+3 Allagan Silver Piece
+
+Steps
+1. Wait at the designated location outside Meghaduta.
+2. Speak with Zero at Saltwind's Welcome.
+3. Gather information near the Hamsa Hatchery.
+4. Speak with Nahbdeen.
+
+Journal
+Zero wishes to know your next destination.
+
+Dialogue
+Estinien: Vrtra has quelled the tempest within his heart. He should be fine.
+
+Y'shtola: That Azdaja's eye hasn't succumbed to Darkness bespeaks her incredible resilience. So let us trust in this sign that she yet lives, and be not deterred in our efforts.
+
+Varshahn: I must apologize for my bout of melancholy. To be so easily shaken ill becomes a great wyrm. You have remained at my side and ever offered me support and encouragement. I haven't the words to thank you.
+
+Zero: Am I right in assuming that we are to return to the void? 
+
+Varshahn: Now that matters here have been settled, yes. But first, we should return to Radz-at-Han to prepare. When everyone is ready, let us convene at Meghaduta.
+
+Zero: We know the fiend was headed north... But that still leaves a lot of ground for us few to cover. We need a way to conduct our search more efficiently. Do you have any ideas?
+
+Q1: What will you say?
+
+A1: I know people who may have seen something. 
+Zero: In other words, we seek help from the locals? If you think it best, then very well. So. Where to, then?
+
+A1: We split up and make inquiries.
+Zero: In other words, we seek help from the locals? If you think it best, then very well. So. Where to, then?
+
+Zero: The Great Work and the encampment at the Hamsa Hatchery? If both places are to the north, then the people there may indeed have seen something. Very well, I will head to the Great Work, and leave the encampment to you.
+
+Nahbdeen: Ah, [Forename]. Is this about the happenings at the Bhaflau remnants?
+
+Imhudi: Saw the light over at the Bhaflau remnants too, did you? We've sent scouts to investigate, but they've yet to report back. We will continue to keep watch here, but if you learn anything, be sure to let us know.
+
+Khuteeyu: These fishermen saw a fiend emerge from the Bhaflau remnants before heading north, you say? I saw what I thought was a ball of flame flung from the explosion, but now I wonder... It flew north, in the direction of Khadga. If it is in fact a fiend, then we have trouble on our hands. We must remain vigilant.
+
+Imhudi: Ever since that explosion, we've seen nothing else unusual come from the waters, but there's no telling what our scouts may report.
+
+Khuteeyu: In case you're unfamiliar, Khadga is the massive rock formation that juts out over the water. That's where the ball of flame flew.
+
+Nahbdeen: I presume you've come to investigate the explosion at the Bhaflau remnants as well. We've yet to ascertain precisely what happened. Is there any information you can share with us? A fiend emerged from the explosion and flew towards Khadga!? By the Sisters! Had I learned of this sooner─never mind. There is no time to waste!

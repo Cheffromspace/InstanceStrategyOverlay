@@ -1,0 +1,25 @@
+<strategy_text>
+Duty Support
+Scion Marauder
+Scion Conjurer
+Scion Thaumaturge
+Scion Lancer
+
+Objectives
+Meet a Longstop ally: 0/1
+Access Brayflox's Runstop: 0/1
+Access Mudstop Watergush: 0/1
+Arrive in the heart of the Longstop: 0/1
+Defeat Aiatar: 0/1
+
+Bosses
+Great Yellow Pelican is a giant bird and the first boss of Brayflox's Longstop. During the fight, Pelican will summon small birds called Violet Back. Kill the birds quickly before they overwhelm the party. Additionally, the Pelican can poison the tank.
+
+Inferno Drake is a fire-breathing drake. It has an AoE cone attack that should be avoided by casters and melee dps. Halfway through the way, Brayflox will run into the boss room with a drake named Tempest Biast, chasing him. Kill the smaller drake, save Brayflox, then kill the Inferno Drake.
+
+Hellbender is a giant amphibian creature. During the fight, it will periodically crowd control a party member in a bubble. Kill the bubble quickly and free your teammate. Will also periodically cast Peculiar Light, inflicting Magic Vulnerability Upon any players hit. At the end of Hellbender's lifespan, Aiatar, the dragon, flies in and consumes the amphibian. Attack Aiatar until his HP is about 50%, then it will fly away.
+
+Deep Jungle Coeurl is an optional mini-boss and is a coeurl with an AoE attack. Be sure to run out of the big red circle on the ground to avoid it.
+
+Aiatar is the main boss of Brayflox's Longstop. This giant green dragon engages your party in his lair. Aiatar has a tankbuster indicated by a red marker over the tank. During the fight, the dragon will spit small AoEs around the room that will form green rocks; the rocks' AoEs will expand and explode rather quickly so find a safe spot where there is no rock. After a couple rounds, there will be secondary green rocks which should be avoided after the first sets explode. Aiatar will also do a line AoE in the direction he faces, so be sure to position him away from the party. Healers can use Esuna to cure poison from any party member.
+</strategy_text>

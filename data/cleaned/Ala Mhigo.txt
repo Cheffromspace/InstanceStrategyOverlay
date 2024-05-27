@@ -1,0 +1,55 @@
+<cleaned_strategy_text>
+Objectives
+Eliminate the imperials: 0/1
+Defeat the magitek scorpion: 0/1
+Eliminate all obstacles: 0/1
+Slay Aulus mal Asina: 0/1
+Arrive in the Hall of the Griffin: 0/1
+Defeat Zenos yae Galvus: 0/1
+
+Bosses
+Magitek Scorpion
+Abilities
+Electromagnetic Field: Moderate area-wide damage.
+Target Search: Places a circular marker under each player that slowly follows them for 6 seconds before detonating and leaving behind a hazardous puddle. Bait it away and drop it somewhere safe.
+Tail Laser: Line AoE stretching in front and behind Magitek Scorpion.
+
+Aulus mal Asina
+The fight has 3 phases:
+Phase 1: Pre-Out-of-Body.
+Phase 2: Out-of-Body.
+Phase 3: Post-Out-of-Body.
+
+Abilities
+Mana Burst: Moderate area-wide damage.
+Order to Charge: Places 3 drones somewhere in the area.
+Order to Fire: Shortly after Order to Charge, places large AoE circles somewhere in the area. After the AoE is done, three (3) larger, overlapping circles will appear. Safe zones are inside.
+Magitek Disruptor: Stuns and sucks players toward the middle of the arena, leading up to Mindjack.
+Mindjack: Knocks players back and applies Out of Body. Each player must slowly return to their physical body in the middle of the arena, linked by a fiery line. Prototype Death Claws will spawn and slowly follow each player, stunning at melee range, while Prototype Bits spawn around the area and shoot line AoEs, also stunning on contact. Avoiding both should be prioritized over rushing, though taking too long will result in death. After a player recovers their body, they can proceed to attack the Death Claws.
+Demimagicks: Places a marker and AoE under each player. Uses overlapping circles from Order to Fire but to a larger extent at the same time.
+
+Zenos yae Galvus
+Note of caution: Just outside the door to Zenos are two 12th Legion Colossus mobs, who tend to run off and use AoEs in random directions.
+
+The fight has three phases:
+Phase 1: Pre-Aether Transfer.
+Phase 2: Aether Transfer.
+Phase 3: Post-Aether Transfer.
+
+In all phases, touching the outer ring of the area will inflict damage and apply a stack of Damage Down.
+
+Zenos will, at around 15% HP, start charging his ultima. An Aether Transfer meter will indicate the time you have to kill the three adds. There is no "best" order; just destroy them ASAP. However, The Swell will occasionally kick you into the outer ring.
+
+Abilities
+Art of the Storm: PBAoE centered on Zenos. Move away to avoid it.
+Art of the Swell: Damages players and knocks them back. Move in to avoid being pushed into the outer ring.
+Art of the Sword: Line AoE targeted at each player. Do not stack or you will get hit by more than one ray.
+Vein Splitter: Places 4 copies around Zenos. Large PBAoE around Zenos, followed by large PBAoEs around the copies. The AoEs of the copies do not overlap near Zenos. Zenos will jump one player and tether to them. After a few seconds he will execute Lightless Spark.
+Lightless Spark: Cone AoE targeted at a chosen player.
+Concentrativity: Area-wide AoE, high damage.
+
+ADDS
+Ame-no-Habakiri: Uses Art of the Sword.
+The Swell: Uses Art of the Swell.
+The Storm: Uses Art of the Storm.
+</cleaned_strategy_text>

@@ -1,0 +1,150 @@
+<cleaned_strategy_text>
+Chaos
+Just like normal mode, players will find themselves in a square-shaped arena. It is possible to fall over the edge during battles, though victims can be raised after a moderate delay if they perish in this manner. There are two Elemental Phase's that will change depending on which ability Chaos uses after the opening tankbuster, giving the fight a small element of RNG, but nothing overly complex.
+
+If Chaos opens the fight with Damning Edict, the first elemental phase will involve Inferno followed by Cyclone. If Chaos uses Longitudinal & Latitudinal Implosion, then the first elemental phase will involve Tsunami and Earthquake. All players should keep an eye on whether Chaos uses Damning Edict or Longitudinal & Latitudinal Implosion at the beginning of the fight as that will allow the group to predict the flow of battle.
+
+The fight is split into four notable segments:
+First Phase: Two elemental attacks - determined by which opening ability he used first (see above).
+Second Phase: Chaos Orb.
+Third Phase: Two elemental attacks - whichever didn't happen the first time (see above).
+Final Phase: Enrage.
+Another notable difference between normal and savage difficulty is the inclusion of four new debuffs for Cyclone and Earthquake.
+
+General Mechanics
+Latitudinal Implosion and Longitudinal Implosion - Chaos prepares to unleash an AoE attack across the platform in two directions (either from the sides or from the front and rear), shortly followed by additional blasts in the two remaining directions. Unlike normal mode, both versions will have no telegraph and will also apply Magic Vulnerability Up to anyone hit, making repeated failures fatal. Remember: If Chaos opens with Latitudinal Implosion or Longitudinal Implosion, the first elemental phase will involve Tsunami and Earthquake
+When Chaos is casting Latitudinal Implosion, players must first avoid 90-degree cones that fire from both sides of the boss, then a follow-up blast from the front and rear.
+
+When Chaos is casting Longitudinal Implosion, the reverse applies. Players must first avoid 90-degree cones that fire from the front and rear of the boss, then a follow-up blast from its sides.
+
+Damning Edict - causes Chaos to prepare a massive 180-degree frontal attack. Unlike normal mode, Damning Edict has no telegraph whatsoever. Whenever you notice Damning Edict being cast, all players should move behind Chaos as soon as possible. Remember: If Chaos opens with this move, the first elemental phase will involve Inferno and Cyclone.
+Now that you know which abilities lead to which phases, we'll cover other generic mechanics Chaos will utilize in-between them, then describe each elemental phase individually.
+
+Non-Elemental Attack Specific Moves
+Chaotic Dispersion - a vicious tankbuster, depicted by Chaos pulling back his arm and unleashing a vicious swipe against his main target. Be sure to utilize mitigation CDs if necessary. In savage mode, Chaotic Dispersion will inflict Physical Vulnerability Up, which requires a tank-swap.
+Umbra Smash - creates a proximity marker within the arena - the furthest point from where Chaos is currently positioned. After a brief delay, Chaos will the leap to the marked area and deal damage to the entire raid based on how close players were to the point of impact. Umbra Smash can be seen during Tsunami and Cyclone phases and is generally followed by Damning Edict, forcing the entire raid to run behind Chaos as soon as possible.
+Fiendish Orbs - creates two orbs within the arena during Cyclone and Tsunami phases that will tether to a player each. After a delay, both orbs will inflict damage to the tethered players. During Fiendish Orbs, the tether can be passed to (or picked up by) a different player by intercepting the tether line. As a result, the tank and off-tank should grab these tethers whenever possible and mitigate the damage.
+Dancing Orbs - creates four orbs at intercardinal positions of the safe area during the Inferno and Earthquake phases which will shoot straight-line AoEs towards random players.
+Knock Down (Generic) - marks four players (specifically tanks and healers) with a stack marker. By stacking with at least one player, Knock Down will deal moderate damage and apply Magic Vulnerability Up. If the stack is taken alone, it will instead deal very heavy damage and stun the player. Bear in mind that the location(s) where Knock Down has concluded will be the target location for Big Bang follow-ups (see below).
+Knock Down (Tsunami and Cyclone) - targets two players (healers specifically) with a proximity marker. The attack deals more damage the closer you are to the player with the marker. Just like the other version, the location(s) where Knock Down has concluded will be the target location for Big Bang follow-ups (see below).
+Big Bang - a broad circle AoE that explodes wherever Knock Down attacks have concluded (with no telegraphs). As such, all players should be mindful of where any Knock Down mechanics were handled and avoid those areas until Big Bang has detonated. If any player is hit by a Big Bang blast, they will suffer major damage and be knocked up into the air. Also, the Tsunami and Cyclone versions of Big Bang are much larger than the Inferno and Earthquake variants.
+Inferno Phase
+Inferno - inflicts unavoidable raidwide damage and blasts the arena with fire damage, spawning a single safe spot in the center of the arena in the shape of a circle. All players must remain within the safe area for the duration of Inferno to avoid Burns and sustained damage. All players will be afflicted by Entropy any time Inferno has been cast.
+Entropy - applies a debuff to all players that will explode on expiration, dealing moderate damage and knocking back anyone near the exploding player. Entropy on the tanks and healers will have a 10-second duration, whereas all DPS will have a 24-second duration. As a result, all tanks and healers should stand to the north, south, east, and west of the boss (at the very edges of the safe zone) seeing as their debuffs will expire first, allowing the DPS to huddle within the bosses hitbox. This allows Entropy to detonate on the tanks and healers without colliding with other players. Later on, all DPS will need to do the same once their debuffs are near expiration, giving the already exploded tanks and healers the ability to huddle within the boss.
+However, before Entropy explodes on the tanks and healers, Chaos will unleash Latitudinal Implosion and Longitudinal Implosion's, forcing the entire raid to avoid the front and back of Chaos (then the sides), or avoid his sides (then the front and back), depending on which version is cast. Once both implosions have been avoided, tanks and healers should move to their assigned positions seeing as their Entropy debuffs will soon expire.
+
+Chaotic Dispersion - a vicious tankbuster (see General Mechanics above for an explanation). At this point, it won't be long before Entropy on the damage dealers explodes, so make sure everyone has moved to their assigned positions to avoid overlap.
+Inferno - another blast of unavoidable raidwide damage that will re-cast a new wave of Entropy debuffs to all party members (with the same duration as before). Once again, all tanks and healers should position to the North, South, East and West edges whilst the damage dealers huddle in the center.
+From here, the tanks and healers will once again need to detonate at their assigned safespots while the DPS huddle in the center. Once detonated, Chaos will unleash Knock Down (see General Mechanics) upon the tanks and healers, targeting them with stack markers than will each need to be soaked by at least one other player each. Remember, all Knock Down mechanics throughout the battle will always be followed by an eventual Big Bang, a massive AoE that detonates at every location where Knock Down has concluded, but not before all Entropy debuffs have concluded.
+
+To combat the overlapping mechanics, previously exploded (Entropy) tanks and healers will need one DPS each to help soak the stack marker at the four assigned safespots at cardinal or intercardinal positions. Once done, tanks and healers can collapse into the center of the arena while the damage dealers remain in the safespots to allow Entropy to detonate. Once done, all players should move into the center to avoid Big Bang, which will detonate at all locations where the previous stack mark mechanics were resolved.
+
+Dancing Orbs - creates four orbs at intercardinal positions of the safe area during the Inferno and Earthquake phases which will shoot straight-line AoEs towards random players.
+Once Dancing Orbs has concluded, the elemental phase will cease, returning the arena to its normal state.
+
+Here's a quick run-down of the mechanical timeline once more:
+
+Inferno - raidwide damage that applies Entropy.
+Tanks & healers (Entropy) explodes.
+Latitudinal & Longitudinal Implosion.
+DPS (Entropy) explodes.
+Chaotic Dispersion - tankbuster.
+Inferno - raidwide damage that re-applies Entropy once again.
+Tanks & healers (Entropy) explodes.
+Tanks & healers targeted with stack marker for Knock Down.
+DPS (Entropy) explodes.
+Big Bang explodes.
+Dancing Orbs appear and begin to shoot straight-line AoEs towards players.
+Cyclone Phase (always follows the Inferno Phase)
+Cyclone - inflicts unavoidable raidwide damage and applies Headwind debuffs to each tank and healer, as well as Tailwind debuffs to all DPS. Also, a large purple circle will be formed in the very center of the arena that will eventually turn into a raging cyclone. Anyone who walks (or is displaced) into the cyclone at any point will receive a nasty Windburn debuff.
+Headwind (Debuff) - applied to all tanks and healers. "A strong wind blows towards the face of your character". Players with Headwind should face away from the cyclone.
+Tailwind (Debuff) - applied to all DPS. "A strong wind blows towards the back of your character". Players with Tailwind should face towards the cyclone.
+If either debuff should expire normally, the affected player will suffer tremendous damage, a huge knock-up, and a Damage Down debuff. In response, players can cleanse their debuffs by being knocked-back by specific mechanics - the distance of which is determined by the type of debuff and the direction the affected player is facing at the time (see above). Due to knock-backs being required to cleanse debuffs, utilizing knock-back immunity cooldowns is highly discouraged at this time.
+
+Once all debuffs have been applied, the raid will need to contend with Umbra Smash (see General Mechanics), followed by Damning Edict once Chaos has landed. Damning Edict will always be cast towards the central cyclone, leaving a very small safe area directly behind Chaos. Rather than running behind Chaos to avoid Damning Edict, players will need to allow themselves to be knocked-back by Tornado - a telegraphed knock-back from the central circle which will cleanse players of their Head/Tailwind debuff. However, depending on the debuff, players will either need to face the cyclone (Tailwind) or face away from it (Headwind) to be knocked a safe distance. If players face the wrong direction during the Tornado knock-back, they will be launched off the platform to their doom.
+
+Once done, Chaotic Dispersion (tankbuster) will be followed by a re-cast of Cyclone, inflicting raidwide damage and re-applying all Headwind and Tailwind debuffs with the same duration and targeting as before. Once re-applied, Chaos will cast Knock Down - a version specific to Tsunami and Cyclone phases (see General Mechanics), but will still be followed by Big Bang.
+
+Once both healers have been marked for Knock Down, another Tornado (arena-wide knock-back) will trigger. Once again, the entire raid will need to position themselves so that they are not knocked off the platform, remembering to face towards (or away from) the cyclone depending on their debuff. Meanwhile, both healers will need to run to opposite corners of the arena (away from the raid) and stand with their back to the cyclone due to Headwind, allowing themselves to be safely pushed into the corners. By doing so, they will be a safe distance apart for Knock Down to deal minimal damage to themselves and the raid. Don't forget - Big Bang will detonate wherever the healers resolved Knock Down, thus both will need to run back towards the raid away from the Big Bang blast arena.
+
+Chaos will now summon two Fiendish Orbs within the arena that will each tether to a different player (see General Mechanics). Both the tank and off-tank should grab the tethers as soon as possible and mitigate the upcoming damage. If desperate, immunity cooldowns can also be considered here.
+
+Once Fiendish Orbs has concluded, the elemental phase will cease, returning the arena to its normal state.
+
+Here's a quick run-down of the mechanical timeline once more:
+
+Cyclone - raidwide damage, applying Headwind and Tailwind debuffs.
+Umbra Smash - Chaos leaps to the corner furthest away from where he is currently positioned.
+Damning Edict + Tornado - forces all players to position themselves so that they are pushed behind Chaos, remembering to face towards, or away from, the tornado depending on their debuff.
+Chaotic Dispersion - a vicious tankbuster, forcing a tank-swap.
+Cyclone - more raidwide damage that re-applies Head/Tailwind debuffs.
+Knock Down - marks both healers with Proximity Markers.
+Tornado - all players must once again position themselves for a knockback, remembering their Head/Tailwind debuff. Healers will need to do so away from the rest of the raid, then run to avoid Big Bang.
+Fiendish Orbs - tank and off-tank grab both tethers and mitigate upcoming damage.
+Tsunami Phase
+Tsunami - inflicts unavoidable raidwide damage and applies Dynamic Fluid debuffs to all players. Also, two columns of water will form at the sides of the arena, leaving only a vertical stripe through the centre as a safe area. Anyone who walks (or is displaced) into the watery areas at any point will suffer Dropsy.
+Dynamic Fluid - applies a 10-second duration debuff on tanks and healers, and a 17-second duration version on DPS. Whenever Dynamic Fluid expires on a player, a large donut AoE will detonate around them, slaying anyone caught in the blast. As a rule of thumb, stacking on top of one another will prevent cleaving members of the group.
+Once Dynamic Fluid has been applied, Chaos will unleash Umbra Smash (see General Mechanics) followed by Damning Edict, forcing players to get behind Chaos as soon as possible. Beforehand, however, the tank and healer variants of Dynamic Fluid will detonate. As a rule of thumb, players should stay in the same spot until the donut AoEs have detonated, then move as a group behind Chaos to avoid Damning Edict. By the time the group reaches the safe area, the second set of Dynamic Fluid debuffs will detonate. As long as the group remains stacked together, nobody will be cleaved. Once concluded, Chaos will smash the primary target with Chaotic Dispersion (tankbuster), forcing a tank-swap, then bombard the raid with another cast of Tsunami, inflicting raidwide damage and re-applying Dynamic Fluid with the same targeting and durations as before.
+
+Knock Down - targets both healers with proximity markers (just like the Cyclone phase), forcing them to move away from each other (and the rest of the group). As such, one healer should head to the north while the other heads to the south, leaving the rest of the raid in the center. Seeing as one set of Dynamic Fluid debuffs are detonating at the same time, anyone not positioned in time may be cleaved by a donut AoE and slain outright. As usual, Big Bang will eventually detonate where both Knock Down mechanics were resolved, forcing the healers to return to the arena center to order to avoid the upcoming explosions. The second set of Dynamic Fluid debuffs will explode at the same time, thus time is of the essence, as anyone not stacked in the center at this point is very likely to be hit by Big Bang or a donut AoE.
+Chaos will now summon two Fiendish Orbs to the north and south that will each tether to a different player (see General Mechanics). Both the tank and off-tank should grab the tethers as soon as possible and mitigate the upcoming damage. If desperate, immunity cooldowns can also be considered here.
+
+Once Fiendish Orbs have concluded, the elemental phase will cease, returning the arena to its normal state.
+
+Here's a quick run-down of the mechanical timeline once more:
+
+Tsunami - deals raidwide damage and applies Dynamic Fluid to everyone in the raid.
+Umbra Smash + Dynamic Fluid - Chaos leaps to the north or south based on which side he is further away from. The timing of Umbra Smash aligns with the first set of Dynamic Fluid AoEs.
+Damning Edict + Dynamic Fluid - leaves a vary small safe space behind Chaos on the edge of the arena, followed by the remaining Dynamic Fluid debuffs detonating.
+Chaotic Dispersion - a vicious tankbuster, forcing a tank-swap.
+Tsunami - more raidwide damage and a new set of Dynamic Fluid debuffs.
+Knock Down + Dynamic Fluid - healers targeted with proximity markers.
+Big Bang + Dynamic Fluid - Big Bang detonates where both Knock Down mechanics were resolved alongside Dynamic Fluid donut AoEs.
+Fiendish Orbs - creates orbs at the north and south of the safe area.
+Earthquake Phase (always follows the Tsunami Phase)
+Earthquake - inflicts unavoidable raidwide damage and applies 20 second duration debuffs to all players - Accretion on tanks and healers, Primordial Crust on all DPS. The first cast of Earthquake will also render the southern side of the arena completely unsafe. Should any player walk (or be displaced into) the unsafe area will be affected with Sludge.
+Accretion - a debuff applied to all tanks and healers with every cast of Earthquake that can be cleansed by healing the affected target(s) to full HP. If the debuff expires before being cleansed, the target will instantly be slain.
+Primordial Crust a debuff applied to all DPS with every cast of Earthquake that can only be cleansed by taking lethal damage from specific mechanics (which will instead leave their HP at 1). If the debuff expires before being cleansed appropriately, the target will be slain outright.
+Landslide - will eventually punt all players towards the southern (unsafe) area of the arena. To avoid, all players will need to stand at the very northern edge.
+After the Landslide (knock-back), Chaos will unleash a Latitudinal or Longitudinal combination of implosions. Unlike other phases, the DPS will need to be hit by both blasts to take lethal damage and cleanse their Primordial Crust debuffs (which will instead leave them with 1 HP rather than kill them), whereas the tanks and healers will need to avoid the attacks. Once Lat/Long implosions have concluded, Chaos will prepare to smash the primary target with a Chaotic Dispersion (tankbuster), forcing a tank-swap before the next wave of mechanics.
+
+From here, Chaos will unleash another Earthquake, inflicting massive raidwide damage and re-applying debuffs with the same duration and targeting as before. Once Earthquake has concluded, another Landslide (knockback) will commence, along with the generic version of Knock Down (see General Mechanics), applying a stack marker to all tanks and healers, each requiring at least one other player to help soak the damage. Pairs of players (one marked and one unmarked) will need to spread out across the northern edge of the arena so that each marker is soaked appropriately (without overlapping) and so that nobody will be knocked into the unsafe area to the south. As soon as the knockback has concluded, Knock Down will detonate.
+
+Don't forget that every cast of Knock Down is always followed by Big Bang (AoE explosions) wherever the Knock Down's have resolved, thus all players (except DPS affected with Primordial Crust) will need to be positioned near the northern side of the arena to avoid the eventual explosions. By taking lethal damage from Big Bang, the Primordial Crust debuff will be removed, leaving the affected players at 1 HP instead of killing them.
+
+Dancing Orbs - creates four orbs around the safe portion of the arena area which will shoot straight-line AoEs towards random players.
+Once Dancing Orbs has concluded, the elemental phase will cease, returning the arena to its normal state.
+
+Here's a quick run-down of the mechanical timeline once more:
+
+Earthquake - massive raidwide damage that applies specific debuffs.
+Landslide - shoves players towards the southern half of the arena.
+Lat/Long Implosion - tanks and healers should avoid both blasts as normal, whereas DPS must intentionally "die" to cleanse Primordial Crust. Note that the initial hit will apply a Magic Vulnerability Up, ensuring that the second implosion will "kill" the player.
+Chaotic Dispersion - a vicious tankbuster, forcing a tank-swap.
+Earthquake - another wave of massive raidwide damage and debuffs.
+Landslide + Knock Down - tanks and healers receive stack markers that must be soaked by at least one other player each, forcing the raid to pair up and spread out from other pairs along the northern edge of the arena.
+Big Bang - detonates where all Knock Down markers were resolved. DPS with Primordial Crust must "die" to this, whereas all tanks and healers should retreat to the north to avoid the explosions.
+Dancing Orbs - shoots waves of straight-line AoEs at random players that everyone should avoid.
+Bowels of Agony
+Bowels of Agony is a mid-phase interlude between the first and second elemental phase. For example, if Chaos opens the fight with Damning Edict, the first elemental phase will involve Inferno followed by Cyclone. Once concluded, Bowels of Agony will take place, which will then be followed by the remaining two elemental phases (Tsunami and Earthquake).
+
+Bowels of Agony begins with all players being reduced to 1 HP and receiving specific debuffs depending on their role. All tanks and healers will be afflicted with Headwind and Dynamic Fluid simultaneously, whereas DPS will be afflicted with Entropy and Primordial Crust simultaneously. Once debuffs have been applied, an Orb of Chaos will spawn in the center of the arena, starting a DPS check (with Chaos himself being untargetable for the duration). If the crystal is not destroyed before the duty gauge reaches 100, the raid will suffer an unavoidable wipe.
+During the debuff overlap, all DPS will need to receive fatal damage due to their Primordial Crust debuff. To achieve this, they must intentionally be cleaved by a Dynamic Fluid debuff detonation from a tank or healer. Meanwhile, tanks and healers will need to cleanse their Headwind debuffs by suffering a knockback from Entropy (DPS debuff). Due to being Headwind, they will also need to be looking away from the target knocking them back or they will suffer a much stronger knockback which may punt them off the platform.
+
+The desired result can be achieved by having each tank and healer pair with one damage dealer and have each pair stand at cardinal or intercardinal positions around the central crystal (like a "+" shape). Entropy will detonate first, knocking the paired tanks and healers away from the DPS and resolving their Headwind debuffs. With that in mind, each tank and healer can them position themselves so that they cleave their assigned partner with Dynamic Fluid, "killing" them (which resolves their Primordial Crust debuff and instead leaves them at 1 HP).
+
+Assuming the raid survives (and destroys the Orb of Chaos before the timer hits 100), Soul of Chaos will deal survivable raidwide damage. If the crystal has not been destroyed in time, Soul of Chaos will instead result in a full team wipe.
+
+Once again, Bowels of Agony takes place after the first two elemental phases. Succeeding here will result in Chaos entering the remaining two elemental phases. Once all four elemental phases have concluded, Chaos will enter an enrage state.
+
+Enrage Phase
+Having completed all four elemental phases, Chaos will leap to the middle of the arena and begin to cast all four elemental attacks in succession (Inferno, Cyclone, Tsunami, Earthquake), inflicting raidwide damage with each cast, as well as the debuffs associated with each elemental phase.
+
+Here's a quick run-down:
+
+Inferno - raidwide damage that applies Entropy to all players (which will detonate at the same time).
+Tsunami - raidwide damage that applies Dynamic Fluid to all players (which will detonate at the same time).
+Cyclone - raidwide damage that applies Head/Tailwind to all players (which will detonate at the same time). Seeing as there is no possible way to get knocked back (which normally resolves Head/Tailwind), all players will suffer major damage, get knocked up into the air, and receive a damage down debuff once Head/Tailwind has expired.
+Earthquake - raidwide damage that applies Accretion to tanks and healers and Primordial Crust to DPS. Seeing as no mechanics can provide fatal damage to cleanse Primordial Crust, they will be instantly slain once the debuffs expire. If Chaos hasn't been defeated by this point, tanks and healers can survive Accretion by healing to max HP and attempt to finish off the boss themselves.
+Bowels of Agony - a hard enrage that inflicts an unavoidable wipe.
+</cleaned_strategy_text>

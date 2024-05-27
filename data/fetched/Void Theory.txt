@@ -1,0 +1,72 @@
+Here is the cleaned up text for the "Void Theory" quest guide:
+
+Y'shtola is eager to depart for the vault. 
+
+Steps:
+1. Speak with the veteran Radiant.
+2. Speak with Nidhana. 
+3. Stand guard at the designated location.
+
+Journal:
+Y'shtola is eager to depart for the vault.
+
+Y'shtola has returned from the city with not only Varshahn, but also Estinien in tow. Wondering what ominous danger the Archon might be expecting, you set off for Akyaali, and the vessel waiting to bear your little group to the ruins in the Bounty.
+
+As promised, you find a ship moored at Akyaali. You board without further delay and depart for the vault, Y'shtola's quiet focus offset somewhat by Nidhana's infectious enthusiasm.
+
+※In the event that you leave Weaver's Warding, you may re-enter by speaking with the veteran Radiant in Akyaali.
+
+Announcing her intention to test the efficacy of the warding scale against the corrupting influence of the Thirteenth, Y'shtola summons forth two nixies with an unexpectedly light-hearted ritual. The Archon then embeds the talisman within one of the diminutive familiars before sending both through the gate into the void. For your part, you are charged with standing guard while the experiment is in progress, lest hostile entities attempt to slip through the open portal.
+
+Judging the experiment has gone on long enough, Y'shtola recalls her nixies from the shadowy realm beyond. The results are plain─while the warded familiar appears unaffected, its unprotected comrade has already begun to transform into a creature of the void. Y'shtola notes that, although G'raha Tia's hypothesis appears to be correct, the talisman will require augmentation to withstand the relentless influence of the Thirteenth.
+
+A question from Estinien prompts a brief lecture on the nature of the void, a world plunged into an eternal darkness when the Ascians failed catastrophically in their efforts to force a Rejoining. You add to the explanation, sharing your own memories of the Thirteenth and the aether-starved monstrosities which stalk its sunless expanse. Varshahn considers these horrors good reason to discourage your expedition, but something in his demeanor suggests he feels otherwise in his heart of hearts...
+
+Dialogue:
+Varshahn: Archon Y'shtola requested that I join you, but of her plans she offered scant detail...
+
+Estinien: The boy Mehrahd was glad to hear the news of the foundation. It means a new life for him and his sister.
+
+Nidhana: Oh, I forgot to mention! The Font of Maya attracts aggressive wildlife, and you should watch out for them when, uh...you go there next time. My apologies.
+
+Y'shtola: Look who I came across. Estinien seemed in need of diversion, and we, in turn, may have need of his lance...
+
+Y'shtola: Right, then. Now that our little party is assembled, let us make our way to the ruins.
+
+Estinien: Will we have need of Matsya's boat again?
+
+Varshahn: Not this time. Once Y'shtola informed me of our destination, I arranged for a vessel to be made ready at Akyaali.
+
+Y'shtola: Your Excellency is ever the gracious host. Shall we?
+
+Y'shtola: Onto the boat, if you please. We can chat on the way there.
+
+Estinien: 'Tis likely not needed with Vrtra along, but I held onto the map against the chance we might return to the ruins.
+
+Varshahn: You need not keep your weapons close at hand. The guardians will not attack if I am present, so I pray you leave them be...
+
+Nidhana: And all this time I thought the tales of Alzadaal's hoard were no more than drunken sailors' fancies!
+
+Veteran Radiant: The ship is yours to command.
+
+Varshahn: Our thanks. We set sail at once.
+
+Nidhana: Oh, this is so exciting! Alzadaal's Legacy─to see the truth of a legend with mine own eyes!
+
+Veteran Radiant: All aboard for the treasure vault!
+
+Y'shtola: Poor Vrtra─he really should have spoken with Estinien before we left. I shudder to think what we've cost them in terms of construct materials...
+
+Estinien: I thought we cleared this place of constructs the last time we came through. 'Twould seem a few stragglers remained.
+
+Varshahn: ...He laid waste to them ere I could utter a single word. <sigh>
+
+Veteran Radiant: Will you be setting sail for the vault?
+
+Y'shtola: We need to wait for a time to ensure a meaningful result. Be patient, and keep watch for any intruders.
+
+Estinien: I struggle to picture Y'shtola as a little girl. Easier to believe she sprang fully formed from one of Master Matoya's cauldrons.
+
+Varshahn: Every time I come here, it reminds me of that dark portal above the Crystal Tower...and the final lash of Azdaja's tail as she plunged into the void.
+
+Nidhana: Sisters save me, I will never see Y'shtola the same way again! "Froth and foam," indeed!

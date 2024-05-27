@@ -1,0 +1,27 @@
+<strategy_text>
+The Fiend: Sephirot
+
+Phase 1: 100% - 65%
+Tifferet - Party-wide damage that must be healed through, as it can be used in rapid succession.
+Ein Sof - Four green circles will pop up, growing in size over time. Standing in these circles will gradually deal damage and inflict Vulnerability Up stacks. Go to the half of the arena where there are no circles and prepare for Fiendish Rage.
+Fiendish Rage - A healer and a DPS will be marked with stack markers. Sephirot will leap to them one at a time, dealing damage and inflicting a Physical Vulnerability Up debuff. While running to the safe half of the arena to deal with Ein Sof, the healers and off-tank should move to one side while the DPS move to the other. Because of the debuff, the main tank should stand between each group and avoid getting hit.
+Chesed - Hard-hitting tankbuster with no cast bar, only indicated by Sephirot slowly raising his arm. Tank should re-center the boss and face him away, as this attack is followed by a frontal cleave Triple Trial.
+Ain - Sephirot will use Ein Sof again to spawn one green circle, shortly followed by him facing a random party member and cleaving the arena moments later. The group should stand between Sephirot and the circle so that he directs Ain towards it, allowing the party to easily deal with Ratzon.
+Ratzon - One party member is targeted with a large purple circle AoE while six are targeted with smaller green circles. The party must run behind Sephirot and spread out. The purple circle can be placed either just behind Sephirot or at the edge of the arena.
+
+Phase 2: Adds
+Cochma - Large add that deals strong physical damage and applies Magic Vulnerability Up stacks over time. The main tank should grab this and be healed regularly. Upon dying, the Cochma deals significant party-wide damage with Genesis. Two of these will appear during the phase.
+Binah - Smaller adds which the off tank should grab, as they deal magical damage. Upon dying, they each deal moderate party-wide damage with Genesis. Four sets of three Binah adds will appear during the phase.
+
+Phase 3
+Yesod - The ground will flash yellow, and a small circle AoE will be placed under each party member after a small delay, dealing damage and inflicting a Damage Down debuff. Avoid this by moving away as the flash occurs. If the party isn't grouped up, be sure to avoid moving into someone else's AoE. This attack is used in conjunction with other attacks during this phase.
+Force Field - Four party members receive a green Force Against Magic debuff, which provides a severe physical weakness and a strong magical resistance. The other four receive an orange Force Against Might debuff, which does the inverse. These are used to resolve the following three attacks.
+Spirit/Life Force - Sephirot will damage half the arena with a green sphere and half with an orange sphere. Be sure to stand in the sphere that matches the color of your debuff to avoid fatal damage. When no debuffs are present, this will deal moderate damage to the party.
+Fiendish Wail - Two towers will appear, one on each side of the arena. At least one party member with an orange debuff must stand in each tower to prevent lethal damage and a Vulnerability Up stack from being inflicted on the party. At least one of the four party members should be on each side in preparation to prevent all four from standing in one tower. Four sets of towers will appear throughout the phase, with the latter two requiring a tank to take each as there will not be any debuffs present.
+Da'at - When debuffs are present, Sephirot will use Ein Sof to summon expanding circles and tether the four orange-debuff party members. These party members should move away while the green-debuff party members move towards Sephirot and grab a tether, preventing fatal damage from being dealt. When no debuffs are present, this deals heavy AoE damage to random party members, starting with a tankbuster on the main tank.
+Earth Shaker - A healer and a DPS will get a marker above their heads as well as a proximity tether. One should move far to the left and away from Sephirot while the other moves right. Another Yesod will occur simultaneously, forcing everyone to move.
+Pillar of Mercy - The party should stack inside the first blue circle at the northern edge of the arena until Yesod goes off, then move outside of the circle to be knocked away, without falling off the arena. Two expanding Ein Sof circles will also spawn in sequence, forcing the party to be knocked in a certain direction.
+Malkuth - Sephirot will lower his head and inflict a strong knockback. Group up near him or use knockback resistance.
+Pillar of Severity: Prior to this move, four Binahs and a Storm of Words add will spawn. Each tank should grab a pair of Binahs while the party quickly burns down the Storm of Words. Mechanics will continue during this time, so tanks should be prepared to take towers. Eventually, the party will stack on the remains of the Storm of Words to avoid getting knocked off stage by Sephirot.
+The enrage will be indicated by an unavoidable Pillar of Severity.
+</strategy_text>

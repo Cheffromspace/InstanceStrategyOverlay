@@ -1,0 +1,23 @@
+<cleaned_strategy_text>
+ADS, Allagan Defense System, is the mini-boss of Turn 1.
+High Voltage: Inflict moderate damage to all players and apply Paralysis, which will periodically Stun the affected player and cannot be cleansed. Interrupt the cast at all cost.
+Repelling Cannon: A pointblank AoE from the boss
+Piercing Laser: A line AoE aimed on a random person
+Nodes: Adds will spawn on the entrance and will tether to the boss if they get too close causing the boss to regenerate some HP and gain increased damage done. Several variants may spawn though all of them will cast Repelling Cannon similar to ADS.
+Enrage: ADS will explode after 4 minutes (4 clicks), dealing massive damage
+
+Caduceus Mechanics:
+Crystal Platform: The yellow crystal path that you've been walking on before will glow and apply a Bleed to anyone standing on it when Caduceus is active.
+Hood Swing: Non telegraphed cleave tankbuster with a large radius
+Whip Back: A telegraphed backward cleave used when a player is standing behind it.
+Regorge: Spit a Poison puddle on a random player that deals damage over time.
+Steel Scales: Caduceus will periodically gain a stack of Steel Scales, increasing physical damage dealt by around 50%. This buff does not expire on its own and will stack up to 8.
+Dark Matter Slime: Several of the platforms will begin to glow and when it finish, anyone standing on top of these platforms will spawn a Dark Matter Slime. These adds will fixate on the player spawning them and explode if the target is too far away, dealing massive AoE damage. If Caduceus comes in contact with these slimes, it will Devour the slime and lose a stack of Steel Scales but also heal itself for the amount of HP the slime have.
+Split: At around 68% HP, the boss will split into two with both having halved HP and damage. Both bosses will gain Steel Scales over time.
+Merge: After the split, Caduceus will merge with its duplicate if they get too close to one another, merging their HP and rapidly gain Steel Scales
+Enrage: Caduceus will rapidly gain Steel Scales when the other Caduceus is killed. Burn them both down at around the same time.
+
+Strategy:
+Spread out. Assign players to spawn slime. DPS the slime down to around 20% before letting. Bring the slime towards the boss from its side. Splitting the boss when it has no stacks is greatly preferred
+On split, take your party and split in to 2 light parties and burn your respective bosses. Continue to drag slimes to the boss during this phase to prevent the tanks from getting overwhelmed. Split DPS equally and make sure both of them are away from each other.
+</cleaned_strategy_text>

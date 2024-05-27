@@ -1,0 +1,93 @@
+Here is the cleaned up text for the "Desires Untold" quest guide:
+
+Desires Untold
+
+Quest giver: Nahbdeen 
+Location: Thavnair (X:10.1, Y:10.1)
+Quest line: Post-Endwalker Main Scenario Quests
+Level: 90 
+Gil: 4,235
+Previous quest: Paths Barred
+Next quest: Gods Revel, Lands Tremble
+Patch: 6.3
+
+Rewards:
+Choose one of the following options:
+1 Savage Might Materia IX
+1 Savage Aim Materia IX 
+1 Heavens' Eye Materia IX
+Unlocks: Mount Ordeals
+
+Steps:
+1. Speak with Qetanur at the Giantsgall Grounds.
+2. Speak with Sramul.
+3. Confront Rubicante at Mount Ordeals. 
+4. Speak with Zero.
+
+Journal:
+Now apprised of the situation, Nahbdeen is eager to take action.
+
+As Nahbdeen resolves to instruct the people to seek shelter, you offer to investigate Khadga, where the fiend that arose from the Bhaflau remnants is believed to be. Grateful for the help, the Radiant commander suggests that you speak with the quarry workers at the Giantsgall Grounds, which is situated at Khadga's base. Apparently, a man named Qetanur is likely to know one of the paths to the summit.
+
+According to Qetanur, a rockslide may have rendered the primary path nigh impassable. Thankfully, one of his fellow quarry workers, Sramul, is said to climb like a langur, and may know an alternate route.
+
+Though initially reluctant to send you headlong into danger, Sramul shows you an alternate trail that leads to the mountaintop. And so you begin your climb to ascertain who or what has made its nest atop Khadga.
+
+At the summit of Khadga, you come face to face with the archfiend of fire, Rubicante. While the coming battle promises to be difficult, you can but hope that victory will bring you one step closer to uncovering Golbez's scheme.
+
+※Mount Ordeals can be accessed via the Duty Finder.
+
+Rubicante rains fire upon you and your comrades, but his flame soon flickers and fails. Battered and beaten, the archfiend offers to tell you his lord's grand design, confident that the knowledge will not change the outcome.
+
+Golbez is intent on invading the Source, that the denizens of the void may be granted true death and return to the Lifestream. The revelation rattles Zero, who chastises the archfiend for his methods in pursuit of release. For pride and honor, Rubicante then reveals where Golbez and Azdaja may be found: on the moon of the Thirteenth.
+
+Though she understands Rubicante's motivations, it remains to be seen if Golbez is driven by a similar hunger. Indeed, with his dying breath, Rubicante suggested that his lord harbors a desire all his own... Regardless, Zero believes there is a better way forward, a future she hopes to one day see made reality.
+
+Dialogue:
+Nahbdeen: Confound it. We were so concerned with the explosion that we failed to recognize that the threat had not yet passed! 
+
+Nahbdeen: We must alert command at once and instruct the people to seek shelter.
+
+Q1: What will you say? 
+A1: Is there a way to the top of Khadga?
+A1: I'll go and see if the fiend is indeed there.
+
+Nahbdeen: What? You mean to go there to investigate!?
+
+Nahbdeen: But there is no telling what manner of enemy this may be!
+
+Nahbdeen: Then again...you are more than capable of defending yourself... As you wish. We will leave this in your hands.
+
+Nahbdeen: The Giantsgall Grounds are situated at the base of Khadga. I myself am not familiar with the mountain paths, but the quarry workers are bound to know many.
+
+Nahbdeen: Qetanur, for instance─he has worked there the longest. Go well, my friend, and may the Sisters keep you.
+
+Nahbdeen: If someone can tell you how to scale Khadga, it will be Qetanur. Seek him out at the Giantsgall Grounds.
+
+Qetanur: You want to climb Khadga!? You couldn't have chosen a worse time...
+
+Qetanur: There was an earthquake earlier, and it triggered a rockslide. I'm afraid the main path to the summit may be blocked.
+
+Qetanur: But if you're determined to go, then I suggest you speak with Sramul. He climbs like a langur, and might know some other way up, if not the gentlest.
+
+Qetanur: If you commit to climbing Khadga, take care not to slip. Most routes were treacherous before, and I don't dare to imagine how they are now.
+
+Nahbdeen: I thank you for your offer of help. I pray the Sisters speed your way to the summit─and keep you safe from whatever you find there.
+
+Sramul: How to reach the top of Khadga!? After what has happened, that should be the last place anyone sane would want to be...
+
+Sramul: But yes, I am familiar with another route that should still be passable. I was once afraid of heights, you see, and used it to build up my courage.
+
+Sramul: Though I cannot say I have the courage to brave it under these conditions! I'll take you to where the route starts, but no further, all right?
+
+Q2: Proceed to Khadga?
+
+Sramul: I can show you where my route to the top of Khadga begins, but you'll have to head up there on your own. Some may call me a coward, but they will not call me a fool.
+
+Q2: Proceed to Khadga?
+
+Zero: My inquiries delayed me. I'm not accustomed to conversation.
+
+Zero: But I'm glad I arrived in time to speak with Rubicante...
+
+Zero: As much as I

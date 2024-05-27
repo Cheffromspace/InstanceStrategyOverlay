@@ -1,0 +1,55 @@
+Here is the cleaned up version of the Aitiascope dungeon guide:
+
+The Aitiascope
+
+Level: 89 (Sync: 90)
+Item Level: 520 (Sync: 550) 
+Difficulty: Normal
+Party size: Light Party (4 man - 1 tank, 1 healer, 2 DPS)
+Unsyncing: Not Allowed
+Time limit: 90 minutes
+Duty Finder: Dungeons (Endwalker) 
+Roulette: Leveling
+Required quest: Her Children, One and All
+Entrance: Labyrinthos (X:16.7, Y:28.3)
+Modes: Duty Support, Trust, Explorer
+Trust EXP: 10,795,000
+Patch: 6.0
+
+Deep in the heart of Labyrinthos lies its secret among secrets─the device through which the Sharlayans have peered into the aetherial sea to learn Hydaelyn's secrets. With their bargain with the Forum fulfilled, the Scions of the Seventh Dawn are poised to journey to the Aitiascope and beyond to beg Her aid, but no depths are without their darkness...
+
+Objectives:
+1. Arrive at the central observatory 
+2. Clear the central observatory
+3. Arrive at the saltcrystal strings
+4. Clear the saltcrystal strings 
+5. Arrive at Midnight Downwell
+6. Defeat Amon the Undying
+
+Bosses:
+Livia the Undeterred
+- Aglaea Bite: Tank Buster
+- Frustration: Room-wide AOE
+- Odi Et Amo: Two circle AoEs spawn under party members, followed by a stack marker. Group stacks after dodging circles.
+- Disparagement: Conal AOE on stack marker target after stack damage. Move out of cone after stack.
+- Aglaea Climb: Two of four boss arms glow and attack quadrants. Stand in quadrant of non-glowing arm.
+- Aglaea Shot: 8 Line AOEs fire out and return to boss. Safe zones between lines. Short telegraph when returning.
+
+Rhitahtyn the Unshakable  
+- Anvil of Tartarus: Tank Buster
+- Tartarean Impact: Room-wide AOE
+- Tartarean Spark: Line AOE on random player
+- Shrapnel Shell: Mortar shots target two corners, filling quadrant with AoEs
+- Vexillatio: Outer thirds marked with knockback AoE, restricting movement to center
+- Shield Skewer: Boss absorbs aether from 4 crystals to charge down a lane. Move to lane of first drained crystal.
+
+Amon the Undying
+- Dark Forte: Tank Buster
+- Entr'acte: Room-wide AOE  
+- Eruption Forte: Circle AoEs under players
+- Thundaga Forte: Proximity AoE in middle, then alternating fast/slow lightning in 8 sections. Stand in slow section then fast.
+- Strophe/Antistrophe: Circular discs raise and fire column AoEs from both sides. Dodge based on disc positions.
+- Left/Right Firaga Forte: Boss cleaves entire left or right side. Move to opposite side from boss's perspective. 
+- Curtain Call: Circular AoEs spawn, then hide behind ice crystal to avoid wipe mechanic.
+
+The fight continues repeating mechanics until Amon is defeated. Failing mechanics inflicts stacking vulnerability debuffs.

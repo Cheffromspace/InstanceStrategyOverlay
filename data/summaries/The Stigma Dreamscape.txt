@@ -1,0 +1,30 @@
+<span class="boss">Proto-Omega</span>:<br>
+- <span class="mechanic">Avoid 🔴 AoE on arena edge</span> (inflicts 🤢 Bleeding)<br>
+- <span class="ability">Side Cannons</span>: <span class="mechanic">🏃 Opposite side of boss 📐 cleave</span><br>
+- <span class="ability">Rear/Forward Interceptors</span>: <span class="mechanic">🏃 Avoid indicated direction 📐 cleave</span><br>
+- <span class="ability">Chemical Missile</span>: <span class="mechanic">🏃<>🏃 Spread for 🎯 AoEs, avoid 🔴 puddles</span> (inflict 🤢 Burning)<br>
+- <span class="ability">Electric Slide</span>: <span class="mechanic">🤝 Stack for 💨 knockback, avoid arena walls</span><br>
+- <span class="ability">Guided Missile</span>: <span class="mechanic">🏃 Avoid 🔗 tethered missiles, 🔴 puddles</span><br>
+- <span class="ability">Mustard Bomb</span>: 🛡️ <span class="mechanic">Tankbuster, mitigate</span><br>
+
+<span class="boss">Arch-Lambda</span>:<br>
+- <span class="ability">Wheel</span>: 🛡️ <span class="mechanic">Tankbuster</span><br>
+- <span class="ability">Atomic Flame</span>: 💥 <span class="mechanic">Roomwide AoE</span><br>
+- <span class="ability">Auto-mobile Assault Cannon</span>: <span class="mechanic">🏃 Avoid boss 4x dash path</span><br>
+- <span class="ability">Wave Cannon</span>: <span class="mechanic">🏃 Behind boss to avoid 📐 front cleave</span><br>
+- <span class="ability">Auto-mobile Sniper Cannon</span>: <span class="mechanic">Stand on 🔴 orb count matching 🎯 player orbs</span><br>
+
+<span class="boss">Stigma-4</span>:<br>
+- <span class="mechanic">Avoid 🔴 AoE on arena edge</span> (inflicts 🤢 Bleeding)<br> 
+- <span class="ability">AI Takeover</span> adds:<br>
+  - Omega Frame: <span class="mechanic">Avoid 📐 cleave, defeat before Self-Destruct</span><br>
+  - Hybrid Dragon: <span class="mechanic">🏃 Close to avoid 📐 Firebreath, defeat before Self-Destruct</span><br>
+  <span class="note">💡 Ignore adds & heal through damage if coordinated</span><br>
+- <span class="ability">Proto-Rocket Punch</span>: <span class="mechanic">🏃 Between adds for safe spot</span><br>
+- Boss transformations:<br>
+  - Double helix: <span class="mechanic">🏃 Away from boss 🎯 AoE</span><br>
+  - Donut: <span class="mechanic">🏃 Inside boss hitbox to avoid 🔴 AoE</span><br>
+- <span class="ability">Mindhack</span> + <span class="ability">Forced March</span>: <span class="mechanic">Face direction to run based on boss shape</span><br>
+- <span class="ability">Atomic Ray</span>: 💥 <span class="mechanic">Roomwide AoE</span>, inflicts 🤢 Bleeding<br>
+- <span class="ability">Multi-AI Takeover</span>: <span class="mechanic">Handle 2 adds per AI Takeover rules</span><br>
+<span class="note">⚠️ Failing mechanics = 2 min 🤢 Vulnerability Up debuff</span>

@@ -1,0 +1,37 @@
+Here is the cleaned up version of the Castrum Abania dungeon guide:
+
+Castrum Abania is a level 69 dungeon introduced in patch 4.0 with Stormblood. The bosses were significantly overhauled in patch 6.4 as part of the implementation of Duty Support. 
+
+Objectives:
+Clear the storage compound
+Dismantle the magna roader 
+Clear the testing compound
+Defeat Subject Number XXIV
+Clear the central compound
+Defeat Inferno
+
+Bosses:
+
+Magna Roader
+- Wheel: Tankbuster
+- Magitek Fire II: Targeted Circle AoE 
+- Magitek Fire III: Group-wide AoE damage
+- Wild Speed: Rushes around the room in line patterns. Defeat the 12th Legion Optio adds that spawn to commandeer their cannons and disrupt this attack.
+
+Subject Number XXIV
+- Elemental Overload: Partywide damage that is either fire, ice, or thunder-aspected, determining its next attacks.
+- Fire: Conal AoEs, stack markers
+- Ice: Line AoEs, circular AoEs on each player  
+- Thunder: Towers to be soaked, line AoEs on each player
+- Boss becomes staggered and receives a Vulnerability Up debuff after each elemental phase
+
+Inferno
+- Ketu Slash: Tankbuster
+- Rahu Blaster: Targeted Column AoE
+- Ketu & Rahu: Ground targeted AoE and Player targeted AoE
+- Roids: Inferno moves to back and gets empowered by Magitek device
+- Empowered Ketu: Adds Bleed to tank, then Vulnerability Up  
+- Empowered Rahu: Adds room-wide column AoEs and proximity AoE, then player-targeted AoEs
+- Legion Adds: Defeat Death Claws before they reach tethered players. Stop the Packer from empowering Inferno further.
+
+The dungeon also contains several treasure coffers with various gear and item rewards. Completing it is associated with the "Mapping the Realm: Castrum Abania" achievement.

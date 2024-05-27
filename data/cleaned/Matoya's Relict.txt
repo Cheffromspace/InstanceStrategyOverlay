@@ -1,0 +1,31 @@
+<strategy_text>
+Mudman
+The key mechanic of this fight is the balls of mud you need to aim into the corners of the room. Make sure that when you're tethered to a ball, line yourself up so that the ball shoots through you and into a hole in one of the corners of the room. Keep your eye out for little mud men inside the holes, if you see one, make sure you aim away from THAT hole, as it won't get rid of your ball and you'll continue to take damage from it.
+
+Abilities
+Hard Rock is a tankbuster ability, healers prepare and tanks pop some cooldowns
+Petrified Peat is a basic targeted AOE, split up and don't overlap hitboxes. This will leave mud balls on the battlefield (read Peat Pelt)
+Peat Pelt will tether you to the balls left on the field. Position yourself so the balls will shoot through you and into one of the holes on the edges of the battlefield (do not aim towards a hole with a little mud man in it!)
+Battle Breccia is an inverted cone attack. Stand directly in front of Mudman, or far enough away to avoid the damage
+Falling Rock is a stacking indicator ability, make sure you group up to share the damage
+
+Nixie
+The key mechanic of this fight is watching the sides of the room for the water pipes and standing where the water will not hit, as well as making sure you jump into one of the water sprouts that will shoot you up to the cloud where Nixie is singing during the "Singing in the Rain" phase. If you can do these two things, you'll be good as gold!
+
+Abilities
+Smash-Crash is a spell that will create four moving tethers that will follow the single target. Do not stand on these tethers, as a wind attack will follow. The target will take moderate damage, so be ready!
+Shower Power a tether indicator will point you in the direction you need to look, stand in line with the non-glowing pipe to avoid the water blast
+Singing in the Rain is a field-wide attack where Nixie will float away and create a cloud she stands on. The cast-bar can be seen by targeting an Unfinished Nixie. Water spouts will form around the room, and you need to stand on the one closest to the cloud to join her on the platform. All players who do not make it up will be killed by a water nova attack
+Unnamed AOE Target is a basic targeted group AOE. Just don't stand near each friends to avoid excess damage
+Unnamed Water Spouts will just form around the room (as they did during Singing in the Rain). Avoid these not get stuck in place and get hit by other attacks
+
+Porcine Porcelain: Mother Porxie
+The key mechanics in the fight involve running against the wind immediately as you dodge incoming AOEs (otherwise you'll fall into a kill zone), and making sure when you see the room-wide "wind arrows" with a circle safe zone in the middle of the room, you're standing close to Mother Porxie, as she'll blow you back before denoting a room-wide AOE that does massive damage.
+
+Tender Loin is a room wide AOE spell that does moderate damage. Healers be ready to AOE heal after it's cast
+Huff and Puff room wide gust combined with a room wide devastating AOE. Stand close to Porxie (not in the safe zone circle), as she'll blow you back into the safe zone before immediately denotating the room wide AOE
+Meat Mallet is a targeted impact zone ability which will indicate the direction you will need to run away from. Don't stop running away, as she will begin to suck you into a death zone and throw things at you. No abilities are active during this timeframe so you need to continue holding away from the boss in order to not die!
+Hidden Huff and Puff is exactly like Huff and Puff, only you do not get any of the usual visual cues at ground level. Instead, a wind sprite will be summoned, which will explode when killed and shoot the party over the haze in the room, revealing Mother Porxie. You will have to deduce her location based upon the wind current indicator at the apex of the launch when the sprite dies. Mother Porxie will reappear just a moment or so before the attack finally finishes charging.
+Open Flame is a basic targeted AOE ability, don't overlap with your friends to avoid excess damage
+Minced Meat is a tankbuster single target spell, cooldowns and healing at the ready!
+</strategy_text>

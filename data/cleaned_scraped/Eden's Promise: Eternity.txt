@@ -1,0 +1,37 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Utopian Vision: Eden's Promise
+This fight is largely about memorizing the patterns of the primal crystals, as they are cast individually as well as in pairs (in the second half).
+
+Stage 1
+Abilities
+Maleficium: Unavoidable raid-wide AOE, prepare to heal the party after it hits!
+Cast:  Eden's Promise will select and cast a target primal's devastating power onto the battlefield (patterns below, all descriptions assume you are facing towards the crystals):
+- Leviathan (Blue):  The safe zone for this is directly down the middle of the battlefield.
+- Garuda (Green):  The safe zones for this strike are diagonal from the boss.
+- Ramuh (Purple):  The safe zone for this is just a little ways away from the boss (it's a point-blank AOE, and a small one)
+- Ifrit (Red):  The safe zone for this in a fairly tight space on either side of the boss.  Be immediately left or right of the boss to avoid.
+Formless Judgement: Both tanks will be marked with large red arrows for a tankbuster single target ability.  No splashing damage or positioning to be aware of.  Cooldowns recommended.
+
+Stage 2
+Platform Stage 1
+Line Stack Marker + Two Single Target AOE Telegraphs: All non-marked players should stack up in the middle of the room, while the marked players move to either side to position a targeted cone away from the raid.  After the cone telegraph comes out, both players can join the stack.
+
+Platform Stage 2
+Two Stack Markers: Each healer is given a stack marker, indicating a statue add will spawn on them and do light damage. Because the stack AoEs do not inflict vulnerability debuffs on players, it is fine to stack both markers. Once the adds spawn, players will need to defeat the adds.
+Battlefield Push Telegraph (Side): Run to the edge of the battlefield, being careful not to fall off the edge.  The telegraph extends beyond the battlefield itself so it's best to stay lined at the edge in the middle.
+
+Platform Stage 3
+Battlefield Push Telegraph (Center): Run to the middle of the battlefield to avoid getting blown off the stage.  Heal through the AOE damage and move onto the next platform!
+
+Stage 3
+Abilities
+Stock: The boss will absorb a random two of the crystals' energy into them self to be cast at a later time.  Remember which two these were!
+Release: The boss will cast both stored crystals at the same time, so the space to move is usually much much tighter.  You definitely need to commit the individual patterns to memory so you know where to go.
+Junction Shiva: The boss will pull energy from Shiva's crystal.  This has no effect, but telegraphs the next series.
+Diamond Dust: Make sure you spread out before this cast finishes, as the entire battlefield will be covered in ice.  Half the raid's members will be single targeted with AOE markers at this time (if you've spread out, you won't need to move).
+Rapturous Reach: The boss telegraph a massive cone AOE that'll hit half the of battlefield, in addition to giving everyone in the raid an individual AOE marker.  Move to the correct side of the map, and spread out to avoid overlapping damage.
+Junction Titan: The boss will pull energy from Titan's crystal.  This has no effect, but telegraphs the next series.
+Earthen Fury: The boss will place two large boulders on one side of the battlefield, and then two sets of small boulders around the battlefield along the edges.  Stand where the second set of small boulders spawned, and move onto the space where the first boulders were after they explode.  Be on the opposite side of the battlefield from the large boulders!
+Rapturous Reach: The boss telegraph a massive cone AOE that'll hit half the of battlefield, in addition to giving everyone in the raid an individual AOE marker.  Move to the correct side of the map, and spread out to avoid overlapping damage.
+</cleaned_strategy_text>

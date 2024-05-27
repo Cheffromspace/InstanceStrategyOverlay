@@ -1,0 +1,25 @@
+Here is the cleaned up text for the "Forge Ahead" quest in Final Fantasy 14:
+
+Quest giver: Alphinaud
+Location: Ultima Thule (X:33.9, Y:30.2) 
+Quest line: Endwalker Main Scenario Quests
+Level: 90
+Gil: 915
+Previous quest: Hello, World
+Next quest: You're Not Alone
+Patch: 6.0
+
+Main Scenario Progress: 804 / 853 (94.3%)
+Endwalker Progress: 106 / 155 (68.4%)
+
+Amidst the sadness of Alphinaud's countenance, there is a newfound determination.
+
+Steps:
+1. Speak with Alphinaud.
+2. Speak with Alphinaud and have him accompany you. 
+3. Speak with Alisaie while accompanied by Alphinaud and have them accompany you.
+4. Follow the crystalline path while accompanied by Alphinaud and Alisaie, and speak with Alphinaud at the designated location.
+5. Speak with Alphinaud.
+
+Journal: 
+Amidst the sadness of Alphinaud's countenance, there is a newfound determination.

@@ -1,0 +1,18 @@
+<span class="boss">Psycheflayer</span>:<br>
+- Dodge <span class="ability">Void Fire II</span> 🔴 AoEs<br>
+- 🚫 Interrupt <span class="ability">Void Fire III</span> with stuns<br>
+- 🩹 Esuna <span class="mechanic">Disease debuff</span><br>
+- Kill adds: <span class="mechanic">Stone Marionette</span> (avoid 📐 frontal AoE), <span class="mechanic">Marble Marionette</span> (interrupt <span class="ability">Obliterate</span>)<br>
+- At 50%, avoid <span class="ability">Plaincracker</span> from <span class="mechanic">Megalith Marionette</span> by hugging right wall<br>
+
+<span class="boss">Demon Wall</span>:<br>
+- <span class="mechanic">Liquefy pattern</span>: (Middle) 🏃 edges -> (Sides) 🏃 center -> (Middle) 🏃 edges -> (Sides) 🏃 center -> <span class="ability">Repel</span> 💨<br>
+- After 2nd <span class="ability">Repel</span>, avoid dark pool at back<br>
+- Kill <span class="mechanic">Bloodlapper</span> adds, 🚫 interrupt <span class="ability">Thunderstorm</span> (Paralysis)<br>
+
+<span class="boss">Anantaboga</span>:<br>
+- 🏃 Flank boss to avoid <span class="ability">Rotten Breath</span> 📐 (front) and <span class="ability">Tail Drive</span> 📐 (rear)<br>
+- 🩹 Esuna <span class="mechanic">Disease debuff</span> from <span class="ability">Rotten Breath</span><br>
+- Hide behind statues during <span class="ability">Imminent Catastrophe</span> 🎯<br>
+- Kill awakened statue, avoid 🔴 AoE<br>
+- <span class="ability">Plague Dance</span> 🎯: Targeted player 🏃 away from others and statues<br>

@@ -1,0 +1,25 @@
+<strategy_text>
+Objectives
+Clear the outer training grounds.
+Topple the towering oliphant.
+Clear the barracks.
+Slay Ser Yuhelmeric.
+Clear the keep.
+Defeat Opinicus.
+
+Towering Oliphant
+Casts Rear, an AoE around himself
+Room wide Prehistoric Trumpet attack
+Will occasionally target a player and use Rock of Ages (stun), Wooly Inspiration (conal pull attack), and/or Rout (charge). When Rout is used, one of the party (usually tank) can stand between the Oliphaunt and the targeted player to share the damage. This will result in less damage taken from the attack.
+
+Ser Yuhelmeric
+Summons adds. Melee adds do some AoE attacks, caster adds cast a buff around themselves. Move the boss away from the caster adds as they spawn to avoid stacking the buff.
+Uses Death Spiral, an AoE which hits everything not in/near melee range of him. Be aware of this when dealing with adds.
+
+Opinicus
+The boss starts with several crumbled piles of masonry scattered around the room, similar to Garuda.
+Alpine Draft line attack, easy to avoid.
+Freefall - Opinicus turns to face one player and jumps on them. This will destroy any piles of rubble the player is standing near.
+Whirling Gaol room wide - the outer sides of the room will start pushing you in towards the center, where you will be stunned and then hit for some damage. Hiding behind some of the crumbled masonry in the room will prevent you from being pushed into the center.
+Winds of Winter - AE attack for moderate damage and stacks wind vulnerability on anyone struck. Avoid by standing so there is a pile of rubble between you and the boss. This attack will destroy all piles of rubble and new ones will fall from the ceiling.
+</strategy_text>

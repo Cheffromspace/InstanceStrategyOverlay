@@ -1,0 +1,33 @@
+<strategy_text>
+Objectives
+Arrive at the central crossing: 0/1
+Clear the central crossing: 0/1
+Arrive at Area V: 0/1
+Clear Area V: 0/1
+Arrive at the parade ground: 0/1
+Defeat Livia sas Junius: 0/1
+
+Bosses
+The Black Eft
+Incendiary Support: Deals 3 hits of moderate raidwide damage.
+Request Assistance: Summons additional imperial soldiers to the battle.
+Magitek Cannon: A large circular AoE attack that targets a random player, dealing heavy damage to all players hit.
+High-powered Magitek Ray: An untelegraphed line attack that deals heavy damage to all players directly in front of the boss.
+
+Magitek Vanguard F-1
+Cermet Drill: Tankbuster.
+Thermobaric Strike: Places a flare in a random corner of the arena. Players should move to the other corner to lower the damage taken.
+Hypercharge: The boss will reposition at the center of the arena and fire a donut AoE and circle AoE, leaving only a small donut as a safe spot.
+Overcharge: A frontal cone AoE attack that deals heavy amount of damage and inflicts the debuff Paralysis to all players hit.
+Targeted Support: Drops an AoE on all players that must be avoided by moving out of it.
+
+Livia sas Junius
+Aglaia Climb: Tankbuster.
+Artificial Plasma: Unavoidable raidwide damage that must be healed through.
+Roundhouse: Livia will reposition to the center and cast a circle AoE followed by 8 AoEs on the border of the arena. Avoid by moving out then moving in.
+Infinite Reach: A sequence of a large line AoE down the center of the arena followed by 6 circle AoEs on the sides of it. Livia will cast this four times on various sides of the arena before ending with Angry Salamander. Players must remember the order in which the AoEs appear to avoid them sequentially.
+Thermobaric Strike: A cast in preparation for the following two moves:
+Stunning Sweep: Circular AoE attack that is done at the same time as 6 other AoEs on the outside of the arena, leaving two safe areas on opposite edges. This is followed by two flare markers on the the safe spot. Players must get into the safe zone and then leave once the other AoEs go off.
+Angry Salamander: 8 line AoEs will go off in the middle of the arena, followed by four flare markers on the edge. Players must move in between two of the line AoEs and move back into the center.
+At 18% HP, Livia leaps to the center of the arena and casts Artificial Boost, increasing her defenses. Livia then casts a dealier Artificial Plasma, which now goes through four instances of unavoidable raidwide damage. She will continue to spam Artificial Plasma until her defeat.
+</strategy_text>

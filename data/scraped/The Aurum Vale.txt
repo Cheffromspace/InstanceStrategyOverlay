@@ -1,0 +1,70 @@
+Here is the cleaned up text for the Aurum Vale strategy guide:
+
+The Aurum Vale
+
+Level: 47 (Sync: 49)  
+Difficulty: Normal
+Party size: Light Party 4 man
+Unsyncing: Allowed
+Time limit: 90 minutes
+
+Soon after its discovery, miners from across the realm flocked to the Aurum Vale, driven by rumors that deep within lay endless veins of mythril. What they found instead was gold, but not the sort which would make them rich. Believing the substance precious aurum, miners unknowingly stumbled into deep pools of glowing venom thereafter known as goldbile. Not only did the liquid burn their skin, but the noisome fumes given off by the foul ooze cooked their lungs when inhaled, bringing on a quick, yet excruciating death. These truths, however, have done little to prevent new miners from braving the suffocating shafts, now even more driven to find what those who entered before could not.
+
+Objectives:
+- Breach the Lock.
+- Defeat the morbol bed keeper. 
+- Clear the Coincounter's Chest.
+- Defeat the morbol bed keepers.
+
+Enemies:
+Coincounter, Eftstool, Goldvine, Lily of the Vale, Locksmith, Miser's Mistress, Nether Nix, Poisoned Peasant, Vale Banemite, Vale Bat, Vale Diremite, Vale Wasp
+
+The first room of enemies can be problematic for inexperienced parties. There are several patrolling enemies that can quickly overwhelm the party if too many are engaged. The Nether Nixes in particular will use Sticky Tongue to yank the first person it sees to its location, aggroing many enemies along the way. The party should "hug" the left wall and fight as few enemies as possible until they reach the first boss room.
+
+Bosses:
+
+Locksmith
+Locksmith is the first boss - this gigantic Ochu has several high damage mechanics that will test the capabilities of the parties' healers. 
+
+Morbol Fruit will grow along the sides of the arena. Locksmith will cast a Gold Lung debuff on the party that cannot be cleansed. To remove the debuff, players will need to click on the Morbol Fruit and remove the debuff. Players should avoid having more than 2 stacks of Gold Lung.
+
+After interacting with a fruit, it will disappear. The fruits respawn over time.
+
+Abilities:
+- Hundred Lashings: Melee attack, moderate to high damage.
+- Gold Rush: Places Gold Lung debuff on all players, stacking. Removed by Morbol Fruit.
+- Gold Dust: Circular AoE under a random player, moderate damage. 
+
+Tank Mechanics:
+Tanks may have to stun Locksmith to avoid being interrupted while clicking Morbol Fruit.
+
+Coincounter 
+A giant cyclops with powerful frontal AoE attacks, swipe cleaves, and room-wide AoE lightning.
+
+Stay away from the front. Two types of 100-Tonze Swipe cleaves:
+1) One hand on mace = frontal cone AoE
+2) Two hands on mace = circular AoE, extreme damage
+
+At 50% HP, uses Eye of the Beholder, a long range frontal cone AoE. Spread out.
+
+Abilities:
+- 10-Tonze Swipe: Frontal AoE, moderate damage
+- 100-Tonze Swipe (1 Hand): Frontal cone AoE, high damage
+- 100-Tonze Swing (2 Hand): Circular AoE, extreme damage
+- Glower: Laser on random player, paralysis debuff
+- Eye of the Beholder: Partial donut AoE, damage + electrocution DoT
+
+Miser's Mistress
+The final boss, a powerful Morbol with deadly frontal AoEs and Bad Breath debuffs. Face away from party.
+
+Use Morbol Fruits to remove Burrs debuff stacks, which increase damage taken. Use at 2-3 stacks.
+
+At 50% HP, spawns 5 Morbol Fruits that must be killed quickly before they hatch into adds.  
+
+Abilities:
+- Bad Breath: Frontal cone, paralysis/silence/poison/blind/slow/heavy/damage down
+- Vine Probe: Frontal column AoE 
+- Hooked Burrs: Adds Burrs stack to a random player
+- Burr Burrow: Deals damage based on current Burrs stacks
+
+Loot and achievements are listed.

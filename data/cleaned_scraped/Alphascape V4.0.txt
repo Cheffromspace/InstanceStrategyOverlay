@@ -1,0 +1,57 @@
+<cleaned_strategy_text>
+Strategy
+Omega-M & Omega-F
+The battle takes place upon a large circular platform. Any player who jumps (or is pushed) over the edge will fall to an early doom, though they may be raised by a healer after a moderate delay. Omega will cycle between two forms - Omega-M (Male) and Omega-F (Female) - with the final phase involving both of Omega's forms simultaneously.
+
+Omega-M
+Solar Ray - a vicious tank-buster against Omega-M's primary target that also deals damage in a small area around the victim. As a result, all non-tanks should make sure that they are not standing anywhere near the main tank during Solar Ray.
+Program Alpha - spawns multiple AoE circles beneath random players, followed by one random player being targeted with a stack-up marker. All players must spread out to avoid the AoE circles, then move towards the stack-up marker to soak the damage. During the stack-up marker, Omega-M will cast Efficient Bladework, a large point-blank AoE at a random location on the platform.
+Efficient Bladework - causes Omega-M to dash to a random location on the platform and begin charging a point-blank AoE attack, telegraphed by a large AoE circle. Efficient Bladework will take place sometime during the stack-up marker of Program Alpha, thus players may need to reposition themselves accordingly to soak the stack-up marker without being cleaved by the point-blank AoE.
+Subject Simulation - causes Omega-M to reconfigure themselves into Omega-F (or vice versa). After morphing into Omega-F, all players will be hit with an unavoidable knockback in the form of Discharger. Due to this mechanic, players must position themselves close to Omega so the follow-up knockback doesn't punt them off the platform.
+
+Omega-F
+Optimized Fire III - spawns AoE circles on four random players. Simultaneously, Omega-F will also cast Optimized Blizzard III, forcing players to dodge both mechanics at the same time.
+Optimized Blizzard III - creates two straight-line AoE's that form a cross-shape (+) on the platform. All players must avoid the straight-line AoE's whilst also avoiding players marked with the AoE circles from Optimized Fire III.
+Laser Shower - bombards the arena with unavoidable raid-wide damage.
+Synthetic Blades - causes Omega-F to morph her legs into sharpened blades. Once Omega-F has completed the transformation, she will charge an AoE attack that covers the left and right sides of the arena, leaving only a small straight-line safe-spot through the centre. Having done so, Omega-F will unleash another Optimized Fire III (4x AoE circles on random players), forcing them to spread out within the limited safe area to avoid overlapping damage on other players, followed by another Optimized Blizzard III (cross-shaped AoE).
+Subject Simulation - causes Omega-F to reconfigure themselves into Omega-M (or vice versa). After morphing into Omega-M, all players should move as far away from Omega as possible to avoid a non-telegraphed point-blank AoE at Omega-M's location (Efficient Bladework).
+
+Omega-M (v2)
+Synthetic Shield - causes Omega-M to provide itself with a special shield. With shield in-hand, Omega-M will now perform mechanics similar to the opening segment (but with new abilities thrown in).
+Program Alpha - spawns multiple AoE circles beneath random players, followed by one random player being targeted with a stack-up marker, just like in the opening phase. However, Omega-M will also cast Beyond Strength, creating a huge donut AoE from the centre of the platform. After avoiding the random AoE circles, all players should move into the centre to soak the stack-up marker and avoid the donut AoE.
+Efficient Bladework - will create an AoE circle in the centre of the arena immediately after Beyond Strength (donut AoE) has concluded. Simply run away from Omega-M as soon as possible to avoid being cleaved.
+
+Omega (Formless) Transition
+Omega's form will devolve into a non-targetable puddle of synthetic goop. Shortly afterwards, one player will be marked with a purple AoE circle, forcing them to retreat from the group, whilst another player will be targeted with a stack-up marker, forcing everyone else to group up. After a brief delay, the unformed goop will divide into two parts - one portion smashing into the circle AoE player, while the other leaps towards the stack-up marked player.
+
+After the synthetic goop has been divided, Omega-M and Omega-F will materialize from the location of the puddles. As mentioned before; whenever Omega-M spawns, he will always cast a non-telegraphed Efficient Bladework (point-blank AoE) at his location. Whenever Omega-F spawns, she will always cast Discharger (raid-wide knockback from her location). Now that both are appearing together, all players will need to position themselves close to Omega-F so that they avoid being knocked off the platform, preferably out of Omega-M's upcoming AoE attack.
+
+To pre-emptively ease this mechanic, simply have both marked players move as far away from each other as possible during the formless-goop transition. This gives plenty of space to avoid the Omega-M AoE and to avoid being knocked off the platform by Omega-F.
+
+Omega-M will now utilize an ability similar to a Paladin's Passage Of Arms, spawning a defensive cone behind himself that will render Omega-F completely invulnerably to attack. During this time, Omega-F will begin to long-cast a fatal Laser Shower that will wipe the raid if successfully cast. To avoid a grisly demise, the raid must quickly destroy Omega-M, thus making Omega-F vulnerable. Afterwards, players will need to destroy Omega-F before her Laser Shower has been executed.
+
+Assuming the raid successfully beats this DPS check, Omega-M and Omega-F will once again devolve into synthetic goop, forcing players to deal with another AoE circle + stack-marker mechanic just like before. Once complete, Omega-M and Omega-F will reform once more, with Omega-M inflicting another point-blank AoE at his location, whilst Omega-F knocks back the entire raid from her location using Discharger. Having completed this mini-phase, the raid will now have to contend with both forms simultaneously.
+
+Omega Duo - F & M
+Firewall - inflicts the raid with a special debuff, rendering half of the group unable to damage Omega-M and the other half unable to damage Omega-F, which essentially divides the raid into two groups. All players must quickly identify their debuff and be ready to focus on whichever Omega form they can deal damage to. Both Omega-M and Omega-F will need to be picked up by a tank. For example, if Tank A can only deal damage to Omega-F, they will need to pick up Omega-F as soon as possible.
+
+At this point, Omega-M and Omega-F will utilize all of their respective abilities in tandem. Regardless of the Firewall debuff, all players will take damage from both forms and will need to dodge a slew of mechanical combinations whilst focusing on their chosen Omega form. It is best to have both forms tanked away from each other for the rest of the phase seeing as Omega-M and Omega-F will gain a damage buff (Resonance) later in the phase if they are kept close together.
+
+Generic mechanics from both forms will now take place in combination, such as:
+Omega-M: Solar-Ray - tank-buster against Omega-M's primary target that also deals damage in a small area around the victim.
+Omega-F: Laser Shower - the unavoidable raid-wide AoE.
+Omega-M: Program Alpha - multiple AoE circles beneath random players coupled with a stack-up marker, as well as the Beyond Strength donut AoE.
+Omega-F: Optimized Blizzard III - two straight-line AoE's forming a cross-shape (+) through Omega-F. All players must avoid the straight-line AoE's whilst also avoiding players marked with the AoE circles from Optimized Fire III.
+Omega-M: Efficient Bladework - point-blank AoE centred on Omega-M's location.
+
+After executing various mechanical combos, Omega-M and Omega-F will teleport beside each other and unleash Cosmo Memory - inflicting massive raid-wide damage. From here on, Resonance will buff both forms if they are kept close to each other, thus tanks should be ready to separate both forms as soon as possible.
+
+Having reached their maximum potential, both forms will begin to pepper the raid with Limit Breaks.
+Omega-F: Meteor - an optimized Black Mage Limit Break 3 - marking both tanks with a proximity marker. After a brief delay, meteors will crash down at the location of both tanks, inflicting massive proximity-based damage upon the entire raid. Assuming both tanks are keeping Omega-M and Omega-F apart, the rest of the group should move towards the centre to minimize proximity damage.
+Omega-M: Sagittarius Arrow - an optimized Bard Limit Break 3 - spawning a massive straight-line AoE through Omega-M across the platform. After a brief delay, arrows will rain down upon anyone caught in the telegraph.
+Omega-M+F: Blade Dance - an optimized melee Limit Break 3 - causing both Omega-M and Omega-F to ravage their main target with a vicious LB3 tank-buster.
+
+After unleashing their limit-breaks, both Omega-M and Omega-F will begin to cycle more generic mechanics in combination before once again utilizing limit-breaks. This cycle will continue throughout the rest of the phase until both forms have been defeated, or the raid wipes.
+
+Once one form is defeated, the other will continuously chain-cast Laser Shower - the unavoidable raid-wide AoE damage - until it has been defeated (or the raid perishes).
+</cleaned_strategy_text>

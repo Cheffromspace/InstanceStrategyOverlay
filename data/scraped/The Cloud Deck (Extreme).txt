@@ -1,0 +1,65 @@
+Here is the cleaned up text for the strategy guide on The Cloud Deck (Extreme) trial in Final Fantasy 14:
+
+The Cloud Deck (Extreme)
+
+Level: 80 (Sync: 80)
+Item Level: 510
+Difficulty: Extreme
+Party size: Full Party (8 man - 2 tanks, 2 healers, 4 DPS)
+Unsyncing: Allowed
+Time limit: 60 minutes 
+Duty Finder: High-end Trials (Shadowbringers)
+Roulette: Mentor
+Tomestones: 25
+Required quest: Weapon of Choice
+Location: G-Savior Deck
+Region: ???
+Stone, Sky, Sea: Available
+Patch: 5.5
+The Echo: On wipe: +5% (max +25%)
+
+Strategy:
+
+Mark I Anti-Eikon Warmachina: The Diamond Weapon
+
+Players should be aware that they can fall off or be knocked off the platform to their deaths. Players can be revived after a short delay.
+
+Players should divide themselves into two light parties consisting of a tank, healer and two DPS. 
+
+After the first pull, the teleporters will activate. Using these debuffs a player where they can't use them for 20 seconds.
+
+Phase 1:
+
+- Attack: Auto-attack. Targets the two players with the highest enmity and fires a laser at them. Tanks should be sure to hold enmity at all times.
+
+- Diamond Rain: High raid-wide damage and gives a debuff. This hits based on how many people are on the platform, so one light party should move to the other platform to mitigate this.
+
+- Adamant Purge: The boss will target a platform for a cleave, indicated by three glowing spikes. Players will need to move to the opposite platform to avoid. The boss will then either glow from its chest or its shoulders. If it glows from its chest, players should stack together to soak the damage from its laser. If its shoulders are glowing, players should spread out to avoid overlapping large AoEs. After Adamant Purge, the players without the teleport debuff should move to the other platform.
+
+- Photon Burst: The two highest enmity players are targeted with Flare markers, most likely the tanks. The tanks should move to the corners away from the party and pop a cooldown, while the other players should move to the opposite side of their platform to avoid damage. The boss will fire lasers at the tanks right after this so healers should be ready for this.
+
+- Code Chi-XI-Stigma: The boss will transform, losing its armor. 
+
+Phase 2:
+
+- Articulated Bits: A knockback circle will spawn on both platforms and players will be proximity tethered to Articulated Bits. Players need to be far enough away from their tethered bits to turn their tether purple and stand next to the knockback circle to avoid getting knocked off the platform. If players are tethered to a bit on the opposite platform, they simply need to avoid the knockback. If players are tethered to a bit on their platform, they need to get knocked to the other side. Players should stand on the edge next to the knockback circle to get thrown to the other platform to get enough distance on their tether.
+
+- Airship's Bane: Targets a platform and destroys it. Players should move to the safe platform. 
+
+- Outrage: High raid-wide damage, mitigate and heal.
+
+- Auri Arts: The boss will face one of the ends of the platforms, and zigzag across to the other side. Players should use the triangles on the edge of the platform as a safe zone. The triangle behind the boss is where players should stack. After this the boss will hover over the center of the arena and face an orb on one of the ends of the platform and charge to it, causing an explosion on that side of the platform. Players need to identify which way the boss is facing and stand on the opposite edge of the orb. The boss will follow this up with an Outrage, so be ready to heal.
+
+- Auri Doomstead: A heavy-hitting tank buster and a debuff. Tanks need to swap between these attacks, so the off-tank should provoke during the cast.
+
+- Auri Arts 2: The boss will summon either 1 or 2 orbs, plus one over the center of the arena and jump to one side of the platform. If the boss summons one orb, players should move to the edge the boss is at to avoid damage. If the boss summons two orbs, players should move to the opposite edge to avoid when the boss charges through the center of the platform then jumps back and slams the ground.
+
+- Vertical Cleave: The boss leaps to the orb above the platform and slam down, causing knockback. Players will need to line up with the corner and stand close to the attack to avoid getting thrown off the arena, or pop a knockback resistance. The boss will cast another Outrage and summon more Articulated Bits.
+
+Phase 3:
+
+- Flood Ray: All players will be targeted and numbered. The boss will fire a wide conal attack that hits players with high damage and a Magic Vulnerability Up debuff. If a player is hit by more than one of these attacks, they will die. A common strategy to avoid this is to have even marked players on one platform while odds are on another. The even markers are red, so players with even markers should move to the red platform. Players should then move to the very inner corners of the platforms to bait the wide conal attacks and create a thin safe zone in the center of their platforms. Once a player is hit by their laser, they should move back to the middle and the player that would be next in sequence should take their place (1 would be replaced with 3, 2 with 4, 5 with 7 and 6 with 8). The boss will then follow up with Photon Burst, so tanks should be ready to move to the inner corners with other players moving away.
+
+- Articulated Bits/Adamant Purge: Bits spawn on one side of both platforms while the boss targets one platform. Players need to wait for the bits to fire before teleporting, then need to either stack or spread between the bits to avoid the boss's second attack. Non-debuffed players can move to the other platform for the Diamond Rain that follows this.
+
+- Articulated Bits/Diamond Shrapnel: Players will be followed by a marker, while bits will target one side of the platform. Players should bait their marker

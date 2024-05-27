@@ -1,0 +1,32 @@
+<strategy_text>
+Seeker of Solitude
+Shadowbolt: Tankbuster.
+Immortal Anathema: Moderate party-wide damage.
+Tribulation: Creates five small puddles on the floor that inflict Bleeding and Heavy to players standing in them.
+Sweep: After a short delay, the Magicked Brooms on the edges of the room will move in straight lines to a puddle in their 'lane'. While moving, the brooms will damage and knock back players in their path, inflicting a stack of Vulnerability Up. When each broom reaches its respective puddle, Sweep's area of effect will increase and the puddle will be removed.
+Dark Shock: Large Circle AoEs beneath two random players.
+Dark Pulse: Stack marker on a random player.
+Dark Well: Circle AoEs targeted on all four players.
+After being defeated, the Seeker of Solitude will cast Magicked Movement to teleport away.
+
+Leannan Sith
+Storm of Color: Tankbuster.
+Ode to Lost Love: Moderate party-wide damage.
+Direct Seeding: The arena will be split into sixteen tiles, with eight random tiles becoming coated in grass. Four Leannan Seed objects will be placed on random tiles. Clicking the seed will allow you to carry it and place it elsewhere.
+Gardener's Hymn: A cast immediately after Direct Seeding. At the end of the long cast, the Leannan Seeds will sprout into Lover's Ring adds. Seeds that sprout on barren tiles immediately die, while seeds sprouting on grass tiles must be killed through combat.
+Toxic Sprout: If left alive for too long, the Lover's Rings will self-destruct to deal high damage to the entire party while also inflicting Slow and a stack of Poison.
+Ode to Far Winds: Eight ground-targeted Circle AoEs and four player-targeted AoEs with very little room to avoid taking two hits from the attack.
+Ode to Fallen Petals: Cast immediately after Ode to Far Winds. A room-wide AoE that leaves a small area around the boss safe.
+Ireful Wind: Subsequent casts of Direct Seeding will cause a Djinn to appear on one edge of the arena that will knock all players and seeds over one tile directly away from the add just as Gardener's Hymn casts.
+
+Insatiable Flame: Lugus
+Scorching Left/Right: Hits the entire arena on the indicated side for high damage and a stack of Vulnerability Up.
+Otherworldly Heat: Indicated by a red marker above all players. First deals damage in a circle around the player, then drops a cross-shaped crack in the floor below each player that explodes a short time later. Damage from this attack can destroy the furniture around the room.
+Captive Bolt: Extremely damaging tankbuster.
+Mortal Flame: Applies a debuff inflicts steadily-increasing damage every few seconds, resulting in death when the timer runs out. Walking into a piece of furniture will pass the debuff onto it, curing you while destroying the object.
+If an object in the room has a name, it is valid to be walked into. But, only one object per participant. So if someone else or a Trust NPC ignites a piano or stool, you can't also use it. Find something nearby instead.
+Players cannot transfer the debuff between each other. Keep this in mind if there isn't enough furniture for all players to remove their debuffs.
+Fire's Domain: Proximity-based tethers to each player in sequence, charging at them for moderate damage. Move away to turn the tether purple to avoid being inflicted with a stack of Vulnerability Up. Standing in Lugus's path as he charges causes moderate damage.
+Fire's Ire: After each charge, casts a short but wide cone attack at the targeted player. This attack can destroy the furniture around the room.
+Culling Blade: Moderate party-wide damage. The first time Lugus uses this ability, three chandeliers will drop into the room. These chandeliers can be used to remove Mortal Flame.
+</strategy_text>

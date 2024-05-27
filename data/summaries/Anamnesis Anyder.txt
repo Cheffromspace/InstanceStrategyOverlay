@@ -1,0 +1,33 @@
+<span class="boss">Unknown</span>:<br>
+- <span class="ability">Fetid Fang</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Scrutiny</span>: <span class="mechanic">🔴 Stand in safe spots, avoid 📐 cone based on roulette arrow</span><br>
+- <span class="ability">Luminous Ray</span>: <span class="mechanic">➡️ Line attack on random player</span><br>
+- <span class="ability">Inscrutability</span>: 💥 Party-wide damage + 🤢 Bleeding debuff<br>
+- <span class="mechanic">Unknown Add</span>: Spawns during 2nd <span class="ability">Scrutiny</span>, must be killed<br>
+- <span class="ability">Ectoplasmic Ray</span>: 🤝 Stack marker during <span class="ability">Scrutiny</span><br>
+- <span class="ability">Clearout</span>: 📐 Short cone attack on tank<br>
+- <span class="ability">Setback</span>: 📐 Short rear cone attack<br>
+- <span class="ability">Plain Weirdness</span>: 🌟 Damage Up buff after one Unknown dies<br>
+
+<span class="boss">Kyklops</span>:<br>
+- <span class="ability">The Final Verse</span>: 💥 Moderate party-wide damage<br>
+- <span class="ability">2,000-mina Swing</span>: 🔴 Circle AoE centered on boss<br>
+- <span class="ability">2,000-mina Swipe</span>: 📐 Cone attack on tank<br>
+- <span class="ability">Terrible Hammer/Blade</span>: <span class="mechanic">Avoid tile attacks in cast order</span><br>
+- <span class="ability">Eye of the Cyclone</span>: <span class="mechanic">💍 Ring AoE, safe spot in melee range</span><br>
+- <span class="ability">Raging Glower</span>: ➡️ Line attack on random player<br>
+- <span class="ability">Open Hearth</span>: 🤝 Stack marker<br>
+- <span class="ability">Wanderer's Pyre</span>: 🎯 Targeted circle AoEs on each player<br>
+
+<span class="boss">Merciless Matriarch: Rukshs Dheem</span>:<br>
+- <span class="ability">Bonebreaker</span>: 🛡️ Tankbuster<br>
+- <span class="ability">Seabed Ceremony</span>: 💥 Party-wide damage, effect based on prior mechanic<br>
+- <span class="mechanic">Water Puddles</span>: Avoid 🤢 Dropsy debuff<br>
+- <span class="ability">Depth Grip (1)</span>: <span class="mechanic">Avoid 💧 hands based on puddle positions</span><br>
+- <span class="ability">Falling Water</span>: 🎯 Large circle AoEs on two random players<br>
+- <span class="ability">Rising Tide</span>: ➕ Cross AoE centered on boss<br>
+- <span class="ability">Unnatural Ripples</span>: <span class="mechanic">Stand on 💧 vents to prevent adds</span><br>
+- <span class="mechanic">Queen's Harpooner</span>: 👾 Adds, grant boss Invulnerability, must be killed<br>
+- <span class="ability">Flying Fount</span>: 🤝 Stack marker<br>
+- <span class="ability">Command Current</span>: <span class="mechanic">📐 8 cone attacks, stand in safe spots</span><br>
+- <span class="ability">Depth Grip (2)</span>: <span class="mechanic">💧 hands kill adds, stand on safe vents</span><br>

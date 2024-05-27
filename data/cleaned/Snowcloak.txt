@@ -1,0 +1,43 @@
+<strategy_text>
+Duty Support
+Scion Marauder
+Scion Conjurer
+Scion Thaumaturge
+Scion Lancer
+
+Objectives
+Tiny Key: 0/1
+Clear Silence: 0/1
+Clear Conviction: 0/1
+Finger of the Apostate: 0/1
+Defeat Fenrir: 0/1
+
+Wandil
+Wandil has several AOE abilities (one of which is unavoidable) which add a stacking debuff called Frozen to all players affected. ("Ice has begun forming on gear. A stack of 4 will result in Deep Freeze.") Once this debuff reaches 4 stacks, the player is afflicted with Deep Freeze for a short duration. Periodically he will summon Frost Bombs which will self-destruct after some time or when they get low health. These should be killed to avoid additional damage and more stacks of the debuff. Healers should keep an eye on their stack count and try to top up the party's health before they're stunned.
+
+Abilities
+Cold Wave: Summons AoE circles beneath each player. Inflicts a stack of Frozen debuff.
+Snow Drift: Deals unavoidable raid-wide damage. Inflicts a stack of Frozen. Keep moving to negate the debuff.
+Periodically, Frost Bomb adds are summoned throughout the encounter. If not dealt with, they will cast Hypothermal Combustion.
+Hypothermal Combustion: Arena wide AoE. Inflicts a stack of Frozen.
+
+Yeti
+Abilities
+Buffet: Frontal cone AoE.
+Northerlies: Summons six untargetable snowballs, each with a point blank AoE. Yeti will breathe on one to two of the snowballs, increasing the size of the snowball and it's resulting AoE.
+Updrift: Launches players into the air, dealing damage and preventing movement. Cast shortly after Northerlies.
+Spin: Point blank AoE, immediately followed by a donut AoE.
+Frozen Spike: Player targeted AoE.
+
+Fenrir
+Abilities
+Fenrir will alternate between casting party-wide attacks, Heavensward Roar, and Howling Moon/Lunar Cry.
+Heavensward Roar: a cone attack in front of Fenrir which puts no AoE indicator on the ground but has a long animation time. Move to Fenrir's sides or rear.
+Ecliptic Bite: very high damage tank buster
+Thousand Year Storm: unavoidable party-wide attack
+Howling Moon: Four icicles drop to the ground in a diamond pattern, preempted by circular AoE indicators. Immediately followed by Lunar Cry.
+Lunar Cry: Long-duration cast that will instantly knock out any players not hiding behind an icicle. The first time Lunar Cry is cast, you can hide behind any of the four icicles to block the attack.
+After the first Lunar Cry, you must hide behind the icicle which stays blue.
+The other three of the four icicles will start blue, but turn pink in color and then shatter. As soon as Lunar Cry finishes, the icicle will explode in a circular AoE, freezing nearby players for 10 seconds and applying damage over time. Either stand far enough away from the icicle while also remaining out of sight, or stay near the icicle and be prepared to move quickly after the cast finishes.
+After Lunar Cry, Fenrir will jump onto the tank for moderate damage with no telegraph.
+</strategy_text>

@@ -1,0 +1,36 @@
+<span class="boss">Nidhogg</span>:<br>
+- 6 phases total, 11 min ⏳ enrage<br>
+- <span class="mechanic">⚔️ Tank swap</span> to manage <span class="ability">Bitter Hate</span> debuff stacks<br>
+
+<span class="boss">Dragon Form</span>:<br>
+- <span class="ability">Scarlet Whisper</span>: 🛡️ Tank buster cleave<br>
+- <span class="ability">Deafening Bellow</span>: 💥 Arena-wide AoE<br>
+- <span class="ability">Mortal Chorus</span>: 💥 Arena-wide AoE + 💨 knockback<br>
+- <span class="ability">Horrid Roar</span>: 🎯 Random player markers or 👾 untelegraphed AoE puddles<br>
+- <span class="ability">Cauterize</span>: 🏃 Avoid straight-line dive<br>
+- <span class="ability">Hot Tail</span>: ➡️⬅️ Line AoE, 🏃 move to sides<br>
+- <span class="ability">Hot Wing</span>: 🏃 Stand under boss to avoid outer AoEs<br>
+- <span class="ability">Akh Morn</span>: 🤝 Stack to split multi-hit damage<br>
+- <span class="ability">Touchdown</span>: 💥 Light AoE when boss lands<br>
+
+<span class="boss">Human Form</span>:<br>
+- <span class="ability">Final Chorus</span>: 💥 High raid-wide damage<br>
+- <span class="ability">Ala Morn</span>: 🛡️ Physical tank buster<br>
+- <span class="ability">Drachenlance</span>: 🛡️ Physical tank cleave<br>
+- <span class="ability">High Jump</span>: 🎯 Marks healers/DPS, leaves 🤢 bleed puddles<br>
+- <span class="ability">Geirskogul</span>: ➡️⬅️ Line AoEs from High Jump puddles<br>
+- <span class="ability">Soul Tether</span>: 🔗 Tethers from High Jump puddles, tank grabs<br>
+- <span class="ability">Eye of the Tyrant</span>: 🤝 Stack marker<br>
+- <span class="ability">Bloodrage</span>: 💥 Unavoidable raid-wide damage<br>
+- <span class="ability">Darkdragon Dive</span>: 💠 Stand in corner pillars, leaves 🔥 puddles<br>
+- <span class="ability">Super Jump</span>: 🎯 Marked player, 🏃<>🏃 spread to reduce damage<br>
+
+<span class="boss">Adds</span>:<br>
+- <span class="mechanic">Kill priority: Shadow Brobinyak > Shadow Falak > Shadow Dragon</span><br>
+- Shadow Brobinyak: 🛡️ Tank, inflicts 🤢 Physical Vuln Up<br>
+- Shadow Falak: 🛡️ Tank, inflicts 🤢 Magical Vuln Up<br>
+- Shadow Dragon: 👾 Untankable, 🎯 targets farthest player, inflicts 🤢 Damage Down<br>
+- Nidhogg's Fang: 🔗 Tethers heal when players take damage<br>
+- Nidhogg's Claw: 🔗 Tethers damage when players take damage<br>
+
+<span class="note">Remember to manage debuffs, tethers, and positioning throughout the fight!</span>

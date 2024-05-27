@@ -1,0 +1,63 @@
+<cleaned_strategy_text>
+Nael Deus Darnus
+The arena is surrounded by a barrier that will instantly kill anyone who touches it. This activates as soon as the boss is pulled. Players will need to be careful to not get knocked into this as the fight progresses.
+The fight has a 13 minute hard enrage, requiring players to defeat the boss before time runs out or the boss will wipe the party.
+
+Abilities:
+Ravensbeak: Tankbuster that inflicts Raven Blight. On expiry, explodes in a small AoE around the target and applies a 25s vuln stack, making a tank swap required.
+Raven Dive: Jumps to a player and performs Iron Chariot before jumping back to the main target. Both jumps deal damage.
+Iron Chariot: Performed on a ranged player at random, deals damage and a knockback to anyone close by.
+Ravensclaw: Heavy-hitting frontal cleave.
+Thermionic Beam: A random player is marked, and the boss fires a laser at that player. Stack to mitigate damage.
+Lunar Dynamo: 20y donut AoE with lifesteal.
+Stardust: A random player is targeted with either a red or yellow marker over their head, and a meteor will drop shortly where they were standing. The meteors will persist where they drop and deal proximity-based damage. If a meteor is placed too close to another, it will explode, wiping the raid. If a player is still standing where the meteor lands, the player will die.
+Meteor Stream: 4 random players are targeted with markers over their heads. Clones will drop on marked players dealing high damage to any players hit as well as in a small AoE.
+Dalamud Dive: Hits the main target upon returning from Meteor Stream, dealing high damage.
+
+Phase 1: 100% - 65%
+Simply burn the boss down to 65% while dropping the meteors around the edge of the arena, keeping the red and yellow meteors close to one another without overlapping each other. Players should also be careful to stand away from the tanks to avoid damage from Raven Blight exploding once it resolves. Attack the boss and burn its HP to 65%, and it will surround itself with a barrier, becoming untargetable.
+
+Phase 2
+The boss will drop meteors on 3 players, and summon two sets of three Dalamud Spawn that appear in three different colors:
+Red Dalamud Spawn: Earthen Heart (deals high damage and drops a burn puddle), Heavy Strike (high damage AoE that staggers outward)
+Green Dalamud Spawn: Demolish (high raid damage), Stone skull (tankbuster), Boulder Clap (frontal cleave)
+Blue Dalamud Spawn: Magnetism (pulls in players/ads/comets), Earthshock (high raid damage and Paralysis, must be interrupted)
+
+Players will feed the meteors to the ads by bringing them near the comets. An ad should only be fed three comets, or it will grow and wipe the raid. The red comets give a Damage Up buff, and the yellow comets give Haste. These buffs can stack.
+If ads are brought too close, they will tether and one will eat the other, gaining massive damage up and vuln down buffs, wiping the raid.
+
+About a minute after the ads spawn, the phase repeats. Another minute after, the boss will count down before casting Megaflare (high raid damage, must mitigate). If any comets remain or two or more golems remain, they will wipe the raid. The arena will transform and the boss will leap away.
+
+Phase 3: 65% - 47%
+The boss will use Dalamud Dive on the main tank, then cast Heavensfall, dropping a massive pillar into the center of the arena dealing proximity damage. The pillar will kill players if touched, and will slowly sink firing conal AoEs outwards. If hit by the pillar crashing, players will die.
+
+The boss will cast Heavensfall periodically, changing the AoE patterns.
+
+New abilities:
+Bahamut's Claw: Hits main target multiple times, heavy damage.
+Garrote Twist: Debuff on a random player, stacking Garrote that will kill at 9 stacks.
+Supernova: Fired at two random players, drops two large persistent AoEs dealing damage and Heavy debuff.
+
+The boss will summon a Ghost of Meracydia after each Heavensfall with abilities:
+Fire Breath: Drops fire puddles under a random player, inflicting Burns.
+Tail Whip: High single-target damage.
+Binding Chain: At 50%, tethers two random players and quickly adds Garrote stacks, requiring killing the ad.
+When killed, drops an AoE and three lights that dispel Garrote.
+
+After the second Heavensfall, use a caster LB3 to push the boss close to 47% and kill the second ghost ad. The phase continues with the boss rotating attacks until reaching the final phase.
+
+Phase 4: 47% - 0%
+The boss casts Bahamut's Favor, buffing itself with a stacking Damage Up. It summons three dragons around the arena that periodically fire attacks applying debuffs:
+
+Chain Lightning: Targets a random player, deals damage and Thunderstruck debuff. When it resolves, deals heavy damage in an AoE and Paralysis to nearby players. Always fires Fireball.
+Fireball: Targets a random player, drops an AoE and Scorched debuff. The next Fireball will hit extremely hard. Removed by Iceball.
+Iceball: Targets a random player, drops an AoE and Frostbitten debuff. The next Iceball will hit extremely hard. Removed by Fireball.
+
+The boss will use a stronger version of Bahamut's Claw requiring a cooldown or tank swap.
+
+The boss will start with Bahamut's Claw, then Fireball, Raven Dive, Thunderstruck, Lunar Dynamo. Then Iron Chariot, Fireball, Thunderstruck, Thermionic Beam, Supernova x3. Players spread for Supernova, stack for Thermionic Beam. Another Fireball, Bahamut's Claw.
+
+The dragons will use Divebomb, targeting players with AoEs. Two dragons first, then the last dragon shortly after. The boss will cast Meteor Stream, then the last Divebomb, another Meteor Stream, then Dalamud Dive on the main tank requiring mitigation.
+
+The boss cycles these combos while the dragons fire their attacks. Stack inside Fireball, in and out for Iceball. The boss continues these rotations until 13 minutes (or three rotations) have passed, then enrages casting Megaflare, wiping the party if not defeated before then.
+</cleaned_strategy_text>

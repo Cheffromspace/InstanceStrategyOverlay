@@ -1,0 +1,29 @@
+<cleaned_strategy_text>
+Phases & Abilities
+Mythic Creation: Kokytos
+Gluttony's Augur: raidwide damage
+Ravening: signals phase transition based on boss color (icy blue, red, or green)
+
+Mage phase
+Fire III: 4 players get spread markers, will expand before going off - move to far edge of arena ideally to create middle safespot
+Blizzard III: donut aoe centered around boss, will shrink before going off
+Dualspell: both basic fire and blizzard aoes, but one element will flash on screen and have its secondary effect happen (expanding spread markers or shrinking donut)
+Global Spell: raidwide with bleed
+Iceflame Summoning(from cycle 2 onwards): drops 2 fire and 2 ice rocks. One element will flash and the same rocks will grow - get opposite of those rocks
+
+Fighter phase
+Archaic Rockbreaker: knockback from center (stand outside blue). Lava lines of varying speeds/distance travel from center and emit point blank aoes when they stop, similar to Ruby Weapon's Ravenclaw
+Archaic Demolish: 2 group stack markers (ideally 4 players in each)
+Ascendant Fist: tankbuster
+Front/Rear Combination: either large or donut aoe, then large half-room cleave in direction indicated by ability
+
+Behemoth phase
+Charybdis: marked players drop puddle aoes, will inflict dot if stood in
+Beastly Roar: knockback from center with spread aoes (be mindful of spread markers and puddles). Knockback immunity works here
+Pulverizing Pounce: group stack
+Gluttonous Rampage: dual tankbuster tethers (stretch to turn purple instead of reddish with arrows) with proximity aoe from center. Ideally tanks take NW and NE, rest of party goes S
+Comet: triple proximity aoes, head to one safe side, then get to the one uncracked rock that drops
+Ecliptic Meteor: drops meteor in center - hide behind uncracked rock, then move away from rock after meteor goes off as rock will explode in pointblank aoe
+
+Mechanics/phases seem to repeat from here
+</cleaned_strategy_text>

@@ -1,0 +1,54 @@
+<strategy_text>
+Duty Support
+Objectives
+Arrive at Bardam's Hunt: 0/1
+Defeat Garula: 0/1
+Arrive at the Rebirth of Bardam the Brave: 0/1
+Defeat Bardam: 0/1
+Arrive in the Voiceless Muse: 0/1
+Defeat Yol: 0/1
+
+Bosses
+Garula
+Heave: Frontal cone AOE. Tank to dodge as required.
+Crumbling Crust: After a short cast time, 4 telegraphed quick casting AoEs appears around Galura. Deals moderate damage, but AoEs can stack. Melees to dodge as required.
+Rush: Galura will tether an off-aggro target and channel a straight line charge. Marked players should distances themselves from Galura to reduce damage taken, indicated when the tether turns from spiky pink to purple. Other players should move out of Galura's path.
+War Cry: Occurs immediately after Rush, dealing partywide damage, followed by Earthquake, dealing partywide damage and stunning all players. Animals marked with a '!' symbol in the pen will begin charging up their AoE attacks. The type of animal determines the type of attack that will occur. Galura does this three times in his fight.
+Ram: Straight line AoE. Appears in all 3 phases.
+Coeurl: Large frontal cone AoE. Appears after the second time Rush is used.
+Kukurul: Small circle AoE. Appears after the third time Rush is used.
+
+Bardam
+This is a non-combat boss fight. Phases are composed of various mechanics players will have to successfully complete or dodge. Players who fail twice during any phase will receive a fetters debuff until the end of the phase. Debuffs will be cleansed at the end of each phase. At least one player must survive the mechanics to proceed to the next phase. If all players fail the mechanics, you'll be forced to repeat the fight. Note that using Duty Support, if the player character fails, the fight will reset regardless of the status of the NPCs.
+
+Phase 1
+Magnetism: Pulls all players towards the center of the room.
+Travail (shockwave): Occurs immediately after Magnetism. A circle AoE will appear in the center, followed by a circle AoE covering the remainder of the outer arena. Stand just outside the inner AoE facing away from the Hunter of Bardam. Wait for the inner AoE to cast, then immediately walk backwards to avoid the outer AoE.
+Spear charge: Spears appear along to edge of the map and fire off AoEs that makes the map a chessboard of safe zones.
+Empty gaze: Empty Gaze will charge while Travail and Spear charges are running. Turn away to dodge it.
+
+Phase 2
+Travail (lightning): Lightning attack on the whole party. Stand on prism towers to dodge the attack.
+Travail (firestorm): All players are marked and rings of fire drops periodically over their heads. Rings will remain active for a few seconds after dropping. To prevent dropping your AOE onto an ally's escape path, everyone should spread out and run clockwise.
+Heavy strike: 270 degree front cone. Safe spot is behind the golem.
+Star fall: Spawns 4 large circular AoEs that leaves behind Star shards to be used in the next phase. Safe spots include the center and the outer edge of the arena.
+
+Phase 3
+Looming Shadow: Meteor attack with an extremely long cast time. Hide behind Star shard to dodge.
+Travial (summon warriors): Breaks the East and West star shards.
+Magnetism + Spear charge + Heavy Strike + Shockwave combo: The floor is lava. Find safe spot. Will destroy one of the two remaining star shards. After these attacks, the meteor will land. Hide behind the last star shard.
+
+Yol
+Phase 1
+Feathercut: Frontal cleave tank-buster.
+Wind Unbound: Group-wide AoE. Spawns a number of orbs around the outer edge of the arena. Orbs will periodically fire line AoEs.
+Flutterfall: Marks all players with orange markers. Players need to spread to avoid overlapping splash damage.
+Eye of the Fierce: Gaze attack that causes Confusion. Look away to avoid status infliction.
+At the end of this phase, Yol will retreat and spawn a Corpsecleaner Eagle. Once the first is killed, Yol will spawn one more and after killing it Yol will return to the arena. During this time, Yol will periodically appear the edge of the arena, performing line AoE attacks with no markers. Move out from in front of Yol when it appears to avoid damage.
+
+Phase 2
+Wingbeat: Marks a player with a green marker. The marked player will be knocked to the outer edge of the arena. Get back to the center of the arena to avoid outer AoEs.
+At the start of this phase, Yol's wings will become targetable and Yol will become untargetable. Players must kill both wings to proceed. During this time, Yol will spawn three circular AoEs that will rotate clock-wise around the outer edge of the arena. Players should stay close to the center to avoid these. Once Yol's wings are shattered, the fight's mechanics will repeat until Yol is defeated.
+
+Note: This phase can be entirely skipped with a well-timed Limit Break just before Yol starts his second phase. Yol's retreats are usually pre-faced with a cast of Wind Unbound, with the first retreat (which turns into the Phase 2 retreat if Yol's HP is below a certain threshold) occurring 2 mechanics after Eye of the Fierce (Eye of the Fierce → Flutterfall → Wind Unbound). Yol will forcefully retreat without using Wind Unbound if its HP is too low (at about 6% HP left).
+</strategy_text>

@@ -1,0 +1,64 @@
+<cleaned_strategy_text>
+Nael Deus Darnus
+
+Phase 1: 100%-65%
+Ravensclaw: Hard-hitting tankbuster on the main enmity target. Use cooldowns to mitigate.
+Ravensbeak: Tankbuster on the highest level enmity target. Players hit by this are debuffed with Raven Blight, which explodes on its resolution, dealing damage to the inflicted player and splash damage to anyone nearby.
+Stardust: A random player is targeted with a marker over their head. Shortly after, a comet will drop where the player is standing, and deals proximity damage. Players must be careful not to drop these meteors too close to each other, or they will explode and wipe the raid.
+Iron Chariot: The boss will perform Raven Dive on a random ranged DPS player, then use an AoE knockback, sending players nearby into the wall, causing death. Players can use a knockback skill to resist this.
+Thermonic Beam: A player is marked and is dealt massive damage. Players must stack with this marked player to split the damage, or the marked player will not survive.
+Lunar Dynamo: A donut AoE. Players must stand under the boss or out of range of this attack, as the boss recovers HP for damage dealt from this attack.
+Meteor Stream: Four random players are marked. Shortly afterwards, clones of the boss will drop on them and deal medium damage.
+Raven Dive: Performed before and after Iron Chariot. The boss will jump to a random ranged player, perform Iron Chariot, then jump back to the main tank.
+Dalamud Dive: After Meteor Stream, the boss will return and deal high damage to a tank.
+These mechanics will repeat until the boss is reduced to 65% HP.
+
+Phase 2
+During this phase, the boss will not be targetable. The boss will summon ads that must be dealt with appropriately. The boss will jump to the center of the arena and put up a shield, then three random players will be marked with green stone markers, with meteors dropped on them soon after. Players must drop these meteors around the arena in order to handle mechanics later. A common strategy is to drop one on each of the circles around the center of the arena. The boss will drop three meteors that will turn into Dalamud Spawn:
+
+Red Dalamud Spawn:
+Earthen Heart: Deals high damage on all players hit by the AoE and drops a blue puddle on the ground. Players who stand in this puddle will receive a Burns damage over time debuff that deals 1000 damage per tick.
+Heavy Strike: Deals heavy damage in an AoE that has a small safe zone.
+
+Blue Dalamud Spawn:
+Magnetism: Pulls in any players, ads or comets with in a small radius.
+Earthshock: high raid-wide damage and Paralysis on all players. This attack must be interrupted.
+
+Green Dalamud Spawn:
+Demolish: Deals high raid-wide damage.
+Stone skull: A high-damage tankbuster.
+Boulder Clap: A cleave from the front of the ad's hitbox, deals high damage.
+
+Players need to 'feed' the boulders to the ads by bringing them near the comets, but a golem can only be fed three comets, or it will grow in size and wipe the raid. The red comets give a Damage Up buff, and the yellow comets give Haste. These buffs can stack. If these ads are brought too close to one another, they will tether, one will eat the other and grow large, wiping the raid.
+
+About a minute after the ads spawn, the phase repeats and needs to be handled the same way. Another minute after this, the boss will begin counting down before it casts Megaflare. This attack will deal high damage to the party. If any comets remain on the field, they will explode and wipe the raid. If two or more golems still remain, they will fuse and wipe the raid. The arena will transform and the boss will jump into the air.
+
+Phase 3: 65%-47%
+Dalamud Dive: This is the same attack from the first phase.
+Heavensfall: A large pillar will slam into the center of the arena and knock players back. If a player is under the tower when it drops, they die. The pillar will pulse out AoEs that go to the edge of the arena. If a player is hit by this, it will deal significant damage and debuff with Paralysis.
+Supernova: Two random players will be targeted and hit by a black hole, which persist after casting. Players who step into these are dealt high damage and inflicted with the Heavy debuff.
+Bahamut's Claw: Hits the main target twice in a row for medium damage.
+Binding Coil: Deals a small amount of damage and debuffs with Garrote Twist, which applies stacks of Garrote. This debuff will immediately kill the player at 9 stacks.
+
+After the first Heavensfall, a Ghost of Meracydia will spawn. The off tank needs to grab this ad, and it should be burned down quickly.
+Deadly Drive: Heavy-hitting tankbuster.
+Binding Chain: The ad will tether two random players together and begin applying stacks of Garrote. If the attack finishes casting, the tethered players will die.
+The ad can also drop fire puddles, so players need to be sure to not stand in them.
+
+Phase 4: 47%-0%
+Once the boss reaches 47%, it will summon ads outside of the arena, and combine attacks from the first phase. Some attacks mechanics have also changed:
+Bahamut's Favor: Buffs the boss with a stacking Damage Up buff.
+Bahamut's Claw: This attack now hits 5 times in a row.
+Supernova: This attack now targets any player, including the main tank.
+Lunar Dynamo now pairs with Raven Dive instead of Iron Chariot.
+Dalamud Dive Unchanged from the first phase but is paired now with Meteor Stream.
+The boss only uses Iron Chariot on the main tank instead of a random player.
+
+The ads on the edge of the arena will occasionally fire attacks at randomly selected players, adding additional mechanics to the phase:
+Chain Lightning: A random player is targeted and deals a small amount of damage and debuffs with Thunderstruck. When this debuff resolves, it deals heavy damage to the player inflicted, as well as players close by in an AoE, and debuffs with Paralysis on anyone other than the originally debuffed player. This attack always fires Fireball.
+Fireball: A random player is targeted and an AoE drops on them, and debuffs the player with Scorched, which makes the next Fireball hit extremely hard. However, each player will be cycled through before hitting the same character again. The only way to remove this debuff is to be hit by Iceball.
+Iceball: A random player is attacked, debuffing the player with Frostbitten, which makes the next Iceball hit extremely hard. However, each player will be cycled through before hitting the same character again. The only way to remove this debuff is to be hit by Fireball.
+Cauterize: Two players are marked, and two dragons will drop on the first marked player, then another dragon will breathe fire on the second player in a wide frontal AoE, which everyone needs to be away from. To handle this, players need to move around the edge of the arena to drop these attacks away from the party.
+
+The boss will cycle through these attacks with the dragons firing attacks and debuffs in a set order as well until around 13 minutes and the boss enrages. When the boss enrages, players will have to kill the boss before the Megaflare cast finishes, or the party will be wiped.
+</cleaned_strategy_text>

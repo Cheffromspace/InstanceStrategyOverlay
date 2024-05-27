@@ -1,0 +1,31 @@
+<strategy_text>
+Minduruva
+Manusya Bio: Tankbuster. This attack also inflicts a high damage-over-time poison and should be removed immediately.
+Manusya Blizzard III: The boss will fire twelve narrow cones from the center of the boss's hitbox across the arena. Stand between the marked AoEs to avoid.
+Manuysa Fire III: A large donut AoE that can only be avoided by standing near the boss.
+Manusya Thunder III: The boss will fire several AoEs from the front, back, left, and right of its hitbox that move across the room to the edge of the arena. Move away from the boss or stand at a diagonal relative to the hitbox until the AoEs pass.
+Manusya Bio III: The boss will fire an AoE covering the entire room except the area between the boss and the nearest wall. Move to the unmarked side to avoid.
+The boss will also use singular versions of these spells as heavy-hitting attacks on the tank.
+The boss will also use Transmute versions of the spell, marking a location and firing an orb towards it. Once the orb reaches the marker, it will fire the Transmuted spell from that location. The first spell is always Transmute Blizzard III. Minduruva will also fire a Manusya Bio III at the same time, so stand on the safe side of the boss and between the cones fired from the spell marker.
+Dhrupad: Targets all non-tank players and inflicts them with a damage-over-time debuff. This will be used after every Transmute spell cast.
+The boss will then cast various spells while also Transmuting spells to markers. Make sure to watch what spell is being Transmuted and when it is going to fire and move accordingly. Repeat this until the boss is defeated.
+
+Sanduruva
+Isitva Siddhi: Tankbuster.
+Prapti Siddhi: The boss fires a large line AoE at each player one at a time. Move out of the AoE marker to avoid.
+Manusya Berserk: Five orbs will appear around the room, and once the boss finishes casting, they will explode in very large AoE circles. If a player is hit by the explosion (and survives), they will take heavy damage and receive the Berserk debuff, losing control of their character and attacking the boss wildly, getting hit by the Prakamya Siddhi cast immediately afterwards by the boss. There will be a gap in the ring of orbs, move to the gap, and then all the way against the wall directly behind that gap to avoid the attack.
+Prakamya Siddhi: A point-blank AoE that deals heavy damage to any players hit. Move out to avoid.
+Manusya Stop: The boss will teleport to the center of the arena and cast this spell. Players will be afflicted by a debuff that freezing them in place upon expiration. Players will be frozen one at a time, in succession. Once a player is stopped, the boss will cast a an unavoidable Prapti Siddhi line attack on that player, after which the player is unfrozen. Players should spread out around the boss to avoid taking excess damage. Heal through each hit.
+Manusya Confuse: The boss will leap from the arena, then drop down with five orbs disguised as the boss. After a set amount of time, the orbs drop their disguise and explode very quickly thereafter, inflicting Berserk. Only one of the bosses is the real boss, and marks the safe zone in the room. Players can determine the real boss by looking to see which one is not performing an emote (DoTs and debuffs also persist on the real boss, but not the clones). Once the true boss has been determined, run to the wall behind it until after the explosion, exactly like with Manusya Berserk. These mechanics will repeat until the boss is defeated.
+
+Harbingers Elect: Cinduruva/The Magus Sisters
+The fight will begin with only Cinduruva present, but the other bosses from earlier in the dungeon will soon join.
+Samsara: An unavoidable room-wide AoE attack. Mitigate and heal through.
+After the first attack, the other sisters will join and cast Delta Attack. Minduruva casts the actual spell, Sanduruva casts Manusya Faith, buffing the attack and altering it slightly, as well as causing large line AoEs to fire across the room, and Cinduruva casts Manusya Reflect causing the spell to fire from the hitboxes of all three sisters.
+Delta Attack: This spell can be either a variant of Manusya Blizzard III, Manusya Fire III or Manusya Thunder III. Which spell is coming out can be determined by the text box that appears on screen:
+"Glacial ice, entomb our foes!"- Blizzard III. Move between all the various firing narrow cone AoEs, making sure to also watch out for proximity markers that will drop large glaciers on the arena.
+"Thunderous tempest, smite our foes!"- Thunder III. Each boss will have the cross-pattern of Thunder AoEs firing from each of them. Be cautious, as the AoEs vary in size. Line AoEs will also fire across the arena, and a player will receive a stack marker that requires all players to stack to mitigate damage.
+"Insatiable flame, consume our foes!"- Fire III. Players will need to stand in two donut AoEs that appear in succession around the arena while also dodging massive line AoEs. The first donut safe zone is always the very center of the room, which will have a line AoE telegraph entirely cover it after the donut AoE goes off, so be ready to move. Players will also be marked with AoEs that will require them to spread out to avoid overlapping. Note that the player AoEs explode a few seconds after the second donut AoE, so stack in the safe zone, then spread immediately afterwards for the AoE markers.
+Between each Delta Attack, the bosses will use their various skills on the players. It is important to avoid any line AoEs from Sanduruva while also cleansing any debuffs from Minduruva, as Cinduruva will cast another Samsara and deal high damage. This sequence can lead to high damage, so be sure to mitigate and heal through as needed.
+Defeat Cinduruva first, as she will revive her fallen sisters. After Cinduruva falls, there will be no more Delta Attacks, and the bosses will simply use the mechanics they used between each Delta Attack. Defeat each boss to complete the dungeon.
+</strategy_text>

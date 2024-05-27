@@ -1,0 +1,29 @@
+<span class="boss">Myrmidon Princess</span>:
+- <span class="ability">Mandible Bite</span>: 📐 Frontal cone AoE
+- <span class="ability">Silence</span>: 🚫 Silences a party member
+- <span class="ability">Haste</span>: 🌟 Buffs adds' attack speed
+- <span class="mechanic">At 50%, summons adds</span>:
+  - <span class="mechanic">Myrmidon Marshal</span>: 🎯 Kill first, has 🩹 healing buff for boss
+  - <span class="mechanic">Myrmidon Guard</span>: 🎯 Kill second, has 📐 frontal AoE
+  - <span class="mechanic">Myrmidon Soldier</span>: 🎯 Kill last, basic attacks only
+
+<span class="boss">Giant Tunnel Worm</span>:
+- <span class="ability">Sandstorm</span>: Instant frontal attack
+- <span class="ability">Sand Cyclone</span>: 🎯 Targets random player, 🤢 DoT debuff
+- <span class="ability">Sand Pillar</span>: 💥 Damages players on sand traps when burrowed
+- <span class="ability">Earthbreak</span>: 💥 Emerges from ground, heavy damage near impact
+- <span class="ability">Bottomless Desert</span>: 🌪️ Pulls players to center, then emerges
+- <span class="ability">Sludge</span>: 🎯 Single-target 🤢 heavy DoT, remove ASAP
+- <span class="mechanic">🏃<>🏃 Spread out when worm burrows to avoid AoEs</span>
+
+<span class="boss">Chimera</span>:
+- <span class="ability">Lion's Breath</span>: 📐 Frontal cone cleave
+- <span class="ability">Ram's Breath</span>: 🥶 Right-side cone, inflicts Heavy
+- <span class="ability">Dragon's Breath</span>: ⚡ Left-side cone, inflicts Paralysis
+- <span class="mechanic">At 75%</span>:
+  - <span class="ability">Dragon's Voice</span>: 🟣 Eyes glow violet, 🏃 move close to avoid ⚡ AoE + Paralysis
+  - <span class="ability">Ram's Voice</span>: 🔵 Eyes glow blue, 🏃 move away to avoid 🥶 AoE + Heavy
+- <span class="ability">Cacophony</span>: 🎯 Targets player with 💥 exploding orb, 🏃 move away
+- <span class="ability">Ram's Keeper</span>: 🎯 Targets player with 🥶 ice orb, inflicts Deep Freeze
+
+<span class="note">💡 Most attacks inflict Paralysis, use Esuna to cleanse. Low HP players be cautious!</span>

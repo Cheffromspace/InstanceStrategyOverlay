@@ -1,0 +1,46 @@
+<strategy_text>
+Duty Support
+Party member selection is available.
+
+Objectives
+Meet the sixth end: 0/1
+Leave the sixth end behind: 0/1
+Meet the eighth end: 0/1
+Leave the eighth end behind: 0/1
+Meet the seventeenth end: 0/1
+Leave the seventeenth end behind: 0/1
+
+Bosses
+Dungeon Guide by MTQcapture
+If you are entering the dungeon for the first time, please make sure you have received your Artifact Armor for Endwalker. It is level 89 item level 560 CBluegear with IL sync.
+
+Players should be aware that stepping in any of the puddles on the ground in the Pestilent Sands or the Grebuloff Pillars will debuff them with a potent poison Damage over Time debuff called Toxicosis, which deals about 10,000 damage per second until they step out.
+
+Note that failing any mechanics in these fights will result in the player who failed them receiving a two minute stacking Vulnerability Up debuff.
+
+Caustic Grebuloff
+Miasmata: Roomwide AoE that additionally spawns AoE circles around the arena. These AoEs will move across the arena in the direction of the wind, so players must position themselves to avoid them. If hit, a player will receive the Necrosis debuff, which must be cleansed with Esuna or The Warden's Paean, or it will kill them if the debuff timer expires.
+Cough Up: Drops 3 sets of AoEs on each player, spread apart to avoid overlapping. After the AoE circles players will receive a red arrow above their head and the Craven Companionship debuff. Players must be stacked when the debuff timer expires or they will be inflicted with Hysteria for several seconds.
+Wave of Nausea: A telegraphed donut AoE around the boss. Being hit will inflict Necrosis.
+Pox Flail: Tankbuster.
+Blighted Water: Stack marker.
+Befoulment: Targeted AoE circles, spread to avoid overlap.
+
+Peacekeeper
+Decimation: Raid-wide AoE that also covers the outer part of the arena in fire. Contacting it will inflict Burns, dealing damage-over-time.
+Electromagnetic Repellant: The boss summons a field that fills its hitbox, that debuffs players with Electrocution and deals damage as long as they stand in it.
+Order To Fire: Spawns a number of turrets around the boss, which then shoot line AoEs directly outward from the boss. The line AoEs converge at the edge of the boss's hitbox, leaving narrow cone safe-zones between the line AoEs between the boss's hitbox and the edge of the arena. Usually combined with a targeted AoE, so spread to avoid overlapping.
+No Future: Spawns a pattern of targeting circles, which will hit every area of the arena at some point. Stand in areas that don't yet have targeting circles, or ones that spawned later, then move into ones that just exploded. This attack has two patterns: the AoEs will spawn under the boss and move outwards, or will start from outside the arena and move inwards. The hitbox under the boss is never a safe zone, so players should avoid standing there. If the AoEs spawn from the edge inward, players can identify the safe space and move into it. If they spawn from the center of the arena, players can stand at the point where the AoEs overlap, as the next ones to spawn will spawn outward from the first and not be touching. The attack will fire two sets of circles on the first time, and three sets per cast from the second cast onward. Each successive cast is rotated such that the areas that were initially safe in the prior cast are now targeting circles, requiring players to adjust their positioning.
+Peacefire: Spawns AoEs that will keep rotating around the boss, avoid by rotating with the AoEs. Always cast alongside Electromagnetic Repellant, forcing players to stand in the area the circles rotate through. This can be cast alongside Order To Fire, requiring the players to find a position ahead of the rotating AoEs and within the narrow cone safe zones.
+Eclipsing Exhaust: Spawns AoE circles around the edges, with several gaps between them, then triggers a telegraphed knockback from the center of the room. Get knocked into a gap.
+Elimination: Tankbuster. The boss fires a wide beam that will hit other players if they are too close, almost certainly killing them.
+
+The Last Mercy: Ra-la
+Warm Glow: Raid-wide AoE.
+Pity: Tankbuster.
+Prance: Boss jumps 4 times, dealing no damage, but dropping golden circular zones that will grow, then explode in the order they were spawned in. Move into one of the last two circles, then move into where the first circle was after it explodes.
+Lifesbreath: The boss jumps to the edge of the arena, then shoots a line AoEs through the middle. After the line AoE, a line of butterflies will spawn in the same location, facing one half of the arena in alternating pairs. (⬆⬆⬇⬇⬆⬆⬇⬇ etc...) After a short delay, the butterflies will fire a line AoE (Lamellar Light) in the direction they are facing. Players must position themselves behind a butterfly to avoid the attack. Note that you can move through the line of butterflies before they fire. If hit by the butterflies players will receive Doom and must be healed up to full health to recover, or they will die. The second cast of this is accompanied by Loving Embrace, making one half of the arena unsafe to stand on. Loving Embrace fires off slightly after the butterflies' attack, allowing melee DPS to swap sides if necessary.
+Benevolence: Stack marker.
+Loving Embrace: The boss will raise a glowing wing, then cleave that entire side of the stage from the middle of its hitbox outwards. Move to the other side to avoid.
+Still Embrace: Targeted AoE circles, spread to avoid overlapping.
+</strategy_text>

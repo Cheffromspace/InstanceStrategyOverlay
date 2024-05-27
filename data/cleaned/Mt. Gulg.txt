@@ -1,0 +1,35 @@
+<strategy_text>
+Objectives
+Arrive on the Perished Path.
+Clear the Perished Path.
+Arrive at the White Gate.
+Clear the White Gate.
+Arrive at the Winding Flare.
+Defeat the forgiven obscenity.
+
+Bosses
+Forgiven Cruelty
+Rake: Tankbuster
+Lumen Infinitum: Frontal line AOE attach with no ground marker, move away from boss' face when he starts to cast
+Cyclone Wing: Room-wide AOE
+Typhoon Wing: Don't stand in front of green orbs around boss to avoid triangular AOE attack
+Typoon Wing: Further into the fight he will add aether current-looking AOE puddles as well as his orbs around him - dodge both to avoid damage
+
+Forgiven Whimsy
+Sacrament of Penance: Room-wide AOE
+Catechism: Tankbuster
+Judgement Day: 2 meteor puddle - 1 person will be enough to soak damage
+Exegesis: The boss's face is a map of the platform, with the bottom corresponding to the front of the platform (toward the boss). Stand on a square without a face.
+Shiny Orbs: Occurs same time as Exegesis and spawns large donut AOEs on the ground - avoid both for no damage
+
+Consort of Sin: Forgiven Obscenity
+Orison Fortissimo: Room-wide AOE
+Divine Diminuendo: Puddle AOE around boss, after 1st time, 2 more AOE rings around the boss will occur quickly and with little time to spare to dodge
+Conviction Marcato: Avoid the large yellow discs surrounding the boss as they will cast a line AOE from each
+Penance Pianissimo: Tightens the map into a circle
+Feather marionette: Makes 4 copies of herself around the room
+All 4 copies and the boss will cast another Divine Diminuendo - one of the copies will have a ring around them head to this copy and stay close to avoid damage
+The position of the copies and boss will then change and she will cast Conviction Marcato again - stay out of line AOEs from the copies and avoid her golden disc line AOEs too
+Solitaire Ring: Stand on the path of the last ring to spawn, wait for others to go off and then run out of the way of the last one to avoid
+Sacrament Sforzando: Tankbuster
+</strategy_text>

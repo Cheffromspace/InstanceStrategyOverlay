@@ -1,0 +1,16 @@
+<span class="boss">Bismarck</span>:<br>
+- Protect floating platform (wipes at 24% HP), avoid 💨 knockbacks off edge<br>
+- Use shield device when Bismarck dives to 🛡️ reduce platform damage<br>
+- Activate harpoons ASAP to chain Bismarck, attack 🎯 targetable chitin<br>
+- Stand on Bismarck to damage chitin, but inflicts 🤢 DoT debuff<br>
+<br>
+<span class="boss">Phase 2</span>:<br>
+- Kill 2 large adds quickly, 🏃<>🏃 keep them apart (defense buff when close)<br>
+- Avoid tornadoes and 💥 exploding bubbles<br>
+- Bismarck casts 💥 raid-wide AoE, returns to platform, shield breaks<br>
+<br>
+<span class="boss">Phase 3</span>:<br>
+- Similar to Phase 1, but with 4 adds and no shield<br>
+- ⚡ Thunder weather: killing Water Vapor adds 🎯 strikes random player<br>
+- ☔ Rain weather: kill Water Vapor adds or they gain 💪 Damage Up buff<br>
+- <span class="note">Stack for ⚡ lightning strikes to split damage</span><br>

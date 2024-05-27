@@ -1,0 +1,49 @@
+The Akh Afah Amphitheatre (Hard) is a level 50 trial introduced in patch 2.4.
+
+Guide
+
+Lady of Frost: Shiva
+
+It's worth noting that on Hard (instead of Extreme) mode her Icebrand during Sword & Shield cannot be soaked by the party and Shiva should simply be tank & spanked away from the party at all times. Also, the Damage Up buff will cap at 16 stacks, serving as a soft enrage, although this is almost never an issue.
+
+In her unarmed form, Shiva's auto attacks will hit in a small cleave so she should be faced away from the party.
+
+Phase 1
+
+- Dreams of Ice: Shiva occasionally uses this action, gaining a permanent, stackable Damage Up buff.
+- Shiva will periodically switch between one of three stances (sword, staff, or unarmed) determining her attacks.
+
+Staff form:
+- Shiva's Frost Brand buff will slightly increase the damage she deals.
+- Hailstorm: Telegraphed circle AoEs on random players. Spread out to avoid overlap.
+- Absolute Zero (no cast bar): Untelegraphed party-wide damage.
+
+Shiva will return to her unarmed form:
+- Icicle Impact (no cast bar): Initially spawns five circle AoE telegraphs. Move to one of four safe spots that are 90 degrees from each other. Being hit will inflict a stack of Vulnerability Up.
+
+Sword form: 
+- Shiva's Frost Brand buff will reduce the damage she takes and give her slight healing-over-time.
+- Icebrand (no cast bar): An untelegraphed conal tankbuster immediately used after switching to this form. The main tank should use mitigation and ensure to face this away from the party.
+- Heavenly Strike (no cast bar): Untelegraphed minor knockback from the boss's current position. Can be prevented with Surecast or Arm's Length.
+- Glacier Bash: Frontal cone that will inflict heavy damage and Stun anyone hit. Move behind.
+
+Also note that failing any mechanic will debuff with a stacking Vulnerability Up.
+
+Phase 2
+
+- Shiva will go to the center of the arena and spawn four Ice Soldier adds. These should be picked up by the tanks, grouped together, and killed by the rest of the party. 
+- Shiva will still transition into staff or sword form and repeat the previous attacks. The party should be especially mindful not to be cleaved with Icebrand.
+- After the adds are killed or if enough time passes, Shiva will inflict Deep Freeze on everyone and use Diamond Dust, dealing party-wide damage. If any adds are still alive before Shiva disappears, the party will be wiped instead.
+
+Phase 3
+
+- From here on, touching the edge of the arena will freeze the player into a boulder. Frozen player can be freed after party members kill the boulder.
+- Shiva will continue transitioning between unarmed, staff, and sword forms and has all of her previous attacks. In addition, she will use two new attacks:
+- Icicle Impact (version 2, no cast bar): Nine circle AoEs will sequentially appear covering the middle and the outside of the arena. Start in the last AoE telegraph and dodge into the first one after it resolves. Being hit will inflict a stack of Vulnerability Up.
+- Permafrost: Shiva temporarily freezes the floor, giving everyone Thin Ice, causing to slide a long distance if they move. Players should remain still when the floor is frozen to avoid sliding into the wall. After each Permafrost, Shiva will use Dreams of Ice and gain another stack of Damage Up.
+
+Loot
+
+- 15 Allagan Tomestone of Poetics
+- Shiva Card (Drops at a fixed rate.)
+- Ice Tear (Drops directly from boss, must be synced)

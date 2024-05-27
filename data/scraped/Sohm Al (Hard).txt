@@ -1,0 +1,38 @@
+Here is the cleaned up strategy guide for the Sohm Al (Hard) dungeon in Final Fantasy 14:
+
+Sohm Al (Hard) is a level 60 dungeon introduced in patch 3.5 with Heavensward. 
+
+Objectives:
+Arrive at the Wound. 
+Defeat The Leightonward. 
+Arrive in the Fever. 
+Defeat Gowrow. 
+Clear the Heart. 
+Defeat the lava scorpion. 
+
+Bosses:
+
+The Leightonward
+- Wild Horn: Mini tankbuster.
+- Inflamable Fumes: Raidwide damage.
+- Spore Sac: Spawns many untargetable small spore sacs, which each explode in an AoE after a while. After the first cast, each successive cast spawns an additional bigger spore sac, which explodes in a proximity AoE. 
+- Excretion: Damages a target and inflicts 30s of Heavy.
+
+Gowrow
+This boss incorporates standard cyclops and diresaur mechanics. It uses telegraphed attacks with invisible castbars. 
+- Volcanic Howl: Raidwide damage. The boss gains temporary Damage Up.
+- Ripper Claw: Dodgeable cleave. When the boss is buffed, also spawns a tornado where the MT was.
+- Tail Smash/Swing: Dodgeable backwards cleave with knockback. When buffed, becomes a melee-range circular cleave instead.
+- Fireball/Lava Flow: Faces a target and does an AoE/cone attack there. 
+- Wild/Hot Charge: Charges a target in a line AoE with knockback. Hot Charge has massive knockback.
+Most attacks inflict uncleansable Infirmity debuff.
+
+Lava Scorpion
+- Molten Silk: 270° telegraphed close range cleave. Safe zone is directly behind.
+- Deadly Thrust: Very high damage attack on primary target.
+- Hiss: Summons 2-4 Scorpions which should be killed.
+- Realm Shaker: Short range circular AoE around boss.
+- Flying Press: Marks a party member for a moderate attack with splash damage. Creates lava puddles.
+Lava puddles do high damage. Scorpion adds also create puddles and must be killed before Borehole cast finishes. Beware Deadly Thrust combined with add damage.
+
+The dungeon has various loot drops including Filibuster gear and accessories. There are also additional treasure coffers throughout containing more loot. Completing the dungeon is associated with the "Remapping the Realm: Sohm Al" achievement.

@@ -1,0 +1,10 @@
+<span class="boss">Ramuh</span>:<br>
+- <span class="ability">Shock Strike</span>: 🛡️ Untelegraphed tankbuster, avoid main tank<br>
+- <span class="ability">Thunderspark</span>: 💥 AoE centered on Ramuh, <span class="mechanic">🏃 stand at max melee range</span><br>
+- <span class="ability">Thunderstorm</span>: <span class="mechanic">🎯 Marked players/ground AoEs</span>, breaks <span class="ability">Chaotic Strike</span><br>
+- <span class="mechanic">Lightning Orbs</span>: More orbs = higher dmg, 3 touches = 🌟 Surge Protection<br>
+- <span class="ability">Chaotic Strike</span>: 🎯 Random player, 60s Terror, <span class="mechanic">break with Thunderstorm/Thunderspark</span><br>
+- <span class="ability">Grey Arbiters</span>: <span class="mechanic">👾 Kill adds ASAP</span>, dodge ➡️⬅️ line AoEs<br>
+- <span class="ability">Judgment Bolt</span>: Ramuh's ultimate, <span class="mechanic">wipes if Arbiters alive</span><br>
+- <span class="ability">Rolling Thunder</span>: 🔗 Tethers 2 players, <span class="mechanic">touch 3 orbs for 🌟 Surge Protection to cancel</span><br>
+<span class="note">Leave at least 3 Lightning Orbs for Rolling Thunder dispel.</span>

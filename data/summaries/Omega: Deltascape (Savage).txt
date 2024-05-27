@@ -1,0 +1,14 @@
+<span class="note">Omega: Deltascape (Savage)</span>:
+- Main 8-player raid in Stormblood, released on July 18, 2017
+- Requires item level 310+ to enter
+- Access via Duty Finder → Raids → Savage Raids (Stormblood)
+- Can enter solo or with <8 players using Unrestricted Party
+- Unlock: Complete quest "The Anomaly", then interact with Magitek Terminal in Rhalgr's Reach (x13.5, y12.4)
+
+<span class="note">Floors</span>:
+- Deltascape V1.0 (Savage): Boss <span class="boss">Alte Roite</span>
+- Deltascape V2.0 (Savage): Boss <span class="boss">Catastrophe</span>
+- Deltascape V3.0 (Savage): Boss <span class="boss">Halicarnassus</span>  
+- Deltascape V4.0 (Savage): Bosses <span class="boss">Exdeath</span>, <span class="boss">Neo Exdeath</span>
+
+<span class="note">Item level restrictions do not apply for full/unrestricted parties.</span>

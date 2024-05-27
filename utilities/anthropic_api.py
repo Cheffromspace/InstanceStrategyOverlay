@@ -51,6 +51,9 @@ def extract_response_text(response, expected_tag, include_tag=True):
         if error_message:
             logger.error(f"Error in API response: {error_message}")
             print(f"Error in API response: {error_message}", file=sys.stderr)
+            import traceback
+
+            traceback.print_exc()
         else:
             logger.error(
                 f"Expected tag <{expected_tag}> not found in the API response. \n Response: [{response}]"
