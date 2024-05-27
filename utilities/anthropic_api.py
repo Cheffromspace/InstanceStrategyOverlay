@@ -1,4 +1,8 @@
 import anthropic
+import sys
+from logging_config import configure_logging
+
+logger = configure_logging()
 
 
 def call_anthropic_api(
@@ -11,7 +15,7 @@ def call_anthropic_api(
     client = anthropic.Anthropic()
     message = client.messages.create(
         model=model,
-        max_tokens=4000,
+        max_tokens=4096,
         temperature=0,
         system=system_prompt,
         messages=[
@@ -45,10 +49,15 @@ def extract_response_text(response, expected_tag, include_tag=True):
     else:
         error_message = extract_error_message(response)
         if error_message:
-            raise ValueError(f"Error in API response: {error_message}")
+            logger.error(f"Error in API response: {error_message}")
+            print(f"Error in API response: {error_message}", file=sys.stderr)
         else:
-            raise ValueError(
-                f"Expected tags <{expected_tag}> not found in the API response."
+            logger.error(
+                f"Expected tag <{expected_tag}> not found in the API response. \n Response: [{response}]"
+            )
+            print(
+                f"Expected tag <{expected_tag}> not found in the API response. \n Response: [{response}]",
+                file=sys.stderr,
             )
 
 

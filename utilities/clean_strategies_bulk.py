@@ -14,7 +14,10 @@ for strategy in strategies:
     strategy = strategy.strip()
 
     # call the clean_strategy function for each strategy
-    clean_strategy_text(
-        output_file=f"./data/cleaned_scraped/{strategy}.txt",
-        input_file=f"./data/fetched_strategies/{strategy}.txt",
-    )
+    try:
+        clean_strategy_text(
+            strategy_text=strategy,
+            input_file=f"./data/fetched_strategies/{strategy}.txt",
+        )
+    except Exception as e:
+        print(f"Error cleaning strategy {strategy}: {e}")
