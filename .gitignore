@@ -2,3 +2,7 @@ notes.md
 __pycache__/
 *.pyc
 logs/
+data/fetched/
+data/cleaned/
+data/instances/
+data/transcripts

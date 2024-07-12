@@ -8,7 +8,7 @@
       body {
         background-color: rgba(28, 28, 28, 0.9);
         color: #ffffff;
-        font-family: Arial, sans-serif;
+        font-family: helvetica, sans-serif;
         margin: 0;
         padding: 0;
         height: 100%;
@@ -66,6 +66,15 @@
         color: #00ffff;
       }
 
+      .strategy {
+        font-style: italic;
+        color: #00ffff;
+      }
+
+      .description {
+        color: #ff4da6;
+      }
+
       .note {
         font-weight: bold;
         color: #ffffff;
@@ -76,7 +85,12 @@
         color: #ff5b5b;
       }
 
-      .aoe {
+      /* .aoe { */
+      /*   font-weight: bold; */
+      /*   color: #ff5b5b; */
+      /* } */
+
+      .raidwide {
         font-weight: bold;
         color: #ff5b5b;
       }
@@ -106,6 +120,31 @@
           `<p class="error">${message}</p>`;
       }
 
+      // Function to send a message to the Discord webhook
+      function sendDiscordMessage(message) {
+        const webhookUrl =
+          "https://discord.com/api/webhooks/1249102817939947620/rq-RovQC8p4EukcTB0AnXPetp1Hpk-5jZpY0vqWs2HGYhvFl3TqAUo5EVYelLc7uH16Z"; // Replace with your actual webhook URL
+
+        const payload = {
+          content: message,
+        };
+
+        fetch(webhookUrl, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify(payload),
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error("Failed to send message to Discord webhook");
+            }
+          })
+          .catch((error) => {
+            console.error("Error sending message to Discord webhook:", error);
+          });
+      }
       // Subscribe to the 'LogLine' event
       addOverlayListener("LogLine", (data) => {
         const logLine = data.rawLine;
@@ -122,7 +161,7 @@
             sanitizedInstanceName;
           document.getElementById("strategyText").innerText =
             "Fetching instance strategy for " + sanitizedInstanceName + "...";
-
+            
           // Send a request to the server to fetch the instance strategy
           fetch(
             `https://781soye6r1.execute-api.us-east-2.amazonaws.com/instanceStrategy/?file=${encodeURIComponent(sanitizedInstanceName)}`,
@@ -141,6 +180,18 @@
                 "Failed to fetch instance strategy. Please try again later.",
               );
             });
+        }
+        // Check if the log line starts with "Duty pop:"
+        if (logLine.includes("Duty pop:")) {
+          // Extract the duty name from the log line
+          //const dutyName = logLine.replace("Duty pop: ", "");
+          const dutyName = logLine.match(/^(?:[^|]*\|){4}([^|]*).*$/)[1];
+          // Sanitize the duty name before using it
+          const sanitizedDutyName = sanitizeInput(dutyName);
+          const japharUserId = "56219694616543232";
+
+          // Send a message to the Discord webhook
+          sendDiscordMessage(`<@${japharUserId}> ${sanitizedDutyName}`);
         }
       });
 
