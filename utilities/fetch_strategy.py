@@ -6,6 +6,20 @@ from bs4 import BeautifulSoup
 
 
 def fetch_strategy(instance_name, output_file=None):
+    """
+    Fetches the strategy text for a given FFXIV instance from consolegameswiki.com.
+
+    Args:
+        instance_name (str): The name of the FFXIV instance.
+        output_file (str, optional): The path to the output file where the fetched strategy text will be saved.
+
+    Returns:
+        str: The fetched strategy text.
+
+    Raises:
+        requests.exceptions.RequestException: If there is an error fetching the strategy text from the website.
+        IOError: If there is an error saving the strategy text to the output file.
+    """
     encoded_instance_name = urllib.parse.quote(instance_name)
     url = f"https://ffxiv.consolegameswiki.com/wiki/{encoded_instance_name}"
     print(f"Fetching from {url}", file=sys.stderr)
@@ -42,7 +56,10 @@ if __name__ == "__main__":
     )
     parser.add_argument("instance_name", nargs="?", help="Name of the FFXIV instance")
     parser.add_argument(
-        "-o", "--output_file", type=str, help="Path to save the strategy text"
+        "-o",
+        "--output_file",
+        type=str,
+        help="Output path to save the cleaned strategy text. If not provided, the cleaned strategy text will be printed to stdout.",
     )
     args = parser.parse_args()
 

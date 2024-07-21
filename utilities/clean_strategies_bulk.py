@@ -17,7 +17,7 @@ for strategy in strategies:
     try:
         clean_strategy_text(
             strategy_text=strategy,
-            input_file=f"./data/fetched_strategies/{strategy}.txt",
+            input_file=f"./data/fetched/{strategy}.txt",
         )
     except Exception as e:
         print(f"Error cleaning strategy {strategy}: {e}")

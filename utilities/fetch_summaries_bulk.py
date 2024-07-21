@@ -14,4 +14,4 @@ for strategy in strategies:
     strategy = strategy.strip()
 
     # call the fetch_strategy function for each strategy
-    fetch_strategy(strategy, f"./data/fetched_strategies/{strategy}.txt")
+    fetch_strategy(strategy, f"./data/fetched/{strategy}.txt")
